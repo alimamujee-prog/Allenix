@@ -238,8 +238,8 @@ Contents:
 The email capture form:
 - Single field: email address
 - Submit button: "Subscribe"
-- No backend yet. Placeholder form action.
-- Success state: A brief confirmation message inline
+- Backend: Vercel KV (see Newsletter email storage section below)
+- Success state: inline "You are on the list." confirmation
 
 #### Section 5: CTA (Book a Call)
 
@@ -250,7 +250,7 @@ The conversion point. The most important section after the hero.
 Contents:
 - A headline that creates urgency or specificity (not "Contact Us")
 - 1-2 sentences about what happens when you book a call
-- Primary CTA button: "Book 30 minutes" → [placeholder calendar link]
+- Primary CTA button: "Book 30 minutes" → Calendly link (placeholder until Ali shares his Calendly URL)
 - Secondary option: email address (placeholder: ali@allenix.com)
 - No form. A calendar link is higher-conversion than a contact form.
 - Background: surface color (#f2f0eb) for visual emphasis
@@ -484,11 +484,47 @@ This audit reflects the **old dark-theme implementation**. The redesign to light
 
 | Item | Placeholder | Real value needed |
 |------|-------------|-------------------|
-| Book a Call link | `#book-a-call` | Calendar service URL (Calendly/SavvyCal/Cal.com) |
+| Book a Call link | `#book-a-call` | Ali's Calendly URL (e.g. calendly.com/ali-mamujee/30min) |
 | Contact email | `ali@allenix.com` | Confirmed email address |
-| Newsletter form action | Client-side only (no backend) | Newsletter service (ConvertKit/Resend/Buttondown) |
 | LinkedIn URL | `#linkedin` | Ali's LinkedIn profile URL |
 | Studios content links | `#` | Podcast, social media URLs |
+
+### Newsletter email storage: Vercel KV (free tier)
+
+Newsletter signups are stored in **Vercel KV**. No external newsletter service needed at this stage.
+
+**Setup:**
+1. Install: `npm install @vercel/kv`
+2. Create KV store in Vercel dashboard (free tier: 30K commands/day, 256MB storage)
+3. Environment variables auto-injected on deploy: `KV_URL`, `KV_REST_API_URL`, `KV_REST_API_TOKEN`, `KV_REST_API_READ_ONLY_TOKEN`
+
+**API route:**
+```
+POST /api/subscribe
+Body: { email: string }
+Response: { ok: true } | { error: string }
+```
+
+**Implementation:**
+- Store emails as `subscriber:<timestamp>` keys in a KV set called `subscribers`
+- Basic validation: must contain `@`, not empty
+- Deduplication: check if email exists before adding
+- Rate limiting: max 3 submissions per IP per hour (Vercel middleware or KV-based)
+- No double opt-in yet. Add when migrating to a real newsletter service later.
+- Success state: inline confirmation message "You are on the list."
+- Error state: inline error message, no alerts
+
+**Data model:**
+```typescript
+// KV key: set "subscribers"
+// KV command: SADD subscribers <email>
+// Check exists: SISMEMBER subscribers <email>
+```
+
+**Migration path** (when ready for a real newsletter service):
+- Export all emails from KV via a simple script
+- Import into ConvertKit, Resend, Buttondown, etc.
+- Swap the API route to call the new service instead
 
 ---
 
