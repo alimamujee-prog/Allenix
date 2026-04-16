@@ -26,11 +26,11 @@ The manifesto (`/manifesto`) is a separate editorial page that tells the foundin
 |-------|--------|
 | Framework | Next.js 14, App Router |
 | Language | TypeScript |
-| Styling | Tailwind CSS v3 + CSS custom properties + inline styles |
-| Animation | framer-motion (3D card tilt) |
-| Icons | lucide-react |
+| Styling | Tailwind CSS v3 + CSS custom properties |
+| Animation | CSS transitions only. No animation library. |
+| Icons | lucide-react (minimal, structural use only) |
 | Utilities | class-variance-authority, clsx, tailwind-merge |
-| Fonts | Google Fonts via next/font: Playfair Display, Libre Baskerville |
+| Fonts | Google Fonts via next/font: Playfair Display, Libre Baskerville, IBM Plex Mono |
 | Backend | None. Static site. |
 | Deploy | Vercel |
 | Live URL | https://allenix.vercel.app |
@@ -42,98 +42,119 @@ The manifesto (`/manifesto`) is a separate editorial page that tells the foundin
 
 ### Theme
 
-Dark. Background is near-black (#06080a). All surfaces are dark grays. Text is light. Accent is cyan.
+Light. Background is warm off-white (#faf9f6). All surfaces are warm neutrals. Text is dark. Accent is teal (#04CCBA). The palette is intentionally restrained: one accent hue, warm neutrals, high contrast.
+
+This is an editorial aesthetic. Think newspaper meets modern design studio. Warm paper surfaces, strong serif typography, restrained color. The site should feel like a well-printed broadsheet, not a dark-mode SaaS dashboard.
 
 ### Color palette
 
-Two parallel token systems exist. Tailwind classes are used in `className` props. CSS custom properties are used in inline styles (especially manifesto page and unit cards).
+**Single token system** — CSS custom properties are the source of truth. Tailwind classes reference these variables. No duplicated color definitions.
 
-**Tailwind classes** (defined in `tailwind.config.js`):
-
-| Token | Hex | Usage |
-|-------|-----|-------|
-| `bg-main` | `#06080a` | Page background |
-| `bg-card` | `#0d1117` | Card surfaces |
-| `border-col` | `#1e2730` | Dividers, borders |
-| `text-primary` | `#f0f2f4` | Headlines, strong text |
-| `text-secondary` | `#8a9bb0` | Body copy |
-| `accent` | `#00c8b4` | Cyan. The ONLY accent color |
-| `accent-hover` | `#007d74` | Darker cyan for hover |
-| `accent-light` | `#9eeee8` | Teal tint for focus rings |
-| `accent-wash` | `#041e1c` | Dark teal for active backgrounds |
-
-**CSS custom properties** (defined in `globals.css`):
-
-| Variable | Hex | Usage |
-|----------|-----|-------|
-| `--col-bg` | `#06080a` | Background |
-| `--col-surface` | `#0d1117` | Surfaces |
-| `--col-surface-2` | `#131920` | Elevated surfaces |
-| `--col-border` | `#1e2730` | Borders |
-| `--col-border-2` | `#2a3540` | Secondary borders |
-| `--col-text-1` | `#f0f2f4` | Primary text |
-| `--col-text-2` | `#8a9bb0` | Secondary text |
-| `--col-text-3` | `#5a6b7e` | Muted labels |
-| `--col-accent` | `#00c8b4` | Cyan accent |
-| `--col-accent-dim` | `#007d74` | Dimmed accent |
-| `--col-accent-bg` | `#041e1c` | Accent backgrounds |
+| Variable | Hex | Tailwind class | Usage |
+|----------|-----|----------------|-------|
+| `--col-bg` | `#faf9f6` | `bg-main` | Page background (warm off-white) |
+| `--col-surface` | `#f2f0eb` | `bg-card` | Card surfaces, sidebar panels |
+| `--col-surface-2` | `#e8e5de` | — | Elevated surfaces, hover states |
+| `--col-border` | `#d4d0c8` | `border-col` | Dividers, borders, input borders |
+| `--col-border-2` | `#c4bfb5` | — | Secondary borders |
+| `--col-text-1` | `#0d0d0d` | `text-primary` | Headlines, strong text |
+| `--col-text-2` | `#1a1a1a` | `text-secondary` | Body copy, subheadings |
+| `--col-text-3` | `#6b6560` | — | Muted labels, captions |
+| `--col-accent` | `#04CCBA` | `accent` | Teal. The ONLY accent color |
+| `--col-accent-dim` | `#029e90` | `accent-hover` | Darker teal for hover states |
+| `--col-accent-light` | `#9eeee8` | `accent-light` | Teal tint for focus rings |
+| `--col-accent-wash` | `#edfaf9` | `accent-wash` | Near-white teal for backgrounds |
 
 **Rules:**
-- Cyan (#00c8b4) is the only accent. No other hues.
-- No pure white (#ffffff) as a background color.
-- Manifesto body text uses elevated `#c0cdd8` for legibility.
+- Teal (#04CCBA) is the only accent. No other hues anywhere.
+- No pure white (#ffffff) as a background. Always use #faf9f6.
+- No pure black (#000000). Always use #0d0d0d.
+- Accent wash (#edfaf9) is for surfaces only. Never for text.
+- Accent-light (#9eeee8) is for focus rings and subtle highlights only. Never for text or large areas.
 
 ### Typography
 
 **Font loading** (in `layout.tsx`):
-- Playfair Display: weights 600 (italic) and 900 (normal)
-- Libre Baskerville: weights 400 and 700
-- IBM Plex Mono: NOT currently loaded (removed)
+```typescript
+import { Playfair_Display, Libre_Baskerville, IBM_Plex_Mono } from 'next/font/google'
+
+const playfair = Playfair_Display({
+  subsets: ['latin'],
+  weight: ['600', '900'],
+  style: ['normal', 'italic'],
+  variable: '--font-display',
+})
+
+const baskerville = Libre_Baskerville({
+  subsets: ['latin'],
+  weight: ['400', '700'],
+  variable: '--font-body',
+})
+
+const mono = IBM_Plex_Mono({
+  subsets: ['latin'],
+  weight: ['400', '500'],
+  variable: '--font-mono',
+})
+```
 
 **Type hierarchy:**
 
 | Role | Font | Weight | Size | Tracking | Notes |
 |------|------|--------|------|----------|-------|
-| Manifesto year numbers | Playfair Display | 900 | 96px | -4px | White with text-shadow glow |
-| Manifesto section titles | Playfair Display | 900 | 42px | -1px | White with glow |
-| Unit names (panels) | Playfair Display | 900 | 40px | -1px | text-primary |
-| Card titles | Playfair Display | 600 italic | clamp(22px, 3vw, 30px) | — | Accent when active |
-| Manifesto blockquote | Playfair Display | 600 italic | 20px | -0.2px | text-1, left border |
-| Body text | Libre Baskerville | 400 | 15-17px | — | line-height 1.8-1.85 |
-| Manifesto lead sentences | Libre Baskerville | 700 | 17px | — | White |
-| Section labels / chip labels | Libre Baskerville | 700 | 10-11.5px | 1.5-2.5px | Uppercase |
-| Nav links | Libre Baskerville | 700 | 14px | 2.5px | Uppercase |
+| Hero wordmark | Playfair Display | 900 | 64-80px | -2px | The signature moment. Massive. |
+| Section titles | Playfair Display | 900 | 32-40px | -1px | Major section headers |
+| Unit names (panels) | Playfair Display | 900 | 32px | -0.5px | Inside expand panels |
+| Card titles | Playfair Display | 600 italic | clamp(22px, 3vw, 28px) | — | Unit card titles |
+| Body text | Libre Baskerville | 400 | 16-18px | — | line-height 1.75 |
+| Section labels | IBM Plex Mono | 500 | 11px | 2px | Uppercase. Section markers. |
+| Nav links | IBM Plex Mono | 500 | 12px | 2px | Uppercase. Navigation. |
+| Chip labels | Libre Baskerville | 700 | 11.5px | 1.5px | Uppercase. Interactive chips. |
 
 **Rules:**
-- Playfair is for big moments only. Never for body text or UI labels.
-- Libre Baskerville is the workhorse.
+- Playfair is for big moments only. Never for body text, UI labels, or chips.
+- Libre Baskerville is the workhorse for editorial and body text.
+- IBM Plex Mono is for structural labels: navigation, section markers, metadata.
 - Never mix more than two typefaces in one layout context.
+- No glow effects, text-shadow, or gradient text. Ever.
 
 ### Spacing
 
 - Base unit: 8px
-- Max content width: 1100px
-- Manifesto column: 640px
-- Card grid: 3-column desktop, 1-column mobile
-- Section gaps (manifesto): 64px+
-- Card padding: 24-28px (p-6 sm:p-7)
-- Panel padding: 32px
+- Max content width: 1100px (`max-w-[1100px] mx-auto`)
+- Section vertical padding: 96-120px desktop, 64px mobile
+- Card padding: 28-32px
+- Grid: flexible, not forced 3-column
+- Gaps: 24px between major elements
 
 ### Interaction patterns
 
 | Element | Effect | Timing |
 |---------|--------|--------|
-| Unit cards | 3D perspective tilt via framer-motion (mouse tracking) | Spring: stiffness 300, damping 25 |
-| Card hover | Scale 1.02, y-offset -6px, elevated shadow | Spring animation |
-| Card active | Cyan border + accent-bg + bottom gradient line | 150ms ease-out |
-| Panel expand | max-height + opacity transition | 200ms ease-out |
-| Chip hover | Border color change, background shift | 120ms ease |
-| Magnolia accordion | Toggle with +/- indicator, max-height transition | 200ms ease-out |
+| Card hover | Border color shift to accent-dim + 2px y-offset | 150ms ease-out |
+| Card active | Accent border + accent-wash background | 150ms ease-out |
+| Panel expand | grid-template-rows transition | 200ms ease-out |
+| Chip hover | Border color shift + background tint | 120ms ease |
+| Chip active | Accent-wash background + accent border | 120ms ease |
+| Magnolia accordion | grid-template-rows transition | 200ms ease-out |
 | Focus rings | 2px solid accent, offset 3px | — |
+| Links | Color shift to accent on hover | 150ms ease-out |
 
-### Cursor effect
+**Banned effects:**
+- No 3D tilt, perspective transforms, or parallax
+- No glow, box-shadow glow, text-shadow glow
+- No pixel trails, particle effects, or cursor modifications
+- No framer-motion or animation libraries
+- No gradient text or background-clip: text
+- No left-stripe borders (border-left > 1px as colored accent)
+- No glassmorphism or backdrop blur effects
 
-`CyanPixelTrail` component: renders animated cyan pixels following the cursor. Uses `requestAnimationFrame`. Hides OS cursor on mount (`cursor: none` on body). Fixed z-9999 overlay with `pointer-events: none`.
+### Responsive
+
+- Desktop-first, with mobile breakpoints at 768px and 480px
+- Touch targets: minimum 44px height on all interactive elements
+- Card grid: 3-column desktop, 1-column mobile
+- Type sizes: use clamp() for headings, fixed rem for body
 
 ---
 
@@ -145,21 +166,25 @@ Single-page home (`/`) with manifesto as a separate route (`/manifesto`). The ho
 
 #### Section 1: Hero
 
-**Status: NEEDS REBUILD**
+**Status: NEEDS BUILD**
 
-Current state: No hero exists. Visitors land directly on three cards with zero framing.
+The signature moment. Visitors land here and understand Allenix in 3 seconds.
 
-Target state:
-- Allenix wordmark large in Playfair Display 900
-- One-line positioning statement below the wordmark
-- A sub-line identifying the market (Houston, Gulf South, mid-market, AI era)
-- Two CTAs: "Book a Call" (primary) and "Read the Manifesto" (secondary/ghost)
-- Generous vertical padding. The wordmark should be the first thing you see, centered.
+Layout:
+- Allenix wordmark in Playfair Display 900, massive (64-80px)
+- One-line positioning statement in Libre Baskerville body below the wordmark
+- A sub-line in IBM Plex Mono caps identifying the market
+- Two CTAs: "Book a Call" (primary, filled accent button) and "Read the Manifesto" (ghost button)
+- Generous vertical padding (120px+ top, 96px bottom)
+- Everything centered, max-width constrained
+- Warm off-white background
 
-Copy direction:
+Copy:
 - Headline: The Allenix wordmark itself
-- Subhead: One sentence that says what Allenix does and who it is for. Not clever. Clear.
-- Avoid: "revolutionizing", "empowering", "transforming"
+- Subhead: "Three units. One platform. Built for the operators the coasts underestimated."
+- Mono label: "HOUSTON · GULF SOUTH · AI ERA"
+- CTA primary: "Book a Call" → [placeholder calendar link]
+- CTA secondary: "Read the Manifesto" → /manifesto
 
 #### Section 2: What We Do (Three Units)
 
@@ -169,25 +194,31 @@ Current state: Three identical `UnitCard` components in a grid with expand/colla
 
 Target state:
 - Keep the three-unit structure (Labs, Studios, Capital)
-- Break the identical-card symmetry. Labs should be visually primary (it is the revenue engine). Studios and Capital are secondary.
-- Consider a featured card for Labs with Studios and Capital as smaller companions, or a split layout instead of three equal cards.
+- Break the identical-card symmetry. Labs is visually primary (the revenue engine). Studios and Capital are secondary.
+- Labs gets a featured position: larger card or split layout. Studios and Capital as smaller companions.
 - The expand/collapse interaction works well. Keep it.
-- Capital needs more substance even at "Forming" stage: add a one-line vision or timeline placeholder.
+- Capital needs more substance even at "Forming" stage: add a one-line vision placeholder.
+- Cards use warm surface (#f2f0eb) background with border (#d4d0c8). Active state uses accent-wash background + accent border.
+- No icons on cards. The typography is the design. Playfair Display italic for card titles is sufficient visual distinction.
 
-Interaction changes:
-- Remove the 3D tilt effect (framer-motion dependency). Replace with a simpler hover: border color shift + subtle y-offset via CSS transition.
-- Remove the cyan glow on active cards. Use a cleaner active indicator.
+Interaction:
+- Hover: border color shift to accent-dim + 2px y-offset. CSS transition 150ms.
+- Active: accent border + accent-wash background. No glow.
+- Panel expand: grid-template-rows transition (not max-height hack).
 
 #### Section 3: How It Works (The Flywheel)
 
 **Status: NEW**
 
-A visual representation of the Labs / Studios / Capital flywheel. Not the old SVG diagram. Something simpler and more editorial.
+A visual representation of the Labs / Studios / Capital flywheel. Simple and editorial.
 
-Options:
-- A three-step horizontal flow with arrows: Studios (builds audience) -> Labs (validates companies) -> Capital (acquires them) -> back to Studios
-- Or a simple statement + three connected icons, no SVG required
-- Magnolia sits underneath all three as the platform layer
+Design:
+- Three-step horizontal flow: Studios (builds audience) → Labs (validates companies) → Capital (acquires them) → back to Studios
+- Each step is a label in IBM Plex Mono with a brief phrase below in Libre Baskerville
+- Arrows or connectors between steps
+- Magnolia sits underneath as the platform layer, spanning the full width
+- Background: surface color (#f2f0eb) to visually separate from sections above/below
+- No complex SVG. Keep it typographic and structural.
 
 Purpose: Help visitors understand the three units are a single machine, not three separate businesses.
 
@@ -198,32 +229,34 @@ Purpose: Help visitors understand the three units are a single machine, not thre
 A section that shows Studios is real, not just a concept.
 
 Contents:
-- A pull quote or teaser from the latest Allenix Letter
-- "Subscribe to the Allenix Letter" email capture (newsletter waitlist)
-- Links to podcast, LinkedIn, or wherever Studios content lives (even if just placeholder URLs)
+- A pull quote or teaser from the Allenix Letter
+- "Subscribe to the Allenix Letter" email capture
+- Links to podcast, LinkedIn (placeholder URLs)
 - Keep it short. This section builds credibility, not conversion.
+- Background: warm off-white (bg) to transition back from the surface section above
 
 The email capture form:
 - Single field: email address
-- Submit button: "Subscribe" or "Join the waitlist"
-- No backend yet. Wire to a free service (ConvertKit, Resend, or just a `mailto:` link for now) or collect to a Vercel KV store.
+- Submit button: "Subscribe"
+- No backend yet. Placeholder form action.
 - Success state: A brief confirmation message inline
 
 #### Section 5: CTA (Book a Call)
 
 **Status: NEW**
 
-The conversion point. This is the most important section on the page after the hero.
+The conversion point. The most important section after the hero.
 
 Contents:
 - A headline that creates urgency or specificity (not "Contact Us")
-- 1-2 sentences about what happens when you book a call (what to expect, who it is with, how long)
-- Primary CTA button: "Book a Call" (links to Calendly, SavvyCal, or similar)
-- Secondary option: email address for those who prefer it
-- No form required. A calendar link is higher-conversion than a contact form.
+- 1-2 sentences about what happens when you book a call
+- Primary CTA button: "Book 30 minutes" → [placeholder calendar link]
+- Secondary option: email address (placeholder: ali@allenix.com)
+- No form. A calendar link is higher-conversion than a contact form.
+- Background: surface color (#f2f0eb) for visual emphasis
 
 Copy direction:
-- "Let's talk" or "Book 30 minutes" or "See if Labs is right for your business"
+- "See if Labs is right for your business."
 - Not: "Reach out", "Get in touch", "Contact us"
 
 #### Section 6: Footer
@@ -233,11 +266,12 @@ Copy direction:
 Minimal footer.
 
 Contents:
-- Allenix wordmark (small)
-- Location: "Houston, Texas"
-- Links: The Manifesto, LinkedIn (Ali's profile), email
+- Allenix wordmark (small, Playfair 900)
+- Location: "Houston, Texas" in IBM Plex Mono
+- Links: The Manifesto, LinkedIn ([placeholder]), Email ([placeholder])
 - Copyright line
 - Nothing else. No social icons array, no newsletter signup repeat, no site map.
+- Border-top separator from the content above
 
 ### `/manifesto` — Manifesto
 
@@ -248,8 +282,9 @@ Full editorial page. Content is strong. Structural fixes needed:
 1. Replace all div-based section titles with proper `<h2>` elements. The "1836" title block should be `<h1>`.
 2. Wrap header navigation in `<nav>` with `aria-label`.
 3. Add a skip-to-content link.
-4. Remove the left-border stripe on the blockquote. Use indentation + italic + full border instead.
-5. Migrate inline styles to Tailwind classes for consistency with the rest of the site.
+4. Replace the left-border stripe on the blockquote with indentation + italic + full border.
+5. Migrate inline styles to Tailwind classes for consistency.
+6. Update color tokens from dark theme to light warm theme.
 
 Content stays the same. The writing is the site's strongest asset.
 
@@ -274,37 +309,39 @@ Every section either moves the visitor down this funnel or provides enough credi
 
 ## Implementation plan
 
-### Phase 1: Fix what is broken (audit findings)
+### Phase 1: Foundation (theme + cleanup)
 
 These must happen before any new sections are built.
 
 | Priority | Issue | Action | Files affected |
 |----------|-------|--------|----------------|
+| P0 | Dark theme → light theme | Replace all color tokens with warm light palette | `globals.css`, `tailwind.config.js` |
+| P0 | No h1 on home page | Add h1 to hero section | `page.tsx` or new `Hero.tsx` |
 | P0 | No semantic HTML on manifesto | Replace div titles with h1/h2, add nav landmark, add skip link | `manifesto/page.tsx` |
-| P0 | No h1 on home page | Add h1 to hero section | `page.tsx` or new hero component |
-| P1 | Touch targets too small (26px chips, 25px nav) | Increase chip and nav padding to meet 44px minimum | `AllenixHero.tsx`, `globals.css`, `page.tsx` |
-| P1 | Accent color reads as AI-generated | Shift cyan (#00c8b4) to a more distinctive hue | `tailwind.config.js`, `globals.css`, all inline color refs |
-| P1 | Left-stripe borders (banned pattern) | Replace with full border or background tint | `globals.css:110-118`, `manifesto/page.tsx:108` |
-| P1 | Text-3 color fails WCAG AA (~2.7:1) | Raise `--col-text-3` to at least `#7a8d9f` | `globals.css`, `tailwind.config.js` |
-| P2 | Three separate token systems | Consolidate to one source of truth | `tailwind.config.js`, `globals.css`, `manifesto/page.tsx` |
-| P2 | Pixel cursor trail | Remove entirely or rebuild without hiding OS cursor | `pixel-trail.tsx`, `page.tsx`, `manifesto/page.tsx` |
-| P2 | framer-motion for tilt only | Replace with CSS hover transforms, remove dependency | `unit-card.tsx`, `package.json` |
-| P2 | Unused components | Delete: Flywheel.tsx, Navbar.tsx, unused ui/ files | 7 files |
+| P0 | IBM Plex Mono missing | Re-add to layout.tsx font loading | `layout.tsx` |
+| P1 | Pixel cursor trail | Delete entirely | `pixel-trail.tsx`, `page.tsx` |
+| P1 | framer-motion for tilt only | Replace with CSS hover transforms, remove dependency | `unit-card.tsx`, `package.json` |
+| P1 | Left-stripe borders (banned) | Replace with full border or background tint | `globals.css` |
+| P1 | Touch targets too small | Increase chip and nav padding to meet 44px minimum | `globals.css`, components |
+| P1 | Three separate token systems | Consolidate to one: CSS custom properties | `globals.css`, `tailwind.config.js`, all components |
+| P2 | Glow effects on text and elements | Remove all text-shadow, box-shadow glow | `unit-card.tsx`, `AllenixHero.tsx` |
+| P2 | Unused components | Delete: `Flywheel.tsx`, `Navbar.tsx`, `badge.tsx`, `blur-fade.tsx`, `button.tsx`, `card.tsx`, `radial-orbital-timeline.tsx` | 7 files |
 | P2 | Manifesto all inline styles | Migrate to Tailwind classes | `manifesto/page.tsx` |
-| P3 | No reduced motion support | Check prefers-reduced-motion, disable/simplify animations | `pixel-trail.tsx`, `unit-card.tsx` |
-| P3 | Panel expand max-height hack | Replace with grid-template-rows transition | `AllenixHero.tsx` |
+| P2 | Panel expand max-height hack | Replace with grid-template-rows transition | `AllenixHero.tsx` |
+| P3 | No reduced motion support | Check prefers-reduced-motion, disable animations | `globals.css` |
 
 ### Phase 2: Build new sections
 
 Order matters. Each section builds on the previous.
 
-| Step | Section | Description | Key decisions needed |
-|------|---------|-------------|---------------------|
-| 1 | Hero | Wordmark + positioning + dual CTAs | Final copy. CTA link destination (Calendly URL). |
-| 2 | CTA (Book a Call) | Calendar link + email + copy | Calendly vs SavvyCal vs other. Ali's email. |
-| 3 | Studios / Newsletter | Email capture + content teaser | Newsletter service (ConvertKit, Resend, etc). Which content to feature. |
-| 4 | How It Works | Flywheel visual | Design approach (icons vs flow diagram vs text). |
-| 5 | Footer | Wordmark + location + links | LinkedIn URL. Email address. |
+| Step | Section | Component | Key decisions |
+|------|---------|-----------|---------------|
+| 1 | Hero | `Hero.tsx` | Wordmark size. CTA link placeholder. |
+| 2 | Unit Explorer | `UnitExplorer.tsx` (renamed from `AllenixHero.tsx`) | Labs featured layout. Card asymmetry. |
+| 3 | How It Works | `FlywheelFlow.tsx` | Design approach (typographic flow). |
+| 4 | Studios / Newsletter | `StudiosSection.tsx` | Newsletter service placeholder. Content teaser. |
+| 5 | CTA | `CTASection.tsx` | Calendar link placeholder. Copy. |
+| 6 | Footer | `Footer.tsx` | LinkedIn, email placeholders. |
 
 ### Phase 3: Polish and ship
 
@@ -324,7 +361,7 @@ Order matters. Each section builds on the previous.
 allenix-website/
 ├── src/
 │   ├── app/
-│   │   ├── layout.tsx              # Root layout: fonts, metadata, dark body
+│   │   ├── layout.tsx              # Root layout: all three fonts, metadata, warm background
 │   │   ├── page.tsx                # Home: all sections composed here
 │   │   ├── globals.css             # Single source of truth for design tokens
 │   │   ├── opengraph-image.tsx     # OG image
@@ -338,18 +375,18 @@ allenix-website/
 │   │   ├── CTASection.tsx          # New: book a call
 │   │   ├── Footer.tsx              # New: minimal footer
 │   │   └── ui/
-│   │       ├── unit-card.tsx       # Simplified (no framer-motion)
+│   │       ├── unit-card.tsx       # Simplified: CSS transitions only, no framer-motion
 │   │       ├── chip.tsx            # Extracted from AllenixHero
 │   │       └── callout.tsx         # Extracted from AllenixHero
 │   ├── data/
 │   │   └── flywheel.ts            # Unit data (unchanged)
 │   └── lib/
 │       └── utils.ts                # cn() utility
-├── tailwind.config.js              # Consolidated tokens only
+├── tailwind.config.js              # References CSS custom properties only
 ├── tsconfig.json
 ├── next.config.mjs
 ├── postcss.config.js
-└── package.json                    # Slimmed: remove framer-motion, lucide-react
+└── package.json                    # Slimmed: no framer-motion
 ```
 
 Deleted files:
@@ -361,96 +398,6 @@ Deleted files:
 - `ui/card.tsx` (unused)
 - `ui/pixel-trail.tsx` (removed)
 - `ui/radial-orbital-timeline.tsx` (unused)
-
----
-
-## Current state pages (for reference)
-
-### `/` — Home (as built)
-
-**Header:** Fixed top bar. Allenix wordmark (Playfair 900, 31px) on left. "The Manifesto" nav link on right. Background: gradient from rgba(6,8,10,0.95) to transparent, with backdrop blur.
-
-**Hero (`AllenixHero` component):**
-
-Three `UnitCard` components in a responsive grid:
-
-| Card | Icon | Tagline | Forming |
-|------|------|---------|---------|
-| Labs | Zap | Agentic growth services. We go deep, find the highest-ROI levers, and execute alongside you. | No |
-| Studios | Mic | Brand and audience engine. The trade publication of operator-led growth in the Gulf South. | No |
-| Capital | TrendingUp | Acquisition compounding arm. Labs validates companies. Capital acquires them. | Yes |
-
-Clicking a card expands a detail panel below:
-
-**Labs panel:**
-1. Unit name + description
-2. Strategy and Training concept boxes (expandable)
-3. Growth section with two-column grid: Go-to-Market (8 chips) and Operations (4 chips)
-4. Chip callout descriptions
-5. "Powered by Magnolia" glow bar
-6. Magnolia expandable accordion
-
-**Studios panel:**
-1. Unit name + description
-2. Six chips: Editorial, Podcast, Video, Social, Events, Research
-3. Chip callout descriptions
-
-**Capital panel:**
-1. Unit name + description
-2. No chips or sub-components (forming stage)
-
-### `/manifesto` — Manifesto (as built)
-
-Full editorial page with fixed header (Allenix links home, "The Manifesto" as current indicator).
-
-**Sections in order:**
-1. Title block: "1836" (large glowing number), "A manifesto for Houston" (subtitle), "By Ali Mamujee" (label)
-2. The Stakes
-3. 1836 (Allen brothers origin story, includes blockquote of founding ad)
-4. 2026 (Houston's current rising moment)
-5. The Bet (three-unit structure, includes a card showing "Allenix in 2036" with Labs/Studios/Capital columns and outcome)
-6. 2036 (vision)
-7. The Invitation (closing)
-8. Signature: "Ali Mamujee" + "Back to Allenix" link
-
-All styles are inline (no Tailwind classes on this page). Uses local `SectionBlock` and `BodyP` sub-components.
-
----
-
-## File structure (current, for reference)
-
-```
-allenix-website/
-├── src/
-│   ├── app/
-│   │   ├── layout.tsx              # Root layout: fonts, metadata, dark body
-│   │   ├── page.tsx                # Home: header + AllenixHero
-│   │   ├── globals.css             # CSS variables, base styles, overrides
-│   │   ├── opengraph-image.tsx     # OG image
-│   │   └── manifesto/
-│   │       └── page.tsx            # Manifesto (all inline styles)
-│   ├── components/
-│   │   ├── AllenixHero.tsx         # Main interactive: cards + panels
-│   │   ├── Flywheel.tsx            # SVG flywheel (UNUSED)
-│   │   ├── Navbar.tsx              # (UNUSED, not imported)
-│   │   └── ui/
-│   │       ├── badge.tsx           # (UNUSED)
-│   │       ├── blur-fade.tsx       # (UNUSED)
-│   │       ├── button.tsx          # (UNUSED)
-│   │       ├── card.tsx            # (UNUSED)
-│   │       ├── pixel-trail.tsx     # CyanPixelTrail cursor effect
-│   │       ├── radial-orbital-timeline.tsx  # (UNUSED)
-│   │       └── unit-card.tsx       # 3D tilt card (framer-motion)
-│   ├── data/
-│   │   └── flywheel.ts            # All unit data
-│   └── lib/
-│       └── utils.ts                # cn() utility
-├── tailwind.config.js
-├── tsconfig.json
-├── next.config.mjs
-├── postcss.config.js
-└── package.json
-```
 
 ---
 
@@ -496,42 +443,29 @@ Separate from the website. Documents in this vault use:
 
 ---
 
-## Audit findings (8.5/20 — Poor)
+## Audit findings (pre-redesign, dark theme)
 
-Full audit run on 2026-04-16. Score breakdown:
+Full audit run on 2026-04-16. Score: **8.5/20 — Poor**
 
-| Dimension | Score | Key finding |
-|-----------|-------|-------------|
-| Accessibility | 1.5/4 | Zero headings on manifesto. No h1 on home. No skip nav. |
-| Performance | 2/4 | Pixel trail RAF loop. framer-motion for tilt only. |
-| Theming | 2/4 | Three separate token systems. Manifesto duplicates all colors. |
-| Responsive | 2/4 | Chips 26px tall. Nav link 25px. No tablet breakpoint. |
-| Anti-Patterns | 1/4 | Cyan-on-dark AI palette. Three-card grid. Glow effects. Left-stripe borders. |
+This audit reflects the **old dark-theme implementation**. The redesign to light + warm addresses the root causes.
 
-### AI slop assessment
+| Dimension | Score | Key finding | Fix |
+|-----------|-------|-------------|-----|
+| Accessibility | 1.5/4 | Zero headings on manifesto. No h1 on home. No skip nav. | Add h1/h2, skip link, nav landmarks |
+| Performance | 2/4 | Pixel trail RAF loop. framer-motion for tilt only. | Delete pixel trail, remove framer-motion |
+| Theming | 2/4 | Three separate token systems. Manifesto duplicates all colors. | Single CSS custom property system |
+| Responsive | 2/4 | Chips 26px tall. Nav link 25px. No tablet breakpoint. | 44px min touch targets. Proper breakpoints |
+| Anti-Patterns | 1/4 | Cyan-on-dark AI palette. Three identical cards. Glow effects. Left-stripe borders. | Light theme. Asymmetric cards. No glow. No left-stripes. |
 
-The site fails the AI slop test. Seven specific tells:
+### AI slop patterns (all resolved by redesign)
 
-1. **Cyan-on-dark (#00c8b4 on #06080a).** The default AI website palette.
-2. **Three identical cards with icons.** Labs (Zap), Studios (Mic), Capital (TrendingUp).
-3. **Glow effects on text and elements.** text-shadow, box-shadow glow on Magnolia bar and active cards.
-4. **Left-stripe borders.** `border-left: 2px solid` on active chips and manifesto blockquote.
-5. **Playfair Display.** AI reflex font for "elegant" projects.
-6. **3D tilt cards.** Common AI "wow" effect that adds complexity without meaning.
-7. **Pixel cursor trail.** Hides OS cursor. Party trick, not design.
-
-These are integrated into the implementation plan above. Fix the accent color, remove the glow effects, replace the left-stripe borders, and the site will immediately look more intentional.
-
-### Contrast failures
-
-| Color | Context | Ratio | Passes? |
-|-------|---------|-------|---------|
-| `#5a6b7e` (--col-text-3) on `#06080a` | Muted labels, "Forming" badge | ~2.7:1 | FAILS AA (needs 4.5:1) |
-| `#6a7a8a` on `#06080a` | Manifesto muted text | ~3.5:1 | FAILS AA |
-| `#8a9bb0` (--col-text-2) on `#06080a` | Body copy | ~5.0:1 | Passes AA, fails AAA |
-| `#c0cdd8` on `#06080a` | Manifesto body (elevated) | ~10.7:1 | Passes AAA |
-
-Minimum fix: raise `--col-text-3` to `#7a8d9f` (~4.5:1).
+1. ~~Cyan-on-dark (#00c8b4 on #06080a)~~ → Teal on warm off-white (#04CCBA on #faf9f6)
+2. ~~Three identical cards with icons~~ → Asymmetric layout, Labs featured, no decorative icons
+3. ~~Glow effects on text and elements~~ → No glow anywhere. Clean surfaces.
+4. ~~Left-stripe borders~~ → Full border or background tint only
+5. ~~3D tilt cards~~ → CSS-only hover transitions
+6. ~~Pixel cursor trail~~ → Deleted
+7. ~~Playfair Display as AI reflex~~ → Retained but used with intentionality: wordmark only, not decorative headings everywhere
 
 ---
 
@@ -546,16 +480,15 @@ Minimum fix: raise `--col-text-3` to `#7a8d9f` (~4.5:1).
 
 ---
 
-## Open questions (need Ali's input)
+## Placeholders (to be replaced with real values)
 
-Before building, these need answers:
-
-1. **Book a Call link.** What calendar service? (Calendly, SavvyCal, Cal.com, Google Calendar link?) What is the URL?
-2. **Email address.** What email should appear on the site for contact? (ali@allenix.com? Something else?)
-3. **Newsletter service.** What email platform for the Allenix Letter? (ConvertKit, Resend, Mailchimp, Buttondown?) Or should we just collect emails to a list for now?
-4. **LinkedIn URL.** Ali's LinkedIn profile URL for the footer and Studios section.
-5. **Accent color direction.** The audit flagged cyan-on-dark as an AI tell. Open to shifting the accent? If so, toward what? (warmer teal, green, amber, or keep cyan and fix the other tells instead?)
-6. **Hero copy.** What is the one-line positioning statement that goes below the wordmark? Need Ali's input or approval on draft copy.
+| Item | Placeholder | Real value needed |
+|------|-------------|-------------------|
+| Book a Call link | `#book-a-call` | Calendar service URL (Calendly/SavvyCal/Cal.com) |
+| Contact email | `ali@allenix.com` | Confirmed email address |
+| Newsletter form action | Client-side only (no backend) | Newsletter service (ConvertKit/Resend/Buttondown) |
+| LinkedIn URL | `#linkedin` | Ali's LinkedIn profile URL |
+| Studios content links | `#` | Podcast, social media URLs |
 
 ---
 
