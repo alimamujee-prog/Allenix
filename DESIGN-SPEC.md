@@ -172,19 +172,20 @@ The signature moment. Visitors land here and understand Allenix in 3 seconds.
 
 Layout:
 - Allenix wordmark in Playfair Display 900, massive (64-80px)
-- One-line positioning statement in Libre Baskerville body below the wordmark
-- A sub-line in IBM Plex Mono caps identifying the market
-- Two CTAs: "Book a Call" (primary, filled accent button) and "Read the Manifesto" (ghost button)
+- Mono label above wordmark in IBM Plex Mono caps
+- Subhead in Libre Baskerville body below the wordmark
+- Single CTA: "Book a Discovery Call" (primary, filled accent button). No secondary CTA.
 - Generous vertical padding (120px+ top, 96px bottom)
 - Everything centered, max-width constrained
 - Warm off-white background
+- Typography-only for now. Texture or image from 21st dev to come later.
 
 Copy:
-- Headline: The Allenix wordmark itself
-- Subhead: "Three units. One platform. Built for the operators the coasts underestimated."
 - Mono label: "HOUSTON · GULF SOUTH · AI ERA"
-- CTA primary: "Book a Call" → [placeholder calendar link]
-- CTA secondary: "Read the Manifesto" → /manifesto
+- Headline: The Allenix wordmark itself
+- Subhead: "We sit down with you. We find the constraint costing you the most time or money. We fix it in 90 days."
+- CTA: "Book a Discovery Call" → Calendly embed (placeholder until Ali shares his Calendly URL)
+- Manifesto link is in the footer only. Not in the hero.
 
 #### Section 2: What We Do (Three Units)
 
@@ -197,49 +198,77 @@ Target state:
 - Break the identical-card symmetry. Labs is visually primary (the revenue engine). Studios and Capital are secondary.
 - Labs gets a featured position: larger card or split layout. Studios and Capital as smaller companions.
 - The expand/collapse interaction works well. Keep it.
-- Capital needs more substance even at "Forming" stage: add a one-line vision placeholder.
+- Capital is "Forming." Brief and honest. No need to over flesh out at this stage.
 - Cards use warm surface (#f2f0eb) background with border (#d4d0c8). Active state uses accent-wash background + accent border.
 - No icons on cards. The typography is the design. Playfair Display italic for card titles is sufficient visual distinction.
+
+Copy:
+- Section label: "WHAT WE DO"
+- Section headline: "Three units. One machine."
+- Intro: "Each unit feeds the next. Studios builds the audience. Labs sells into it and delivers. Capital acquires what Labs has proven. The wheel spins faster every quarter."
+
+Labs card:
+- Title: "Labs" (Playfair Display 600 italic)
+- Role label: "THE ENGINE"
+- One-line: "We go deep inside your business. Find the highest-ROI opportunities. Deploy the tools, people, and platform that execute alongside you. Labs is where revenue growth becomes measurable."
+- Expanded: "Every Labs engagement starts the same way. A four-week diagnostic that maps every revenue workflow and produces a prioritized list of opportunities, each one with a dollar number attached. Then we pick the highest-impact one and build it. No theory. Just execution."
+
+Studios card:
+- Title: "Studios" (Playfair Display 600 italic)
+- Role label: "THE AUDIENCE"
+- One-line: "Editorial, podcast, video, and events that make Allenix the trade publication for operator-led growth. Studios builds the brand that brings every client to the door. It is not marketing. It is distribution."
+- Expanded: "Every piece of content we produce makes the next client conversation easier. Studios is how we make Houston louder to a country that has not been paying attention. The Allenix Letter, the podcast, the operator dinners. All of it compounds."
+
+Capital card:
+- Title: "Capital" (Playfair Display 600 italic)
+- Role label: "THE COMPOUNDER · FORMING"
+- One-line: "Labs validates companies. Capital acquires them. The same platform that made them more valuable runs inside from day one. We are building this now."
 
 Interaction:
 - Hover: border color shift to accent-dim + 2px y-offset. CSS transition 150ms.
 - Active: accent border + accent-wash background. No glow.
 - Panel expand: grid-template-rows transition (not max-height hack).
 
-#### Section 3: How It Works (The Flywheel)
+#### Section 3: How It Works
 
 **Status: NEW**
 
-A visual representation of the Labs / Studios / Capital flywheel. Simple and editorial.
+Simple, editorial 3-step process. Matches the $5K workshop positioning.
+
+Copy:
+- Section label: "HOW IT WORKS"
+- Section headline: "From first call to first result."
+- Step 1 "Deep Discovery": "We sit down with you and your team. We map every revenue workflow, every bottleneck, every place time or money is leaking. Two to four weeks. The output is a single document: every opportunity ranked by ROI, each with a dollar number attached."
+- Step 2 "Identify the Constraint": "Not ten problems. One. The single constraint that, if removed, unlocks the most growth. We quantify it. We prove it. Then we agree on the fix."
+- Step 3 "Resolve It": "We build the solution using the latest AI tools and workflows. We train your team. We stay until it runs without us. Then we move to the next constraint."
+- Closing line: "This is not a transformation roadmap. It is one problem, one fix, one result. Then the next one."
+- Soft CTA: "Ready to find your constraint?" + "Book a Discovery Call" button
 
 Design:
-- Three-step horizontal flow: Studios (builds audience) → Labs (validates companies) → Capital (acquires them) → back to Studios
-- Each step is a label in IBM Plex Mono with a brief phrase below in Libre Baskerville
-- Arrows or connectors between steps
-- Magnolia sits underneath as the platform layer, spanning the full width
+- Three steps displayed as a numbered horizontal flow or stacked editorial blocks
+- Each step has a number/label in IBM Plex Mono + body in Libre Baskerville
 - Background: surface color (#f2f0eb) to visually separate from sections above/below
 - No complex SVG. Keep it typographic and structural.
 
-Purpose: Help visitors understand the three units are a single machine, not three separate businesses.
+Purpose: Help visitors understand what actually happens when they engage Allenix. Tangible, specific, no ambiguity.
 
-#### Section 4: Studios / Newsletter Signup
+#### Section 4: Studios / Newsletter
 
 **Status: NEW**
 
-A section that shows Studios is real, not just a concept.
+Simple email capture. Builds credibility and stays in touch with early followers.
 
-Contents:
-- A pull quote or teaser from the Allenix Letter
-- "Subscribe to the Allenix Letter" email capture
-- Links to podcast, LinkedIn (placeholder URLs)
-- Keep it short. This section builds credibility, not conversion.
-- Background: warm off-white (bg) to transition back from the surface section above
+Copy:
+- Section label: "STAY AHEAD"
+- Section headline: "Stay in the loop."
+- Body: "Updates from Allenix. What we are building, what we are learning, and what is coming next. No spam. No fluff. Just a note when there is something worth sharing."
 
 The email capture form:
 - Single field: email address
 - Submit button: "Subscribe"
 - Backend: Vercel KV (see Newsletter email storage section below)
 - Success state: inline "You are on the list." confirmation
+- Background: warm off-white (bg) to transition back from the surface section above
 
 #### Section 5: CTA (Book a Call)
 
@@ -247,17 +276,17 @@ The email capture form:
 
 The conversion point. The most important section after the hero.
 
-Contents:
-- A headline that creates urgency or specificity (not "Contact Us")
-- 1-2 sentences about what happens when you book a call
-- Primary CTA button: "Book 30 minutes" → Calendly link (placeholder until Ali shares his Calendly URL)
-- Secondary option: email address (placeholder: ali@allenix.com)
-- No form. A calendar link is higher-conversion than a contact form.
+Copy:
+- Section label: "NEXT STEP"
+- Section headline: "See if Labs is right for your business."
+- Body: "One hour. No pitch deck. No commitment. Just a conversation about where your business is today, where the biggest constraint is hiding, and whether Allenix is the right team to remove it."
+- Primary CTA: "Book a Discovery Call"
+- Calendly embed widget (inline, not external link. Placeholder until Ali shares his Calendly URL.)
+- Secondary option: "Prefer email? ali@allenix.com"
+- No form. A calendar embed is higher-conversion than a contact form.
 - Background: surface color (#f2f0eb) for visual emphasis
 
-Copy direction:
-- "See if Labs is right for your business."
-- Not: "Reach out", "Get in touch", "Contact us"
+Note: This is a free one-hour discovery call. Not the paid workshop. The workshop conversation happens on the call.
 
 #### Section 6: Footer
 
@@ -272,6 +301,8 @@ Contents:
 - Copyright line
 - Nothing else. No social icons array, no newsletter signup repeat, no site map.
 - Border-top separator from the content above
+
+Note: The manifesto link lives here. It was removed from the hero to keep a single CTA.
 
 ### `/manifesto` — Manifesto
 
@@ -296,11 +327,11 @@ The home page has one job: move visitors toward a call or newsletter signup.
 
 ```
 Visitor lands
-  -> Hero: understands what Allenix is (3 seconds)
-  -> What We Do: sees the three units and clicks one (10 seconds)
-  -> How It Works: understands the flywheel (optional, 5 seconds)
-  -> Studios: sees there is real content, subscribes (optional)
-  -> CTA: books a call (primary conversion)
+  -> Hero: understands what Allenix does for them (3 seconds)
+  -> What We Do: sees the three units and the flywheel (10 seconds)
+  -> How It Works: understands the process, soft CTA available (optional)
+  -> Studios: signs up for updates (optional)
+  -> CTA: books a discovery call (primary conversion)
 ```
 
 Every section either moves the visitor down this funnel or provides enough credibility to justify taking the next step. Nothing decorative.
@@ -336,12 +367,12 @@ Order matters. Each section builds on the previous.
 
 | Step | Section | Component | Key decisions |
 |------|---------|-----------|---------------|
-| 1 | Hero | `Hero.tsx` | Wordmark size. CTA link placeholder. |
+| 1 | Hero | `Hero.tsx` | Wordmark size. Single CTA. Typography-only. |
 | 2 | Unit Explorer | `UnitExplorer.tsx` (renamed from `AllenixHero.tsx`) | Labs featured layout. Card asymmetry. |
-| 3 | How It Works | `FlywheelFlow.tsx` | Design approach (typographic flow). |
-| 4 | Studios / Newsletter | `StudiosSection.tsx` | Newsletter service placeholder. Content teaser. |
-| 5 | CTA | `CTASection.tsx` | Calendar link placeholder. Copy. |
-| 6 | Footer | `Footer.tsx` | LinkedIn, email placeholders. |
+| 3 | How It Works | `HowItWorks.tsx` | 3-step numbered flow. Soft CTA at bottom. |
+| 4 | Studios / Newsletter | `StudiosSection.tsx` | Email capture. Vercel KV backend. |
+| 5 | CTA | `CTASection.tsx` | Calendly embed widget. Free discovery call. |
+| 6 | Footer | `Footer.tsx` | Manifesto link (moved from hero). LinkedIn, email placeholders. |
 
 ### Phase 3: Polish and ship
 
@@ -368,12 +399,13 @@ allenix-website/
 │   │   └── manifesto/
 │   │       └── page.tsx            # Manifesto (Tailwind classes, semantic HTML)
 │   ├── components/
-│   │   ├── Hero.tsx                # New: hero section with CTAs
-│   │   ├── UnitExplorer.tsx        # Renamed from AllenixHero: three units + panels
-│   │   ├── FlywheelFlow.tsx        # New: how it works visual
-│   │   ├── StudiosSection.tsx      # New: newsletter + content teaser
-│   │   ├── CTASection.tsx          # New: book a call
-│   │   ├── Footer.tsx              # New: minimal footer
+│   │   ├── Header.tsx              # Fixed header: logo + CTA
+│   │   ├── Hero.tsx                # Hero: wordmark + subhead + CTA
+│   │   ├── UnitExplorer.tsx        # Three units + expand panels
+│   │   ├── HowItWorks.tsx          # 3-step process + soft CTA
+│   │   ├── StudiosSection.tsx      # Newsletter email capture
+│   │   ├── CTASection.tsx          # Calendly embed + copy
+│   │   ├── Footer.tsx              # Minimal footer with manifesto link
 │   │   └── ui/
 │   │       ├── unit-card.tsx       # Simplified: CSS transitions only, no framer-motion
 │   │       ├── chip.tsx            # Extracted from AllenixHero
@@ -382,6 +414,9 @@ allenix-website/
 │   │   └── flywheel.ts            # Unit data (unchanged)
 │   └── lib/
 │       └── utils.ts                # cn() utility
+├── public/
+│   ├── logo.png                    # Allenix Logo.png from vault
+│   └── favicon.png                 # Allenix Favicon.png from vault
 ├── tailwind.config.js              # References CSS custom properties only
 ├── tsconfig.json
 ├── next.config.mjs
@@ -484,10 +519,23 @@ This audit reflects the **old dark-theme implementation**. The redesign to light
 
 | Item | Placeholder | Real value needed |
 |------|-------------|-------------------|
-| Book a Call link | `#book-a-call` | Ali's Calendly URL (e.g. calendly.com/ali-mamujee/30min) |
+| Discovery Call link | Calendly embed placeholder | Ali's Calendly URL (e.g. calendly.com/ali-mamujee/60min) |
 | Contact email | `ali@allenix.com` | Confirmed email address |
 | LinkedIn URL | `#linkedin` | Ali's LinkedIn profile URL |
-| Studios content links | `#` | Podcast, social media URLs |
+| Logo image | `Allenix Logo.png` from vault | Final logo file (currently in vault root) |
+| Favicon | `Allenix Favicon.png` from vault | Final favicon file |
+
+### SEO / Meta
+
+- **Page title**: "Allenix — AI Growth Services for Gulf South Operators"
+- **Meta description**: "We find the constraint in your business and remove it. AI-powered growth services for mid-market operators in Houston and the Gulf South. Built by operators, for operators."
+
+### Header (fixed, global)
+
+- **Left**: Allenix Logo.png as `<Image>` component
+- **Right**: "Book a Discovery Call" in IBM Plex Mono (link to Calendly)
+- On scroll: subtle warm off-white background so CTA remains clickable over content
+- One job: keep the CTA visible at all times
 
 ### Newsletter email storage: Vercel KV (free tier)
 
