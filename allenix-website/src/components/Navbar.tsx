@@ -1,41 +1,74 @@
-"use client"
+'use client'
 
-import { BlurFade } from "@/components/ui/blur-fade"
-
-const NAV_LINKS = [
-  { label: "Solution", href: "#solution" },
-]
+import Link from 'next/link'
+import Image from 'next/image'
+import { usePathname } from 'next/navigation'
+import { useEffect, useState } from 'react'
 
 export default function Navbar() {
+  const pathname = usePathname()
+  const [scrolled, setScrolled] = useState(false)
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 72)
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 bg-bg-main border-b border-border-col">
-      <div className="max-w-[1100px] mx-auto px-6 h-[60px] flex items-center justify-between">
+    <header style={{
+      position: 'fixed',
+      top: 0, left: 0, right: 0,
+      zIndex: 50,
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'space-between',
+      padding: '20px 5%',
+      background: scrolled
+        ? 'rgba(6,8,10,0.97)'
+        : 'rgba(6,8,10,0.82)',
+      borderBottom: scrolled ? '1px solid var(--col-border)' : '1px solid rgba(30,39,48,0.4)',
+      backdropFilter: 'blur(12px)',
+      transition: 'background 200ms ease-out, border-color 200ms ease-out',
+    }}>
+      <Link href="/" style={{ display: 'inline-block', lineHeight: 0 }}>
+        <Image
+          src="/logo.png"
+          alt="Allenix"
+          width={160}
+          height={48}
+          style={{ objectFit: 'contain', objectPosition: 'left center' }}
+          priority
+        />
+      </Link>
 
-        {/* Wordmark */}
-        <BlurFade delay={0.1} duration={0.5}>
-          <a
-            href="/"
-            className="font-display font-black text-[20px] tracking-[-0.5px] text-text-primary hover:text-accent transition-colors duration-150"
-          >
-            Allenix
-          </a>
-        </BlurFade>
+      <nav style={{ display: 'flex', alignItems: 'center', gap: '48px' }}>
+        <Link
+          href="/"
+          className="nav-link"
+          style={{ fontSize: '15px', letterSpacing: '1px', color: pathname === '/' ? 'var(--col-accent)' : undefined }}
+        >
+          Home
+        </Link>
+        <Link
+          href="/manifesto"
+          className="nav-link"
+          style={{ fontSize: '15px', letterSpacing: '1px', color: pathname === '/manifesto' ? 'var(--col-accent)' : undefined }}
+        >
+          Manifesto
+        </Link>
+        <Link
+          href="/contact"
+          className="nav-link"
+          style={{ fontSize: '15px', letterSpacing: '1px', color: pathname === '/contact' ? 'var(--col-accent)' : undefined }}
+        >
+          Contact
+        </Link>
+      </nav>
 
-        {/* Nav links */}
-        <nav className="flex items-center gap-8">
-          {NAV_LINKS.map((link, i) => (
-            <BlurFade key={link.href} delay={0.1 + i * 0.06} duration={0.4}>
-              <a
-                href={link.href}
-                className="font-body text-[13px] uppercase tracking-[0.5px] text-text-secondary hover:text-accent transition-colors duration-150"
-              >
-                {link.label}
-              </a>
-            </BlurFade>
-          ))}
-        </nav>
-
-      </div>
+      <a href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ padding: '13px 28px', fontSize: '13px' }}>
+        Book a Call
+      </a>
     </header>
   )
 }

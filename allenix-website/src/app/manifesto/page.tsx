@@ -1,71 +1,38 @@
-'use client'
-
 import Link from 'next/link'
-import { CyanPixelTrail } from '@/components/ui/pixel-trail'
-
-/* ─── Design tokens (local) ──────────────────────────────────────────────────── */
-const T = {
-  bg:          '#06080a',
-  surface:     '#0d1117',
-  border:      '#1e2730',
-  text1:       '#f0f2f4',   // headlines, leads, strong
-  text2:       '#c0cdd8',   // body — elevated for legibility
-  text3:       '#6a7a8a',   // muted labels, captions
-  accent:      '#00c8b4',   // cyan only
-  accentDim:   '#007d74',
-  accentBg:    '#041e1c',
-}
 
 export default function ManifestoPage() {
   return (
-    <div style={{ background: T.bg, minHeight: '100vh', color: T.text2, fontFamily: 'var(--font-body), Georgia, serif' }}>
+    <div style={{ minHeight: '100vh', color: 'var(--col-text-2)', background: 'var(--col-bg)' }}>
 
-      <CyanPixelTrail />
-
-      {/* ── Fixed header ── */}
-      <header style={{
-        position: 'fixed', top: 0, left: 0, right: 0, zIndex: 50,
-        display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-        padding: '18px 40px',
-        background: 'linear-gradient(180deg, rgba(6,8,10,0.98) 0%, rgba(6,8,10,0) 100%)',
-        backdropFilter: 'blur(2px)',
-      }}>
-        <Link href="/" className="manifesto-wordmark-link" style={{ fontFamily: 'var(--font-display)', fontWeight: 900, fontSize: '31px', letterSpacing: '0.5px', textDecoration: 'none' }}>
-          Allenix
-        </Link>
-        <span className="nav-manifesto-link" style={{ fontFamily: 'var(--font-body)', cursor: 'default' }}>
-          The Manifesto
-        </span>
-      </header>
+      <a href="#manifesto-content" className="sr-only focus:not-sr-only">Skip to content</a>
 
       {/* ── Editorial column ── */}
-      <main style={{ paddingTop: '110px', paddingBottom: '110px' }}>
+      <main id="manifesto-content" style={{ paddingTop: '110px', paddingBottom: '110px' }}>
         <div style={{ maxWidth: '640px', margin: '0 auto', padding: '0 32px' }}>
 
           {/* ── Title block ── */}
           <div style={{ marginBottom: '16px' }}>
-            <div style={{
-              fontFamily: 'var(--font-display)', fontWeight: 900,
+            <h1 className="font-display" style={{
+              fontWeight: 900,
               fontSize: '96px', lineHeight: 1, letterSpacing: '-4px',
-              color: '#ffffff',
-              textShadow: '0 0 20px rgba(255,255,255,0.25), 0 0 50px rgba(255,255,255,0.1)',
+              color: 'var(--col-text-1)',
               marginBottom: '16px',
             }}>
               1836
-            </div>
-            <div style={{
-              fontFamily: 'var(--font-display)', fontWeight: 600, fontStyle: 'italic',
-              fontSize: '24px', color: T.text3, letterSpacing: '-0.3px', marginBottom: '14px',
+            </h1>
+            <div className="font-display" style={{
+              fontWeight: 600, fontStyle: 'italic',
+              fontSize: '24px', color: 'var(--col-text-3)', letterSpacing: '-0.3px', marginBottom: '14px',
             }}>
               A manifesto for Houston
             </div>
-            <div style={{ fontFamily: 'var(--font-body)', fontSize: '11px', fontWeight: 700, letterSpacing: '2.5px', textTransform: 'uppercase', color: T.text3 }}>
+            <div className="font-mono" style={{ fontSize: '11px', fontWeight: 700, letterSpacing: '2.5px', textTransform: 'uppercase', color: 'var(--col-text-3)' }}>
               By Ali Mamujee
             </div>
           </div>
 
           {/* Divider */}
-          <div style={{ height: '1px', background: `linear-gradient(90deg, transparent 0%, ${T.border} 30%, ${T.border} 70%, transparent 100%)`, marginBottom: '8px' }} />
+          <div style={{ height: '1px', background: 'var(--col-border)', marginBottom: '8px' }} />
 
           {/* ════════════════════════════════════════
               THE STAKES
@@ -103,12 +70,11 @@ export default function ManifestoPage() {
               and one sentence so audacious it became the founding line of an American city:
             </BodyP>
 
-            <blockquote style={{
-              borderLeft: `2px solid ${T.accent}`,
-              paddingLeft: '24px',
+            <blockquote className="font-display border-t-2 border-col" style={{
+              paddingTop: '24px',
               margin: '32px 0',
-              fontFamily: 'var(--font-display)', fontStyle: 'italic', fontWeight: 600,
-              fontSize: '20px', lineHeight: 1.55, color: T.text1, letterSpacing: '-0.2px',
+              fontStyle: 'italic', fontWeight: 600,
+              fontSize: '20px', lineHeight: 1.55, color: 'var(--col-text-1)', letterSpacing: '-0.2px',
             }}>
               &ldquo;Nature appears to have designated this place for the future seat
               of Government.&rdquo;
@@ -156,9 +122,9 @@ export default function ManifestoPage() {
             </BodyP>
             <BodyP>
               I named this firm Allenix for both halves of the moment.{' '}
-              <strong style={{ color: T.text1 }}>Allen</strong> for the two brothers
+              <strong style={{ color: 'var(--col-text-1)' }}>Allen</strong> for the two brothers
               who bet on a swamp and built a city.{' '}
-              <strong style={{ color: T.text1 }}>Phoenix</strong> for what is rising
+              <strong style={{ color: 'var(--col-text-1)' }}>Phoenix</strong> for what is rising
               from that city now, two centuries later, in the only ten-year window
               that matters.
             </BodyP>
@@ -174,7 +140,7 @@ export default function ManifestoPage() {
               the coasts for forty years. They are about to be underestimated again.
               That is the asymmetric bet of the decade.
             </BodyP>
-            <BodyP style={{ color: T.text1, fontWeight: 700 }}>
+            <BodyP style={{ color: 'var(--col-text-1)', fontWeight: 700 }}>
               We have ten years to build that firm.
             </BodyP>
           </SectionBlock>
@@ -184,7 +150,7 @@ export default function ManifestoPage() {
           ════════════════════════════════════════ */}
           <SectionBlock label="The Bet" lead="Three units. One brand.">
             <BodyP>
-              <strong style={{ color: T.text1 }}>Allenix Labs</strong> is the engine.
+              <strong style={{ color: 'var(--col-text-1)' }}>Allenix Labs</strong> is the engine.
               We go deep inside mid-market companies, identify the highest-ROI
               opportunities, and deploy the tools, people, and platform that execute
               alongside them. Consulting, training, delivery, and forward-deployed
@@ -192,7 +158,7 @@ export default function ManifestoPage() {
               team they have been reading about, without having to build it themselves.
             </BodyP>
             <BodyP>
-              <strong style={{ color: T.text1 }}>Allenix Studios</strong> is the
+              <strong style={{ color: 'var(--col-text-1)' }}>Allenix Studios</strong> is the
               audience and the megaphone. Editorial, podcast, video, longform, and
               operator dinners that make Allenix the trade publication of the
               operator-led growth category, produced from Houston for the rest of the
@@ -201,7 +167,7 @@ export default function ManifestoPage() {
               paying attention.
             </BodyP>
             <BodyP>
-              <strong style={{ color: T.text1 }}>Allenix Capital</strong> is the
+              <strong style={{ color: 'var(--col-text-1)' }}>Allenix Capital</strong> is the
               compounding arm. We use cash flow and capital partners to acquire small
               operator services businesses, migrate them onto the Labs platform, plug
               them into the Studios audience, and unlock two to three times the
@@ -210,21 +176,19 @@ export default function ManifestoPage() {
             </BodyP>
 
             {/* Three-unit card */}
-            <div style={{
-              border: `1px solid ${T.border}`,
+            <div className="bg-card border border-col" style={{
               borderRadius: '6px',
-              background: T.surface,
               padding: '32px',
               margin: '36px 0',
             }}>
-              <div style={{ fontFamily: 'var(--font-display)', fontWeight: 900, fontSize: '13px', letterSpacing: '0.5px', color: T.text1, textAlign: 'center', marginBottom: '4px' }}>
+              <div className="font-display" style={{ fontWeight: 900, fontSize: '13px', letterSpacing: '0.5px', color: 'var(--col-text-1)', textAlign: 'center', marginBottom: '4px' }}>
                 Allenix in 2036
               </div>
-              <div style={{ fontFamily: 'var(--font-body)', fontSize: '10px', fontWeight: 700, letterSpacing: '2px', textTransform: 'uppercase', color: T.text3, textAlign: 'center', marginBottom: '28px' }}>
+              <div className="font-mono" style={{ fontSize: '10px', fontWeight: 700, letterSpacing: '2px', textTransform: 'uppercase', color: 'var(--col-text-3)', textAlign: 'center', marginBottom: '28px' }}>
                 Three units. One brand. Built in Houston.
               </div>
 
-              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '1px', background: T.border, borderRadius: '3px', overflow: 'hidden' }}>
+              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '1px', background: 'var(--col-border)', borderRadius: '3px', overflow: 'hidden' }}>
                 {[
                   {
                     name: 'Labs',
@@ -242,15 +206,15 @@ export default function ManifestoPage() {
                     lines: ['Acquires validated operators', 'Migrates to Labs platform', '22 acquisitions over a decade', 'Zero acquisition cost'],
                   },
                 ].map(unit => (
-                  <div key={unit.name} style={{ background: T.surface, padding: '20px 16px' }}>
-                    <div style={{ fontFamily: 'var(--font-display)', fontWeight: 900, fontSize: '14px', color: T.text1, marginBottom: '3px' }}>
+                  <div key={unit.name} className="bg-card" style={{ padding: '20px 16px' }}>
+                    <div className="font-display" style={{ fontWeight: 900, fontSize: '14px', color: 'var(--col-text-1)', marginBottom: '3px' }}>
                       {unit.name}
                     </div>
-                    <div style={{ fontFamily: 'var(--font-body)', fontSize: '9px', fontWeight: 700, letterSpacing: '1.5px', textTransform: 'uppercase', color: T.accent, marginBottom: '14px' }}>
+                    <div className="font-mono" style={{ fontSize: '9px', fontWeight: 700, letterSpacing: '1.5px', textTransform: 'uppercase', color: 'var(--col-accent)', marginBottom: '14px' }}>
                       {unit.role}
                     </div>
                     {unit.lines.map(line => (
-                      <div key={line} style={{ fontFamily: 'var(--font-body)', fontSize: '12px', color: T.text3, lineHeight: 1.65 }}>
+                      <div key={line} className="font-body" style={{ fontSize: '12px', color: 'var(--col-text-3)', lineHeight: 1.65 }}>
                         {line}
                       </div>
                     ))}
@@ -258,11 +222,11 @@ export default function ManifestoPage() {
                 ))}
               </div>
 
-              <div style={{ marginTop: '20px', paddingTop: '20px', borderTop: `1px solid ${T.border}`, textAlign: 'center' }}>
-                <div style={{ fontFamily: 'var(--font-body)', fontSize: '10px', fontWeight: 700, letterSpacing: '2px', textTransform: 'uppercase', color: T.text3, marginBottom: '5px' }}>
+              <div style={{ marginTop: '20px', paddingTop: '20px', borderTop: '1px solid var(--col-border)', textAlign: 'center' }}>
+                <div className="font-mono" style={{ fontSize: '10px', fontWeight: 700, letterSpacing: '2px', textTransform: 'uppercase', color: 'var(--col-text-3)', marginBottom: '5px' }}>
                   The outcome
                 </div>
-                <div style={{ fontFamily: 'var(--font-body)', fontSize: '13px', color: T.text2, lineHeight: 1.6 }}>
+                <div className="font-body" style={{ fontSize: '13px', color: 'var(--col-text-2)', lineHeight: 1.6 }}>
                   $200M to $300M revenue. 25 to 35 percent EBITDA. The standard for
                   mid-market growth in the AI era, on the path to a billion-dollar outcome.
                 </div>
@@ -314,7 +278,7 @@ export default function ManifestoPage() {
               THE INVITATION
           ════════════════════════════════════════ */}
           <SectionBlock label="The Invitation">
-            <BodyP style={{ color: T.text1, fontWeight: 700 }}>
+            <BodyP style={{ color: 'var(--col-text-1)', fontWeight: 700 }}>
               It&apos;s a Saturday.
             </BodyP>
             <BodyP>
@@ -330,9 +294,9 @@ export default function ManifestoPage() {
               Allenix is the bet. The next ten years are the work.
             </BodyP>
 
-            <div style={{
-              fontFamily: 'var(--font-display)', fontWeight: 900,
-              fontSize: '32px', color: T.text1,
+            <div className="font-display" style={{
+              fontWeight: 900,
+              fontSize: '32px', color: 'var(--col-text-1)',
               letterSpacing: '-0.5px', marginTop: '40px', marginBottom: '56px',
             }}>
               Let&apos;s go.
@@ -340,11 +304,11 @@ export default function ManifestoPage() {
           </SectionBlock>
 
           {/* ── Signature ── */}
-          <div style={{ borderTop: `1px solid ${T.border}`, paddingTop: '40px', marginTop: '8px' }}>
-            <div style={{ fontFamily: 'var(--font-display)', fontStyle: 'italic', fontWeight: 600, fontSize: '21px', color: T.text2, marginBottom: '36px' }}>
+          <div style={{ borderTop: '1px solid var(--col-border)', paddingTop: '40px', marginTop: '8px' }}>
+            <div className="font-display" style={{ fontStyle: 'italic', fontWeight: 600, fontSize: '21px', color: 'var(--col-text-2)', marginBottom: '36px' }}>
               Ali Mamujee
             </div>
-            <Link href="/" className="nav-manifesto-link" style={{ fontFamily: 'var(--font-body)' }}>
+            <Link href="/" className="nav-manifesto-link font-body">
               Back to Allenix
             </Link>
           </div>
@@ -371,29 +335,27 @@ function SectionBlock({
       {/* Section divider */}
       <div style={{
         height: '3px',
-        background: 'linear-gradient(90deg, transparent 0%, #f0f2f4 20%, #f0f2f4 80%, transparent 100%)',
+        background: 'var(--col-border)',
         marginBottom: '40px',
       }} />
 
-      {/* Large glowing display title */}
-      <div style={{
-        fontFamily: 'var(--font-display)',
+      {/* Large display title */}
+      <h2 className="font-display" style={{
         fontWeight: 900,
         fontSize: '42px',
         lineHeight: 1.05,
         letterSpacing: '-1px',
-        color: '#ffffff',
-        textShadow: '0 0 20px rgba(255,255,255,0.25), 0 0 50px rgba(255,255,255,0.1)',
+        color: 'var(--col-text-1)',
         marginBottom: lead ? '20px' : '28px',
       }}>
         {label}
-      </div>
+      </h2>
 
-      {/* Bold white lead sentence */}
+      {/* Bold lead sentence */}
       {lead && (
-        <div style={{
-          fontFamily: 'var(--font-body)', fontWeight: 700,
-          fontSize: '17px', color: '#f0f2f4',
+        <div className="font-body" style={{
+          fontWeight: 700,
+          fontSize: '17px', color: 'var(--col-text-1)',
           lineHeight: 1.55, marginBottom: '24px',
         }}>
           {lead}
@@ -413,9 +375,9 @@ function BodyP({
   style?: React.CSSProperties
 }) {
   return (
-    <p style={{
-      fontFamily: 'var(--font-body)', fontSize: '17px',
-      color: '#c0cdd8',   // elevated from #8a9bb0 — much higher contrast
+    <p className="font-body" style={{
+      fontSize: '17px',
+      color: 'var(--col-text-2)',
       lineHeight: 1.85, marginBottom: '22px',
       ...style,
     }}>

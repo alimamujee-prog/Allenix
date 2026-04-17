@@ -13,14 +13,13 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@radix-ui/react-slot": "^1.2.4",
-    "class-variance-authority": "^0.7.1",
+    "@vercel/kv": "^3.0.0",
     "clsx": "^2.1.1",
-    "framer-motion": "^12.38.0",
     "lucide-react": "^1.8.0",
     "next": "^14.2.35",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "resend": "^6.12.0",
     "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {

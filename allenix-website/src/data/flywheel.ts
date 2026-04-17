@@ -33,12 +33,12 @@ export const flywheelData: Record<string, UnitData> = {
       {
         key: 'strategy',
         name: 'Strategy',
-        desc: 'A four-week diagnostic that maps every revenue workflow and produces a prioritized AI Opportunity Map with dollar-quantified levers. The entry point for every Labs engagement. We tell you what to build and what to stop building.',
+        desc: 'A four-week diagnostic that maps every revenue workflow and produces a prioritized AI Opportunity Map with dollar-quantified levers. The entry point for every engagement. We tell you what to build and what to stop building.',
       },
       {
         key: 'training',
         name: 'Training',
-        desc: 'In-person workshops and team cohorts that meet your operators where they are. We upskill the people who have to run the system after we leave. Includes an online academy for ongoing learning at scale.',
+        desc: 'In-person (ideal) and virtual workshops that meet your operators where they are. We upskill the people who have to run the system after we leave.',
       },
     ],
     gtm: [
@@ -47,9 +47,7 @@ export const flywheelData: Record<string, UnitData> = {
       { key: 'website', name: 'Website', desc: 'We rebuild or redesign your web presence to convert the traffic you are already getting. Built for the operator buyer, not the general market.' },
       { key: 'sales-enablement', name: 'Sales Enablement', desc: 'We build the tools your sales team needs to close faster. Pitch decks, one-pagers, case studies, proposal templates, and objection guides.' },
       { key: 'crm', name: 'CRM Optimization', desc: 'We rebuild your pipeline stages to match how deals actually move, automate the follow-up no one remembers, and create dashboards the CEO actually reads.' },
-      { key: 'content-strategy', name: 'Content Strategy', desc: 'We design the content system that keeps you visible between sales calls. Every piece has a job: attract, educate, or convert.' },
       { key: 'seo', name: 'SEO / AEO', desc: 'We optimize your digital presence for both search engines and AI answer engines. Your buyers are searching. We make sure you show up.' },
-      { key: 'outbound', name: 'Outbound', desc: 'We build and run the outbound motion that finds your next ten clients before they find you. Sequences, targeting, messaging, and follow-up. Automated by Magnolia.' },
     ],
     ops: [
       { key: 'proposal-automation', name: 'Proposal Automation', desc: 'An agent that generates first-draft proposals in minutes from a short intake form. Cuts proposal time from hours to minutes. One of the fastest ROI wins in any engagement.' },
