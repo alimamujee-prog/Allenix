@@ -1,0 +1,1019 @@
+How to Make
+a Go-to-Market
+Methodology
+Stick.
+
+Dave Boyce and Dominique Levin (Winning by Design)
+In collaboration with Winning by Design Customer Advisory Board:
+Ian Westbrook (DocuSign)
+Panos Maintanis (TalkWalker)
+Rachael Smith (Dropbox)
+Chuck Marcouiller (FreightWaves)
+
+Stacey Justice (HashiCorp)
+Sarah Houlihan (Clari)
+Jill Guardia (Thought Industries)
+Julien Cerutti (Meltwater)
+
+Ashton Williams (Slack)
+Sonja Damerval (Kandji)
+Gail Behun (JuniperSquare)
+Tom Cheriyan (Rattle)
+
+June 2023
+
+of 16
+
+PART ONE:
+HOW TO PICK A GTM METHODOLOGY
+So you want to optimize your go-to-market?
+
+measured, right?
+
+Perhaps you feel your sales team could be more
+efﬁcient?
+
+Yes and no.
+
+Maybe you believe sales needs to be trained in
+this methodology or that?
+Perhaps you had great success with a
+methodology in the past, and you know if you
+could get a methodology installed in your
+current company, it would up everyone’s game
+and improve results.
+If you’ve had positive experiences in the past
+running a sales methodology, you are likely to
+lean toward that methodology again, but you’re
+also aware of the old adage:
+
+“The best methodology is the one that
+gets adopted.”
+So does it really matter which methodology you
+choose? As long as it’s being followed/tracked/
+
+Yes - It’s important that your sales organization
+all operates from the same playbook. And in that
+sense, any methodology is better than no
+methodology.
+But No – which methodology really does matter.
+It depends what you are trying to accomplish.
+And a methodology is just part of the answer. If
+what you are looking for is consistency and
+effectiveness across the entire revenue
+organization, what you need is not a sales
+methodology, but a GTM methodology. And if
+you want all those activities to sync to a
+backbone of consistent metrics, and a holistic
+growth model that contemplates demand
+generation and acquisition and activation and
+retention and growth loops – what you really
+need is a Revenue Operating Model.
+
+Sales Methodology
+Go-to-Market Methodology
+Revenue Operating Model
+Go-To-Market (GTM) Methodology vs. Operating Model
+Beyond $10M in Annual Recurring Revenue, a
+revenue organization operates as a factory. The
+Go To Market (GTM) team consists of Product,
+Marketing, Sales, and Customer Success, who
+work together to produce revenue.
+In physical manufacturing, Kaizen, Six Sigma,
+and Lean Manufacturing are methodologies
+designed to increase the quantity and quality of
+production, while reducing cost.
+
+In our GTM factory, we want to increase
+revenue, improve customer outcomes, and
+decrease costs.
+The objectives are the same, so where is the
+Kaizen for GTM?
+●
+
+A Methodology deﬁnes how a GTM team
+member behaves: contextual awareness,
+skills, process
+
+How to Make a Go-to-Market Methodology Stick.
+
+2 of 16
+
+PART ONE
+
+●
+
+An Operating Model deﬁnes the
+parameters of the system within which
+these GTM team members work.
+
+The Revenue Operating Model lays out the
+processes and mathematical principles that
+underpin the quantity, quality and cost of revenue
+production.
+●
+
+How do your customers prefer to buy?
+
+●
+
+How can you organize to serve them?
+
+●
+
+What processes are best employed to
+maximize revenue and impact while
+minimizing cost?
+
+Part of deﬁning your Revenue Operating Model is
+picking your GTM motion(s). This is highly
+speciﬁc and dependent on the needs of your
+speciﬁc market. For instance:
+➔
+
+An outbound GTM model would be the
+exact wrong choice for a low-price,
+self-service product
+
+➔
+
+A product-led-growth GTM model
+would be perfectly wrong for complex,
+bespoke solutions
+
+And whatever model you choose, it needs to be
+deﬁned and executed as a set of consistent
+processes, relying on common language, a
+measurement structure that allows you to
+monitor what is within tolerance, and what
+needs to be addressed, and a system for
+addressing issues that arise.
+The process-driven organization does not
+assign blame or credit to individual humans. If
+something goes right, it is (hopefully) due to a
+successful execution of process. If something
+fails, either the process is wrong, or it was
+poorly executed.
+A GTM Methodology, combined with a Revenue
+Operating model, provide the framework for
+establishing a process culture and an
+architected revenue machine.
+
+Figure 1. A comprehensive Revenue Operating Model goes beyond skills training to deﬁne your data model,
+process, tools, enablement, and perhaps even organization and compensation design.
+
+How to Make a Go-to-Market Methodology Stick.
+
+3 of 16
+
+PART ONE
+
+How to Pick the Right GTM Methodology for Your Business
+You’re convinced you need a
+GTM Methodology, and you
+want to ensure you choose one
+suited to your business.
+All methodologies typically
+include:
+➔
+
+Common language
+(diagnostic framework,
+customer impact)
+
+➔
+
+Coaching framework
+(knowledge, skills,
+certiﬁcation)
+
+➔
+
+Ability to codify into
+CRM (real-timecoaching, turn-by-turn
+directions)
+
+But beyond that, the details of the methodology matter.
+Questions to ask yourself include:
+1.
+
+Does this methodology make it easy for customers to
+buy from you?
+
+2.
+
+Is this methodology relevant for all Go To Market teams
+(marketing, sales, customer success)?
+
+3.
+
+Is this methodology customer-centric: focused on
+achieving customer impact, rather than merely
+qualifying deals?
+
+4.
+
+Is this methodology ﬂexible enough to incorporate
+things already working well within your organization?
+
+5.
+
+Is this methodology easy to measure within the systems
+you already have? Can it be integrated into your tech
+stack beyond CRM (e.g., sales engagement, CS
+management, and conversational intelligence)?
+
+6.
+
+Can you continue to evolve and build on this
+methodology independently without incurring ongoing
+licensing fees?
+
+7.
+
+What is the methodology activation plan for executives,
+frontline managers, and individual contributors? (see
+the next section for more on that)
+
+8.
+
+What enablement materials are available to provide reps
+turn-by-turn directions on how to implement the
+required process and skills?
+
+“
+
+“We’re creating a Revenue Architecture and a consistent, common language throughout
+the entire customer journey. I foresee a day when the BDR organization shapes the
+experience from the beginning, and that same experience runs all the way to a CS consult,
+transforming what we're doing in terms of CS operations.”
+- Julien Cerutti, Meltwater
+
+How to Make a Go-to-Market Methodology Stick.
+
+4 of 16
+
+PART ONE
+
+Leadership Alignment
+Sometimes we mistakenly believe that whoever
+holds the budget for implementing a
+methodology also holds the responsibility for
+ensuring success. That’s a logical conclusion,
+but it assumes too much of one leader. One
+leader cannot succeed in a GTM transformation
+without alignment across the entire
+organization.
+
+Question: Where does the budget live for
+implementing a GTM methodology or GTM
+Operating Model?
+Answer: That’s not the operative question. No
+matter who controls the budget, we need to
+align all stakeholders.
+
+Yes you need budget, but even more than that,
+you need alignment. Let’s say the budget lives
+with Enablement. Does that mean Enablement
+can run this project independently and ensure
+success?
+No.
+
+What if the budget lives with Revenue Operations?
+Also no.
+What if your company has one of these fancy
+new titles like, “Director of Revenue Enablement,
+Strategy and Operations,” and what if all revenue
+support functions report there?
+Still no.
+At a recent gathering of the Winning by Design
+Customer Advisory Board, the consensus opinion
+was clear:
+Leadership alignment is required both when
+choosing a GTM methodology and especially
+when implementing. The group speciﬁcally called
+out alignment across 3 levels of leadership:
+1.
+
+Executive Leadership (C-level)
+
+2.
+
+Sales Leadership (VP-level)
+
+3.
+
+Front-line management
+
+Involve enough of your leadership in the
+methodology selection to send the signal that
+this is non-optional.
+
+“
+
+“I feel like we underestimate executives in this. Your executives are who make it
+‘promotable work.’ They say, ‘this is our way.’ They make it a matter of company pride to
+follow global standards.”
+- Ashton Williams, Slack
+
+How to Make a Go-to-Market Methodology Stick.
+
+5 of 16
+
+PART TWO:
+HOW TO ENSURE YOUR METHODOLOGY STICKS
+Higher adoption leads to better results.
+But higher adoption is a function of the
+activation plan. So what is your activation plan?
+If you plan to simply roll out your new
+methodology in waves of training across your
+organization – accompanied by certiﬁcation – it
+likely does not matter what methodology you
+choose.
+Why?
+
+The best reps will pay attention, remember
+what they were taught, and make
+permanent adjustments to their approach
+that incorporate the parts of the new
+methodology that resonate.
+Middle-of-the-pack reps will forget soon.
+And your lowest performers will look to get
+the checkmark of having participated in
+training, then go back to what they were
+doing.
+
+Because it won’t stick.
+
+Training alone does not work, it does not stick, and it does
+not affect change in a way that is transformational.
+
+Design
+
+Activate
+
+Operate
+
+1. Leadership
+Alignment
+
+4.
+
+Speed Team /
+Pilot Team
+
+7. Ongoing
+Measurement
+
+2. Impact Metrics &
+Leading Indicators
+
+5.
+
+“Pull” Marketing
+
+6.
+
+Phased Rollout:
+Impact Sprints
+
+8. Culture of
+Coaching
+
+3. Baselining
+
+How to Make a Go-to-Market Methodology Stick.
+
+9. Operationalized
+Enablement
+
+6 of 16
+
+PART TWO
+
+Design
+
+1. Leadership Alignment
+
+“
+
+“If you don't have the senior leaders who actually go through the training and are willing
+to inspect using the language of that methodology, it will fail every time.”
+- Chuck Marcouiller, Freightwaves
+
+An investment in a GTM Methodology is
+expensive. Investing in a GTM Operating Model
+is even more so.
+
+One way to ensure failure is to not have
+alignment and support from leadership.
+
+And the most expensive investment you make is
+not measured in money – it’s measured in time
+and attention.
+
+If a rep walks out of training where they learned
+X and into a review with their manager where
+she hears Y, what do you think she will do? Y.
+Every time.
+
+One thing is sure: if you roll out a new
+methodology across your teams, they will invest
+hundreds or thousands of hours in classrooms,
+workshops, and roleplays.
+
+Our Customer Advisory Board feels that
+Leadership Alignment is so critically important,
+they are willing to stop a project until alignment
+can be secured.
+
+Now the question is whether that will make any
+difference?
+
+“
+
+“We did a go-to-market analysis that included a lot of input from reps and teams and
+front-line managers. But as we began to deﬁne the process, we took it out of committee and
+put the onus on the senior sales leadership team. Through this process they became
+accountable, and now they're bought into what we're rolling out, which to me is really key.”
+- Stacey Justice, HashiCorp
+
+How to Make a Go-to-Market Methodology Stick.
+
+7 of 16
+
+PART TWO
+
+Design
+
+2. Impact Metrics & Leading Indicators
+
+If we are to see results from the roll out of a
+GTM methodology, leaders must align on goals.
+Ideally we would pick an initial metric to focus
+on. For example, the goal of the initial
+methodology roll-out could be to increase rep
+productivity by increasing the close rate or by
+decreasing the discount rate.
+Note: It doesn’t matter as much which metric you
+pick as long as you focus on one or two at most
+per team. If you’re trying to master tennis, you
+cannot improve your serve, forehand, backhand,
+and smash - or your swing, grip, and stance all at
+the same time. Aim small, miss small.
+
+to improve “Impact Metrics.” Some good
+examples of GTM Impact Metrics would be:
+➔
+➔
+
+Improve discount rate
+Improve qualiﬁcation by raising
+conversion rate from MQL to SQL (CR3)
+
+Impact Metrics are targeted enough to isolate
+and measure, but with sales cycles being what
+they are, improvements in Impact Metrics may
+not be visible for weeks or months. What
+improvements can we see sooner?
+Leading Indicators correlate with Impact
+Metrics, but they are easier and faster to
+measure and improve.
+
+We call these targeted outcomes you are trying
+
+Ideally we want to see Leading Indicators improve from day-to-day and week-to-week. At a minimum
+within 90 days we should see improvements in Leading Indicators, which–if we chose them correctly–will
+directly correlate with Impact Metrics.
+
+Leading Indicators
+Impact Metrics
+
+90 days
+
+Whether you adopt standard deﬁnitions provided by Winning by Design or create your own, step one is to
+choose the metrics you want to impact, deﬁne them, and write down the deﬁnitions.
+
+How to Make a Go-to-Market Methodology Stick.
+
+8 of 16
+
+PART TWO
+
+Design
+
+3. Baselining
+
+Now that you have deﬁned your Impact Metrics
+and Leading Indicators, it’s time to baseline.
+
+growing or shrinking teams and for fewer or
+more effective work days in any given period.
+
+Baselining is best done on a trailing 90-day
+basis, team by team.
+
+For rate-based metrics (%), no such
+normalization is required – as long as the
+deﬁnition remains consistent, you can compare
+across periods within the same motion,
+regardless of ﬂuctuations in team composition.
+
+For volume metrics, you will want to normalize
+output on a per-rep-period basis to account for
+
+Activate
+
+4. Speed Team
+
+As soon as is practical, name a pilot team (we
+call it a Speed Team) to be the ﬁrst to adopt the
+Methodology and post results; this pays huge
+dividends.
+
+on the robustness of the manager and the team
+members. The ideal Speed Team is not afraid of
+new things, and their challenge is threefold:
+1.
+
+Iron out the kinks: ﬁnd ways to improve
+and perfect the application of the
+methodology to your speciﬁc market
+and customers
+
+2.
+
+Show what good looks like: post metrics
+that exceed baseline and set a bar for
+the rest of the company
+
+3.
+
+Establish themselves as experts:
+become a resource for the rest of the
+team who comes after
+
+A Speed Team is one manager and 6-10 reps, all
+running a single motion in a single segment.
+The Speed Team will admittedly be stepping out
+in front of the rest of the teams – perhaps even
+before processes (Playbooks) are fully designed.
+This is not a problem.
+Why? Because we choose a Speed Team based
+
+Activate
+
+5. “Pull” Marketing
+
+Early results from a Speed Team are always
+good. Always.
+Really?
+Yes. Because a) we chose the right team with
+the right manager, b) we challenged them, and
+c) we gave them excellent resources to adopt
+and apply the Methodology.
+As good metrics begin accumulating, we
+publicize the experience and results of the
+Speed Team to other teams awaiting the
+
+Methodology. Speed Team members become a
+sounding board and coaching resource for
+teams who subsequently onboard to the new
+methodology. And whereas the baseline is the
+“thing to beat,” the fact that the Speed Team is
+already beating the baseline becomes all the
+more motivating for subsequent teams.
+This is called “Pull” marketing as opposed to
+traditional “Push” rollouts, because in this
+environment, teams look forward to receiving
+the goodness their predecessors already got.
+
+How to Make a Go-to-Market Methodology Stick.
+
+9 of 16
+
+PART TWO
+
+Activate
+
+6. Phased Rollout: Impact Sprints
+
+At this point we have:
+➔
+➔
+➔
+➔
+➔
+
+Leadership Alignment
+Metrics Deﬁnitions
+Baseline performance
+Speed Team results (what good looks like)
+Teams waiting to adopt
+
+With all that in place, what could possibly go
+wrong?
+You’d be surprised.
+Don’t blow this.
+
+“An amateur practices until they get it
+right; a professional practices until they
+can’t get it wrong.”
+If you’ve executed well to this point, you have
+
+anxious / eager reps, front-line managers, and
+leadership all calling out to speed things up.
+
+“What’s stopping us from just rolling out
+the whole methodology? We have it
+designed, right? Just train the crew and let
+the managers handle the reinforcement.”
+That’s the right idea, but no. Managers do need
+to handle the reinforcement (more on that in the
+next section). But the question is – how much can
+reasonably be understood, practiced, inspected,
+improved, and measured at once?
+Answer: you know the answer.
+Humans are humans, and we learn how we learn.
+Kandji handled this problem by breaking down
+their transformation into chunks.
+
+“
+
+“We broke our Playbook into monthly chunks that we use for ongoing enablement for
+existing reps. We train fundamental skills on Thursdays and do rolling certiﬁcations.
+Managers are informed who opts in, the skills are reinforced by sales management in a
+‘Study Hall’ on Fridays, and then reinforced in their team meetings on Tuesdays.”
+- Sonja Damerval, Kandji
+
+At Clari, they felt instinctively that although they need a complete methodology, they want to deliver these
+skills to their reps in digestible pieces:
+
+“
+
+“There are speciﬁc things we want to enhance from a skill standpoint. We want to focus on
+discovery. We want to focus on negotiating. We want to bring more value into all of our
+deals. And we really appreciated that we could diagnose speciﬁc pain points for ourselves
+and bring in someone to help address those things.”
+- Sarah Houlihan, Clari
+
+How to Make a Go-to-Market Methodology Stick.
+
+10 of 16
+
+PART TWO
+
+Activate
+
+6. Phased Rollout: Impact Sprints - Continued
+
+Freightwaves has been taking one Impact Metric at a time, starting with the worst-performing parts of their
+selling process, based on rep conversion data compared with industry standards.
+
+First they took on discovery. By introducing a
+best-in-class methodology around discovering
+Situation, Pain and Impact, Freightwaves tripled
+conversion rates from discovery to demo.
+
+Next they took on discounting – swapping out the
+historical practice of “discounting to get the deal”
+for “trading something of value.” The overall
+discount rate fell signiﬁcantly, with one of their
+strongest performing reps lowering average
+discount from 52% to 17%.
+
+3X
+
+Discount Rates
+
+52%
+
+discovery
+
+17%
+
+demo
+
+Across example after example of successful transformations, we have seen the pattern of designing big, rolling
+out small. Establish the Operating Model, train two skills at a time.
+Having studied these patterns of success, Winning by Design has developed a system of phased rollout based on
+what we call an “Impact Sprint.”
+An Impact Sprint is a focused effort on one or two skills with associated Impact Metrics and Leading Indicators.
+It involves teaching, demonstrating, practicing, role-playing, and ongoing measurement and coaching.
+
+t
+fec
+
+t
+fec
+
+per
+
+per
+ice
+
+ct
+pra
+
+ice
+
+ct
+pra
+
+skill
+
+How to Make a Go-to-Market Methodology Stick.
+
+11 of 16
+
+PART TWO
+
+Operate
+
+7. Ongoing Measurement (Impact Ofﬁce)
+
+For a new methodology to create lasting
+change, ongoing measurement of the Impact
+Metrics and Leading Indicators is required.
+Ideally, each manager knows her team’s metrics,
+manages to them, and coaches to them –
+leveraging the system she inherited.
+
+But the effort is not only about measurement
+and reporting – it is also about triaging things
+that surface as “out of tolerance.” Much like the
+manufacturing system of Six Sigma, this effort is
+a way to spot what is not working as expected,
+and aim attention and effort there, to bring the
+revenue factory back up to full potential.
+
+“
+
+“Understanding both the adoption of a GTM Methodology and its impact on
+the business is critical. One way to achieve this is to instrument and measure
+the “completeness” of SPICED ﬁelds in your CRM. By correlating these
+metrics with both win rate and deal size, you can gain valuable insights on
+the correlation of methodology adoption and business impact.”
+- Ian Westbrook, DocuSign
+
+➔
+
+Talkwalker has implemented SPICED in Salesforce, in all
+internal and external case studies, throughout Gong using
+trackers, and in all internal win announcements.
+
+➔
+
+Freightwaves measurements lift each time they focus on an
+Impact Metric. As these metrics improve, they measure the
+resulting compound impact on growth.
+
+➔
+
+HashiCorp maintains a Productivity Council for revenue,
+where all improvements in Impact Metrics are reported. In
+terms of Leading Indicators, HashiCorp is also working
+with Gong on a SPICED integration that will not only score
+calls based on the methodology, but also insert evidence of
+SPICED into Salesforce.
+
+How to Make a Go-to-Market Methodology Stick.
+
+Ongoing measurement
+requires metrics to be
+codiﬁed in systems and
+summarized on an ongoing
+basis. We call this approach
+an Impact Ofﬁce, and our
+recommended minimum
+frequency for executives to
+engage with the Impact
+Metrics is quarterly.
+
+12 of 16
+
+PART TWO
+
+Operate
+
+8. Culture of Coaching
+
+The key to any change program is front-line
+managers.
+The managers must believe.
+They must know the Methodology better than
+the reps.
+They must be willing to dive into deal reviews,
+process inspection, and skills assessment, using
+the language and structure of the Methodology.
+
+“
+
+“Our focus has been entirely on our
+frontline managers. The objective is
+to operationalize and make sure
+this effort is really sticky.”
+- Gail Behun, JuniperSquare
+
+Managers must be able to inspect, coach, and
+inspire – all the while reinforcing the chosen
+Methodology and metrics. They must be able to
+diagnose issues by assessing an individual’s
+Results, determining whether the rep is lacking
+in Effort, Knowledge, or Skill, and then have the
+coaching tools to work with the rep to improve.
+Reps don’t need managers. They need coaches.
+
+“
+
+“Most of our reps have been trained
+and understand all the bits and
+pieces. But now they need coaching.
+We are now focusing all our efforts
+on leadership alignment to establish
+a coaching culture.”
+- Jill Guardia, Thought Industries
+
+Operate
+
+9. Operationalized Enablement
+
+Not every rep will remember and implement the
+elements of your new GTM Methodology. In
+fact, most will forget the majority of the training
+once it is over.
+
+Coaching is one solution, but it is not foolproof.
+So how does this become more foolproof?
+Operationalization.
+
+“
+
+“Creating an ecosystem where the GTM Methodology is fully and accurately represented in
+all aspects of the sellers ecosystem is key. For example, ensuring all relevant Enablement
+content, sales tech stack experiences and performance management reports align to the
+core principles of the GTM Methodology helps ensure/reinforce adoption. By taking
+meaningful steps in this area, all sellers, managers, enablers and operators are effectively
+"living and breathing" the methodology in what they see, hear and leverage on a daily basis.”
+- Ian Westbrook, DocuSign
+
+How to Make a Go-to-Market Methodology Stick.
+
+13 of 16
+
+PART TWO
+
+Operate
+
+9. Operationalized Enablement - Continued
+
+Some options for operationalization follow:
+●
+
+●
+
+Standardization: As mentioned above,
+DocuSign and Talkwalker have both
+implemented SPICED as a standard set
+of ﬁelds in Salesforce, allowing for a
+consistent way of inspecting and
+measuring rep compliance with the
+methodology and overall deal health
+Automation: Many technology
+companies have incorporated SPICED
+and the Winning by Design Bowtie into
+their platforms in such a way that it is
+“automatic” to follow the methodology
+with this enabled:
+○ Winn.ai prompts reps during
+discovery calls with suggested
+SPICED questions, then listens to
+the call, automatically picks out
+SPICED language, and populates
+the language into conﬁgured
+Salesforce ﬁelds on the opportunity
+○ Gong has released a beta version of
+“trackers,” conﬁgured to SPICED,
+whereby it can listen for and log
+indicators of SPICED into
+Salesforce automatically
+○ Catalyst has implemented the
+Bowtie into its standard system for
+managing customer engagement
+post-initial sale
+
+BenchSights has standardized on
+the Bowtie as its data model for
+benchmarking GTM motions across
+the industry
+Mandate: Some companies mandate the
+completion of SPICED ﬁelds for an
+opportunity to progress through the
+funnel:
+○ Slack has standardized all deal
+reviews to include aspects of the
+SPICED methodology. This makes
+deals inspectable and measurable
+consistently across teams.
+○ Thought Industries has also
+standardized all deal reviews using
+the SPICED methodology, making
+inspection and measurement easy.
+Just-in-time Enablement: The concept
+of just-in-time help / enablement is
+becoming more popular
+○ Rattle has deployed in-app
+guidance within their CRM. This
+surfaces the right resources at the
+right time, depending on triggers
+within CRM. For instance, if a
+$six-ﬁgure deal enters the proposal
+stage, the rep is presented with a
+video on “Trade vs. Negotiation” to
+remind them of the skill that is
+relevant
+○
+
+●
+
+●
+
+These approaches bring the contents of the methodology right to the point of decision / action, so reps
+are not required to a) remember or b) look up the relevant skills as they are needed as they work with
+their customers.
+We believe operationalization will become more and more popular as Methodologies become more and
+more embedded into how GTM teams operate.
+
+Do we really need an approach this comprehensive?
+No… only if you want results, and only if you want them to stick.
+It’s like Mom used to say: “Only brush the teeth you want to keep.”
+
+How to Make a Go-to-Market Methodology Stick.
+
+14 of 16
+
+SUMMARY
+
+“
+
+“If you don’t know where you’re going, any road will get you there.”
+- Lewis Carroll
+
+In today’s environment of sustainable growth, it is
+important to architect your growth by design.
+Each piece of the revenue factory produces
+important inputs for the next piece, and marginal
+gains across the entire process can compound to
+produce impressive – even transformational –
+results.
+Not all methodologies are as ambitious as to take
+on the problem of growth.
+Not all methodologies are built to ﬁt within a
+Revenue Operating Model.
+Rolling out a holistic GTM Methodology (or
+Operating Model) is ambitious, but remember:
+1.
+
+2.
+3.
+
+Training on “any” methodology will get you
+consistency and certiﬁed personnel, but it
+may not get you results.
+Hit-and-run training will produce impact
+that is momentary at best.
+Choosing a sales methodology (versus a full
+GTM Methodology) may improve the Sales
+portion of the revenue machine, but it may
+create disconnect with the Customer
+Success portion.
+
+Collectively, we believe in the Revenue
+Architecture approach to
+transformation. We believe a Revenue
+Operating Model, a deﬁned set of
+processes, an agreed-upon set of
+metrics, ongoing measurement and
+tuning, and a culture of coaching are a
+responsible way of approaching a
+transformation.
+Conversely, we believe hit-and-run
+approaches to training get you
+checks-in-the-boxes, but no lasting
+change.
+It is our experience this can be done.
+Growth can be architected and
+managed according to that
+architecture.
+
+Go, ﬁght, win!
+- Dave, Dominique, and the entire
+WbD Customer Advisory Board
+
+How to Make a Go-to-Market Methodology Stick.
+
+15 of 16
+
+of 16
+
+

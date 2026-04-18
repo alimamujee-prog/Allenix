@@ -1,0 +1,1868 @@
+Customer Success
+as a Proﬁt Center
+This paper examines how the Customer Success (CS) function
+represents an untapped area of opportunity for B2B companies. It
+explains how to update the Customer Success model to avoid lost
+revenue and proﬁts, and how to achieve exponential growth by
+delivering greater customer impact.
+
+Julie Weill Persofsky and Jacco J. van der Kooij
+Winning by Design
+March 2021
+
+of 17
+
+Summary Points
+●
+
+Customer Success should be thought of and modeled as a proﬁt center, not a cost center
+
+●
+
+When managed properly, the Customer Success team delivers exponential growth, not just
+additive growth
+
+●
+
+Lower churn and higher upsell leads to greater customer lifetime value without additional
+acquisition costs
+
+●
+
+By focusing on higher frequency upsell opportunities, companies can increase their revenue
+from existing accounts by more than 40%
+
+●
+
+By basing the number of accounts per CSM on the time required for each account to be
+successful, rather than on revenue ratios, companies can double revenue from existing accounts
+
+●
+
+CS and company leadership should focus on maximizing proﬁtability rather than productivity, in
+order to achieve exponential growth.
+
+Customer Success,
+Misunderstood
+
+implementation in an industry that, up to that
+
+Recurring revenue models are not new. Consider
+
+and based on their approach, CS was treated as a
+
+point, had seen a high failure rate [Ref. 2]. Vantive
+set the precedent for the use of the CS function -
+
+the auto mechanic who performs regular oil
+changes, the stylist with clients who books
+services every month, or the wireless service
+provider that charges customers each month.
+Software-as-a-Service (SaaS) companies did not
+invent the recurring revenue model. But they did
+institutionalize how companies manage
+customers within these recurring revenue
+models: this management model is the
+deployment of Customer Success (CS) teams.
+
+new cost center by businesses. Under this
+cost-center mentality, CS was initially deployed
+only when a company was likely to lose a
+customer, rather than to manage every customer
+relationship. Over time, however, the scope and
+responsibility of the typical CS team evolved and
+grew. And in the past decade, the Customer
+Success Manager (CSM) role has become
+foundational to nearly every software and
+cloud-based company [Ref. 3].
+
+Vantive Corporation, a CRM company founded in
+1990, launched the ﬁrst-ever Customer Success
+team in 1996. [Ref. 1]. The Vantive CS team was
+introduced to reduce customer churn during
+
+Customer Success as a Proﬁt Center
+
+2 of 17
+
+A Shift In Perspective:
+Cs As The Driver Of Higher
+Lifetime Value
+Customer Success teams typically operate using
+a revenue model that follows an additive
+
+from cost center to signiﬁcant revenue driver and
+proﬁt center. As we delineate below, leaders and
+companies that embrace this modern approach
+to Customer Success (CS 2.0) can realize far
+greater growth compared to those who maintain
+the historical view of CS as a cost center [Ref. 5].
+
+approach, whereby net retention is the sum of a
+
+By taking into account the many avenues for
+
+mathematical equation, as demonstrated in
+
+growth in CLV, we see the model is not simply
+
+Figure 1. It shows that net revenue is the result of
+
+additive. Rather, the CS model operates as a
+
+adding new revenue and subtracting lost (or
+
+multiplier because it can accelerate revenue
+
+churned) revenue; this model is very similar to
+
+growth beyond what results from new logo sales.
+
+the method laid out by Vantive in 1996. However,
+
+Customer Success
+New | revenue from new customers
++ Expansion | revenue from existing customers
+Customers
+
+- Churned | revenue from existing customers
+
+Lifetime
+Value
+
+= Net New Revenue
+- The Cost | of the Customer Success organization
+Figure 1: The additive net revenue model typically used by CS teams.
+
+this traditional approach fails to recognize the
+
+In sales metrics, we multiply the number of leads
+
+full opportunity for growth in customer lifetime
+
+by a series of conversion rates across stages to
+
+value (CLV). For instance, an increase in CLV
+
+get to a total number of closed-won customers.
+
+could be driven by quantitative impact, including
+
+And we know from Sales that small
+
+periodic revenue growth, reduced churn,
+
+improvements at each conversion point can have
+
+increased proﬁtability and lower cost-to-serve.
+
+an exponential impact on results [Ref. 6].
+
+CLV can also be increased through qualitative
+impact, including actionable and cost-effective
+product and experience feedback, competitive
+insights, and positive word-of-mouth, such as
+customer references and product ratings.
+[Ref. 4].
+
+What happens when this model is applied to CS?
+By improving conversion rates through post-sale
+lifecycle stages, overall customer retention and
+expansion deliver similar exponential impact.
+Consider this: A ﬁve percent increase in retention
+results in an estimated 25 percent to 95 percent
+
+By recognizing the full potential of existing
+
+increase in revenue [Ref. 7].
+
+customers to contribute to growth, CS can shift
+
+Customer Success as a Proﬁt Center
+
+3 of 17
+
+CS is able to drive this larger revenue impact,
+
+perspective on what Customer Success is and the
+
+while Sales is more limited by its linearity. A sales
+
+impact it can deliver in a recurring revenue
+
+cycle is ﬁnite, with a clear beginning and end.
+
+model.
+
+When a prospect becomes a customer, the seller
+
+A New Operating Model
+for CS 2.0
+
+typically hands off that customer to another
+team, so the seller can continue hunting for more
+new customers. After that initial sale, CS has the
+potential to hold onto that account in perpetuity
+
+To get the rewards of CS as a revenue driver, we
+
+through ongoing renewals. Taking this further,
+
+must ﬁrst understand how to measure the CS
+
+AWARENESS
+
+SELECTION
+
+EDUCATION
+
+ONBOARD
+
+IMPACT
+
+CR5
+
+CR6
+
+GROW
+
+Conversion Rate
+CR1
+
+#PROSPECT
+
+CR2
+
+#MQL
+
+CR3
+
+CR4
+
+#SQL #SAL
+
+#COMMIT
+
+#LIVE
+
+CR7
+
+#MRR
+
+#CLV
+
+Figure 2: Conversion metrics across the bowtie funnel demonstrating
+one-time impact versus compound impact [Ref. 8].
+
+consider the opportunities for growth while
+customers are in the hands of CS, because
+revenue potential is not limited to renewals
+alone. There is also potential for upsell and
+cross-sell revenue, including new buying centers
+or product lines. This ongoing opportunity is
+what makes the growth potential driven by CS
+truly exponential.
+
+function and how it supports customers.
+At its core, Customer Success supports at least
+three objectives: Onboard (CR5), Retain (CR6)
+and Expand (CR7). Each of these objectives
+contributes to revenue growth and proﬁtability,
+showing both how effective a team is at helping
+customers move through these stages, as well as
+the impact of each on revenue.
+
+Just as in Sales, it is essential to understand the
+conversion points that CS manages. As depicted
+in Figure 2, the recurring impacts in CR6
+(retention) and CR7 (expansion) are important
+for businesses to track and measure. This
+understanding allows leaders to see a
+
+Customer Success as a Proﬁt Center
+
+4 of 17
+
+CUSTOMER
+SUCCESS
+
+Customers
+
+CR5
+MRRCOMMIT
+
+ONBOARD
+
+Lifetime Value
+
+CR6
+MRRNEW
+
+CR7
+
+RENEW
+
+MRRRETAIN
+
+EXPAND
+
+CLV
+
+CLV = MRRCOMMIT x CR5 x CR6 x CR7
+Multiplying multiple times creates
+an exponential impact
+Figure 3: How to calculate customer lifetime value.
+
+Albert Einstein reportedly said, “Compound
+
+never-ending loop means that CLV is
+
+interest is the eighth wonder of the world. He
+
+compounded: a one percent increase or
+
+who understands it, earns it. He who doesn’t,
+
+improvement in one metric creates an enormous
+
+pays it” [Ref. 9]. As demonstrated in Figure 4, CR6
+
+difference when it is applied over an extended
+
+and CR7 operate on a continuous loop (either
+
+period of time. For example, a one percent gain
+
+monthly or annually depending on contract
+
+every day for one year would result in an overall
+
+length). By constantly multiplying CR6 and CR7,
+
+gain of 3778% (1.01365).
+
+exponential revenue impact is created. This
+
+CUSTOMER
+SUCCESS
+
+Customers
+
+Lifetime Value
+
+Periods = 3 years
+CR6
+MRRCOMMIT
+
+ONBOARD
+
+MRRNEW
+
+IMPACT/
+USE
+
+“CLV” = MRRNEW x (Churn+Upsell)
+
+CR7
+MRR
+
+RENEW/
+EXPAND
+
+CLV
+
+Periods
+
+Figure 4: Calculating Customer Success and multiplying by the number of periods.
+
+Customer Success as a Proﬁt Center
+
+5 of 17
+
+While an improvement of this overall magnitude
+
+To understand how exponential growth (Figure 5)
+
+may seem unlikely, a one percent improvement in
+
+is calculated, we examine the four key metrics
+
+each area of CS is generally a modest, achievable
+
+that should be measured after the initial sale:
+
+goal, and those improvements add up to
+substantial impact over time.
+
+1. Average contract value (ACV) of a group of
+customers (MRRCOMMIT);
+
+How do we see this play out in other scenarios?
+Consider the British Cycling Team. At the
+beginning of 2003, they had only one gold medal
+and no Tour de France wins to show for 110 years
+of competition. To change those results, the 2003
+team looked at the typical methods of training
+
+2. Onboarding (CR5): The amount of revenue
+represented by the customers who
+successfully make it through onboarding
+(MRRNEW);
+3. Retention (CR6): Determines how much
+revenue is recurring (MRRRENEW)
+
+and strengthening used by professional athletes,
+
+4. Expansion revenue (CR7) (upsell or cross-sell)
+
+but they also looked for less obvious areas that
+
+over a period of time (MRREXPAND)#PERIODS.
+
+could deliver small improvements. For example,
+they replaced the bike seats to make them more
+comfortable so riders would focus on the race
+and not the seat. They encouraged proper hand
+
+These four metrics are used in three key
+equations to calculate and quantify the
+exponential impact from CS:
+
+washing to prevent the team from getting sick.
+
+Eq 1. MRRCOMMIT x CR5 (onboarding) = MRRNEW
+
+After ten years of these small improvements, the
+
+This equation represents monthly recurring
+
+team set nine Olympic records, seven world
+
+revenue from customers who have successfully
+
+records, and achieved Tour de France wins in ﬁve
+of the next six years [Ref. 10]. Small changes can
+lead to big wins.
+
+made it through the onboarding process and
+reached the point of ﬁrst value. For some
+companies, this number will be 100 percent,
+
+How to Calculate Exponential
+Impact Potential
+Now that we have established the exponential
+impact opportunity for CS, we will establish the
+elements of exponential impact. How we think
+about these elements then inﬂuences the
+decisions that companies make when deﬁning,
+enabling, and stafﬁng the CS function.
+
+especially in the Enterprise segment. This is
+because buying cycles are signiﬁcantly longer
+and there is much higher commitment to the
+purchase during the buying process. In scenarios
+of lower contract value and faster buying cycles
+(such as in a Product Led Growth (PLG) model),
+buyers have less risk from the transaction, and
+we see an onboarding rate closer to 90 percent
+[Ref. 11].
+Eq 2.MRRNEW x CR6 (Retention) = MRRRENEW
+
+First, it’s important to deﬁne the relatively simple
+mathematics that govern this value potential. By
+expanding an account just a small amount during
+each contract cycle, the lifetime value of that
+customer grows exponentially, just like the
+
+In the equation above, the revenue from
+onboarded customers who have achieved impact
+will renew, resulting in monthly recurring
+revenue from renewals.
+
+British Cycling Team’s success.
+
+Customer Success as a Proﬁt Center
+
+6 of 17
+
+Eq3. (MRRRENEW x CR7 (Expansion) =( MRREXPAND)
+
+for these 20 accounts is $6,367,254. This is
+equivalent to 3.5 new logos, but with virtually no
+
+This equation begins to demonstrate the
+compound impact of revenue that comes from
+existing customers. As shown in Figure 5, when
+customers begin to upsell and continue to renew
+each period, the revenue compounds.
+
+acquisition cost.
+What impact does this have? Assuming that the
+customer acquisition cost (CAC) payback period
+is on average 10 months [Ref. 12], it means that
+
+ACV
+
+xn
+3
+
+1 xn
+
+2
+
+NT
+I
+PO
+NE
+
+ING
+IPLY
+ULT
+
+EX
+
+LTV
+
+$100,000
+
+AL
+
+PERIOD = 4
+
+Upsell
+
+x*n
+
+M
+
+Year 1
+
+$100,000
+
+6%
+
+$106,000
+
+Year 2
+
+$106,000
+
+6%
+
+$112,360
+
+Year 3
+
+$112,360
+
+6%
+
+$119,102
+
+$318,360
+
+ADDING
+
+x+n
+
+Periods on an LTV of 3 years
+Annual contract: 3 periods
+Monthly contract: 36 periods
+
+Figure 5: The compound impact
+curve in customer success.
+
+We see
+exponential
+impact over
+multiple years
+
+Figure 6: Calculating exponential
+impact in CS.
+
+As an example, let’s look at the value of one
+
+What impact does this have? Assuming that the
+
+customer over a three year period. Consider the
+
+customer acquisition cost (CAC) payback period
+
+customer with an initial ACV of $100,000 and an
+
+is on average 10 months [Ref. 12], it means that if
+
+upsell potential of 6% annually. The initial CLV is
+
+a customer churns in its ﬁrst year, the impact is
+
+$300,000, but in delivering the right impact year
+
+the equivalent of losing money on that sale. This
+
+over year, the CLV of this account becomes
+
+negative impact increases when you consider
+
+$318,360 over three years (a 6.12% gain in CLV), as
+
+Cost to Serve (CTS), which is often 10 to 20
+
+demonstrated in Figure 6.
+
+percent of revenue [Ref. 13]. When we want to
+
+Now consider a complete book of business for a
+CSM who is managing 20 accounts, with an ACV
+of $100,000 for each account. The upsell
+percentage remains at six percent annually, and
+consider that only 50 percent of those customers
+upsell annually over three years. These metrics,
+which are fairly conservative for most companies,
+
+deliver proﬁtability, we can consider that after a
+customer's ﬁrst year, their CAC has been paid
+back and costs are limited to ongoing CTS. As
+demonstrated in Figure 7, the longer a customer
+stays, the more proﬁtable that customer becomes
+for your company, even without an increase in
+revenue.
+
+represent $367,254 or 5.8% in upsell revenue at
+the end of three years. The total CLV
+
+Customer Success as a Proﬁt Center
+
+7 of 17
+
+How to Increase Exponential
+Impact Potential
+
+the previous example), the revenue impact more
+
+While renewals may have limited ﬂexibility
+
+adding eight new logos, but without the CAC.
+
+around timing of revenue, the same is not true
+of expansion revenue. Most companies miss a
+signiﬁcant opportunity to increase the
+compounding effect by not looking for crossor upsell transaction potential outside of
+predetermined annual renewal periods. Because
+most CS leaders focus their CSMs only on the
+renewal date, they miss opportunities to grow
+revenue from expansion deals throughout
+the year.
+
+than doubles to $760,922 or 11.3 percent
+expansion revenue. This is the equivalent of
+
+While this might seem like a small difference, this
+example looks at just one metric for one CSM’s
+book of business. You can quickly begin to see
+how this same practice, applied to multiple
+conversion rates over the company’s entire book
+of accounts, can yield very signiﬁcant results.
+For a different example, let’s look at a mid-market
+CSM with 70 accounts and an average ACV of
+$36,000 for each. The total
+
+AVERAGE CONTRACT VALUE
+
+AVERAGE CONTRACT VALUE
+
+$100,000
+
+$100,000
+
+SUBTRACT
+CUSTOMER
+ACQUISITION
+COST
+
+SUBTRACT
+COST TO SERVE
+
+$83,333
+
+ADD UPSELL
+
+$20,000
+$6,000
+
+SUBTRACT
+COST TO SERVE
+
+$20,000
+YEAR 1. -$3,333
+
+YEAR 2. +$84,000
+
+OF PROFITABILITY
+
+OF PROFITABILITY
+
+Figure 7: Cost of acquisition in year 1 vs. cost to serve in year 2+, and its impact on proﬁtability.
+
+Most companies look to increase revenue from
+
+managed revenue for that CSM would be $2.52M
+
+an existing customer by increasing the number of
+
+annually. Consider three different scenarios for
+
+users from that customer or by adding additional
+
+revenue after three years:
+
+features or modules. If 50 percent of customers
+can be upsold by adding new users or product
+features, at six percent quarterly plus a standard
+six percent price increase upon annual renewal of
+the entire contract, the potential for revenue
+growth is quite substantial. Even if this is possible
+
+1. No upsell and no churn = $7.56M
+2. Annual upsell of 4% and churn of
+-2% = $7.71M
+3. Monthly upsell of 4% and churn
+-2% = $10.92M
+
+only for half of a CSM’s managed accounts, or 10
+logos annually (continuing from
+
+Customer Success as a Proﬁt Center
+
+8 of 17
+
+Scenario 1
+
+Scenario 2
+
+Scenario 3
+
+No Upsell | No Churn
+
+Yearly Upsell = 4% | Yearly Churn = 2%
+
+Monthly Upsell = 4% | Monthly Churn = 2%
+
+$5,000,000
+$4,530,226
+$4,500,000
+$4,000,000
+
+$3,572,052
+
+$3,500,000
+$3,000,000
+
+$2,816,539
+
+$2,500,000
+
+$2,520,000
+$2,520,000
+
+$2,570,400
+
+$2,621,808
+
+$2,520,000
+
+$2,520,000
+
+$2,000,000
+$1,500,000
+$1,000,000
+$500,000
+YEAR 1
+
+CONTRACT SIGNED
+
+YEAR 2
+
+YEAR 3
+
+Figure 8: Growth metrics comparison over 3 years, considering annual vs. monthly upsell.
+
+When you factor in the same upsell and retention
+
+become big losses over time. As demonstrated
+
+metrics, yet focus on monthly increases, even
+
+above, reducing churn is an essential and
+
+with monthly churn calculated in as well, revenue
+
+traditional component of the CS function.
+
+potential increases by 41.6 percent over 3 years, if
+
+Exponential growth is only possible by managing
+
+done on an annual basis.
+
+and limiting churn, which begins with
+
+CSMs typically manage their accounts with a
+primary focus on annual renewals; if they were to
+
+understanding where churn begins and how to
+prevent it.
+
+shift their focus to uncovering expansion
+
+While a company can continue to grow when
+
+opportunities that can be transacted throughout
+
+revenue from new business or expansion is
+
+the year rather than only at contract renewal, a
+
+greater than revenue loss from churn, studies
+
+far greater impact on revenue can be realized.
+
+have shown that the fastest growing SaaS
+
+Beware of Negative Impact
+Potential
+While the compounding nature of CS means
+small gains can lead to big growth over time, we
+must also be aware of potential negative impacts
+this model can create. The same principle also
+applies to small losses, which can compound to
+
+companies have a net revenue churn that is 14-23
+percent lower than the mean [Ref. 14]. These
+fast-growing companies therefore have a more
+stable revenue base from which to grow.
+Some ﬁnancial analysts and researchers argue
+that company valuation is better done by
+examining customer retention. This type of
+analysis is referred to as customer-based
+
+Customer Success as a Proﬁt Center
+
+9 of 17
+
+corporate valuation [Ref. 15]; this method works
+
+time. Companies should begin their customer
+
+for both contractual and non-contractual
+
+journey improvement by looking at which
+
+businesses [Ref. 16]. The methodology has not
+
+post-sale conversion rates point to problem
+
+escaped the attention of investors: at least one
+
+areas, and then using that to ﬁnd any quick wins.
+
+company (Blue Apron) had a 10 percent drop in
+
+These quick wins are likely to come in the form of
+
+value the day after research using this method
+
+how actions are being performed today. For
+
+was made public [Ref. 15].
+
+example, managers can look at how new
+
+This principle (that small gains lead to signiﬁcant
+growth over time) has only recently been
+embraced by more SaaS companies in terms of
+how they structure their CS functions and CSM
+roles. Most SaaS companies try to manage churn
+on a reactive or exception basis. When a
+customer has a bad experience or a renewal
+reaches at-risk status, many expect CSMs to go
+
+customers are transitioned from Sales to CS, how
+various types of customer calls and meetings are
+conducted, what information is being used to
+monitor customer activity, and what resources
+are being used to handle common issues. While
+not game-changing on their own, small
+improvements can provide early impact that
+compound over time.
+
+into emergency mode. Because the issues are
+
+Next, companies can perform an analysis to
+
+often larger than what CSMs can resolve on their
+
+identify which actions and what levels of
+
+own, the emergency plan often requires
+
+engagement correlate to customer renewals and
+
+executives, sales reps, and product team
+
+expansion. By understanding what the data
+
+members to jump in and try to “save” key
+
+shows about the path that works best for
+
+accounts. This reactive motion results in a chain
+
+customers who achieve impact, it is easier to
+
+of events that involve many team members
+
+deﬁne a series of proactive actions that are
+
+spending large amounts of time performing
+
+proven to be linked to positive customer
+
+non-scalable actions. Typical examples include
+
+outcomes. It is also useful to compare that data
+
+quick product improvements, contract changes,
+
+with cases of customers that do not renew and
+
+team changes, and general promises to improve
+
+expand. For example, it may be the case that
+
+things moving forward. This has the dual negative
+
+customers whose onboarding is delayed or not
+
+effect of spending too much time and effort
+
+completed churn at a higher rate than those who
+
+saving these accounts, as well as other accounts
+
+are onboarded promptly after signing the
+
+being ignored and becoming churn risks
+
+contract.
+
+themselves.
+
+This foundation will allow CS leaders to develop
+
+Instead, companies should map out a series of
+proactive actions that best set up a customer to
+achieve impact. Preventing customers from
+having issues, and providing engagement that
+keeps them on the positive path to impact, is a
+
+a speciﬁc set of actions to take that can be
+measured and monitored. When customers veer
+off the positive path, it becomes far easier to take
+action before they are too far on the road to
+
+more efﬁcient way to mitigate churn and grow.
+
+churn. It also allows for leaders to take small
+
+To get started on this proactive approach, we
+
+sooner, without having to wait for a more
+
+return to our exponential growth model. As we’ve
+
+substantial organizational or process
+
+noted, small improvements yield big impact over
+
+transformation.
+
+steps over time that show up in conversion rates
+
+Customer Success as a Proﬁt Center
+
+10 of 17
+
+Determining CSM Headcount
+Needs
+
+To reﬁne the calculation of how many hours a
+
+Deﬁning the right proactive approach will also
+
+certain number of meetings. There are four main
+
+provide a data foundation to estimate how many
+
+types of meetings CSMs should have with
+
+CSMs are required to support that optimal
+
+customers:
+
+engagement path. By determining the amount of
+
+1. Monthly meetings help drive usage and
+
+time it takes a CSM to take these actions for each
+account, CS leaders can then determine the
+proper number of accounts each CSM should be
+managing. When companies perform this
+exercise, many will ﬁnd they do not have the
+right number of CSMs in place to handle all of
+their accounts, especially in their highest value
+segments. It may also point to a disconnect in the
+company’s overall go-to-market model, where
+overly optimistic assumptions may have been
+made about the level of support required for
+customers to achieve impact. This disconnect
+often happens because companies typically
+deﬁne the ideal ratio of accounts per CSM by
+simply looking at expected revenue per CSM;
+they have a number they need or want to hit, and
+staff accordingly. This method fails because it
+doesn’t consider the level of engagement
+required to get customers to impact, or the
+revenue potential that results from increasing the
+length of a contract or seizing expansion
+opportunities. Therefore, designing the ideal
+
+CSM has for both of these activities, start by
+thinking about each account as requiring a
+
+impact throughout the year and address any
+concerns the customer may have. These
+meetings also strategically uncover new
+initiatives or changes happening with the
+customer that might impact their use of
+services or products they purchased.
+Typically these meetings are with the main
+users of the product.
+2. Executive Business Reviews (EBR) discuss
+what happened in the previous period and
+discover what changes or critical events in
+the organization might impact how they are
+using the products or services they
+purchased. This meeting generally involves
+the decision maker as well as the main users
+of the product. The EBR can also be used to
+uncover expansion opportunities.
+3. Workshops occur to discuss major
+milestones, such as renewals, or discover
+expansion opportunities with the client. For
+larger customers, a workshop can be
+
+ratio of accounts per CSM requires calculating
+
+conducted to involve other business units
+
+the optimal number of hours required to
+
+and lay the foundation for cross-sell
+
+successfully manage and grow an account.
+
+opportunities.
+4. Ad-hoc meetings are typically unplanned and
+
+A classic result of what happens when companies
+
+happen when a speciﬁc trigger occurs, such
+
+make this miscalculation is the CSM who is
+
+as a change in champion, service issue, or
+
+assigned too many accounts. The CSM does not
+
+upsell opportunity. Ad-hoc meetings often
+
+have sufﬁcient time to focus on each account,
+which in turn increases the likelihood of churn
+and decreases the likelihood of expansion
+opportunities. Growth is only possible when
+CSMs have time to manage growth as well as limit
+
+require additional preparation to properly
+diagnose the situation and plan out the right
+course of action, sometimes involving
+additional people from the organization.
+
+churn.
+
+Customer Success as a Proﬁt Center
+
+11 of 17
+
+As demonstrated in Figure 8, a CSM’s time can be
+
+$36,000, there are typically fewer meetings
+
+broken down into the number of hours required
+
+required, with less time needed per meeting.
+
+for the proper number of meetings with each
+
+Therefore, the proper number of accounts per
+
+customer each year, and the number of hours
+
+CSM is closer to 70 accounts (Figure 9). However,
+
+required to prepare for and follow up on those
+
+this is just a starting point: the correct number
+
+meetings. These hours can be summed and then
+multiplied by the average productivity of CSMs,
+which is typically around 70 percent (and may be
+less) [Ref. 17]. As shown in the example in Figure
+8, the ideal number of large enterprise accounts
+
+of accounts per CSM may vary from company to
+company based on other factors. For example,
+the number of CSMs for larger accounts may
+need to increase to give each of those accounts
+
+with an average ACV of $100,000 is around 20.
+
+adequate attention if they have more complex
+
+For smaller accounts with an average ACV of
+
+[Ref. 11].
+
+Average Meeting Time and Account
+Ratios for $100,000 ACV Account
+
+Average Meeting Time and Account
+Ratios for $36,000 ACV Account
+Prep
+time
+(hrs)
+
+Meeting
+time (hrs)
+
+# needed
+per year
+
+Total
+hours
+
+Monthly
+
+0.5
+
+1
+
+0
+
+0
+
+Quarterly
+
+2
+
+1
+
+2
+
+6
+
+14
+
+Bi-annual
+
+1
+
+1
+
+1
+
+2
+
+26
+
+Ad-hoc
+
+1
+
+2
+
+4
+
+12
+
+Total
+
+20
+
+70%
+
+1400
+
+Accounts
+
+70
+
+Prep
+time
+(hrs)
+
+Meeting
+time (hrs)
+
+# needed
+per year
+
+Total
+hours
+
+Monthly
+
+0.5
+
+1
+
+12
+
+18
+
+Quarterly
+
+2
+
+1
+
+4
+
+12
+
+Bi-annual
+
+5
+
+2
+
+2
+
+Ad-hoc
+
+3
+
+3.5
+
+4
+Total
+
+70
+
+70%
+
+1400
+
+Accounts
+
+20
+
+Work hours/year
+
+2000
+
+requirements and larger teams to engage
+
+Figure 8: Example of calculating the
+number of accounts that a CSM
+should manage, with an ACV of
+$100,000.
+
+Work hours/year
+
+2000
+
+Figure 9: Example of calculating the
+number of accounts that a CSM
+should manage, with an ACV of
+$36,000.
+
+Customer Success as a Proﬁt Center
+
+12 of 17
+
+Calculating The Revenue
+Impact Of Changes To The
+CSM : Account Ratio
+
+4. Average contract lengths will shorten, as the
+
+When a CEO is looking to cut costs, Customer
+
+This is another scenario with potential for
+
+Success is typically one of the ﬁrst places they
+
+negative effects of compounding, stemming from
+
+look. They often incorrectly assume that
+
+less retention and expansion conversion. Due to
+
+CSM is less able to stay on top of and align
+with the customer’s corporate changes over
+time to secure renewals and expansion.
+
+decreasing headcount will deliver cost savings,
+
+the compounding nature of the effect of all these
+
+when in fact, it will ultimately decrease revenue
+
+problems that result from understaffed CS teams,
+
+by far more than the savings achieved from
+
+seemingly small changes create a
+
+headcount reduction. Based on our model,
+
+disproportionate impact on CLV. Rather than the
+
+reduction to the CS team creates an enormous
+
+expected cost savings that the CEO was looking
+
+negative impact on churn and CLV.
+
+to achieve, the result instead is reduction in
+company revenue and proﬁtability that only
+
+Given what we know about the math involved, it
+
+continues to compound. Cutting headcount
+
+is now easy to understand how this occurs:
+
+Nearly
+double the
+accounts...
+
+Accts/CSM
+
+Churn
+
+Upsell
+
+Periods
+
+LTV
+
+Revenue
+
+20
+
+6%
+
+8%
+
+36
+
+$306,040
+
+$6,120,800
+
+25
+
+7%
+
+6%
+
+34
+
+$280,743
+
+$7,018,583
+
+30
+
+8%
+
+4%
+
+30
+
+$242,550
+
+$7,276,508
+
+35
+
+9%
+
+2%
+
+24
+
+$193,000
+
+$6,755,000
+
+...but
+hardly any
+impact on
+revenue
+
+Figure 10: How assigning too many accounts per CSM negatively impacts revenue.
+
+1. Fewer CSMs means that each CSM will need
+to handle more accounts;
+
+without understanding the mathematics behind
+the revenue can result in opportunity costs as
+
+2. CSMs will not have enough hours each week
+
+well, when the CS team starts to experience
+
+to properly serve all of those accounts;
+
+employee churn and lower engagement that
+
+3. Lower engagement and impact leads to
+
+impacts performance quality (Figure 10). It is
+
+increased churn from accounts that are now
+
+crucial to understand these mathematical
+
+getting less CSM attention and less time
+
+principles ﬁrst; companies should be wary of
+
+dedicated to upsell motions;
+
+chasing productivity at their own expense.
+
+Customer Success as a Proﬁt Center
+
+13 of 17
+
+Key Findings
+
+FINDING 1.
+
+This paper demonstrates how Customer Success
+
+In addition to driving retention, CS drives
+
+can be a crucial value driver for company growth,
+
+expansion, and other revenue beneﬁts for
+
+particularly in B2B SaaS companies and other
+
+adjacent departments through need recognition,
+
+recurring revenue models. We also explain why
+
+product expansion, and value proposition.
+
+CS is exponential, not additive.
+
+most companies leave this opportunity for
+exponential revenue growth on the table. By
+focusing only on the operational metrics of
+Customer Success, they treat CS as a cost center,
+rather than the growth driver that it has the
+potential to be. By understanding the
+mathematical principles delineated above,
+leadership at companies looking for sustainable
+growth will quickly see how the CS function has
+the potential to drive far more revenue than the
+Sales function over time.
+
+FINDING 2.
+
+Small improvements have a large impact.
+A one percent improvement every day results in a
+3778% gain over one year. Companies that
+consistently focus on these small improvements
+see signiﬁcant gains.
+FINDING 3.
+
+Managers as coaches will improve performance
+and results.
+Managers can signiﬁcantly drive performance
+
+Once that realization occurs, business leaders
+will see why it makes far more sense to optimize
+
+through consistent coaching with call reviews
+and role plays.
+
+CS by measuring on revenue metrics such as
+
+FINDING 4.
+
+CLV, upsell rate, and new revenue growth
+
+CS has a signiﬁcant impact on net revenue.
+
+through cross-sell and advocacy inﬂuence. This
+
+Not only can a ﬁve percent increase in retention
+
+is in contrast to traditional measures such as
+
+can result in a 25 to 95 percent increase in
+
+loyalty scores (e.g., NPS, C-SAT), CS headcount
+
+revenue, but when focused on small upsells
+
+costs, and churn rate, which do not focus on the
+
+throughout the year and not just at renewal, you
+
+impact and growth potential that CS can deliver
+
+can double revenue.
+
+[Ref. 19].
+
+FINDING 5.
+
+CS leaders have the responsibility for reframing
+
+A well deﬁned, proactive process is the best
+
+their own thinking beyond the traditional use of
+
+approach to driving retention and expansion.
+
+the function, and showing their executive teams
+
+Shifting to a proactive approach to managing
+
+that CS has immense, untapped value ready to be
+
+customers as opposed to responding to “red”
+
+contributed to the business. Those companies
+
+accounts will increase customer retention. While
+
+with CS leadership that understand these
+
+responsiveness is a key to customer satisfaction,
+
+principles, and implement them with proper
+
+proactive outreach is needed to resolve customer
+
+stafﬁng, skill training, and strategic direction, will
+
+issues before they become problems.
+
+ultimately be able to drive signiﬁcantly more
+value than their competitors and drive greater
+value for their customers.
+
+FINDING 6.
+
+Cutting costs in CS by cutting headcount can
+have a massively negative impact on revenue.
+
+The ﬁndings below illustrate the required shift in
+mindset and how to apply it for growth.
+
+Cutting headcount leads to reactive CSMs who
+don’t have time to focus on every account,
+making them less effective, not more productive.
+
+Customer Success as a Proﬁt Center
+
+14 of 17
+
+Customer Success and
+the Fear Of Selling
+
+2. When the CS group functions according to
+the mathematical principles outlined here, it
+has the potential to drive far more revenue
+
+The profession of Customer Success has a
+paradox to deal with: most of those who take on
+the role do so because they want to help
+customers, but they do not want to “be in sales.”
+
+than the Sales function over time.
+This, in turn, means that CS leaders need to meet
+the challenge of training their CSMs on the
+proper skills needed to drive revenue through
+
+And yet, there are two realities that make the
+
+account retention and expansion, while
+
+most effective CS functions look very similar in
+
+simultaneously helping them feel that they are
+
+nature to their Sales counterparts:
+
+not “selling”. In the same way that successful
+salespeople help their customers to buy rather
+
+1. The most effective CSMs have the exact same
+thing to offer their customers as the most
+effective salespeople: they are consultative,
+they provide guidance from the unique and
+helpful perspective of their ﬁeld, and they
+help their customers solve problems [Ref. 18];
+
+than focusing on helping themselves to sell,
+CSMs should be taught the skills for how to solve
+their customers’ problems at the key moments in
+the customer lifecycle. By learning how to help
+their customers achieve the desired impact,
+CSMs will be able to both fulﬁll the role they
+want to have, and contribute successfully to
+business goals at the same time.
+
+Suggested Actions
+Action 1. Optimize your Customer Success process to proactively support the actions needed to
+help customers get to impact and choose to renew and expand.
+Action 2. Develop a data model based on the actions and meetings required to drive successful
+outcomes to determine your CSM:Account Ratio.
+Action 3. Create a customer journey that includes a focus on micro moments to drive expansion
+opportunities throughout the year, not the contract renewal date.
+Action 4. Measure the success of your customers based on engagement and revenue as opposed
+to loyalty or satisfaction metrics.
+Action 5. Invest in small improvements that can have a big impact over time, such as training your
+managers to be coaches so they can help to improve the skills of their teams.
+
+Customer Success as a Proﬁt Center
+
+15 of 17
+
+Deﬁnitions
+Asynchronous. Not happening at the same time.
+
+Health score. A metric used by Customer Success
+teams to determine whether an account is
+
+Average Contract Value “ACV”. The recurring
+
+healthy or at-risk.
+
+value of a customer contract over any 12 month
+
+Impact. Effect or inﬂuence. A change, which is a
+
+period. ACV excludes one time revenues.
+Churn. The rate at which customers stop doing
+
+result or consequence of an action or other
+cause.
+
+business with an entity, for example, the
+
+Implementation. The process of putting a
+
+percentage of service subscribers who
+
+decision or plan into effect so that it becomes a
+
+discontinue or do not renew their subscriptions
+
+reality. Often a way to explain the customer
+
+within a given time period.
+
+onboarding process.
+
+CLV. Popular abbreviation for Customer Lifetime
+
+Net Revenue. The gross sales of an entity,
+
+Value. An estimate of the average revenue that a
+
+adjusted by subtracting direct selling expenses
+
+customer will generate throughout their lifetime
+
+such as returns, discounts and commissions.
+
+with the entity.
+
+Onboarding. The action or process of integrating
+
+Cost Center. A department within a business that
+does not directly add to proﬁt but still costs the
+
+a new customer with the products and services
+after purchasing.
+SaaS. Popular abbreviation for either “Software
+
+organization money to operate.
+
+as a Service” or “Sales as a Science”.
+CS. Customer Success.
+
+SMB. An abbreviation for small and
+
+CSM. Customer Success Manager
+
+medium-sized business, sometimes seen as small
+
+Customer Acquisition Cost (CAC). The costs
+
+employees.
+
+and midsized business typically with under 100
+
+associated with winning a new customer.
+Cost to Serve (CTS). Often referred to in SaaS as
+
+Mid Market. Businesses that often have 100-999
+employees.
+
+Cost to Serve are the direct costs associated with
+
+Enterprise. Businesses that often have over 1000
+
+the production and delivery of goods sold by your
+
+employees and/or are on the fortune 500 list.
+
+company.
+
+Upsell. Upselling is a sales technique used to get
+
+Executive Business Review. A meeting between
+the business and their customer which is often
+
+a customer to spend more by buying an upgraded
+or premium version of what's being purchased.
+
+held quarterly but can be held at any frequency.
+
+Customer Success as a Proﬁt Center
+
+16 of 17
+
+References
+Ref. 1. Blaisdell, M. (2019) The History of
+Customer Success - Part 1. Customer
+Success Association.
+
+Ref. 12. Skok, David SaaS Metrics 2.0 A Guide for
+Measuring and Improving What Matters.
+Ref. 13. Valchev, Konstantin (2020, April 20) Cost
+
+Ref. 2. Blaisdell, M. (2018, December 1). Customer
+Success Management: The Development of
+a Profession. Software Business Growth.
+Ref. 3. Zoltners, A., Sinha, PK., Lorimer, S.E. (2019)
+
+of Goods Sold (COGS) for
+Software-as-a-Service (SaaS) Business.
+Ref. 14. Miller, A., Vonwiller, B., & Weed, P. (2016,
+October 26). Grow Fast or Die Slow:
+
+What is a Customer Success Manager?
+
+Focusing on Customer Success to Drive
+
+Harvard Business Review.
+
+Growth. McKinsey.
+
+Ref. 4. Schrage, M. (2017, April 18). What Most
+
+Ref. 15. Knowledge@Wharton. (2018, February 12).
+
+Companies Miss About Customer Lifetime
+
+Why Customer Retention Lies at the
+
+Value. Harvard Business Review.
+
+Heart of Corporate Valuation.
+
+Ref. 5. Atkins, C., Gupta, S., & Roche, P. (2018,
+January 25). Introducing Customer Success
+2.0: The New Growth Engine.
+
+Knowledge@Wharton. Retrieved February
+8, 2021, from
+https://knowledge.wharton.upenn.edu/
+article/game-changing-method-valuing-
+
+McKinsey.com.
+
+companies/
+
+Ref. 6. van der Kooij, J. (2020, April 24). The Use of
+Remote Selling in Enterprise Sales.
+Winning By Design.
+
+Ref. 16. McCarthy, D., & Fader, P. (2018).
+Customer-Based Corporate Valuation for
+Publicly Traded Noncontractual Firms.
+
+Ref. 7. Gallo, A. (2014, October 29). The Value of
+Keeping The Right Customers. Harvard
+Business Review.
+
+Journal of Marketing Research, 55(5),
+617-635.
+Ref. 17. Curtain, M. (2016, July 21). In an 8-Hour
+
+Ref. 8. van der Kooij, J.J. (2018) The SaaS Sales
+Method: Sales as a Science.
+Ref. 9. Ursu, Brian. (2018, Nov 8). Einstein’s
+Theory of Compound Interest. Intentional
+Wealth Advisors.
+
+Day, the Average Worker is Productive for
+This Many Hours. Inc.
+Ref. 18. Du, R. Y., Netzer, O., Schweidel, D. A., &
+Mitra, D. (2021). Capturing Marketing
+Information to Fuel Growth. Journal of
+Marketing, 85(1), 163-183.
+
+Ref. 10. Clear, J. (2019). This Coach Improved
+Every Tiny Thing by 1% and Here's What
+Happened. JamesClear.com.
+
+Ref. 19. Keiningham, T. L., Cooil, B., Andreassen,
+T. W., & Aksoy, L. (2007). A Longitudinal
+Examination of Net Promoter and
+
+Ref. 11. van der Kooij, J., Pizarro, F. (2018)
+Blueprints of a SaaS Sales Organization.
+
+Revenue Growth. Journal of Marketing,
+71(3), 39-51.
+
+Customer Success as a Proﬁt Center
+
+17 of 17
+
+of 17
+
+

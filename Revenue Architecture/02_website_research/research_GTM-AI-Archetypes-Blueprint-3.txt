@@ -1,0 +1,273 @@
+BLUEPRINT.
+
+The Four AI GTM Archetypes
+A Blueprint for Accelerating Growth with AI
+
+The future of accelerated growth isn’t about how fast AI evolves—it’s
+about how fast we evolve to leverage it across our Go-To-Market (GTM)
+systems. Winning by Design has identiﬁed four archetypes that
+
+Assistive
+
+Agentic
+
+Orchestrative
+
+Autonomous
+
+Empower humans by
+automating repetitive
+tasks, speeding up
+research, and closing
+skill gaps.
+
+Systematically transition
+lower-complexity,
+high-volume human
+tasks to AI while
+maintaining or improving
+performance.
+
+Integrated across
+functions and stages of
+a GTM process, ensuring
+smooth, optimized, and
+consistent workﬂows.
+
+Enable systems to make
+decisions independently
+within human-set
+boundaries, frameworks,
+and objectives.
+
+Account research and lead
+intelligence gathering
+
+AI SDRs (Sales Development
+Reps) for outbound prospecting
+
+AI-driven lead-to-customer
+journey management
+
+Content creation and messaging
+personalization
+
+AI onboarding agents for
+customer setup and FAQ
+handling
+
+Automatic task routing and
+prioritization based on account
+scoring
+
+AI-powered CS (Customer
+Success) chatbots for ticket
+deﬂection
+
+Intelligent revenue forecasting
+and pipeline management
+
+Use
+Cases
+
+Level of
+Complexity
+
+represent the journey toward AI-powered GTM maturity.
+
+Ideal Customer Proﬁle (ICP)
+analysis and segmentation
+Marketing campaign generation
+and optimization
+
+Fully autonomous revenue teams
+(sales, marketing, success)
+operating on set targets
+AI systems self-adjusting GTM
+strategies based on market
+signals without human prompts
+
+Marketing-to-sales alignment
+through real-time campaign
+insights
+
+Automated meeting note-taking
+and summarizing
+
+Key
+Considerations
+
+Project management task
+automation
+
+★
+
+★
+★
+
+Tool access, team
+training, security,
+reinforcement
+Prompt engineering
+Cross-sharing and
+top-down support
+
+★
+
+★
+
+End to end workﬂow
+to hire, onboard, train
+and manage your AI
+agent
+Continuous training
+and enablement for
+improvement
+
+★ Integration with
+existing tech stack
+(CRM, ERP, CPQ
+systems)
+★ Central governance of
+data sources and
+process ﬂows
+★ Change management
+and executive
+sponsorship
+
+★ Framework design and
+guardrail enforcement
+★ Exception handling
+protocols for edge
+cases
+
+Figure 1: The four AI GTM archetypes
+
+Proprietary And Conﬁdential | Winning By Design™
+
+1
+
+ARCHETYPE 1.1
+
+Assistive AI: Empowering Individuals
+Purpose: Enhance human productivity through AI tools
+Use Cases:
+●
+●
+●
+●
+
+Account research and lead intelligence (e.g., Pocus)
+Content creation and personalization
+Automated note-taking
+ICP analysis and campaign optimization
+
+Key Considerations:
+●
+●
+●
+
+Tool access and team training
+Prompt engineering and reinforcement
+Ensuring security and governance
+
+Summary: This is where most teams start. Tools like Perplexity, ChatGPT, and
+AI-powered CRMs help individuals close skill gaps, accelerate research, and
+reduce repetitive tasks.
+ARCHETYPE 1.2
+
+Agentic AI: Replacing Repetitive Human Tasks
+Purpose: Assign targeted jobs to AI agents
+Use Cases:
+●
+●
+●
+
+AI SDRs for inbound/outbound prospecting (e.g., the AI SDR “Jack” used
+on our website)
+AI onboarding agents
+FAQ deﬂection and customer support bots
+
+Key Considerations:
+●
+●
+●
+
+Deﬁne jobs-to-be-done and agent scope
+Set clear performance goals and feedback cycles
+Continuous training and enablement
+
+Summary: Treat AI agents like employees—hire, train, coach, and manage them.
+The key is precision: one agent for one role, not one agent for everything.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+2
+
+ARCHETYPE 1.3
+
+Orchestrated AI: Coordinating Across Functions
+Purpose: Create system-wide intelligence and coordination
+Use Cases:
+●
+●
+●
+●
+
+Marketing-to-sales handoffs
+AI-led pipeline prioritization and routing
+Cross-functional campaign and customer journey orchestration
+Intelligent revenue forecasting
+
+Key Considerations:
+●
+●
+●
+
+Integration across CRM, ERP, and GTM tech stack
+Centralized governance of data and workﬂows
+Executive sponsorship and change management
+
+Summary: Orchestration is about aligning agents across the Bowtie—marketing,
+sales, onboarding, and success—so they function cohesively as one GTM system.
+ARCHETYPE 1.4
+
+Autonomous AI: Self-Optimizing Systems
+Purpose: Enable AI to make and execute decisions independently
+Use Cases:
+●
+●
+
+Fully autonomous GTM teams executing against targets
+Real-time strategy adjustments driven by AI and market signals
+
+Key Considerations:
+●
+●
+
+Guardrails, exception handling, and human-in-the-loop protocols
+Clear frameworks and boundaries for decision-making
+
+Summary: Though still early, the path is clear: AI systems will eventually adjust
+GTM motions proactively, without human prompts. Feasible today—but
+adoption will depend on your readiness to trust the system.
+
+Final Thought
+We don’t need to wait for AI to catch up. The question is: which archetype are
+you ready to adopt now—and what’s your blueprint for advancing to the next?
+
+Proprietary And Conﬁdential | Winning By Design™
+
+3
+
+ADDITIONAL RESOURCES FROM
+
+Growth Advisory
+Videos available on
+the WbD YouTube Channel
+
+Proprietary And Conﬁdential | Winning By Design™
+
+4
+
+

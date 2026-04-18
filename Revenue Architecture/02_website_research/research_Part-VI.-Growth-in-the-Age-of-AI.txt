@@ -1,0 +1,455 @@
+GROWTH—IN THE AGE OF AI
+
+Growth is back—but not the same way as before.
+August 22, 2025 | By Jacco J. van der Kooij, Founder, Winning by Design.
+While SaaS-Natives stall, AI-Natives are breaking through at speeds not seen in more than a
+decade. A handful have already proven themselves at scale, with many more close behind. It’s
+still early, but the pattern is now too consistent and too widespread across verticals to dismiss
+as hype. It isn’t just better execution. It’s a fundamentally different growth architecture, one that
+delivers faster growth at far lower cost.
+In today’s market, where breakout velocity once again drives valuations, that difference matters.
+For CEOs and CFOs, the implications are immediate: valuation multiples, investor confidence,
+and competitive positioning are being redefined in real time.
+
+The question is no longer if this shift will reach your market, but how
+soon, and how you will respond.
+The good news is that hypergrowth follows consistent patterns. They are not new or unique, and
+can be engineered to ignite high-velocity growth in any company willing to evolve.
+
+What You’ll Learn in This Article
+●​ How AI-Natives achieve faster growth
+●​ Why efficient growth is shifting from people-heavy teams to system-driven engines
+●​ What compound growth loops are, and how they power sustained growth
+●​ Why real-time, closed-loop data infrastructure is essential for compounding growth
+●​ How to re-architect your GTM for velocity, scale, and efficiency to reignite growth
+
+Part I. The Growth Chasm
+This isn’t the first time we’ve seen a shift in growth velocity. In the early 2010s, SaaS rewrote the
+rules, disrupting the perpetual software model by scaling faster, cutting sales cycles from years
+to months, and growing revenue 2–4x more efficiently through a subscription model.
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 1 of 15
+
+Soon, the world came to depend on SaaS. That dependence became undeniable during the
+pandemic, when over a billion users relied on SaaS to keep businesses running and teams
+connected. However, the tables have now turned. Today, it is SaaS-Natives that are being
+outpaced.
+
+Figure 1.1: AI-Natives' growth hit breakout velocity earlier; SaaS-Natives' growth has started to stall.
+
+The new generation of AI-Natives is scaling faster, with smaller teams and far greater capital
+efficiency. This shift is evident not only in headlines but in the operating plans of leading
+companies. While SaaS-Natives see growth stall, AI-Natives are accelerating, widening the gap
+between those built for the AI era and those still running on outdated grow-at-all-cost playbooks.
+
+1.1 Two Different Compound Growth Engines
+SaaS-Natives and AI-Natives have one thing in common: they both rely on the same type of
+engine to power their growth, a compound growth engine.
+Compound growth doesn’t happen by accident. It requires the right conditions: a great product
+launched into a rapidly expanding market with a big, immediate problem to solve, at exactly the
+right time. In other words, achieving a strong product–market fit (PMF).
+Momentum builds quickly and, in a market still in its early and rapidly developing stage, a great
+product spreads like wildfire, often through word of mouth. The result is an initial burst of
+growth. First-generation SaaS-Natives experienced this kind of burst around 2012.
+As they found out, a burst alone is not enough; it must be sustained over years. What made
+first-generation SaaS-Natives so successful was not just achieving PMF and an early growth
+burst, but their ability to sustain that growth for years in an increasingly competitive field. It was
+the result of their GTM approach, an approach shaped by the era in which it was born.
+
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 2 of 15
+
+Figure 1.2: SaaS scaled through people; AI-Natives scale through systems.
+
+Here lies the difference:
+●​ SaaS-Native “People” Era (2010–2022): SaaS-Natives scaled in the ZIRP era, when
+capital and talent were abundant. Their growth engines were fueled by people, sales
+teams, customer success, and marketing headcount. The primary lever was hiring.
+●​ AI-Native “Systems” Era (2024 and beyond): AI-Natives emerged in a different
+environment: capital scarcity, low-cost infrastructure, and abundant public data. Their
+growth engines are automated, data-driven, and designed to scale without adding
+headcount at the same rate. The primary lever is technology.
+SaaS-Natives can borrow from the AI-Native model, replacing people-based scaling with
+systems to reignite growth. Systems-based growth engines are powered by AI infrastructure
+backed by massive, nation-level investment. As supply increases, costs fall, access expands,
+and scalability improves. How do you design for compounding growth?
+The answer starts in an unexpected place, the factory floor.
+
+1.2 Three Growth Levers
+Think of your GTM system like a factory, built to consistently produce revenue in a cost-efficient,
+high-quality way. Like any factory, it runs on multiple production lines, each optimized for a
+specific output. In GTM, those lines are your motions: Enterprise, SMB, PLG. By separating them,
+we can benchmark performance, isolate bottlenecks, and unlock underutilized capacity.
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 3 of 15
+
+Figure 1.3: Distinct revenue production lines model growth mathematically to reveal underutilized capacity.
+
+When you break it down, each production line has three fundamental levers for growth:
+1.​ Do More – Increase inputs. Generate more leads, hire more reps, launch more
+campaigns, and push more volume through the line.
+2.​ Do Better – Improve efficiency. Raise conversion rates, shorten cycle times, and
+streamline the customer journey.
+3.​ Grow Smarter – Redesign the architecture. Introduce self-reinforcing growth loops
+where the product, users, and systems generate demand automatically.
+
+Figure 1.4: Three levers of growth: Do More, Do Better, Grow Smarter.
+
+In the “Grow at All Costs” era, most companies leaned heavily on doing more. As capital became
+more expensive, some shifted their focus to doing better. However, the companies achieving the
+fastest, most efficient growth today, AI-Natives, excel at growing smarter, enabling them to
+achieve compound growth.
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 4 of 15
+
+The most effective way to achieve compound growth is through
+compound growth loops, engines that propel growth in record time.
+Compound growth is growth that accelerates over time, becoming faster and more efficient.
+That makes it increasingly difficult to compete with.
+
+Part II. Modeling Growth
+Today, growth at many SaaS-Natives is stalling against expectations. The figure below reflects
+what we see across several customers. The top line represents investors’ growth expectations,
+while the bottom line shows current performance. Clearly, growth has stalled — and projected
+forward, the model predicts a 90% probability that performance will fall well short of the targets
+promised to investors, with only a 5% probability of meeting them.
+
+Figure 2.1: Companies stuck on “Do More” will miss growth targets by a significant margin.
+
+Most teams know how to Do More, hire more reps, spend more on ads, crank up activity. Far
+fewer know how to Do Better, and that’s a problem. As more of our GTM motion is handed off to
+AI, the underlying system must work as promised. Doing Better is no longer optional. It’s a must.
+
+2.1 Modeling Growth Opportunities
+Having broken the revenue factory into distinct production lines: Enterprise, SMB, and PLG, we
+can use mathematics to simulate their impact. The following matrix maps each revenue
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 5 of 15
+
+production line (GTM motion) against its core growth drivers: Acquisition, Retention, and
+Expansion. Each cell shows both its contribution to overall growth and its underutilization.
+
+Figure 2.2: Mapping growth drivers reveals where revenue is untapped.
+
+Consider Enterprise Acquisition: it’s already contributing 30% to growth, yet the deep blue
+shading shows it’s still underperforming relative to its potential. That makes it the highest lever
+to accelerate growth. In contrast, PLG Retention contributes a healthy 17%, with lighter shading,
+suggesting it’s closer to fully optimized, which makes sense given it’s natively more data-driven.
+
+2.2 Running Simulations
+The first step in making better decisions is creating a shared understanding of how your
+revenue engine works. In most companies, acquisition performance is uneven. Different reps,
+regions, or lead sources exhibit distinct behaviors. One team may have a higher win rate but
+lower volume, another has great top-of-funnel flow but poor conversion. Without a model, it’s
+hard to tell what’s working. That’s why we build a structured model of the system.
+The following diagram, based on Winning by Design’s Bowtie framework, breaks acquisition into
+measurable stages, each with a conversion rate. With it, we can simulate how the system
+behaves under different conditions.
+
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 6 of 15
+
+Figure 2.3: An exploded view of the acquisition engine.
+
+AI Prompt: Can you help build a growth model based on the Bowtie framework, a model
+discussed in Revenue Architecture by Winning by Design? Specifically, I’d like you to assist
+with calculations and run growth scenarios. To begin, please analyze the attached diagram
+that represents the left side of the Bowtie, which is an exploded view of the acquisition
+part of the customer journey.
+
+Once modeled, we can run 10,000 growth scenarios using Monte Carlo simulation, accounting
+for variations in lead volume, conversion rates, win rates, pricing, and discounting.
+AI Prompt: Simulate with 10,000 iterations and provide results in a histogram with
+markers for the mean and median. Provide the details for the standard deviation, and the
+5th and 95th percentiles of the estimated ARRnew.
+●​ VM2: Integer values uniformly distributed between 500 and 1000 per month
+●​ CR2: Decimal values uniformly distributed between 0.10 and 0.30
+●​ CR3: Decimal values uniformly distributed between 0.80 and 0.95
+●​ CR4: Decimal values uniformly distributed between 0.12 and 0.28
+●​ ACV: Fixed at $24,000
+●​ CR5: Decimal values uniformly distributed between 0.60 and 0.85
+
+The simulation shows the full range of outcomes: where the average result falls, how wide the
+distribution is, and how much potential is still underutilized.
+
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 7 of 15
+
+Figure 2.4: Simulation highlights probable outcomes and identifies underutilized potential.
+
+2.3 Incremental Gains Are No Longer Good Enough
+The simulations make the reality clear. Traditional SaaS levers still function, but they no longer
+scale fast enough; they are too slow and too costly, and investors know it. “Doing More” on its
+own will not close the gap. Investing in “Doing Better,” improving efficiency, raising conversion,
+and tightening execution helps, and it is a must. But even with those improvements, a significant
+gap remains. The model shows the current system simply cannot meet expectations through
+incremental gains alone.
+This means something extraordinary has to happen. SaaS-Natives must look beyond their
+playbooks. AI-Natives are proving that faster, more efficient growth is possible. The question is
+no longer whether it can be done, but whether SaaS-Natives are ready to learn and adopt what
+has already been proven to work for AI-Natives.
+
+Part III. How AI-Natives Grow
+Before examining how AI-Natives grow, it’s worth starting with why they are so disruptive: their
+velocity and efficiency. In some cases, AI-Natives achieve in a single quarter what took leading
+SaaS-Natives years.
+The following data, drawn from public LinkedIn posts, founder statements, and investor profiles,
+may not be certified, but it paints a remarkably consistent picture. The fastest-growing
+companies on this list, Bolt, Cursor, Glean, ElevenLabs, and Mistral, are reaching $10M, $50M,
+and even $100M in ARR in record time. Many hit these milestones in months, growth curves that
+have taken SaaS-Natives years to achieve.
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 8 of 15
+
+Figure 3.1: A growing number of AI-Natives are reaching $10M–$500M ARR, making it no longer an exception.
+
+3.1 Velocity and Efficiency Have Become a Competitive Weapon
+SaaS-Natives typically take five to ten years to reach revenue milestones like $10M or $100M.
+AI-Natives achieve their results in a third of the time, and with dramatically higher revenue per
+employee, signaling this isn’t brute-force growth. That efficiency frees capital for product
+innovation, infrastructure, and market expansion, accelerating the cycle even further.
+
+Figure 3.2: AI-Natives hit $100M 3× faster with 4× productivity.
+
+For CEOs and CFOs, this rewrites competitive timelines. AI-Natives can scale so quickly that
+incumbents have less time to respond, and challengers can overtake market leaders before the
+next planning cycle.
+
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 9 of 15
+
+AI-Natives are now doing to SaaS what SaaS once did to perpetual
+software, and it’s not because they have better GTM teams.
+3.2 The Design Behind the Growth of AI-Natives
+AI-Natives’ ability to compound growth without compounding cost isn’t accidental; it’s by
+design. Three core design principles stand out:
+●​User-level focus: success is measured at the level of the individual user, not the company.
+●​Impact-first: in an instant-gratification economy, users expect impact in minutes, not weeks.
+●​Real-time data: modern infrastructure measures where and when impact happens.
+These principles show up consistently as four product characteristics: instant activation,
+habit-forming daily usage, seamless integration, and intuitive UX — all feeding compound
+growth loops that power hypergrowth without relying on marketing, sales, or customer success.
+
+Figure 3.3: The characteristics of successful AI-Natives reveal which verticals are next.
+
+The characteristics that propelled the first wave of AI-Natives don’t just explain their growth —
+they signal which verticals will emerge next: where impact is immediate, reinforced daily,
+spreads naturally, and can be measured in real time. But user-side sensitivity alone isn’t enough.
+To capture and compound that impact, providers must also be built on a real-time, closed-loop
+data infrastructure around users and their impact. SaaS-Natives also built loops, but theirs were
+designed around customers — focused on retention and expansion at the account level,
+supported by data systems inherited from perpetual software sales. What they lacked was
+real-time visibility into user-level impact. That is precisely where AI-Natives diverge — and why
+they can grow so much faster.
+
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 10 of 15
+
+Part IV. The Data Model Behind Compounding Growth
+What makes AI-Native GTM different is that its data model spans the entire customer journey,
+with users at the center. With real-time systems, they can respond instantly to changing
+demand. SaaS-Natives, by contrast, manage leads and customers in separate silos, powered by
+latent systems that surface insights too late. Breaking out of this trap requires a new data
+model, one that unifies leads, users, and customers in a single system.
+
+4.1 The Data Model
+Compounding growth starts with a data model that looks beyond the classic marketing and
+sales funnel, a model that picks up where the funnel stops and covers the entire customer
+journey from first touch to expansion.
+
+Figure 4.1: Today, growth loops revolve around leads and customers. The center of gravity is shifting to users.
+
+A complete view of the customer journey is critical for building a modern data model as we
+move deeper into AI-driven GTM. It provides a more accurate reflection of how a growth system
+behaves. Without it, the feedback loops that power compounding growth can’t be identified, and
+if they can’t be identified, they can’t be measured, optimized, or scaled.
+At its core are three reservoirs of growth: leads, users, and customers. AI-Natives don’t treat
+them as silos; they connect them into a closed system through reinforcing loops. With this
+system view, we can simulate its behavior and begin to see what truly powers hypergrowth.
+
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 11 of 15
+
+4.2 Three Centers of Compound Growth
+The Bowtie highlights three reservoirs as the true centers of growth. Each plays a different role,
+and hypergrowth only happens when they are connected into one system:
+I.​
+
+Leads — all potential customers, with Opportunities treated as a subset. Loops focus on
+generating and qualifying demand.
+
+II.​
+
+Customers — logos, decision-makers, and champions. Loops focus on retaining deals
+and expanding opportunities within accounts.
+
+III.​
+
+Users — the center where AI-Natives stand apart. Individual users experience the
+product’s impact directly. They share results with peers, creating new opportunities and
+effectively acting as marketing and sales.
+
+AI-Natives are distinct because they don’t treat leads, users, and customers as separate tracks.
+They connect them into a coherent system, with users at the center, feeding loops that
+compound faster and more efficiently than any model limited to leads and customers alone.
+
+4.3 Five Growth Loops That Drive Compound Revenue Growth
+The three reservoirs of growth — leads, users, and customers — are connected by five
+reinforcing loops. These loops determine how quickly you grow, how efficiently you deploy
+capital, and how resilient you are under pressure. For modern executives, the critical question is
+simple: which loops are most relevant to driving growth, and how they can be used to close the
+gap to investor expectations. The most common growth loops are:
+1.​ Viral (kᵥ) – Generates bursts of new leads through buzz, word of mouth, and viral
+mechanics in a matter of days to weeks. Measured by Viral Factor (kᵥ) and viral cycle
+time.
+2.​ Nurturing (LTO) – Converts leads into opportunities over months. Measured by Lead
+Velocity Rate (LVR) and Lead-to-Opportunity (LTO).
+3.​ Advocacy (kₐ) – Creates new opportunities directly from engaged users, compounding
+over time as credibility drives adoption inside accounts. Measured by Advocacy Factor
+(kₐ) and % of pipeline from users.
+4.​ Retention (GRR) – Protects existing revenue streams, with results showing up over
+18–24 month renewal cycles. Measured by Gross Revenue Retention (GRR) and churn.
+5.​ Expansion (NRR) – Grows revenue beyond the initial deal through upsell and cross-sell,
+typically realized over 12+ month budget cycles. Measured by NRR and expansion ARR.
+The fastest, most durable growth comes when different growth loops reinforce each other.
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 12 of 15
+
+4.4 Hypergrowth is the Result of Activating Multiple Loops
+No single loop creates hypergrowth on its own. Viral loops generate bursts of awareness,
+nurturing converts leads into opportunities, and advocacy turns users into pipeline creators. But
+acceleration comes when these loops reinforce one another. Each turn doesn’t just repeat the
+cycle; it strengthens the system.
+
+Proof in the numbers
+What makes this powerful is that it can be simulated. Starting with a modest user base, if viral
+feeds nurturing at healthy conversion rates and advocacy activates even a fraction of users into
+opportunity creators, the model shows breakout velocity. With multiple loops interacting, $100M
+in ARR can be reached within 18 months and $500M in 36, not through brute-force hiring, but
+through compounding growth by design.
+
+Figure 4.2: Simulation shows how growth can be engineered, provided the conditions for success are in place.
+
+Which loops engage, and when
+Simulations confirm what is possible in principle. In practice, the question for executives is not
+whether loops exist, but which ones engage first, and in what sequence. That mix depends on
+context, shaped by vertical, growth stage, and segment.
+Growth Loops by Vertical
+●​ Enterprise (Quality): Advocacy→Retention→Expansion: e.g., Salesforce, ServiceNow
+●​ SMB (Volume): Nurturing→Advocacy→Retention: e.g., HubSpot, Zendesk
+●​ Pro-User (Volume): Viral→Advocacy: e.g., Figma, Canva, GitHub
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 13 of 15
+
+Growth Loops by Growth Stage
+●​ Early-stage (Velocity): Viral→Advocacy: e.g., Notion, Slack
+●​ Mid-stage (Efficiency): Nurturing→Advocacy→Retention: e.g., Zoom
+●​ Late-stage (Quality): Nurturing→Retention→Expansion: e.g., Workday, Atlassian
+
+Growth Loops by Segment
+●​ Creators (Public): Viral→Advocacy: e.g., GitLab, Canva
+●​ Marketers (Brand): Nurturing→Viral: e.g., HubSpot
+●​ Operations (Cost): Retention→Expansion: e.g., ServiceNow
+
+The implication is clear: loops compound everywhere, but the sequence is unique to each
+business. For modern executives, the challenge is recognizing which loops matter most for their
+context and activating them in combination to bend the growth curve.
+
+4.5 What Powers Growth Loops? Real-Time Systems
+AI-Natives build data systems that measure and improve the performance of processes and
+systems, not just people. Their loops operate at real-time velocity, capturing user-level impact as
+it happens and feeding it back instantly. SaaS-Natives, by contrast, rely on latent data: people’s
+performance, activity metrics, pipeline reports, and NPS scores, most of which surface only
+weekly or monthly. The result is slower loops that lose momentum before they can compound.
+
+Figure 4.3: AI-Natives optimize system performance on real-time, user-impact data..
+
+This shift in data foundation is what makes growth loops scalable. AI-Natives don’t just have
+better products, they have faster and more stable systems that capture individual impact and
+compound it into growth.
+Most leaders are urged to adopt AI at the application level, but that misses the point. To use AI
+to solve the growth problem, the priority must be building the right data model first. Once
+real-time, user-level data is in place, AI can be deployed to extract intelligence from it and drive
+the loops that power compounding growth.
+
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 14 of 15
+
+Conclusion. Start Winning in the AI Era Today
+AI-Natives are breaking through at unprecedented speeds, not by chance but by design. They
+run on a fundamentally different growth architecture: system-driven, data-led, and engineered
+for compounding from day one. Meanwhile, SaaS-Natives' growth is stalling, falling short of
+investor expectations despite cost cuts and optimized playbooks.
+The path forward is clear: transition from rep-driven to system-driven, data-led growth built on
+closed loops. Most leaders are urged to apply AI at the application layer, but that misses the
+point. Growth comes from real-time data infrastructure powering loops that capture user impact
+and compound growth. AI is not to be seen as just a tool; it is the architecture of growth.
+Executive Priorities
+●​ Extract underutilized GTM capacity
+●​ Identify and activate compound growth loops
+●​ Build a real-time, AI-ready, data infrastructure
+●​ Reallocate spend from headcount to systems that power growth loops
+●​ Validate growth efficiency in real time with new telemetry (KPIs)
+AI can power compound growth through systems and loops, but only linear growth through
+applications. Where you invest your time and resources matters.
+
+You Do Not Have to Navigate The AI Transformation Alone
+Since 2011, Winning by Design has helped hypergrowth software companies design, build,
+and scale their growth engines. Whether you’re a CEO aiming to reignite growth or a CFO
+rethinking GTM efficiency, we work with executive teams and operators to architect for
+compounding growth.
+●​ For CEOs: Educate your team, develop a growth plan, and perform board readouts.
+●​ For CFOs, CROs, and CMOs: Growth planning and Growth Guidance
+●​ For GTM Teams: Implementation, training, playbooks, and workshops at SKOs/RKOs
+There is an immediate growth opportunity ahead. Seizing it requires deliberate action from
+the CEO, and time is of the essence.
+
+Winning by Design​
+
+Confidenial - Personio Executive Briefing - ​
+
+Page 15 of 15
+
+

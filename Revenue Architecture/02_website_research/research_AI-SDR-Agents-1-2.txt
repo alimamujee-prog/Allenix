@@ -1,0 +1,678 @@
+RESEARCH BRIEF
+
+FACTS AND FEATURES:
+THE RISE OF AI SDRs
+By Dominique Levin, CEO Emeritus of Winning by Design
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+Facts and Features: The Rise of AI SDRs
+By Dominique Levin, CEO Emeritus of Winning by Design
+Research conducted Q4 2024
+
+Research Abstract
+This document provides an overview of the rise of AI SDRs, speciﬁcally inbound SDRs.
+It starts with a CEO Take: if you are a CEO of a B2B company, what should you know
+about AI SDRs? Then it will do the same for the GTM practitioners tasked with
+researching and implementing AI SDR technology. The report that follows is focused on
+practical considerations for implementing AI SDRs into your Go-To-Market (GTM)
+strategy. As the technology is still rapidly evolving, it is essential to understand the
+nuances, capabilities, and limitations of AI-driven solutions. The full report includes a
+vendor comparison of current relevant features as well as a Request for Proposal (RFP)
+template, both of which are available to Advisory Access subscribers.
+
+CEO Take
+AI Agent technology is quickly maturing to the point that every B2B company must have
+a pilot running. Early data indicates that AI SDRs outperform and replace humans when
+it comes to the inbound lead qualiﬁcation use case (24x7 availability, instant and reliable
+response, etc.) and that AI SDRs can signiﬁcantly increase the productivity of human
+outbound SDRs, especially when it comes to performing and integrating research. Using
+AI SDR technology will create more pipeline at a much lower cost, and if you ignore the
+technology competitors may quickly overtake you.
+Most companies ﬁnd that for an inbound AI SDR project, marketing is the most suitable
+to run the pilot as the technology must be integrated into the website. However, to ensure
+success, marketing must collaborate with sales and GTM operations and strategy, so set
+up a cross-functional task team to ensure the success of your project.
+
+Dec 1, 2024
+
+1
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+Practitioners Take
+AI agents are rapidly improving and can be used for speciﬁc use cases to drive growth
+and overcome GTM bottlenecks, especially in areas where humans have limited skills. It
+is critical to see beyond the 'demo effect', a situation where the AI performs exceptionally
+well in a controlled environment but struggles in real-world scenarios, and understand
+that AI is a rapidly evolving landscape in which most vendors blur the lines between
+vision and features.
+Here are ﬁve questions you should be asking:
+1.What GTM metric is lagging?
+2.What do you wish humans could be better at?
+3.What features matter most?
+4.
+
+How to train and test your AI SDR?
+
+5.Which vendors should I consider?
+
+Question 1: What GTM metric is lagging?
+Consider what GTM metric you most want to improve, where you are lagging versus the
+industry, or your historical average in any particular metric: a conversion rate, sales cycle
+time, or average deal size in a particular segment. Can you envision an experiment that
+goes beyond the capabilities of humans to enhance this metric, such as by conducting
+more research, memorizing more use cases or features, and responding more quickly? AI
+has the potential to signiﬁcantly improve these metrics, offering a promising outlook for
+your business.
+
+Use AI to improve a ‘sticky’ GTM metric.
+Perform a full Bowtie Go-To-Market Diagnostic to identify your biggest bottlenecks to
+growth and pick one of those areas. For example, convert more inbound requests into
+meetings, convert more webinar attendees into discovery calls, or turn more discovery
+calls into proposals.
+
+Dec 1, 2024
+
+2
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+
+Qualiﬁcation
+
+Awareness
+
+Education
+
+ADR
+
+SDR
+
+Selection
+
+Sales
+
+Mutual
+Commit
+
+SE
+
+Onboarding
+
+Adoption
+
+Usage
+
+PM
+
+CSM/AM
+
+AM
+
+Figure 1. The application of AI can be used in various parts of the customer journey.
+
+Question 2: What do you wish humans could be better at?
+Find skills that could move a sticky GTM metric but are hard for humans. This way, you
+can accelerate growth and reduce costs with your AI implementation. Superhuman skills
+highlighted:
+●
+
+Inﬁnite availability and capacity, including the ability to respond to every inbound
+within seconds, follow-up with every single event attendee before/during/after
+the event, at any time of the day or week
+
+●
+
+Boundless product and company knowledge, knowledge about every single
+product feature, the ability to instantly pull up relevant slides, illustrations, or parts
+of a demo—even during the ﬁrst conversation—without deferring to a ‘sales
+engineer’ or ‘product specialist’ (no prospect wants more calls)
+
+●
+
+Know all other customer deployments and the problems they solved. While
+humans have a limited library of case studies at their ﬁngertips, an AI can
+instantly access all prior customer interactions and call recordings in your CRM
+and turn this data into relevant customer story snippets on the ﬂy.
+
+●
+
+Instant ability to perform deep research on every single inbound or outbound
+prospect or customer from an inﬁnite number of ﬁrst and third-party data
+sources to make the conversation more relevant
+
+Dec 1, 2024
+
+3
+
+The Rise of AI SDRs
+
+●
+
+Winning by Design Proprietary
+
+Remember everything said before; the customers never have to repeat
+themselves to continue the conversation.
+
+●
+
+Ability to distinguish between an inﬁnite number of personas. Maybe the
+segments that your solution targets include Financial Services and Healthcare,
+within each vertical: mid-market companies and enterprises, and for each
+company: C-level, Director, and End User. It creates 2 x 3 x 3 = 18 personas, each
+with their pain points. For human sellers, we would dumb this down to a few
+personas, but an AI agent can master different starter questions and vocabulary
+for each of the 18 permutations.
+
+Here are some examples of metrics and how ‘superhuman’ AI skills could improve each:
+
+Metric to improve
+
+Superhuman skills AI can use
+
+Convert more inbound requests into
+meetings.
+
+Superhumans respond to every inbound request
+within seconds and perform extensive research before
+doing so, making each response more relevant. Also,
+they never forget to follow up with thoughtful nudges
+if a meeting doesn’t initially get scheduled.
+
+Convert more webinar attendees into
+discovery calls.
+
+When you invite people to an event or follow up with
+an email after the event, offer a live conversation with
+the AI then and there to learn more about the prospect
+and answer their questions.
+
+Convert more discovery calls into
+proposals.
+
+Because AI can have inﬁnite product knowledge, even
+during the ﬁrst conversation, it can answer (more)
+product questions and use-case questions (e.g.,
+customer stories), leading to more prospect
+conversions.
+
+Table 1. Examples of GTM metrics to improve and how AI could help.
+
+Dec 1, 2024
+
+4
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+Question 3: What features matter most?
+How well your AI Agent will perform will depend on whether it can communicate
+synchronously and asynchronously, how well it can understand your customers (not just
+your product), and whether it can achieve goals beyond simply answering questions.
+Additional hygiene features will have to do with what could possibly go wrong (See next
+section):
+
+Synchronicity of the conversation.
+Can the AI agent handle synchronous (text/voice/video chat) and asynchronous
+conversations? Needless to say, synchronous capabilities are more complicated than
+asynchronous ones. Many use cases will require or beneﬁt from both (See Figure 2.)
+
+Nurture Unresponsive Inbound
+
+Sync
+Chat or Call
+
+Async
+Email or Message
+
+Offer (Warm) Outbound Real Time/Live Chat
+
+Figure 2. Synchronous and asynchronous capabilities work together in most use cases.
+
+First and third-party signals
+How well can the AI agent research and understand your customers, not just your
+products? Does the agent integrate with your CRM (ﬁrst-party data) out of the box? If so,
+what ﬁelds can it read, and which ﬁelds does it use in customer conversations?
+
+Dec 1, 2024
+
+5
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+“Most vendors highlight CRM integration, but few
+incorporate the insights into the conversation.”
+Third-party signals can provide additional business context. Think about the ability to
+detect news, hires, technographic, third-party reviews, and all the other signals that may
+inﬂuence what thoughtful question you might open a conversation with. Most solutions
+do not yet perform deep research or tailor the conversation based on research.
+
+Seconds
+
+Inbound
+Request
+
+Real-Time
+Research
+
+Relevant
+Response
+
+1st Party
+CRM past engagement
+Other contacts of
+account
+Marketing engagement
+Product usage
+3rd Party
+Company & lead data
+Intent data
+3rd Party reviews
+Social signals
+News signals
+Tech stack used
+Org trends & hiring
+Partner/employee
+relations
+
+Figure 3. Researching a prospect in real-time and being more relevant increases the customer experience.
+
+Dec 1, 2024
+
+6
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+Goals of the AI interaction
+Is the agent deterministic, not just generative? What goals can the AI achieve?
+Can the AI achieve goals beyond simply answering questions—such as booking
+meetings, inviting to events, diagnosing pain and impact, recommending to the buyer
+how to get internal alignment for a decision, and providing proposals and pricing? Most
+vendors are still very focused on handing off to a human as quickly as possible. That’s
+not much better than form automation.
+
+Question 4: How to train and test your AI SDR?
+You will need to teach your AI just like a human, but much more precisely. Therefore,
+standing up an AI SDR requires a signiﬁcant product marketing effort. You will need to
+teach your AI not only about your company and product but also (and especially) about
+your Ideal Customer Proﬁle, personas, and pain points (by persona).
+
+Training your AI solutions
+Some vendors turn away clients who aren’t extremely clear about their ICP and personas,
+which shows how important this step is to success.
+1.
+
+Train AI on your company and
+product.
+Most AI vendors allow you to
+
+Customer Data & Signals
+Who & When
+1st Party Data
+
+3rd Party Data
+
+point the AI to your website,
+internal knowledge base, and
+
+Context
+
+content repositories to
+accomplish this step, and this
+information is often readily
+
+Messaging & Process Design
+What & How
+
+available. You need to ensure
+that your website’s
+
+Segment/Persona
+
+GTM Motions
+
+information is up-to-date and
+accurate.
+
+Dec 1, 2024
+
+Figure 4. Providing your AI brain with the business context to
+succeed is critical.
+
+7
+
+The Rise of AI SDRs
+
+2.
+
+Winning by Design Proprietary
+
+Documenting your Ideal Customer Personas
+For each of the permutations of your Ideal Customer Persona, lay out the likely
+situation, pain, impact, and critical events by persona and provide starter
+questions for the AI. It is a signiﬁcant product marketing upfront investment, but
+it will improve the results of your AI project. It is similar to the persona cards
+and discovery questions many enablement teams provide for their sellers.
+
+3.
+
+Providing a blueprint for the conversation
+Humans expect to receive value from each vendor interaction, but the AI
+conversation should avoid feeling like an interrogation. To train the AI, provide it
+with blueprints or visual guides that represent the ﬂow of a strong human
+interaction, just as we would do with newly minted SDRs or AEs.
+
+Value to
+buyer
+
+Value to
+seller
+
+Provide some
+market insight
+
+Identify the
+customer
+
+Suggest
+next steps
+
+Provide relevant
+use case stories
+
+Diagnose
+customer pain
+
+Qualify the
+customer
+
+Figure 5. Provide your AI with a picture or blueprint of a good conversation.
+
+4.
+
+Establishing your GTM motion by persona
+The next best action will depend on the customer segment and the information
+collected during the interaction between the customer and AI. You may operate
+in different customer segments and have deﬁned a different GTM motion based
+on the customer’s size and other factors, such as the prospect’s intent (highversus low-intent customers).
+
+Dec 1, 2024
+
+8
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+Testing your AI Agent
+Building a vertical AI agent that’s 80% customer-ready is relatively easy. Training and
+testing an AI agent to be 100% customer-ready is hard. Prematurely launching an AI
+agent can risk damaging customer trust or your business reputation, and result in
+backlash from customers facing hallucinations and toxicity. It is best practice to keep
+the Human In The Loop (HITL) during the ﬁrst 1-3 months. Testing and monitoring
+HITL can take different forms:
+1.
+
+Run the solution in co-pilot mode before switching to auto-pilot; not all vendors
+offer this.
+
+2.
+
+Keep a Human In The Loop by having an AI and human participate together on
+the same call or chat, comparable to four-legged sales calls during a new rep’s
+training period. Very few vendors offer this.
+
+3.
+
+Ongoing quality assurance: Ideally, dashboards and alerts should be available
+to point you to suspect conversations, since it’s unrealistic to manually review
+every AI interaction.
+
+4.
+
+Use red teaming to test your AI: Red teaming involves trying to ‘break’ the AI
+and get it to give toxic or wrong answers. It is used extensively in cybersecurity
+and is slowly emerging to test AI agents for effectiveness, accuracy,
+fairness/bias, and security.
+
+Dec 1, 2024
+
+9
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+Human-in-the-loop Explained
+HITL emphasizes the integration of human oversight in AI-driven processes,
+particularly when the potential consequences of failure are high. While AI can operate
+autonomously in low-risk scenarios, human judgment is crucial for tasks with
+signiﬁcant stakes. The HITL Curve (see Figure 6) balances AI's precision with human
+intervention, ensuring that higher-risk, more complex tasks receive the necessary
+oversight while low-complexity tasks can be handled autonomously.
+
+Design Bridges
+1:1 (Complex)
+
+Architect
+SE
+
+The Human-InThe-Loop curve
+
+Build Roads
+(Skill Level)
+
+Human-oversight-ratio
+
+Full oversight, one
+human oversees
+one AI process.
+
+AE
+AM
+CSM
+
+Fix potholes
+
+Enablement
+SDR
+
+1:100 (Simple)
+Minimal oversight,
+many AIs managed
+by one human.
+
+Negligible
+($2/hr)
+
+Catastrophic
+Consequence of Failure
+
+($200/hour)
+
+(Cost per hour)
+Figure 6. The Human-in-the-Loop Curve shows the relationship between AI's capability to
+manage low-complexity tasks with minimal oversight (1:100) and the need for full human
+oversight (1:1) in high-risk, complex tasks.
+
+Dec 1, 2024
+
+10
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+Question 5: What vendors should I consider?
+As companies continue to explore AI's potential in sales and customer engagement, several
+vendors have emerged with innovative solutions to address key use cases. We’ve gathered
+insights from diverse companies at the forefront of AI-powered sales agents, each offering
+unique capabilities in both inbound and outbound communication. Below, we highlight the
+vendors we spoke to, what sets them apart, and the strengths of their offerings, from
+asynchronous and synchronous agents to advanced personalization and multi-channel support.
+●
+
+1Mind.com, started by the founder/CEO of 6Sense, offers agents capable of sync and
+async communication. They have a live demo on their website. What we like: AI can
+participate in live video calls and remember what was said in previous conversations.
+
+●
+
+11x.ai focuses on agents for both outbound and inbound sales. It is funded by
+Benchmark and a12z. Sign up for a live demo on the website. What we like: It has both
+asynchronous and synchronous capabilities, albeit not yet integrated.
+
+●
+
+AISDR.com - focus on outbound prospecting agents via email and LinkedIn,
+Y Combinator startup, sign-up for a live demo on the website. What we like: We can work
+with multiple CTAs within one campaign and have multiple campaigns in parallel.
+
+●
+
+Algomo.com focuses on the inbound/web-chat agent use case, starting with real-time
+website personalization. What we like: You can (self-service) launch a live demo as if the
+agent is already live on your website.
+
+●
+
+Qualiﬁed.com focuses on inbound chatbots, and $163m was raised from
+Salesforce.com, Redpoint, Norwest, Tiger, and Sapphire. You can try the demo live on
+their website. What we like: extensive experience (market leader) in the inbound chat
+space.
+
+●
+
+Relevance.ai is an agent builder platform funded by Insight Partners. Its outbound agent
+is free and available on its website. What we like: Super ﬂexible no-code platform, its
+following of developers building agents, and impressive reasoning and research
+capabilities demo.
+
+●
+
+Rep.ai focuses on inbound chat agents, evolved from ServiceBell chatbots, and has a
+live demo on its website. What we like: It is one of the few companies with a live video
+avatar on its website.
+
+Dec 1, 2024
+
+11
+
+The Rise of AI SDRs
+
+●
+
+Winning by Design Proprietary
+
+Reply.io evolved from a sales engagement platform to an AI SDR that can combine
+inbound and outbound communication and automate email, LinkedIn, and SMS.
+What we like: it has many different channels for AI agents to communicate.
+
+●
+
+SalesAPE.ai focuses on inbound via email, WhatsApp, SMS, or web chat. A live
+email demo is available on their website. What we like: their focus on the inbound
+use case.
+
+●
+
+Salesforce.com focuses on outbound SDR agents and sales coach agents.
+General availability has been pushed back to December 4, 2024. What we like: In
+addition to SDR agents, they also have a cool sales coaching agent for humans.
+
+●
+
+Salesforge.ai focuses on outbound prospecting co-pilot or autopilot, a 50-person
+startup out of Estonia, no pilot available, minimum commitment is 3 months.
+
+●
+
+SalesLoft/Drift: A leading sales engagement platform with cool
+rhythm/prioritization algorithms, bought a leading web chatbot. What we like: AI
+features are nascent, but the promise lies in the integration with Salesloft and Drift.
+
+●
+
+Salespeak.ai focuses on inbound agents who can do more than qualify leads.
+Their website offers a live demo. What we like: Salespeak.ai is focused on
+re-inventing and improving the entire buyer journey with AI.
+
+●
+
+Regie.ai focuses on outbound sequence writing agents, Khosla Ventures, Scale
+Venture Partners, Foundation Capital, and South Park Commons. What we like: A
+free version available to start
+
+Vendor Capabilities and Market Research Guidelines
+1.
+
+The list of vendors and each vendor’s capabilities are evolving rapidly, making it
+essential to conduct thorough research.
+
+2.
+
+The market is still in its early stages, so this note is not intended to be written in a way to
+favor any particular vendor.
+
+3.
+
+A vendor must have provided a comprehensive demo of their capabilities to be included
+in this review. We did not engage with customers or assess production environments.
+
+Want to make this happen?
+Book Time with an Advisor
+Dec 1, 2024
+
+12
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+SUPPLEMENTARY MATERIALS
+The following supplementary materials are available in the full version
+of this report, available to subscribers in the reference library. For more
+information on subscribing, see winningbydesign.com/access-pass.
+
+01 Vendor Comparison
+02 RFP Template
+03 Your Guide to Running
+Impact Sprints
+04 SPICED Across the
+Customer Journey
+
+Dec 1, 2024
+
+13
+
+The Rise of AI SDRs
+
+Winning by Design Proprietary
+
+READ OUR OTHER AI AGENT RESEARCH REPORTS
+
+AI AGENTS: RESEARCH ACROSS THE BOWTIE
+
+Like what you read?
+Send to a Colleague
+
+Dec 1, 2024
+
+14
+
+

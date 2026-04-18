@@ -1,0 +1,1363 @@
+REVENUE
+ARCHITECTURE
+
+CHAPTER ONE
+
+CHAPTER 01 | INTRODUCTION
+
+01
+INTRODUCTION
+
+ISBN: 979-8-218-96493-1
+DISCLAIMER: The information provided in this book is intended for informational purposes
+only and should not be construed as legal, ﬁnancial, or professional advice. The views expressed
+herein are those of the author alone and may not reﬂect those of any organization or entity with
+which the author is aﬃliated. While every effort has been made to ensure the accuracy of the
+information presented, the author and publisher make no representation or warranties with
+respect to the accuracy, applicability, ﬁtness, or completeness of the book’s contents. The author
+shall not be liable nor responsible for any loss or damage allegedly arising from any information
+or suggestion within this book. The reader is responsible for performing their own due diligence
+and should seek the advice of qualiﬁed professionals before making any decisions related
+to the content of this book.
+Copyright © 2023. Published by Winning By Design, LLC, a Delaware Company. All rights
+reserved as permitted under the United States Copyright Act of 1976. No part of this book
+may be reproduced, used, or distributed in any form or by any means, without expressed
+written consent of the publisher. For permissions or other inquiries, please contact us at
+Info@WinningByDesign.com. The contents of this book were created in the United States
+of America.
+First Edition, revision 1.2, January 29, 2024
+Unless otherwise stated, all graphs and visual aids included in this book were designed
+and produced by Winning by Design Creative. Special thanks to Roee Hartuv, Dan Smith,
+Jackie Kummerl, Oren Lavi, Alex Esser, Dominique Levin, Dave Boyce, Calvin Boyce, David
+Spitz, and Sari Green for their hard work, input, and guidance.
+To our readers, thank you for embarking on this journey with us. We hope the insights and
+strategies shared in these pages empower you to achieve new heights in your business.
+
+CHAPTER 01 | INTRODUCTION
+
+01
+
+INTRODUCTION
+
+A few years ago, we witnessed one of the most remarkable human-made
+wonders ever. Nearly all of humankind came to depend on it overnight. Yet,
+even today, few can pinpoint what it was, as it was obscured by the events
+that followed. This book not only unveils the source code behind this modern
+marvel but also provides the blueprint to recreate its magic.
+In 2020, the world faced a crisis of monumental proportions: a global pandemic.
+Almost overnight, remote work became not the exception, but the rule. Billions
+relied on their phones, tablets, and computers to navigate the intricacies of daily
+life—to work, communicate with family, participate in their communities, and go to
+school. At some point during the pandemic, nearly everyone on earth who had a
+smartphone installed a product like Zoom, hosted on a ubiquitous infrastructure
+known as “the cloud.” The technology deployed on an unprecedented scale, and
+against all odds, it worked ﬂawlessly. Students and teachers, schools and
+governments—everyone found themselves relying on the cloud.
+Amid the chaos and upheaval of a global pandemic, a quiet wonder had
+occurred—one that many of us took for granted, even while it underpinned
+nearly every facet of our lives: the cloud had come to our rescue. This wonder
+didn’t just suddenly appear; it came about through decades of incremental
+advancements in global infrastructure and software that allowed the cloud to
+embrace the moment. The term “the cloud” may sound ﬂuffy, but there is much
+more to it than its nebulous name suggests.
+
+4
+
+The cloud came to exist because it was heavily inﬂuenced by the following:
+1. The Internet: The triumph of SaaS, or Software as a Service, in 2020 was
+rooted in an intricate web of interconnected servers and computing power
+built over the previous 30 years. This offered extensive, seamless, and
+ubiquitous access to the cloud regardless of geographical location.
+2. Smartphones: Devices permeate every aspect of our lives. With over 6.5
+billion smartphones in the market, approximately 2 out of every 3 individuals
+had direct access to the cloud infrastructure.
+3. A Diverse Landscape of Applications: With many applications available,
+virtually every need could be catered to. Communication apps such as Zoom
+(see Figure 1.1) gained immense popularity, fostering seamless connections
+between people regardless of their physical isolation.
+These building blocks forged a highly reliable global infrastructure serving
+billions of users worldwide. Yet, one crucial building block has gone unnoticed:
+4. Innovative Business Models: The industry embraced a novel business
+approach, enabling access to essential services through subscription- or
+usage-based fees on a recurring basis. The most popular use case is SaaS.
+This innovation facilitated ubiquitous access and enabled everyone with a
+smartphone to partake.
+Before the pandemic, many industry experts doubted a cloud-based
+infrastructure could carry the performance needed for global Enterprise-grade
+systems. However, the 2020 pandemic proved them wrong. Overnight, every
+business, government, and educational institution worldwide became dependent
+on cloud products and experienced the beneﬁts of a subscription-based
+approach using a recurring revenue model. In the middle of 2020, we pinched
+ourselves, for we had all witnessed a wonder: during the pandemic, the entire
+world had become dependent on subscription- and consumption-based services
+overnight, and it did so without a hitch. It felt as if SaaS products and their novel
+pay structures had just saved the world.
+
+CHAPTER 01 | INTRODUCTION
+
+The explosive growth of communication applications in B2B during the pandemic
+reﬂected by the rise in the number of Zoom customers with more than 10 employees.
+
+Customers (>10 seats)
+
+FIGURE 1.1
+
+The 2020
+Pandemic
+
+Next, we will dissect the factors behind the rapid growth and the subsequent
+market crash, analyzing its underlying causes, in Section 1.1 The Golden Era.
+This exploration will help set the stage for where we are headed next and how to
+get there, introducing 3 key concepts:
+● Section 1.2 The Revenue Factory: We'll delve into the Factory concept,
+which offers a blueprint for sustainable growth and operational eﬃciency in
+recurring revenue businesses.
+● Section 1.3 The Go-To-Market (GTM) Approach: Moving away from the
+siloed operation, we'll explore a GTM approach where revenue is generated
+through a uniﬁed organizational effort akin to a factory's production line.
+● Section 1.4 Phase Shifting: An examination of how recurring revenue
+businesses undergo several fundamental changes quickly, a concept known
+as Phase Shifts. The focus will be on managing through these numerous
+phase shifts smoothly, which most management teams are unfamiliar with.
+Collectively, they do not just narrate a shift in strategic thinking; they propel us
+into an exciting future and act as tools to navigate the modern economic
+landscape's ever-changing landscape.
+
+6
+
+AMBIGUOUS SAAS TERMINOLOGY EXPLAINED
+SaaS is a versatile term that encompasses various aspects of the software
+delivery model. It plays a pivotal role in modern technology, and its usage
+can be classiﬁed into 3 categories:
+● SaaS as a Delivery Model: Refers to cloud-hosted applications
+accessed via the internet through subscription-based services. Users
+lease the software instead of owning it outright. The advantages
+include accessibility from any internet connection and regular software
+updates and maintenance without the hassle of manual installations.
+● SaaS as a Business Model: Includes both subscription-based and
+consumption-based agreements. Subscription-based agreements
+specify the duration of software access, ranging from daily to annual
+terms, while consumption-based agreements detail the usage-based
+terms and pricing, aligning costs with the actual use of the software.
+● SaaS as a Payment Structure: Encompasses recurring payments
+based on the terms outlined in a subscription contract. Recurring
+payments provide a more dependable and continuous stream of
+income, allowing for better resource allocation. Due to the need to
+provide ongoing results to retain customers, it naturally fosters
+long-term relationships with customers, making it customer-centric.
+
+FIGURE 1.2
+
+The term “SaaS” means different things to different people.
+
+DELIVERY MODEL
+
+BUSINESS MODEL
+
+PAYMENT STRUCTURE
+
+Hosted in the cloud
+
+A subscription or a
+consumption service
+
+Recurring revenue
+
+SaaS
+
+SUBSCRIBE
+
+$
+
+Throughout this document, we will limit the use of “SaaS” and instead refer
+to “Recurring Revenue,” indicating its use as a payment structure, or
+“Subscription” to reﬂect on it as a business model. This approach provides
+a clearer delineation of the multifaceted role of SaaS in the software
+industry.
+
+CHAPTER 01 | INTRODUCTION
+
+1.1
+
+THE GOLDEN ERA
+While the number of subscription services were exploding and valuations were
+catapulting, underneath, a ﬁre was smoldering. Most of these companies were
+being built on a “growth-at-all-costs” mindset, and the sudden increase in
+usage made their structural and conceptual weaknesses more pronounced.
+To create more growth, more people were hired, and more attention was paid
+to short-term wins without applying short- or long-term ﬁnancial discipline.
+Unsurprisingly, this resulted in a steep increase in the cost of acquisitions.
+Meanwhile, companies went public with less revenue, relying on more
+immature Sales and Marketing motions. Surely this could not continue? All
+this led to 2021, a year that marked a watershed era of success for the SaaS
+industry: 27 Initial Public Offerings (IPOs), and an astonishing 787 unicorns
+were minted, according to DealRoom. This surge was largely fueled by the
+continued growth-at-all-costs mindset.
+The SaaS Crash
+In 2021, after more than a decade of intense growth, signs of a coming
+transformation began to emerge. In November 2021, the SaaS stock market
+peaked. However, on December 3, 2021, the ﬁrst domino fell as the Wall Street
+Journal reported, "DocuSign Shares Fall More Than 40% as Customer Behavior
+Shifts." At the start of 2022, a casual observer might have judged everything to
+be ﬁne, but by then, geopolitics and other emerging challenges had begun to
+slow down the economy.
+In February 2022, many marketing leaders noticed a sluggish lead ﬂow, and in
+the following months, sales leaders started to see deals being delayed. Naturally,
+booking performance fell short, and soon after, the growth rate began to decline,
+slowing down funding and delaying IPOs. With less money available to invest,
+the valuations of Startups dropped. Market reporter Rebecca Szkutak published
+an article on March 23, 2022, entitled "Record-Setting Venture Capital Market
+Shows Signs of a Slowdown.”
+
+8
+
+By mid 2022, the situation had worsened, and venture ﬁrms started
+to recommend their portfolio companies cut costs by 20% across the board,
+while others advised surgically paring down expenses. However, it was too late;
+the damage was done. The SaaS market had crashed, marking the end of an
+11-year tech bull market that resulted in a historic 50% value destruction in
+public (and private) SaaS companies, with the average market cap down 57%
+from its 12-month highs. This massive reduction in market value impacted
+public SaaS companies and hit the entire tech ecosystem like a tidal wave.
+FIGURE 1.3
+
+Performance of SaaS companies over time, normalized against January 2012 by SaaS
+Capital Index®.
+
+THE GOLDEN ERA.
+1200%
+
+THE
+SAAS
+CRASH
+
+800%
+
+400%
+
+0%
+
+2012
+
+Time (years)
+
+PANDEMIC
+
+2023
+
+The end of the Golden Era of SaaS had come. An era that began with Marc
+Andreessen's prescient words in 2011, "Why Software is Eating the World,"
+crashed during the winter of 2022 and ended with an exclamation point with the
+collapse of Silicon Valley Bank on March 10, 2023. So, where do we go from
+here? To learn where we are going we must ﬁrst delve into the origins of this
+turmoil.
+The new situation we ﬁnd ourselves in demands a new operational framework.
+But to do that, we have one important thing to do. We must ﬁrst identify the root
+cause of the crash to prevent it from ever happening again.
+
+CHAPTER 01 | INTRODUCTION
+
+What Caused the SaaS Crash?
+The SaaS crash did not come as a surprise to everyone. Many industry experts
+had warned of the market’s unsustainability in the years leading up to this.
+However, the speed at which it happened and the widespread impact of the
+crash still caught many off guard. For far too long, the market had coasted on
+a diet of ﬁnancial junk food, propelled by cheap investment money warranted
+by occasional bursts of explosive growth in a particular sector.
+Various factors contributed to this unprecedented fall, including rising interest
+rates, the end of the COVID inﬂation, macroeconomic risks, and geopolitical
+uncertainties like the war in Europe. While these events certainly played an
+important role and may have caused the situation to spill over, they were not its
+root causes. An average customer buying a license to sign electronic
+documents or to use communication software is typically disconnected from
+U.S. bond prices. And let's not forget that customers were still buying and
+feverishly using SaaS products when this occurred. So what was the cause?
+During the Golden Era of SaaS, the prolonged period of low interest rates led to
+abundant investor capital. It enabled SaaS investments to grow without regard
+to near-term proﬁtability, a Go-To-Market (GTM) approach that has since been
+coined “growth at all costs.” To ﬁnd the actual problem, let's analyze what the
+growth-at-all-costs GTM approach is.
+The Growth-at-All-Costs Culture
+During the Golden Era the market rewarded growth at SaaS companies with
+higher valuations. Entrepreneurs quickly realized that the faster the growth,
+the higher the valuation, thereby increasing the likelihood of going public.
+Investors themselves also favored this trend, as an investment made at a
+given valuation could swiftly be justiﬁed by the next investor willing to invest
+at multiple times that valuation. Ultimately, the public markets rewarded
+founders, allowing them to amass unimaginable wealth and helping investors
+achieve their Internal Rate of Return, or IRR, targets. It resulted in companies
+hiring unskilled labor, purchasing a myriad of tools, and applying unproven
+methods—all of which contributed to the soaring costs found on most SaaS
+companies' ﬁnancial statements.
+
+10
+
+In practical terms, the quality of the customer experience was considered
+secondary to the growth rate. This approach compelled organizations to focus
+on seeking more revenue, leading to an emphasis on acquiring more deals and
+leads. Unfortunately, this relentless pursuit of more led to organizations using
+spam-like tactics and handing over control to the lowest-cost and least-skilled
+laborers who used the advances of email automation to SPAM prospects and
+customers. This GTM approach caused overall costs to skyrocket, resulting in a
+chaotic array of tools and methods. Consequently, departments operated
+ineffectively and ineﬃciently, pressuring companies to search for more leads to
+create more deals and generate more revenue. The growth-at-all-costs mentality
+fostered an "always do more" culture. It's important to note that the industry
+wasn't oblivious to these issues.
+As early as 2016, it became evident that the current growth tactics wouldn't be
+sustainable in the long run. In fact, by 2018, the industry recognized the
+necessity for a more cost-eﬃcient approach to growth and initiated efforts to
+address the situation. However, when the pandemic struck, these corrective
+initiatives were set aside. If anything, the pandemic further fueled the ﬂames of
+the growth-at-all-costs mindset, intensifying an already precarious situation.
+Who's to Blame?
+Although we may be quick to point ﬁngers at investors as the root of all this,
+such blame is unfair and inaccurate; entrepreneurs were equally at fault. A
+pattern had emerged: pursue growth at all costs, and receive higher and higher
+valuations. Investors could justify their investment, with each of these valuations
+doubling or tripling. Companies could get to the public market faster, where the
+founders and investors could take their chips off the table and become wealthy.
+Then, technology vendors such as email automation providers, service providers,
+and consultants came along to fan the ﬂames. Everyone was contributing to the
+hype. It was not the fault of a single party. It was an entire industry's doing, and it
+brought us to where we are today, with tens of thousands of SaaS companies
+sitting on a mature global infrastructure with over a billion users—not a bad
+place to be, and a fantastic foundation upon which to build.
+
+CHAPTER 01 | INTRODUCTION
+
+The Road from Growth at All Costs Leads to Sustainable Growth
+SaaS as an industry has undergone a signiﬁcant transformation over the last
+decade, marked by 4 distinct eras:
+● In 2012, we witnessed a surge in growth fueled by low interest rates,
+fostering a growth-at-all-costs mentality, which inevitably led to bloated
+cost structures.
+● Starting in 2020, growth stalled amid economic uncertainty and recession
+fears, while high acquisition costs persisted. Rising interest rates began to
+compress valuation multiples from as much as 40x down to 8x.
+● In 2022, there was a signiﬁcant shift towards cost control. Then, in early
+2023, the collapse of SVB marked a turning point away from the
+growth-at-all-costs trend. However, even as companies started reducing
+growth guidance, expense cuts remained relatively shallow.
+● In 2024, the era of sustainable growth begins. Companies are starting
+to manage the costs of growth and aim for a long-term target of 30%
+operating margins. Highly proﬁtable, high-growth companies are
+emerging.
+This trajectory shows a clear path toward a more proﬁtable and sustainable
+future.
+In summary: During the Golden Era, SaaS companies aimed for high valuations,
+often relying on a single metric—the growth rate. With ready access to low-cost
+capital, they received virtually unlimited funding, driving growth with minimal
+oversight, resulting in a pervasive growth-at-all-costs mentality. This relentless
+pursuit of growth led to an increased demand for unskilled and
+technology–assisted labor, prioritizing quantity over quality in serving
+customers. The time has come to transition to a new, more sustainable
+framework. It promises an era of sustainable growth and the rise of high-quality,
+billion-dollar B2B software companies. As we look toward a future deﬁned by
+growth, we turn our attention to an unconventional yet promising domain—the
+factory model.
+
+12
+
+1.2
+
+THE RECURRING REVENUE FACTORY
+When one thinks of a factory, images of stark, grueling environments with
+monotonous production lines may come to mind—hardly the ideal of a dynamic
+modern workplace. Of course, this isn't the vision we aim for with the recurring
+revenue factory. Consider this: throughout history, factories have spearheaded
+technological advances to the extent that today, we give a number to the
+industrial revolutions they have caused. Each has brought a monumental shift
+made possible by new foundational principles upon which the next generation
+of factories could be built. We envision the revenue factory as an example of a
+fourth-generation factory designed to drive eﬃcient, high-quality growth.
+The Goal of a Factory: Cost Eﬃcient Production of Quality Products
+Factories have always served as symbols of the implementation of organized,
+systematic methodologies. At its core, a factory aims to enhance production and
+achieve economies of scale, leading to reduced unit costs as production
+numbers increase. However, the pursuit of increased volume and cost reduction
+historically has resulted in quality issues. This brings us to a third crucial goal of
+a factory, as emphasized by the renowned W. Edwards Deming: Quality. His
+approach to quality is deeply rooted in processes that prioritize the customer,
+rely on data-driven decision-making, and embrace a culture of continuous
+improvement. Deming's teachings on quality management have left an indelible
+mark on the manufacturing industry and played a pivotal role in shaping the
+global quality management movement.
+
+1.2.1
+
+The Impact of the Industrial Revolution
+The Industrial Revolution transformed small, decentralized, and often craftbased workshops into large-scale, centralized, and mechanized industrial
+facilities. These advances span multiple generations. Known as "industrial
+revolutions," each marks a major shift in industrial and technological capabilities.
+These revolutions have reshaped our world, resulting in profound changes
+across social, economic, and technological dimensions.
+
+CHAPTER 01 | INTRODUCTION
+
+FIGURE 1.4
+
+The 4th Industrial Revolution is marked by cloud computing, machine learning, and AI.
+
+THE LEAP WE
+ARE MAKING
+
+FACTORY 1.0
+
+FACTORY 2.0
+
+FACTORY 3.0
+
+FACTORY 4.0
+
+MECHANIZATION
+
+ELECTRIFICATION
+
+AUTOMATION
+
+CYBER-PHYSICAL
+
+Introduction of power
+by water and steam to
+mechanize labor.
+
+Mass production
+through assembly
+lines using electrical
+power.
+
+Use of networks,
+computers, and
+robotics to automate
+production.
+
+Use of cyber-physical
+systems, cloud
+computing, machine
+learning, and AI.
+
+The Golden Era Thrived on Automation, Part of the Third Industrial Revolution
+For example, during the Golden Era, many developments were the result of the
+Third Industrial Revolution (3IR). With the transition to a subscription-based
+revenue model, the revenue per customer declined, necessitating a signiﬁcant
+increase in customer acquisition to meet growth objectives. This led to a
+demand for more customers and leads well before achieving operational
+maturity to handle such growth. The SaaS industry turned to a product of the
+Third Industrial Revolution: Automation. Email automation, in particular,
+played a pivotal role in increasing production of emails, enhancing production
+consistency through email sequencing, and improving quality using templated
+emails. This approach, by its very nature, led to cost reduction, as a single
+prospector with automation tools could achieve the work of many
+prospectors doing this manually.
+Today We Are in the Fourth Industrial Revolution
+Today, we ﬁnd ourselves in the Fourth Industrial Revolution (4IR), marked
+by Machine Learning (ML) and Artiﬁcial Intelligence (AI). These advances
+rely on processes to make data-driven decisions. Although it's still early, the
+technological advances have already led to transformative apps, such as
+personalized customer experiences driven by the analysis of usage
+patterns, real-time coaching (co-pilots), dynamic pricing responding to
+demand, and predictive forecasting, to name a few.
+
+14
+
+1.2.2
+
+Mapping a Factory Approach to Producing Recurring Revenue
+The analogy of a subscription business with a factory extends beyond mere
+automation. Just like a factory that produces revenue growth, a subscription
+business operates with similar objectives. In fact, the goals of a factory align to
+those of a recurring revenue business perfectly:
+Factory Goals
+
+Goals of a Recurring Revenue Factory
+
+● Increase Production
+
+⇒
+
+Achieve Growth
+
+● Improve Eﬃciency
+
+⇒
+
+Lower Costs
+
+● Enhance Quality
+
+⇒
+
+Deliver the Promised Impact
+
+The ﬁrst goal in both factories and subscription businesses is clear: increase
+output. In factories, this means more production, akin to achieving growth in
+subscription businesses. Historically this was driven by a growth-at-all-costs
+approach. Today's emphasis on sustainable growth in subscriptions mirrors the
+factory's aim for eﬃciency. The analogy further extends to the methods of
+increasing output: just as factories use different production lines to create a
+variety of products from the same materials, subscription businesses deploy
+various GTM motions to diversify their revenue streams
+FIGURE 1.5
+
+A subscription business operates like a revenue factory with a number of production
+lines (GTM motions). Each production line signiﬁes a different revenue stream,
+characterized by speciﬁc growth metrics and cost structures.
+
+REVENUE FACTORY
+
+PRODUCTION LINES
+
+REVENUE PRODUCTION
+
+GTM Motion A
+ARR (A)
+
+GTM Motion B
+ARR (B)
+Deliver a quality product
+that produces revenue growth
+in a cost-eﬃcient way
+
+CHAPTER 01 | INTRODUCTION
+
+GTM Motion C
+ARR (C)
+
+Similarly, we can identify the shift toward cost-conscious growth, which today
+is referred to as “sustainable growth,” prioritizing cost reduction, or what VCs
+have termed “capital-eﬃcient growth,” aimed at increasing Free Cash Flow.
+These objectives are inward-focused and do not directly beneﬁt the customer.
+This is where the importance of the third goal, Quality, becomes evident. In a
+factory context, “Quality” signiﬁes a product's consistent ability to perform its
+intended function. When applied to SaaS products, this concept translates to
+its ability to reliably deliver the promised results, again and again, commonly
+referred to as “delivering recurring impact.” To implement the Recurring
+Revenue Factory, we can identify the essential tasks:
+● Achieve Growth
+
+⇒
+
+Implement eﬃcient processes for scalability.
+
+● Lower Costs
+
+⇒
+
+Apply unit economics to ensure sustainability.
+
+● Recurring Impact ⇒
+
+Instill quality management for long-term durability.
+
+Historically, operationalization followed a departmental approach, where each
+department aimed to achieve speciﬁc targets. However, achieving results in a
+Recurring Revenue Factory requires a more integrated approach, which we will
+refer to as the GTM approach. This approach emphasizes cross-functional
+collaboration and alignment across departments to drive recurring impact.
+
+SUSTAINABLE VS. CAPITAL-EFFICIENT GROWTH
+Sustainable and capital-eﬃcient growth are similar but not the same:
+Sustainable growth involves maintaining a consistent long-term growth
+rate without encountering operational or ﬁnancial hurdles. Companies
+achieving this show strong revenue retention metrics like GRR and NRR,
+balancing resource allocation. On the other hand, capital-eﬃcient growth
+focuses on how well a company uses its capital for expansion, typically
+measured by revenue or proﬁt per investment unit, with Free Cash Flow
+(FCF) as a key metric. While sustainable growth is about long term
+viability, capital-eﬃcient growth aims for cost-effective expansion. Both
+are crucial for the success of a recurring revenue business.
+
+16
+
+1.2.3
+
+The Increase in Volume and Velocity
+In 2010, closing a perpetual software deal in the enterprise sector could generate
+revenue ranging from $500,000 to $10,000,000 up front. These numbers typically
+did not account for an additional 18% to 22% per year allocated for annual
+upgrade and support contracts, which were commonly established for at least
+another 3 years. Enterprise sellers would concentrate on a restricted number of
+qualiﬁed opportunities annually, typically achieving a 30% win rate. Sales cycles in
+this context often extended for an average of 18 months, and in some instances,
+as long as 3 years. This level of effort would typically generate annual revenue of
+around $2,000,000 for a junior rep and well above $4,000,000 for a senior rep.
+We can compare that to the subscription-based services market in which a
+solution similar in scope brings in $100,000 in annual contract value (ACV) with a
+sales cycle ranging from 6 to 9 months. In this scenario, the same experienced
+rep would carry a lower target around $1,200,000. This would require the rep to
+secure 12 commitments per year. Based on today's win rate of 20%, the seller
+would, therefore, need to work on 60 qualiﬁed opportunities per year. This would
+be a challenge for most of today’s enterprise reps. When we contrast this with an
+SMB sale, these numbers escalate even further. For example, a deal with an ACV
+of $10,000 against a quota of $500,000 requires a total of 50 wins per year and
+require as many as 50 qualiﬁed opportunities per month. Win rates and sales
+cycles will vary depending on factors such as industry, product, market
+conditions, and company strategies. However, the overall outcome remains the
+same: a much higher velocity and an order of magnitude increase in deal volume
+compared to a perpetual business.
+In summary: The goal of a recurring revenue business is to achieve the highest
+growth rate in the most cost-eﬃcient manner. The Revenue Factory tackles this
+challenge by streamlining processes and enhancing eﬃciency through iterative
+improvements, thereby ensuring consistent delivery of recurring impact. To
+achieve this, companies must shift from a traditional departmental approach to a
+more collaborative, cross-departmental approach known as a GTM approach.
+
+CHAPTER 01 | INTRODUCTION
+
+1.3
+
+THE GO-TO-MARKET APPROACH
+The integration of various functions in marketing, sales, and customer success
+forms what is referred to as the Go-To-Market (GTM) approach. This approach
+aligns the product with market needs and business goals. It aims to build
+awareness among prospective customers, educate them on the product's
+merits, help sell it effectively and eﬃciently, and importantly, ensure consistent
+delivery on what was promised. The GTM approach serves as the driving force
+behind growth, and its signiﬁcance cannot be overstated.
+Today's Departmental Approach
+Traditionally, each department functioned autonomously, employing distinct
+means and methods to achieve its objectives. For example, the marketing
+department, led by the CMO, focused on generating awareness and providing
+qualiﬁed leads to support the sales team. Similarly, the sales and customer
+success departments operated independently, each with its own set of metrics
+and tools speciﬁc to their functions. However, it doesn't stop there. Companies
+structure and organize their resources differently within each department.
+Marketing departments are divided into distinct functions that operate in parallel,
+such as Content Marketing, Email Marketing, and Demand Generation, with each
+responsible for speciﬁc programs or campaigns.
+
+FIGURE 1.6
+
+Today, recurring revenue businesses operate in silos, in which each department focuses
+on its own objectives. A GTM approach breaks down these silos and emphasizes
+cross-functional collaboration and alignment across departments.
+
+Department 1
+
+Department 2
+
+Department 3
+
+Marketing
+
+Sales
+
+Customer
+Success
+GTM
+APPROACH
+
+DEPARTMENTAL
+APPROACH
+
+18
+
+Sales teams are segmented based on regions, vertical markets, or company
+size. Customer success is typically organized with functions operating
+sequentially, such as onboarding, renewals, and expansion.
+The Impact of Silos
+With the departmental approach, each department has its unique structure built
+around speciﬁc deliverables. The consequence of such an approach is that it
+creates silos within the organization. These silos in turn create ineﬃciencies,
+including duplicated efforts and a lack of alignment towards broader company
+objectives. For instance, the marketing team might focus on generating leads
+that the sales team is unaware of, or the customer success team might miss
+opportunities for upselling or cross-selling due to a lack of alignment with the
+sales department. Team members working from different locations (remote)
+further complicates cross-department/cross- functional coordination. Such a
+lack of coordination has hindered overall company performance and growth.
+This heightened level of complexity necessitates organized restructuring,
+leading us to a cross-functional GTM approach where departments work
+collaboratively and share information to achieve the common objective: deliver
+Recurring Impact to attain Recurring Revenue. This shift aims to break down the
+silos, leading to greater organizational eﬃciency and effectiveness.
+
+FIGURE 1.7
+
+The median headcount by fundraising stage was recorded by Carta in 2021. It shows the
+10x growth in headcount which causes ﬁefdom building. Such rapid growth occurs at the
+moment the organization still lacks processes.
+
+Headcount
+
+Median
+Headcount
+
+From Series A to Series D,
+the median headcount of a
+Startup grows by 10x.
+33%
+66%
+87%
+121%
+225%
+
+CHAPTER 01 | INTRODUCTION
+
+162%
+
+Growth
+rate from
+prior raise
+
+1.3.1
+
+Introducing the GTM Motion
+Where a factory has product lines, a revenue factory has GTM motions. A GTM
+motion refers to a company's structured set of activities, tactics, and processes
+that span across the entire customer journey. It starts with ﬁnding prospects,
+qualiﬁes them, and ultimately turns them into satisﬁed customers. This approach
+involves collaboration across functions from the marketing, sales, and customer
+success departments. The aim of a GTM motion is to enhance organizational
+eﬃciency by reducing costs and boosting effectiveness through increased
+production or growth, alongside improving customer experience.
+Go Fast and Go Long
+Different types of GTM motions are suited to different business models, products,
+and customer bases. They are essential for scaling business operations and
+achieving a sustainable, proﬁtable growth rate. For example, an "inbound GTM
+motion" might involve generating leads through content marketing, qualifying
+them via technology or human interactions, and then handing them off to a sales
+team to gain a commitment. In that scenario, they will trigger dozens of
+micro-actions, pass through at least 3 different departments, and do so all within
+mere minutes.
+
+FIGURE 1.8
+
+An example of a high-velocity inbound GTM motion, as perceived from the customer's
+perspective. It involves multiple actions across many functions and 3 departments
+
+MARKETING
+DEPARTMENT
+
+CUSTOMER
+SUCCESS
+DEPARTMENT
+
+SALES
+DEPARTMENT
+
+Visit a
+website
+
+Download
+content
+
+Click
+Contact Us
+
+Expand
+
+Learn more
+about the
+offering
+
+Review
+price and
+terms
+
+Commit
+and
+activate
+
+Use the
+product and
+get the impact
+
+Recurring
+Revenue
+
+Advocate
+
+20
+
+On the other hand, an "Enterprise motion" might involve targeted outreach to
+large companies, using a dedicated sales force backed by high-level marketing
+and account management efforts. This may take a consistent approach for a
+long period of time. The goal of a GTM motion is to ensure that, amid all this
+activity, the customer has the best possible experience. It aims to create
+coherence across all these actions and make the interactions appear smooth.
+For this we are going to use the concept of GTM motions.
+
+1.3.2
+
+Different GTM Motions
+Thinking about GTM motions leads us to a deeper understanding of revenue
+growth and its associated costs, both of which are essential components of
+achieving a proﬁtable business model. In this book we will explore the following
+5 GTM motions:
+● No Touch: Customers are marketing, selling, and servicing the products.
+● Low Touch: Marketing, sales, and support relies on technology, like chatbots,
+with personal engagement reserved for more complex situations.
+● Medium Touch: Involves specialized roles like a Sales Development Rep
+(SDR) or Customer Success Manager (CSM) qualifying a customer's needs
+before involving a Sales Manager or product expert.
+● High Touch: A Sales Manager or Customer Success Manager, often
+ﬁeld-based, oversees a small portfolio of accounts. For advanced
+solutions, this likely involves support from a Solutions Architect.
+● Dedicated Touch: A dedicated team solely focused on serving one
+large Fortune 500 account, often led by an executive who reports
+directly to the CEO, ensuring a comprehensive approach to both sales
+and service needs.
+Each of these GTM motions operates on a different cost structure. For example,
+it would make no sense to ﬂy cross country to close a $10/month deal. This
+means that to be sustainable requires that we map the right GTM motion to the
+revenue generated by the customer over time.
+
+CHAPTER 01 | INTRODUCTION
+
+1.3.3
+
+Matching Products with GTM Motions
+Just as a company can have multiple products each generating its own
+revenue stream, a single product can have multiple GTM motions, also with
+their own revenue stream (see Figure 1.9). For example:
+●
+
+Scenario 1: A product-led growth (PLG) product employs an inbound
+motion to attract pro-users, generating leads through content marketing.
+
+●
+
+Scenario 2: A single product utilizes 3 separate GTM motions. For
+example, an inbound motion is in place for targeting SMB accounts, a
+ﬁeld sales team focuses on Enterprise accounts, and a dedicated team
+caters to a select few strategic accounts.
+
+●
+
+Scenario 3: Three distinct products are each aligned with their own
+GTM motion. For instance, Product A targets pro-users through an
+inbound motion. Product B aims at the SMB market using an outbound
+motion. Finally, Product C focuses on the Enterprise sector, employing a
+ﬁeld sales motion.
+
+By understanding different GTM motions and scenarios, businesses can
+strategize on varied paths to growth. Some GTM motions might be slower
+but generate substantial recurring revenue, like the Enterprise GTM motion.
+Others might offer a much higher deal volume but come at a lower ACV.
+
+FIGURE 1.9
+
+Different products and GTM motions each can create different revenue streams.
+
+SCENARIO 1
+
+SCENARIO 2
+
+SCENARIO 3
+
+One product,
+one GTM motion.
+
+One product,
+multiple GTM motions.
+
+Multiple products, each with
+their own GTM motion.
+
+Product
+
+Product
+ARR A
+GTM motion A
+ARR
+
+GTM motion
+
+ARR A
+Product A
+
+GTM motion A
+
+Product B
+
+GTM motion B
+
+Product C
+
+GTM motion C
+
+ARR B
+GTM motion B
+
+ARR B
+
+ARR C
+GTM motion C
+
+ARR C
+
+22
+
+1.3.4
+
+Cost of a GTM Motion
+A crucial aspect of different GTM motions is aligning the cost with the revenue
+it generates. For instance, if you sell a multimillion-dollar solution, you can't
+expect customers to purchase it by watching a demo video and presenting
+their credit card information; they will want to engage with multiple specialists
+and stakeholders.
+Conversely, if you sell a $5/month subscription, customers don't expect an
+on-site visit. Actually, they will probably prefer to watch a video and enter their
+credit card information in a self-serve portal. In essence, the cost of the GTM
+motion must be aligned with the recurring revenue it produces.
+From 2018 to 2021, we witnessed a signiﬁcant increase in the cost of GTM
+motions (see Figure 1.10). The 2022 SaaS market crash was caused by
+companies paying twice as much for GTM motions.
+
+FIGURE 1.10
+
+From 2018 to 2024, we observed a signiﬁcant rise in the cost of GTM motions. In some
+instances, the mid-touch approach, utilizing 2 junior sellers (SDR and a Jr. AE), even
+became more costly than a high-touch approach relying on a single seller (Sr. AE).
+
+Cost of Leads
+
+Compensation
+
+2018
+
+No Touch
+
+2024
+
+Low Touch
+Large increase in cost due
+to impact of ineﬃciencies.
+
+Mid Touch
+
+High Touch
+
+Dedicated
+$0
+
+$200,000
+
+$400,000
+
+Cost of Marketing, Sales, and Customer Success
+
+CHAPTER 01 | INTRODUCTION
+
+$600,000
+
+The Need for Sustainable GTM Motions
+Creating a sustainable business relies on implementing cost-effective GTM
+motion anchored in proven, repeatable processes. This requires utilizing
+technology for more affordable task execution or hiring individuals at standard
+wages for routine tasks, instead of depending on scarce, exceptionally skilled,
+and highly paid talent.
+THE RISING COST OF THE OUTBOUND MOTION
+The surge in demand for subscription-based services has fueled the rapid
+expansion of SaaS companies, skyrocketing from approximately 1,000 in
+2011 to a staggering 35,000 by 2023. These companies have adopted
+similar GTM motions, often with the assistance of popular technology.
+For example, between 2015 and 2020, the outbound GTM motion
+featuring an inside sales team emerged as the preferred approach. This
+strategy leveraged cutting-edge email hyper-personalization and
+sequencing technologies. However, as automation increased
+production, the success rate of outbound emails declined.
+In 2015, it took over 100 cold outbound emails to generate a single
+opportunity. By 2018, this number had risen to 200 cold outbound
+attempts, including emails, calls, and social interactions. In 2023, it
+had surged over 1,000 cold outbound attempts to generate one
+opportunity.
+This created an insatiable thirst for leads to call on, resulting in soaring
+lead acquisition costs. But it didn't stop there. It generated a demand for
+more salespeople to send out more emails, which drove up salaries. For
+instance, entry-level Sales Development Representative (SDR) positions,
+which had a starting annual salary of around $35,000 in 2015, had
+climbed to $55,000 by 2018. By 2023, the target earnings for a US-based
+SDR reached $80,586, according to ZipRecruiter reports.
+This led to the cost of outbound doubling from 2018 to 2023.
+
+24
+
+1.3.5
+
+The Problem Only Got Worse
+Several years after the crash, the SaaS industry is still struggling to ﬁnd scalable
+and sustainable GTM motions. This challenge is evident in the trend of Sales and
+Marketing costs as a percentage of newly acquired revenue, depicted in Figure
+1.11. Despite initial cost reductions due to workforce downsizing, the expenses
+subsequently increased. By the end of 2023, the cost of acquisition had
+worsened to 1.5 times the severity observed at the outset of the crash. The issue
+stems from the industry's failure to adapt their GTM motions in the years that
+followed the crash.
+
+FIGURE 1.11
+
+Cost of Acquisition and Expansion depicts that the GTM problem is not solved.
+
+of net new ARR
+
+of total ARR
+
+The trend toward cost reduction and Free Cash Flow (FCF) generation, especially
+among venture-backed companies, led to the continuation of ineﬃcient practices.
+The widespread availability of AI tools exacerbated the problem by enabling
+startups to continue their aggressive "Grow at all costs" strategies at a lower cost.
+While a healthy focus on FCF is generally prudent, a lack of operational capability
+to apply this to GTM motions led to a decline in growth. This phenomenon was
+reported by David Spitz from Benchsights who looked at the data from publicly
+listed SaaS companies. It revealed a decline in average growth rate from 36% to
+18%, effectively halving it (see Figure 1.12).
+
+CHAPTER 01 | INTRODUCTION
+
+FIGURE 1.12
+
+The decline in average growth rate and increase of FCF among public SaaS companies.
+
+Growth rate
+FCF margin
+
+The combination of the decline in growth rate, and the increase in cost of
+acquisition tell us that the GTM challenges faced by late-stage startups and
+scaleups are worsening. These challenges can often be traced back to lack of
+knowledge and expertise in revenue architecture. The teams that operate the
+recurring revenue machine, commonly do not understand how it works. Thus,
+it's reasonable to predict that a sustainable GTM strategy will become a key
+success differentiator for venture-backed companies in the coming years, and
+that Revenue Architecture will play an important role.
+
+1.3.6
+
+Navigating Growth Stages
+A high-velocity organization undergoes various stages of growth in a relatively
+short time frame. What an average company accomplishes in 40 years, a
+hypergrowth subscription-based company achieves in about 10 years—4 times
+faster—by progressing through a series of growth stages and critical milestones.
+Growth stages
+Growth stages in SaaS mark a ﬁrm's maturation and business evolution. Each
+stage comes with unique challenges, objectives, and key performance indicators.
+
+26
+
+For simplicity, we will keep it to 3 growth stages here:
+● Startup Stage: In this initial phase, SaaS startups aim to validate their
+product–market ﬁt by acquiring the ﬁrst set of customers willing to pay
+for the product. That makes the product the star of the show, and rightly
+so. However, once they have validated the product and gained traction,
+the focus shifts from having a great product to selling it at scale.
+● Scaleup Stage: SaaS companies in the Scaleup stage focus on rapid
+growth, expanding revenue from $10 million to $500 million, by launching
+multiple GTM motions and optimizing each GTM motion for proﬁtability.
+● Grownup Stage: Representing maturity, SaaS companies shift their focus
+entirely to proﬁtability, operational eﬃciency, adhering to metrics related to
+publicly traded companies.
+From initial ideation and securing ﬁrst customers to scaling operations and
+optimizing for proﬁtability across GTM motions, understanding these stages
+helps SaaS businesses allocate resources effectively, target the right customer
+segments, and implement growth strategies tailored to their current phase.
+Critical Milestones
+In the SaaS industry, success hinges on a few critical milestones:
+● Product-Market Fit (PMF) ensures that the software isn't just another
+product; it means it addresses a genuine market need, and different
+customers are willing to pay for it, often indicated by reaching $1M in ARR.
+● Go-To-Market Fit (GTMF) focuses on how you effectively bring your
+product to the masses. It's not only about the value your software offers
+but also how you present, and deliver that value.
+Achieving PMF means you have created a product that customers ﬁnd
+valuable enough to pay for. GTMF, on the other hand, ensures this product is
+presented to, and reaches the right audience, eﬃciently. True GTMF goes
+beyond consistently hitting growth targets by acquiring new customers; it
+involves reliably delivering value to customers, thus fostering retention and
+enhancing lifetime value for both the seller and the buyer. Typically, reaching
+true GTMF is a process that spans years – and for good reason.
+
+CHAPTER 01 | INTRODUCTION
+
+● Going IPO by offering shares to the general public allows a company to raise
+substantial capital from external investors, enabling further expansion and
+growth. Going public also brings increased scrutiny, regulatory compliance,
+and transparency requirements. It's worth noting that not all successful SaaS
+companies go public; some opt for acquisitions or other forms of exit.
+● Fortune 2000 reﬂects a company has achieved over $5B in revenue, and is
+seen as a major accomplishment in the business world.
+This requires a signiﬁcant shift in focus as the company matures, moving from a
+product-centric approach to emphasizing GTM-centric approach. This shift is
+referred to as a Phase Shift, a topic we will delve into next.
+
+The importance of GTM grows signiﬁcantly as a company evolves from a Startup into a
+Scaleup. This transformation requires a company to make drastic changes.
+
+PHASE SHIFT
+
+IMPORTANCE
+
+FIGURE 1.13
+
+PHASE SHIFT
+
+Product
+
+Product
+Product
+GTM
+GTM
+
+PMF
+
+STARTUP
+
+Strategy
+
+Strategy
+
+GTM
+GTMF
+
+SCALEUP
+
+IPO
+
+GROWNUP
+
+F2000
+
+In summary: A successful recurring revenue factory depends on multiple scalable
+and sustainable GTM motions, which cover all customer-facing roles. The GTM
+motions are tailored to align with buyers' purchasing preferences, ranging from
+the Low Touch motion used for inbound businesses to the High Touch motion
+used for enterprise sales. Ideally, each GTM motion should achieve sustainability
+before hitting $10M in ARR.
+
+28
+
+1.4
+
+PHASE SHIFTING
+Think of the 3 growth stages mentioned earlier (see Figure 1.13) as akin to the
+educational system, where you ﬁrst attend elementary school, then move on to
+high school, followed by college. The progression through growth stages is
+similar to progressing through school, where each school prepares you for the
+next one. Each school is different, very different; consider the difference
+between college and high school for example. This reﬂects how different each
+growth stage is. And each school has a clear end to it—a graduation.
+Schooling vs. Scaling
+Unlike the educational system, where you know when you graduate, the
+transitions between growth stages are less deﬁned. In many cases, one
+growth stage ﬂows seamlessly into another; this is referred to as a phase
+shift. For example, the transition from Startup to Scaleup represents a
+phase shift, but there are many others:
+● From founder-led to sales-led growth.
+● From grow at all costs to sustainable growth.
+● From a people-centric to a process-centric culture.
+● From a SMB to an Enterprise GTM motion.
+● From domestic to international growth.
+● From a single product to a product portfolio.
+● From non-GAAP to GAAP compliance.
+● From a private to a public company (IPO)
+These are just a few examples of phase shifts a company experiences. While in
+the educational system, people "phase shift" from one school to the next every 4
+to 6 years, hypergrowth companies experience multiple phase shifts, often 2 to
+3 simultaneously, over the span of a few years. Each growth stage requires a
+different set of strategies, a new set of metrics, involves new
+
+CHAPTER 01 | INTRODUCTION
+
+leadership, different systems, demands more advanced processes, and so on.
+This explains why phase shifts can take time, on average, around 18 months,
+making them a signiﬁcant undertaking that demands the full attention of the
+CEO and careful planning by those involved on the executive team.
+
+FIGURE 1.14
+
+Phase Shifts deﬁne the Startup, Scaleup, and Grownup growth stages.
+
+$5M
+
+$10M
+
+$20M
+
+$50M
+
+$100M
+
+$200M
+
+$500M
+
+$1B
+
+Founder-led.
+Scalability.
+Sustainability.
+Multi-product.
+GAAP Compliance.
+IPO.
+Productivity.
+STARTUP
+
+SCALEUP
+
+GROWNUP
+
+Executives are aware of most of these phase shifts, but they are unaware of the
+process of a phase shift, so they spend most of their time reacting to the effects
+of past phase shifts rather than preparing for the next one. The presence of
+departmental silos and the constant turnover of staff only make this more
+daunting. Perhaps this helps explain why the grow-at-all-costs mindset has
+endured for such an extended period, while we all knew it no longer worked. It’s
+just so much more convenient to continue with the status quo.
+In summary: Revenue Architecture, as a discipline, establishes the scientiﬁc
+foundation for Recurring Revenue growth and serves as a linchpin in driving
+these transformative phase shifts, in particular those involving GTM motions.
+Through a series of models, it not only educates but also guide companies on
+their growth journey, It helps them to proactively prepare for phase shifts, rather
+than merely reacting to them.
+
+30
+
+1.5
+
+RECAP
+The Golden Era of SaaS, which spanned from 2011 to late 2021, was marked by
+remarkable growth and innovation. However, its abrupt end in early 2022 can be
+attributed to the unsustainable grow-at-all-costs approach that had become the
+norm. This resulted in companies going public prematurely, often with
+insuﬃcient revenue, while relying on immature Sales and Marketing strategies.
+Although a shift to a sustainable approach is essential, it alone will not address
+the operational growth challenges, and when applied incorrectly it is likely to
+have adverse effects that focusing on cost reduction often leads to a decline in
+product quality. The product quality in a recurring revenue business is what
+leads to renewals.
+To tackle these challenges, we are introducing a simple concept: To operate a
+recurring revenue business as if it were a factory, a Recurring Revenue Factory,
+and see each GTM motion as a production line. This approach draws inspiration
+from the best practices from the industrial revolution, and it customizes them to
+suit to the distinctive needs of recurring revenue businesses.
+
+Table 1.1
+
+The 3 main goals of a recurring revenue factory, mapped to maturity phases.
+
+Factory
+Goal
+
+Recurring Revenue
+Factory
+
+Operational
+Directive
+
+Maturity
+Phase
+
+Production
+
+Accelerate Growth
+
+Implement proven processes
+
+Scalability
+
+Eﬃciency
+
+Lower Cost
+
+Apply unit economics (cost)
+
+Sustainability
+
+Quality
+
+Deliver Recurring Impact
+
+Instill quality management
+
+Durability
+
+The main goal of the Revenue Factory is clear: to establish recurring revenue
+growth. This goal centers on delivering what causes recurring revenue, recurring
+impact. This requires a customer-centric approach that covers the entire
+customer journey.
+
+CHAPTER 01 | INTRODUCTION
+
+The shift in perspective requires that organizations break away from their
+traditional departmental approach, silos, and instead develop cross-functional
+collaboration.
+Central to this transformation is the GTM approach that brings together all
+functions that call on a customer under a GTM motion. We identiﬁed 5 speciﬁc
+GTM motions: No Touch, Low Touch, Medium Touch, High Touch, and Dedicated
+Touch. These motions offer ﬂexibility to tailor to different business models and
+customer needs. Implementing such a transformative change is not without
+challenges and takes time, typically requiring an 18-month phase shift.
+
+The importance of GTM grows signiﬁcantly as a company evolves from a Startup into a
+Scaleup. This transformation requires a phase shift.
+
+PHASE SHIFT
+
+IMPORTANCE
+
+FIGURE 1.15
+
+PHASE SHIFT
+
+Product
+
+Product
+Product
+GTM
+GTM
+
+PMF
+
+STARTUP
+
+Strategy
+
+Strategy
+
+GTM
+GTMF
+
+SCALEUP
+
+IPO
+
+GROWNUP
+
+F2000
+
+In summary: The Revenue Factory emerges in response to the 2022 market
+crash, aiming to establish recurring revenue through recurring impact. This
+objective hinges on cross-functional collaboration, the adoption of a GTM
+approach, and the strategic use of GTM motions. Revenue Architecture
+provides a guiding framework to design, build, and operate a successful
+recurring revenue factory based on GTM motions.
+
+32
+
+WHAT IS NEXT?
+Just as an architect meticulously designs a bridge to ensure its longevity, stability,
+and eﬃciency through the use of proven frameworks, Revenue Architecture uses a
+series of established frameworks. This is vital to achieve the same level of rigor in
+designing, building, and deploying a revenue factory.
+● Part I. Fundamentals: This section covers the scientiﬁc frameworks upon
+which a recurring revenue factory is based, including First Principles, Models
+& Data, and Systems & Processes.
+● Part II. Design: Here, we explore the design of a recurring revenue factory,
+which is based on a series of frameworks that form a foundation. This
+includes The Revenue Model, The Data Model, and The Mathematical Model.
+● Part III. Build: To build the factory, more frameworks are utilized, designed to
+enable a business to adapt to frequent market changes. These are The
+Operating Model, The Growth Model, and The Go-to-Market Model.
+● Part IV. Deploy: For most organizations, adopting a scientiﬁc approach does
+not come naturally. It requires guidance on operating it with an emphasis on
+continuous and iterative improvement.
+Let's begin by exploring the fundamentals upon which a recurring revenue
+factory is based, as this understanding is crucial for the successful operation
+of a recurring revenue business.
+
+GET THE BOOK
+
+CHAPTER 01 | INTRODUCTION
+
+

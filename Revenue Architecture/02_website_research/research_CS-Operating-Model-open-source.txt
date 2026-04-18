@@ -1,0 +1,4566 @@
+Customer Success
+OPERATING MODEL
+September 2022
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+| 1
+
+CUSTOMER SUCCESS
+OPERATING MODEL
+
+Introduction
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+01
+
+Introduction
+
+02
+
+Core Elements
+
+03
+
+Onboarding
+
+04
+
+Adoption
+
+05
+
+Expansion
+
+06
+
+Skills
+
+| 2
+
+Customer Success Operating Model - Introduction
+
+Why do we need an Operating Model?
+
+00
+
+The lack of a uniform operating model
+causes widespread interoperability
+resulting in a loss of recurring revenue.
+
+Recurring revenue businesses are embracing the fact that strong
+Customer Success motions are critical to sustainability. However, we
+have not yet seen a methodology dedicated to this.
+
+Non-interoperable
+
+Misalignment
+
+Each function uses different methods,
+special metrics, unique language, and
+custom skills. Most methodologies are
+designed to compete with each other
+something that can be felt in parts of
+the organization that seemingly start
+to compete with each other.
+
+Recurring Revenue businesses should
+focus on not only having a successful
+and established customer journey up
+until the ﬁrst sale, but also ensure that
+the value promised during the sales
+process is delivered sustainably
+throughout the customer lifetime.
+
+LeadGen
+
+Adopt
+LeadDev
+
+There are CS best practices, but the market lacks a CS methodology
+custom built for recurring revenue, that is data driven and that can
+integrate across the whole business. This lack of a uniform
+methodology has caused a variety of issues, including:
+●
+
+Lack of a common language: Without a methodology that works
+across all teams, departments end up siloed, each using their
+own approach, deﬁnitions, and terms.
+
+●
+
+Lack of a standardized data model: Often, data tracked and
+collected from individual departments doesn’t ﬁt into a uniform
+model across the business, making it hard to drive decisions
+based on data & strategic business insights.
+
+●
+
+Lack of interoperability: Most SaaS businesses manage
+hundreds to thousands of deals a year, and operate at high
+velocity compared to a conventional B2B business. If the
+activities of Marketing, Sales, and CS teams aren’t designed to
+work together, there will be roadblocks to growth & scalability.
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+Expand
+
+Sales [ + ] Commit
+
+Onboard
+
+ax
+
+Acquisition modeled by the
+marketing and sales
+funnel.
+
+Customer Success and
+Expansion, no model yet.
+
+The lack of a uniform operating model causes widespread interoperability
+issues. This makes ﬁnding the right customers not the result of
+meticulous planning and execution, but rather the result of perseverance
+by a customer on their journey to achieve impact.
+| 3
+
+Customer Success Operating Model - Introduction
+
+What is an Operating Model?
+
+00
+
+Recurring Revenue Operating Model
+
+An operating model breaks a complex
+system into subsystems that can be
+described and understood separately.
+
+An Operating Model is the blueprint for how to run a business model
+within your organization and bring it to life. It allows each individual in
+an organization to understand both their role and the bigger picture
+they ﬁt into, and to be aware of the dependencies and consequences
+of their actions within the business.
+
+Customer Acquisition
+
+LeadGen
+
+LeadDev
+
+Customer Success
+
+Sales
+
+Commit
+
+Onboard
+
+Adopt
+
+Expand
+
+The Recurring Revenue Operating Model provides a framework that
+spans the entire lifecycle of a customer. This framework is referred to
+as The Bowtie. The bowtie allows organizations to operationalize
+their business in order to scale eﬃciently and effectively.
+The WbD Recurring Revenue Operating Model supports all business
+functions across the bowtie. Today, many companies are likely to
+have a sales methodology built into the left side of the bowtie such as
+BANT, and use a LeadGen methodology such as Inbound, or ABM.
+However there is a lack of any methodology on the right side of the
+bowtie.
+Because delivery of recurring Impact is critical to proﬁtability and
+sustainable growth, having a strong way to manage your customer
+base is essential. For that reason, we broke out the Customer
+Success Operating Model so it can be implemented while integrating
+easily with common Marketing, and Sales methodologies in use
+today.
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+Conventional Marketing and
+Sales Funnel
+
+Recurring Revenue takes place
+outside the purview of the funnel.
+
+Recurring Revenue Operating Model
+covers the entire customer journey.
+
+| 4
+
+Customer Success Operating Model - Introduction
+
+The Customer Success Operating Model
+
+00
+
+Recurring Revenue Operating Model
+
+A standardized methodology to help
+customers achieve impact, and
+businesses scale growth sustainably.
+
+Historically, we’ve seen companies implement standardized
+Marketing and Sales Methodologies on the left side of the bowtie, but
+there is a lack of standardized and scalable processes on the right
+side of the bowtie.
+
+Customer Acquisition
+
+LeadGen
+
+LeadDev
+
+Customer Success
+
+Sales
+
+Commit
+
+Onboard
+
+Adopt
+
+Expand
+
+Since recurring revenue happens on the right side of the bowtie by
+delivering Impact that drives retention and growth from existing
+customers, we are presenting the WbD Customer Success Operating
+Model.
+The Customer Success Operating Model consists of three
+independent phases: Onboarding, Adoption, and Expansion.
+The WbD CS Operating Model is a part of the larger WbD Recurring
+Revenue Operating Model. As a result, the CS Operating Model aligns
+with the three independent CS functions and with existing Marketing
+and Sales Methodologies.
+Implementing the CS Operating Model is an important step forward if
+you’re working to make your company more sustainable and drive
+proﬁtability.
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+Journey based on
+a consistent
+quality experience
+across the entire
+lifecycle.
+
+Uniform Operating model
+for a recurring revenue
+business that covers the
+entire customer journey.
+
+Interoperable experience
+between all departments,
+functions, and customer
+facing roles.
+Individual actions codiﬁed to
+adhere to a uniform language
+and using a set of standardized
+metrics.
+
+| 5
+
+Customer Success Operating Model - Introduction
+
+Five Customer Centric Fundamentals
+
+Understand Your
+Customer
+
+Create Value In
+Every Interaction
+
+Educate and
+Stay Curious
+
+Help A Customer
+Achieve Impact
+
+Emotional and
+Rational Impact
+
+Take the time to know your
+customer, their business, their
+goals and challenges.
+Research, ask good
+questions, and listen.
+
+Don’t ask for a check in just
+because your calendar has a
+to-do item on it. Each meeting
+should have a clear end goal
+that further deepens the Impact
+or potential Impact the
+customer is working to achieve.
+
+If you educate your customer
+and make them smarter, they
+will value the relationship and
+work to preserve and grow it.
+
+All roles within an organization
+should be focused on helping
+customers identify and achieve
+Impact.
+
+That said, don’t assume you
+already have all the answers.
+Situations change and
+individuals have different
+points of view.
+
+The goals should never be to
+get to a decision or to hit a
+milestone - those will be
+outcomes of pursuing Impact.
+
+To best support your
+customers, identify &
+understand both the rational
+and the emotional Impacts
+they are looking to achieve.
+
+Your products and services
+should be discussed within
+the frame of how they can
+support the customer, rather
+than being the standalone
+focus of any discussion.
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+Provide value by sharing
+relevant information, always
+making sure to engage the
+customer and listen for any new
+information or insight.
+
+Make sure you listen and
+validate assumptions.
+
+This is a mindset shift that will
+immediately improve your
+outcomes.
+
+Rational Impacts beneﬁt their
+business ﬁrst and the
+individual second, and
+emotional Impacts beneﬁt the
+individual ﬁrst and the
+business second.
+
+| 6
+
+CUSTOMER SUCCESS
+OPERATING MODEL
+
+Core Elements
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+01
+
+Introduction
+
+02
+
+Core Elements
+
+03
+
+Onboarding
+
+04
+
+Adoption
+
+05
+
+Expansion
+
+06
+
+Skills
+
+| 7
+
+CS Operating Model - Core Elements
+
+Four Core Elements Threaded Across the Entire Customer Journey
+
+CE
+S
+
+C1
+
+The
+Journey
+
+The bowtie refers to the end-to-end
+customer journey, including Lead
+generation, lead development, sales,
+customer onboarding, adoption, and
+expansion.
+The bowtie replaces the conventional
+marketing and sales funnel, which
+does not cover adoption & expansion,
+which are the growth engines of any
+recurring revenue business.
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+P
+
+C2
+
+CE D
+
+The
+Framework
+
+A key to the CS Operating Model is
+SPICED, an acronym that stands for
+Situation, Pain, Impact, Critical Event,
+and Decision.
+SPICED is a diagnostic framework to
+identify and transfer critical customer
+information along the entire customer
+lifecycle. It drives the proper
+customer-centric conversation at
+crucial moments for the customer.
+
+C3 Impact
+
+C4 Critical Event
+
+The impact is the realization of the
+promise of value. Customers must see
+a recurring impact to renew a contract
+or before committing to additional
+services.
+
+A Critical Event drives a decision as it
+has an adverse impact when no
+action is taken. A critical event can
+be a set date or an event, such as
+getting to 1M users.
+
+The Operating Model has two kinds of
+Impact: Rational or quantitative
+Impact, which beneﬁts the company,
+and Emotional or qualitative impact,
+which helps the person.
+
+Critical events cause prioritization,
+thus driving decisions in recurring
+revenue businesses. It makes access
+to the budget, or having an RoI of
+secondary importance.
+
+| 8
+
+Customer Success Operating Model
+
+A Customer’s Journey
+
+C1
+
+Recurring Revenue Operating Model
+
+A customer traverses across the entire
+bowtie with a goal of achieving recurring
+Impact. Recurring Revenue is a result.
+
+Historically, we’ve seen companies implement standardized
+Marketing and Sales Methodologies on the left side of the bowtie, but
+there is a lack of standardized and scalable processes on the right
+side of the bowtie.
+
+Customer Acquisition
+
+LeadGen
+
+Since recurring revenue happens on the right side of the bowtie by
+delivering Impact that drives retention and growth from existing
+customers, we are presenting the WbD Customer Success Operating
+Model.
+
+LeadDev
+
+Customer Success
+
+Sales
+
+This methodology is all center on Impact. The First Principle of
+Recurring Revenue is that it is the result of Recurring Impact. This
+allows to create an impact journey that aligns the entire company.
+Implementing the CS Operating Model is an important step forward if
+you’re working to make your company more sustainable and drive
+proﬁtability.
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+Onboard
+
+Adopt
+
+Unknown
+Impact
+
+Discover
+Impact
+
+Expand
+
+Recurring Revenue is
+the result of Recurring
+Impact
+
+IMPACT
+
+The Customer Success Operating Model consists of three
+independent phases: Onboarding, Adoption, and Expansion.
+The WbD CS Operating Model is a part of the larger WbD Recurring
+Revenue Operating Model. As a result, the CS Operating Model aligns
+with the three independent CS functions and with existing Marketing
+and Sales Methodologies.
+
+Commit
+
+Prioritize
+on Impact
+
+Buy on
+Impact
+
+Journey based on
+a consistent
+quality experience
+across the entire
+lifecycle.
+
+Commit to
+Impact
+
+First
+Impact
+
+Interoperable experience
+between all departments,
+functions, and customer
+facing roles.
+
+Recurring
+Impact
+
+Max
+Impact
+
+Having everyone seek and talk about
+customer impact across all roles and
+functions cause alignment across the
+company and results in a smooth customer
+journey.
+Uniform Operating model for a
+recurring revenue business that
+covers the entire customer journey.
+
+Individual actions codiﬁed to
+adhere to a uniform language
+and using a set of standardized
+metrics.
+
+| 9
+
+CS Operating Model - Core Elements
+
+The Framework
+
+C2
+
+SPICED™ is at the core of the operating
+model. It connects all interactions with
+the customer across the entire journey.
+
+S
+SITUATION
+
+SPICED™ connects every interaction across the entire customer
+journey. It has the following traits:
+
+●
+●
+
+●
+
+●
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+PAIN
+
+Causal
+
+●
+
+SPICED is focused on customer Impact, making it
+customer-centric.
+SPICED can be used across the entire customer journey for every
+customer touchpoint to validate essential information, qualify,
+ensure ongoing alignment, and provide a quick way to surface
+risks or opportunities.
+SPICED is sequential, as you need to understand the situation
+before fully understanding Pain and Impact.
+SPICED reﬂects contextual relevance; for example, reaching out
+to a customer based on the situation depicts less relevance vs.
+Impact.
+Ensure all roles across the bowtie frame key customer
+conversations around SPICED; all customer-facing teams should
+be operating off the same core information while also providing a
+natural way to uncover risks to the account or expansion
+opportunities.
+A decision results from a customer’s need for Impact; it is in
+service to achieve the Impact, not a driver of the Impact. The
+latter is more familiar with a sales-centric approach.
+
+Sequential
+
+●
+
+P
+
+I
+IMPACT
+
+CE
+CRITICAL
+EVENT
+
+D
+DECISION
+
+Relevant background facts or circumstances about the
+customer. Factors such as size of company, location,
+number of employees, software they use, hiring needs,
+security needs, maturity level, and revenue goals.
+
+The problem a customer has or the opportunity they see
+for which they need for a solution. Pains are often
+expressed at a superﬁcial level. To identify the true needs
+requires a deeper diagnosis.
+
+The results produced by solving for that pain. These are the
+outcomes the customer is trying to achieve by using your
+product. Impact can be both emotional, focused on
+individuals, and rational, focused on the overall company.
+
+A deadline by which the customer must achieve Impact or
+suffer negative consequences. Critical Events drive
+behavior, whether that be completing implementation,
+expanding use, or completing a renewal.
+
+The people involved in the decision, the process they will
+follow to reach that decision, and the criteria they will use
+to evaluate the right solution.
+
+| 10
+
+Customer Success Operating Model
+
+Impact is What a Customers Gets Out Of It
+
+C3
+
+Layers of questions uncover
+Rational & Emotional Impact.
+
+Impact is critical to driving recurring
+revenue from your customers, but what
+does IMPACT really mean?
+
+Impact refers to something you are providing to a customer they didn’t
+have before engaging with you or that they can achieve more quickly
+with you. If you aren’t delivering Impact, keeping and growing your
+customer base will be highly challenging.
+To deliver recurring Impact, you need to start by identifying what
+Impacts each customer is looking to achieve. Some Impact goals are
+easy to remember, such as “we need to reduce our operational costs,”
+but others are less obvious.
+Think of Impact as an onion, with some outer layers that are easy to
+get to but that you need to peel back to gain a deeper understanding.
+The exterior, visible layers reﬂect the situation and pain a customer
+feels. Use that information to create strategic questions, listen to
+understand more types of Impacts, and get a deep understanding of
+what drives decision-making within their business.
+●
+
+Situation Question (closed ended): How many users are there on the
+present tool?
+
+●
+
+Pain Question (open ended): What do users still struggle with? How
+does that show up?
+
+●
+
+Impact (open ended): How much time or money could be saved by
+making it faster for team members to process paperwork?
+
+It can take as many as 3 to 7 questions to collect all the types of
+Impact goals they have, so be patient!
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Rational (quantitative) Impact
+and Emotional (qualitative)
+impact.
+
+P AIN
+
+S ITUATION
+
+There are 2 kinds of Impact
+customers want to achieve:
+Rational and Emotional.
+Quantitative goals, such as increasing
+revenue or decreasing cost, have always
+been a key part of purchasing decisions.
+
+●
+
+Emotional Impact ﬁrst beneﬁts a person and
+then the company, such as a promotion earned
+with a successful product implementation.
+Rational Impact ﬁrst beneﬁts the company and
+then a person, such as dollars that an eﬃciency
+tool helps save.
+
+●
+
+Emotional Impacts vary by person. Each person
+experiences Emotional Impact differently
+depending on their role or situation. Rational
+Impacts, on the other hand, often represent
+common goals shared by all functions at a
+company.
+
+●
+
+Most humans make Emotional decisions.
+Whether we realize it or not, humans often make
+decisions based on emotions and seek to
+rationalize those decisions with facts and
+ﬁgures.
+| 11
+
+These quantitative goals are deﬁned as
+Rational Impact. However, we know that the
+most successful recurring revenue
+companies also understand and deﬁne
+Emotional Impact for their customers.
+Emotional Impacts tend to be more
+qualitative and can provide deep insights
+into buying decisions, even if they are
+unspoken or not part of an RFP.
+
+CS Operating Model - Core Elements
+
+Identifying a Critical Event
+
+C4
+
+A Critical Event
+causes an Impact if
+the date is missed.
+
+Compelling Events have dates but don’t carry any
+urgency or drive action. A statement illustrating a
+Compelling Event is, “Your renewal date is
+September 15th.” There is an event but no urgency.
+Critical Events have a date, AND there will be a
+negative consequence if that date is missed. An
+illustration of a Critical Event is, “Your renewal date
+is September 15th, and if the renewal isn’t
+processed by then, your teams will have to go back
+to managing spend in spreadsheets, wasting a
+great deal of time and creating more risk of errors.”
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Impact
+Engagement
+
+When trying to encourage a prospect or customer
+to take action, it’s important that there be urgency
+around the action.
+In the case of Customer Success, an example
+might be that your customer’s renewal date is
+upcoming, and they aren’t actively engaging with
+you to complete it. To drive engagement, you need
+to create urgency and make the renewal date not
+just a Compelling Event but a Critical Event.
+
+Critical Event with a
+huge consequence
+(negative impact) in
+case the event is
+missed.
+
+The goal of this blueprint is to
+demonstrate what a Critical Event
+is and what the differences is with
+a compelling event.
+
+With no solution in place
+the customer
+experiences critical
+negative Impact.
+The customer has an
+A critical event timeline tells
+idea on the size and
+us when a solution needs
+recurrence of the
+to be in place, or else…
+Impact.
+
+C RITICAL E VENT
+
+I
+
+I
+
+Critical Impact
+
+Compelling Impact
+
+Hurry up…
+
+Gathering of those
+who will beneﬁt
+from the Impact.
+
+and wait…
+
+Discovery identiﬁes
+a customer’s needs.
+
+CALL TO ACTION
+Ideal time to help a customer
+Having learned from its past
+mistakes, the customer uses
+your support and takes action
+to avoid the negative Impact.
+
+GO DARK
+DISCOVERY
+
+Committed customer
+executes the critical
+event timeline.
+
+STAKEHOLDER
+
+COMPELLING EVENT
+
+Decision on the
+priority.
+
+Time
+
+| 12
+
+Implementation
+
+Impact and Critical Event
+
+Rational Impact
+
+Emotional Impact
+
+Critical Event
+
+Measurable, quantitative Impact, such as an
+increase in revenue, or faster.
+
+Qualitative Impact a person gets. Often worded
+as “better”, “easier”
+
+An event that when missed has an Impact
+associated with it.
+
+1. ______________________
+
+1. ______________________
+
+1. ______________________
+
+2. ______________________
+
+2. ______________________
+
+2. ______________________
+
+3. ______________________
+
+3. ______________________
+
+3. ______________________
+
+4. ______________________
+
+4. ______________________
+
+4. ______________________
+
+5. ______________________
+
+5. ______________________
+
+5. ______________________
+
+5×5×5
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+| 13
+
+CS Operating Model - Core Elements
+
+Metrics Drive Behavior
+
+?
+
+When performance is not
+measured, performance does
+not improve.
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+When performance is
+measured and reported
+back, the rate of
+improvement accelerates.
+
+So, what are the right
+metrics?
+
+| 14
+
+Customer Success Operating Model
+
+The Operating Model Overview
+Operating Model
+
+Recurring Revenue is the
+Result of Recurring
+Impact
+
+Customer Acquisition
+
+Customer Success
+
+The result of an operating model are:
+1.
+2.
+3.
+
+Interoperability
+A Common Language
+Standardized Data Model
+
+LeadGen
+
+LeadDev
+
+Sales
+
+Commit Onboard
+
+Adopt
+
+Expand
+
+There are three kind of metrics to run a business:
+M1-M9. Volume metrics are in part indicative of
+effectiveness. For example; ARR, the
+amount of customers, etc.
+CR1-CR7. Conversion metrics are in part
+indicative of eﬃciency. For example:
+Retention Rate, Usage etc.
+These standardized metrics allow us to calculate
+performance metrics.
+PM1-PM4. Whereas Conversion metrics are
+based on metrics in the same domain,
+Performance metrics compare a variety of
+metrics against each other such as Cost
+and Lifetime Value.
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Discover
+Impact
+
+Identify on
+Impact
+CR1
+
+M1
+Example metrics: Prospect.
+
+Buy on
+Impact
+
+Prioritize
+on Impact
+
+CR2
+
+CR3
+
+Commit
+to Impact
+
+CR4
+
+M5
+
+First
+Impact
+
+CR5
+
+M2
+
+M3 M4
+
+M6
+
+MQL.
+
+.SQL. .SAL. WIN. ACTIVE.
+
+Recurring
+Impact
+
+CR6
+
+Max
+Impact
+
+CR7
+
+M7
+
+M8
+
+M9
+
+LIVE.
+
+ARR.
+
+LTV.
+
+| 15
+
+CS Operating Model - Core Elements
+
+Four Core Metrics That Govern Success in Recurring Revenue
+
+LTV:CAC Ratio
+The Customer Lifetime Value (LTV)
+to Customer Acquisition Cost
+(CAC) ratio measures the
+relationship between the lifetime
+value of a customer and the cost of
+acquiring that customer.
+
+Growth Rate
+Growth rates refer to the percentage
+change of recurring revenue within a
+speciﬁc time period, often a year.
+Common growth rates are:
+● Rapid Growth 10-20%
+● Hypergrowth 20-40%
+● Double/Triple 100%/200%
+● Blitz Scaling: >1000%
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+Key metrics:
+● Annual Revenue (VM5)
+● Onboarding Churn (CR5)
+● Retention/Churn (CR6)
+● Expansion/Contraction (CR7)
+● Length of the contract (t7)
+
+Key metrics:
+● Growth from Acquisition
+○
+
+CR1, CR2, CR3, CR4, Discount
+
+● Growth from Expansion
+○
+
+CR5, CR6, CR7
+
+○
+
+Length of the contract (t7)
+
+Net Revenue Retention
+Measures how much your annual
+(ARR) or monthly recurring revenue
+(MRR) has grown or shrunk over
+time.
+It factors in customer expansion as
+well as revenue churn from losing a
+customer as well as downgrades.
+
+Rule-of-40
+The Rule of 40 states the combined
+revenue growth rate and proﬁt
+margin should equal or exceed 40%.
+SaaS companies above 40% are
+generating proﬁt at a rate that's
+sustainable, whereas companies
+below 40% may face cash ﬂow
+issues.
+
+Key metrics:
+● Annual Revenue (VM5)
+● Onboarding churn (CR5)
+● Retention/Churn (CR6)
+● Expansion/Contraction (CR7)
+● Length of the contract (t7)
+
+Key metrics:
+● Growth Rate
+● Proﬁt (Cost)
+○
+
+Customer Acquisition Cost
+
+○
+
+Cost To Serve
+
+○
+
+Cost of Raw Goods
+
+| 16
+
+CUSTOMER SUCCESS
+OPERATING MODEL
+
+A Blueprint
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+01
+
+Introduction
+
+02
+
+Core Elements
+
+03
+
+Onboarding
+
+04
+
+Adoption
+
+05
+
+Expansion
+
+06
+
+Skills
+
+| 17
+
+Customer Success Operating Model
+
+Introduction
+
+IN
+
+A Uniform Operating Model for a
+Recurring Revenue Businesses
+
+The Bowtie
+Recurring Revenue Operating Model
+Adoption
+LeadGen
+
+The 3 Goals of the Operating Model for Recurring Revenue:
+
+Sales
+
+Expansion
+Onboarding
+
+Goal 1. Establish a common, and customer centric, language.
+Goal 2. Apply standardized metrics to allow for benchmarking.
+Goal 3. Create Interoperability between different functions.
+LeadDev
+
+It is based on the following steps:
+Step 1. Use of the bowtie to model the entire customer journey.
+Step 2. Split up the customer journey in phases.
+
+The key functions are:
+
+Step 3. Establish key metrics for each phase [M, CR, PM].
+
+1.
+
+Lead Generation
+
+Step 4. Identify a handful of Moments that Matter per phase.
+
+2.
+
+Lead Development
+
+Step 5. Create a Blueprint for each of these moments.
+
+3.
+
+Sales
+
+4.
+
+Onboarding
+
+5.
+
+Adoption
+
+6.
+
+Expansion
+
+Step 6. Codify SPICED into a Blueprint so it can be trained,
+improved, etc..
+Step 7. Measure metrics [M, CR, PM] and improve over time
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+| 18
+
+Customer Success Operating Model
+
+Introduction
+
+IN
+
+The 2023 Blueprint
+format explained.
+
+Clear description of the action and
+what it does. Handoff to CS is to
+Transfer critical account info
+
+The goal of each blueprint
+is clearly stated upfront.
+
+The banner provides a
+visual cue to actions that
+are identiﬁed as a
+moment that matters.
+
+The location of where you are at:
+● The CS Operating Model
+● In the Onboarding Playbook
+● Handoff to Customer Success
+● Blueprint 01
+● Large numbering allows you to
+navigate easily in the slide sorter.
+
+Reference to the next
+action and blueprint in
+the customer journey.
+Presence of SPICED, the
+framework which
+creates interoperability
+between blueprints.
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Expertise broken down into a
+series of steps, actions, best
+practices etc.
+
+Visual that guides you through the
+experience as a function of customer
+engagement over time.
+
+| 19
+
+CUSTOMER SUCCESS
+OPERATING MODEL
+
+Onboarding
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+01
+
+Introduction
+
+02
+
+Core Elements
+
+03
+
+Onboarding
+
+04
+
+Adoption
+
+05
+
+Expansion
+
+06
+
+Skills
+
+| 20
+
+CS Operating Model - Onboarding Phase
+
+Overview Onboarding
+
+O0
+
+Following the mutual commitment
+the relationship has changed: You are
+all on the same team now.
+
+The customer onboarding phase is arguably the most critical part of the
+customer journey as it lays the foundation for the relationship.
+Unfortunately, it is also the easiest to do wrong.
+
+Awareness
+
+Education
+
+Selection
+
+Mutual
+Commit Onboarding
+
+Adoption
+
+Expansion
+
+Avoid using a “check-the-box” mentality in which both teams focus on the
+tactics of completing an onboarding checklist without really understanding
+the pain to solve and the Impacts to deliver.
+If you don’t know what Impact you’re working to achieve, it will be tough to
+deliver it. To ensure you set your customers and your business up for
+success, make sure to embed these best practices in your customer
+Onboarding journey:
+O1. Handoff to CS
+O2. Customer Kickoff
+O3. Joint Impact Plan (aka Success Plan, Account Plan, etc.)
+O4. Achieving First Impact
+
+tI
+m
+
+pa
+
+ct
+
+lan
+
+O4
+
+irs
+
+pa
+
+Ki
+
+Im
+int
+
+Ac
+
+Jo
+
+O3
+
+ct
+P
+
+ck
+
+of
+f
+
+O2
+
+er
+st
+om
+
+Cu
+
+Ha
+n
+
+do
+
+ff
+to
+
+CS
+
+O1
+
+hie
+ve
+F
+
+Getting these motions right will directly impact your customer retention
+and expansion. It can provide critical insights to your sales and marketing
+teams to help them set great expectations with prospects.
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+| 21
+
+CS Operating Model - Onboarding Phase
+
+Handoff to Customer Success
+
+O1
+
+Effectively transfer
+critical account
+information.
+
+The goal of this blueprint is to show the
+crucial steps for an effective internal
+handoff between Sales and Customer
+Success through the use of SPICED.
+
+A smooth and effective customer handoff from the
+Sales team to the Onboarding and CS team is critical. It
+helps the customer experience and, ultimately, your
+business outcomes.
+
+1. Complete the handoff as close to commit as
+possible while the information is still fresh.
+2. Transfer critical account info using SPICEDTM,
+including crucial details about topics like org
+structure, personas, and red ﬂags.
+3. Use clear handoff guidelines to ensure all team
+members know:
+❏
+❏
+❏
+❏
+❏
+
+Who bought from us?
+Why did they buy?
+What were they doing before?
+Why was that not working for them?
+What was the problem to solve or avoid?
+
+Insights disclosed during
+onboarding can cause a
+do-over of the
+deliverables.
+
+Transfer of
+critical
+account info.
+Do not lose the
+momentum, swiftly
+move from one
+action to another.
+
+S
+
+P
+
+I
+
+CE
+
+D
+Verify if this is correct.
+● Calculate the real life
+Impact together
+● Make sure to conﬁrm
+the date this is needed.
+
+SETUP
+
+PREPARE
+
+CLOSE
+
+FOLLOW-UP
+
+COMMIT
+
+!
+
+End on time, setup
+for the next
+meeting (using
+WAGONS.)
+
+STRATEGIZE
+
+DO-OVER?
+
+Follow-up
+immediately, share the
+recording, Joint
+Impact Plan etc.
+
+KICKOFF
+
+Do not lose momentum,
+swiftly move from one
+action to another.
+
+ACE the call, prepare
+an agenda, introduce
+each other.
+
+Prepare for the kick-off call.
+Get on a debrief call with the
+sales rep (or check CRM).
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+JOINT IMPACT PLAN
+
+Determine a plan
+to achieve Impact.
+
+Engagement
+
+Ensure Sales teams are accountable for completing
+detailed handoffs to the Onboarding and CS team
+before they move on from the account. Best practices
+for good handoffs include:
+
+During or immediately after the
+handoff meeting, draft a Joint
+Impact Plan to be completed
+with the Customer during the
+kickoff.
+
+Time
+
+!
+
+High churn risk
+
+| 22
+
+CS Operating Model - Onboarding Phase
+
+Kickoff Call
+
+O2
+
+Start the relationship off
+strong with an effective
+Kickoff call.
+
+The goal of this blueprint is to outline
+how to perform a kickoff call and
+transfer of critical account info. This at
+times may feel repetitive, but customers
+again and again express that they
+appreciate this,, and often bring up
+additional details that can be valuable to
+achieve impact.
+
+Tips for a strong Kickoff Call:
+
+2. Start the meeting by aligning on goals and conﬁrm
+whether the attendees have other plans or
+expectations.
+3. Be curious and listen. This isn’t about you talking;
+it’s about asking questions and hearing additional
+critical details that can set you up for success.
+4. Set expectations around roles & responsibilities on
+both sides, and share keys to success and
+common pitfalls. Explain what working with your
+organization will look like over the ﬁrst few months
+and beyond.
+5. Start your close no later than 5 minutes before the
+end time. Ensure there are clear next steps and
+assigned action items.
+
+Engagement
+
+1. Research the attendees ahead of the call, so you
+know the titles and the context they have about the
+engagement.
+
+Provide a map with
+a visual of the
+onboarding stages.
+
+Provide immediate
+Impact by sharing
+relevant best practices.
+
+Agree on the goals and
+align on challenges and
+opportunities. Discuss
+how to address each
+and set target timelines.
+
+ONBOARDING REVIEW
+
+End on time, setup
+for the next
+meeting (using
+WAGONS.)
+
+CLOSE
+LEARNING MOMENTS
+Do not lose the
+momentum, swiftly
+move from one
+action to another.
+
+FOLLOW-UP
+S
+
+P
+
+I
+
+CE
+
+STORY
+
+D
+
+Follow-up immediately. Send
+the kickoff call deck with a
+completed project plan of each
+person’s tasks and actions.
+
+HANDOFF
+SETUP
+
+!
+PREPARE
+
+ACE the call, prepare
+an agenda, introduce
+each other.
+
+Internal. If there are multiple
+people joining (3+) call the
+customer lead, and conﬁrm
+the objectives of the call.
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+JOINT IMPACT PLAN
+
+Use storytelling to share
+best practices of the
+experience of other
+customers.
+
+FIRST IMPACT
+
+Do not lose momentum,
+swiftly move from one
+action to another.
+
+Time
+
+!
+
+High churn risk
+
+| 23
+
+CS Operating Model - Onboarding Phase
+
+Joint Impact Plan
+
+O3
+
+Create a shared north
+star that guides the
+customer relationship.
+
+The goal of this blueprint is to create a
+Joint Impact Plan (JIP) with recurring
+impact as a crucial part. Remember the
+ﬁrst principle of recurring revenue:
+Recurring Revenue is the result of
+Recurring Impact.
+
+1.
+
+2.
+
+3.
+
+Include details of short and long-term goals, such
+as the First Impact goal to achieve during
+Onboarding; adoption goals, internal
+organizational management goals, etc.
+Use the JIP to discuss challenges openly with
+your champion, such as how to convert
+detractors, recognize change management
+challenges, etc.
+
+Engagement
+
+The Joint Impact Plan (JIP) is a customer-facing
+document that guides the entire ongoing engagement.
+Whether you refer to it as a JIP, a Success Plan, part of
+an Account Plan, or something else, the important thing
+is that it lays out clear goals and is created
+collaboratively with the customer.
+
+During each Joint Impact Plan
+review call, use S P I CE D
+to validate & update:
+Impact Goals that are measurable
+Challenges with clear mitigation plans
+Opportunities and plan how to move forward
+
+During the kickoff,
+complete the Joint
+Impact Plan together
+with the customer.
+
+FIRST IMPACT
+
+REVIEW
+
+REVIEW
+
+REVIEW
+
+RENEWAL
+
+Schedule Strategic meetings where you can review,
+ask questions and update the Joint Impact Plan every
+3-12 months, as needed.
+FINALIZE V1
+
+Use the JIP to discuss opportunities openly with
+your champion, such as the goals they have for
+their org, the chance to unseat a competing
+product, etc.
+
+Involve your
+customer,
+involvement
+creates
+commitment.
+
+Achieving ﬁrst impact is a
+critical event. Not achieving
+ﬁrst impact at the
+committed data is likely to
+have churn consequences.
+
+The renewal date should be
+seen as an outcome and not a
+critical event date. Meaning you
+should know exactly where you
+stand with your customers.
+
+DRAFT V1
+Draft a Joint Impact Plan during or
+immediately after the Sales to CS
+Handoff
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Time
+
+| 24
+
+CS Operating Model - Onboarding Phase
+
+First Impact
+
+First Impact refers to the moment the customer
+achieves tangible Impact through the use and adoption
+of a product or service. The First Impact must be
+clearly deﬁned at the beginning of the engagement and
+ideally goes beyond a simple login. To drive this
+conversation, you need to understand the various
+Impact a customer wants to achieve, prioritize them,
+and choose a “First Impact.”
+Achieving First Impact will signal the end of the
+Onboarding phase. It does not mean that your
+implementation work is complete. It simply means that
+an initial milestone towards a larger goal is achieved.
+
+The goal of this blueprint is to establish
+that time is of the essence! It is not only
+important to get to ﬁrst impact quickly
+but also to make it known to the
+customer when it is achieved, and in the
+process keep the customer and your
+team well informed (via CRM.)
+
+Engagement
+
+O4
+
+Deliver First Impact
+Quickly to Build
+Conﬁdence.
+
+The ﬁrst moment they can
+use your product to do
+something new that
+contributes to the reason they
+purchased?
+
+Align the implementation
+tasks with the desired
+Impact you agreed with
+the customer.
+
+Do not lose the
+momentum, swiftly
+move from one
+action to another.
+
+FIRST IMPACT ACHIEVED
+
+Conﬁrm First Impact
+is achieved.
+Update the JIP
+with new goals
+
+JOINT IMPACT PLAN
+
+Keep the customer
+engaged with short
+notiﬁcation, and notify
+any delay regardless
+who or what caused it.
+
+IMPLEMENTATION
+
+Make sure the Onboarding
+Phase has a clear end and
+that the customer is aware
+of any new points of
+contact on the engagement.
+
+DRIVE IMPACT
+
+Examples of First Impact deﬁnitions:
+●
+●
+
+Downloading a report for the ﬁrst time
+Completing a task in the system
+
+Time to First Impact is the time it takes for a customer
+to achieve First Impact as deﬁned during the Business
+Kickoff meeting, usually measured in days. Research
+has shown that customers with shorter Time to First
+Impact are generally more successful, and their
+likelihood of churn is much lower than those with
+longer Time to First Impact.
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+KICKOFF
+
+!
+S
+
+P
+
+I
+
+Conﬁrm if you
+got it right.
+CE
+
+Do not lose momentum,
+swiftly move from one
+action to another.
+
+D
+
+Deﬁne First Impact: What do
+they want to achieve with your
+product, and by what date?
+
+!
+
+Conﬁrm via an email,
+that onboarding is
+completed.
+
+Time
+
+!
+
+High churn risk
+
+| 25
+
+CUSTOMER SUCCESS
+OPERATING MODEL
+
+Adoption
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+01
+
+Introduction
+
+02
+
+Core Elements
+
+03
+
+Onboarding
+
+04
+
+Adoption
+
+05
+
+Expansion
+
+06
+
+Skills
+
+| 26
+
+CS Operating Model - Adoption Phase
+
+Overview Adoption
+
+A0
+
+To help a customer adopt and use a
+service to unlock the impact, does not
+come natural to hypergrowth teams.
+
+The Adoption Phase of the customer journey is where your customers
+will spend most of their time. It’s critical during this phase to set up a
+proactive meeting cadence appropriate to the size of the customer
+and to establish ways to surface risks and opportunities as early as
+possible.
+
+Awareness
+
+Education
+
+Selection
+
+Mutual
+Commit Onboarding
+
+Adoption
+
+Expansion
+
+By establishing the following critical components as part of your
+Adoption Phase, you can ensure that teams are focused on delivering
+ongoing Impact eﬃciently and effectively.
+There are ﬁve crucial actions part of the adoptions process:
+A1. Drive Impact Process
+A2. Business Review
+A3. Health Scoring
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+tio
+
+xe
+cu
+
+g
+
+rP
+
+rin
+
+wa
+
+lE
+
+ge
+
+Tr
+ig
+
+A5
+
+n
+
+A4
+
+lay
+s
+
+A3
+
+Re
+ne
+
+ev
+ie
+He
+a
+
+sR
+es
+
+lth
+
+pa
+Im
+sin
+
+Dr
+
+ive
+Bu
+
+A proactive, repeatable approach to managing accounts will instill
+conﬁdence in your customers, allow your team members to focus and
+prioritize, onboard new team members more quickly, and support
+scalability and positive business outcomes.
+
+ct
+
+A5. Renewal Execution
+
+A2
+
+w
+
+A1
+
+Sc
+o
+
+A4. Trigger Plays
+
+| 27
+
+CS Operating Model - Adoption Phase
+
+Drive Impact Process
+
+A1
+
+Series of trigger
+plays based on
+the business.
+
+The north star that
+keeps you and your
+customer focused
+
+RENEWAL
+
+The goal of this blueprint is to.
+create a recurring Impact engine:
+Triggers help you to highlight risks
+and surface opportunities. A trigger
+drives an action, and actions result
+in impact.
+
+The goal of a Recurring Revenue service is to
+provide customers with recurring Impact. The
+Impact will not happen by itself. Three loops
+form the Impact Engine:
+The Impact loop drives recurring Impact based on
+proven impact programs.
+
+2.
+
+The Activity loop is where activities take place that
+results in Impact.
+
+3.
+
+The Trigger loop allows the surfacing of risks and
+opportunities in an account.
+
+The Joint Impact Plan (JIP) orchestrates the
+various actions that drive the Impact. JIP uses
+SPICED across all actions to guide the proper
+conversation with the customer around Impact.
+This allows you to train all customer-facing roles
+on how to drive Impact by asking good
+questions, listening, tracking adoption,
+measuring engagement, and responding to
+emails and surveys, participating in events, etc.
+
+Update JIP to set
+Impact goals and add
+news ones over time.
+
+DRIVE IMPACT
+
+TRIGGER PLAYS
+
+2
+
+Set thresholds that
+highlight risks and
+opportunities.
+
+1
+IMPACT
+LOOP
+
+JOINT IMPACT PLAN
+
+!
+
+HEALTH
+SCORING
+
+BUSINESS REVIEW
+
+IMPACT CAMPAIGNS
+
+SHARE IMPACT
+
+FIRST IMPACT
+
+3
+
+TRIGGER
+LOOP
+
+ACTIVITY
+LOOP
+
+Engagement
+
+1.
+
+A series of actions to
+implement recurring
+impact programs.
+
+Ensure that all programs
+focus on identifying,
+updating, and delivering
+Impact.
+
+It is very common to assume the
+impact you provide is obvious. It is
+not obvious. Persistent effort must
+be taken to share the impact
+across all levels of both the
+customer and your own
+organization..
+
+Time
+Don’t lose momentum.
+Have a plan in place to
+drive impact.
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+| 28
+
+CS Operating Model - Adoption Phase
+
+Impact Business Review
+
+A2
+
+Analyze if impact was
+achieved and set future
+impact expectations.
+
+The goal of this blueprint is to align
+the impact you provide with crucial
+initiatives within the corporation.
+These initiatives can often be found
+in the public domain
+
+An Executive Business Review, or EBR, is a
+strategic meeting with Stakeholders focused on
+validating & updating the customer’s goals,
+reviewing the Impact achieved and discussing
+any risks or opportunities in the account.
+
+An EBRs is much more than a summary of past
+operational meetings. An EBR should be used to
+align the impact you provide with the company’s
+strategic interest for the next 12 months.
+
+JOINT IMPACT PLAN
+
+Analyze if the (desired)
+impact was achieved
+and set expectations
+for future impact.
+
+Engagement
+
+When asking for an executive’s time, you must
+provide value. Use this blueprint to structure your
+EBR. Use storytelling and active listening to get
+the most out of the interaction while beneﬁting
+the executive.
+
+Identify new critical
+events, for the next
+12 months.
+
+Obtain a number of
+quotes of IRL impact
+over the past months.
+Validate critical
+account info and
+capture any updates.
+S
+
+DRIVE IMPACT
+
+P
+
+I
+
+CE
+
+SETUP
+
+!
+PREPARE
+
+D
+
+Use a relevant
+story to inspire
+growth and
+Impact.
+
+3 ways to deliver more Impact:
+● Remediation: better utilize already
+paid for capabilities.
+● Upgrade: deliver new capabilities to
+current users.
+● Expand: ﬁnd new users to deliver
+similar capabilities.
+Ask: if you had to
+renew today, would
+you?
+
++ STORY
+
+CLOSE
+End on time,
+setup for the
+next meeting
+(WAGONS.)
+
+IMPACT REVIEW
+
+!
+-
+
+STORY
+
+ACE the call with
+an agenda and a
+clear goal.
+
+TRIGGER PLAYS
+Create a 5 min
+summary to be used
+Use a story about a customerby a broader audience.
+who didn’t achieve results but
+was able to change strategy
+FOLLOW-UP
+and deliver business Impact.
+Maintain momentum
+by following up
+immediately.
+
+Prepare impact stories
+relevant to the customer’s
+current experience.
+
+Time
+
+!
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+High churn risk
+
+| 29
+
+CS Operating Model - Adoption Phase
+
+Trigger Plays
+
+A3
+
+Trigger Plays allow
+teams to react quickly
+to common scenarios
+
+There will always be situations that take an
+account off the ideal customer path. Sometimes
+there are risks to a renewal and you have to
+mitigate to save the account. Sometimes an
+opportunity will surface that needs to be acted
+upon quickly.
+There are some risks and opportunities that are
+common, and while you can’t plan when they
+happen, you can prepare for when they do occur.
+As a team you need to set Triggers for each of
+the most common Risks, and Opportunities
+following a If This Then That (IFTTT) format.
+Example:
+Trigger: If the Champion leaves then..
+Action 1. Send out an introduction and schedule a
+discovery call with the person that replaces them.
+Provide insights on the impact offered over the past
+and next 12 months..
+
+Onboarding
+
+Adoption
+
+Expansion
+
+The goal of this blueprint is to
+identify a risk to the account or
+surface an expansion opportunity.
+This allows you to set a trigger
+play to mitigate the situation or
+address the opportunity.
+
+Surface an Opportunity
+●Over usage
+●Team Growth
+●Market Opportunity
+●M&A Event
+●Etc.
+
+Triggers
+
++ TRIGGER
+ACTION
+
+I
+
+MPACT
+
+STORY
+
+Measure the impact
+of the actions taken.
+
+Record completed Trigger Plays
+as a pocket story using SPICED.
+This creates a reference for
+other team members.
+
+- TRIGGER
+Identify a Risk
+●Champion Change
+●Account Gone Dark
+●Drop in Usage
+●M&A Event
+●Etc.
+
+Proven action(s)
+against the trigger.
+
+Action 2. Follow your Champion and see where they
+are going to land, as it likely may become a new
+opportunity for your sales team to pursue.
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+| 30
+
+CS Operating Model - Adoption Phase
+
+Health Scoring
+
+Health Scoring is a great way to use patterns to
+highlight potential risks or opportunities for an
+account. While Health Scoring is not meant to be
+a diagnosis tool, it can highlight symptoms and
+help your teams know what accounts may need
+attention and where to look to get more
+information.
+Health Scoring should be based on patterns
+unique to your product(s) and customers, and
+can be balanced between system indicators like
+a rise or fall in product usage, and qualitative
+indicators discovered through conversation.
+
+PILLAR IV.
+Are all the core teams
+utilizing the product?
+This goal of this blueprint is to
+show there are four leading
+indicators for health that can be
+measured. Based on these
+measurements trigger plays can
+be designed to drive actions and
+impact.
+
+PILLAR I.
+Are customers
+getting Impact?
+
+Healthy
+
+TIP: Start with a single metric for each pillar
+
+!
+!
+
+What is the
+penetration?
+
+Number of
+support tickets/
+response time?
+Are execs
+involved in
+the EBR?
+
+D
+
+!
+
+What is the
+CSAT score?
+
+CE
+
+Any critical events
+coming up?
+
+!
+
+What is the
+response time to
+critical issues?
+
+DRIVE IMPACT
+
+Health scoring is
+dynamic. Over time
+the health KPIs are
+expected to improve.
+
+Any changes to the team, in
+particular to the champion,
+or any of the early adopters?
+
+Is the service
+being used?
+
+Do you have insights
+on your customer?
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Is new
+impact being
+identiﬁed?
+Is the impact
+important?
+
+Symptoms
+At risk
+
+I
+
+What KPI do
+we inﬂuence?
+
+Have there been
+any moments
+that mattered?
+
+SATISFACTION
+
+MPACT
+
+ADOPTION
+
+ENGAGEMENT
+
+Is the impact
+10x the price?
+I
+
+When developing your score, it’s important to
+involve Leadership, Product & other teams to
+create a simple scoring method for the
+organization.
+
+PILLAR III.
+How engaged are your
+customers with your
+product?
+
+PILLAR II.
+Are customers satisﬁed
+by the level of support
+they receive?
+
+Engagement
+
+A4
+
+Use leading indicators
+to provide guidance
+on what to do.
+
+Time
+
+!
+
+High churn risk
+
+| 31
+
+CS Operating Model - Adoption Phase
+
+Renewal Execution
+
+A5
+
+Connect the Impact
+to a customer’s
+corporate KPI.
+
+Renewal is a strategic
+moment that presents
+lots of opportunities.
+
+This goal of this blueprint is to
+provide an outline of the actions
+involved in the renewal.
+
+Many PLG
+While
+organizations
+motions may
+approach
+approach
+renewals
+Renewal
+as an
+operationally, if
+moment
+you have
+marked
+SMBbyand
+paperwork
+Enterprise
+and
+customers,
+boxes
+ticked off.
+leverage
+However,
+the we
+Renewal to
+encourage
+drive you to
+strategic renewal
+consider
+conversations.
+as a strategic moment.
+
+● Use the SPICED framework to frame the
+● From
+a revenue perspective, adding just 3% annually
+conversation
+to a customer contract will cause the LTV to
+● Ask good questions to validate SPICED and
+compound year over year, contributing more to your
+make appropriate updates
+revenue with each renewal. Here are a few reasons
+● to
+Use
+to celebrate Impact wins or
+addStorytelling
+revenue:
+address risks
+
+Did you achieve the impact?
+And are they still planning on
+using the same impact and
+to use you to achieve that?
+
+Engagement
+
+●● IfMake
+you have
+consistently,
+surebeen
+youdelivering
+start theImpact
+renewal
+conversation
+exploring
+potential
+expansion
+opportunities
+is only
+early enough to allow you to address any
+natural, even more so this is an opportunity to
+risks or opportunities (3-6 mo’s is typical)
+expand the business.
+
+Take notes of a
+speciﬁc situation
+and unique pains.
+
+Conﬁrm why
+they originally
+came to you.
+S
+
+I
+
+D ECISION
+
+MPACT
+STORY
+
+I
+
+MPACT
+
+SAVE
+
+SUMMARIZE
+
+If desired Impact
+was not achieved, go
+back and determine
+the desired Impact
+for next year.
+
+PREPARE
+ACE the call
+with an agenda,
+and a goal.
+
+Use a relevant story
+about a customer
+who changed to
+achieve Impact.
+
+Perform a play
+proven to have
+worked in the
+past in a similar
+situation.
+
+ITUATION
+
+Understand the customer’s
+original needs and if those
+needs have changed.
+
+Identify the Process,
+the Decision Criteria,
+and the Decision
+Maker.associated
+with that KPI.
+
+DEMO
+
+H
+TC
+PI
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Do they plan on
+renewing? If no,
+what are the
+obstacles?
+
+E VENT
+
+Ask if this is
+important.
+
+P AIN
+
+SETUP
+
+C RITICAL
+
+Discuss new
+impact for the
+coming months.
+
+Conﬁrm if
+you got it
+right.
+
+○ Annual price increase.
+True up
+ﬂoating
+users/usage.
+If ○
+you’re
+providing
+Recurring
+Impact and
+○ Upsell
+new
+features.
+validating
+that
+across
+the customer journey, the
+○ Expand your network with the customer.
+
+Renewal should be a positive event to move the
+Start
+the process
+around six months ahead of
+relationship
+forward.
+the renewal date to provide time to develop an
+opportunity or mitigate any account risk.
+
+Demonstrate the *new*
+impact in context of
+their situation/pain.
+
+Pitching leads to
+disengagement.
+
+NEXT STEPS
+DRIVE IMPACT
+
+FOLLOW-UP
+Maintain momentum
+by following up
+immediately.
+
+Time
+
+| 32
+
+CUSTOMER SUCCESS
+OPERATING MODEL
+
+Expansion
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+01
+
+Introduction
+
+02
+
+Core Elements
+
+03
+
+Onboarding
+
+04
+
+Adoption
+
+05
+
+Expansion
+
+06
+
+Skills
+
+| 33
+
+CS Operating Model - Expansion
+
+Overview Expansion
+
+E0
+
+The way to achieve sustainable growth
+is through expansion from existing
+customers.
+
+Sustainable and proﬁtable recurring revenue businesses must grow
+the amount of revenue from existing accounts beyond their initial
+contract value. This is referred to as expansion.
+
+Awareness
+
+Education
+
+Selection
+
+Mutual
+Commit Onboarding
+
+Adoption
+
+Expansion
+
+Whether expansion is owned by your CS team, Sales team, or a
+dedicated account team, the motion depends on whether the
+customer is getting recurring impact.
+Customers need robust onboarding and support during adoption to
+be candidates for expansion. Regardless of ownership, all team
+members with any role on the right side of the bowtie depend on each
+other and need effective and robust collaboration. The following key
+components are critical to successful expansion motions:
+E1. Expansion Process
+E2. Whitespace Planning
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+E4
+
+E5
+
+nin
+g
+Ex
+ec
+co
+ut
+un
+io
+tR
+n
+et
+ire
+m
+en
+t
+
+E3
+
+lan
+
+nin
+
+Ex
+
+n
+
+io
+
+pa
+
+ns
+
+co
+
+un
+
+tP
+
+lan
+Ac
+
+pa
+
+io
+
+es
+
+ns
+pa
+
+hit
+W
+
+Ex
+
+The above actions, when used in conjunction with actions from the
+Adoption Phase, will ensure you build a scalable and effective
+recurring revenue engine for your organization.
+
+n
+
+E5. Account Retirement
+
+ce
+P
+
+Pr
+oc
+
+es
+
+E4. Expansion Execution
+
+E2
+
+g
+
+s
+
+E1
+
+Ac
+
+E3. Account Planning
+
+| 34
+
+CS Operating Model - Expansion
+
+Expansion Process
+
+E1
+
+Selling to existing
+customers accelerates
+growth.
+
+The goal of this blueprint is to
+describe the expansion process and
+differentiate between the
+whitespace planning and account
+planning activities. .
+
+In a Recurring Revenue business, it is vital to
+grow the business beyond what a customer
+bought initially. Expansion does not have to be
+reactionary on a customer’s needs.
+
+Whitespace planning can be performed by the CS
+team, the Sales team, or assigned to a dedicated
+Account Management team.
+Whitespace planning is a way to quantify the
+revenue potential of an existing account, while
+Strategic Account Planning details the approach
+to go after that whitespace.
+
+Each stakeholder has
+their own emotional
+impact they want to
+achieve.
+
+Engagement
+
+Whitespace planning is a process that identiﬁes
+the additional needs for products and services
+outside the original scope based on the impact a
+customer needs.
+
+Identify Impact potential
+of the proposed solutions
+per prospective customer.
+
+Explore the impact of
+department
+stakeholder within the
+customer.
+
+WHITESPACE PLANNING
+
+ACCOUNT PLANNING
+
+Identify
+existing
+use-cases
+.
+
+S
+
+USE-CASES
+
+P
+
+I
+
+CE
+
+DRIVE IMPACT
+
+!
+RESEARCH
+
+DIAGNOSE
+Prioritize which
+customers can
+be impacted.
+Prioritize which
+customers can
+be impacted.
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Must have Impact
+and Critical Event
+identiﬁed to perform
+a workshop.
+
+WORKSHOP
+
+Have a relevant
+customer story.
+
+The goal of the
+workshop is to
+drive the decision
+based on Impact
+and Critical Event.
+Engaging new stake
+holders can fast track
+an oppty w/o the need
+for an EBR
+
+STORY
+
+FIRST IMPACT
+STAKEHOLDERS
+
+EXPANSION
+EXECUTION
+
+Use Impact and
+Critical Event to
+ID stakeholders.
+One ﬁnal attempt
+to retain the
+customer using a
+SAVE play.
+
+D
+Scan the customer for
+rational and emotional
+impact that form the basis
+for organizational change
+
+SAVE
+
+!
+ACCOUNT
+RETIREMENT
+
+Time
+
+!
+
+High churn risk
+
+| 35
+
+CS Operating Model - Expansion
+
+Whitespace Planning
+
+E2
+
+The use of Impact and
+Critical Event to asses
+the opportunity.
+
+Today, most whitespace planning is based on a
+combination of the situation (S) and Pain (P)
+such as F500 rank or number of employees.
+Instead we recommend to prioritize whitespace
+planning based on a combination of:
+
+●
+●
+
+Impact: How much money do we save, or
+revenue can we grow for our customer
+Critical Event: What is the sense of urgency
+that drives the decision timeframe.
+
+In the example the combination of Impact and
+Critical Event shows that Product B has the
+largest upsell potential. Whitespace Planning can
+be expanded by:
+●
+
+Decision Process: Do you have a good
+understanding of the customers' org
+structure, know the emotional impact of
+various decision makers, and understand
+whether you can help achieve those.
+
+Input from all those working with the customer
+will improve the accuracy of your information.
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+JOINT IMPACT PLAN
+The goal of this blueprint is to
+demonstrate the idea of
+whitespace planning to identify an
+expansion opportunity based on
+impact and critical event.
+
+Need to identify
+Rational Impact
+
+Product A
+
+Need to identify
+Critical Event
+
+Product B
+
+Product C
+
+Impact
+
+Critical Event
+
+Impact
+
+Critical Event
+
+Impact
+
+Critical Event
+
+I
+
+CE
+
+I
+
+CE
+
+I
+
+CE
+
+NewCo
+
+ACME
+
+Product A lacks the impact,
+missing the RoI, although
+there is some sense of
+urgency.
+
+Product B combines both a
+high level of impact, and it
+has a critical element.
+
+Product C has a high impact,
+but there is no sense of
+urgency, as it lacks a critical
+event.
+
+| 36
+
+CS Operating Model - Expansion
+
+Account Planning
+
+E3
+
+Coordinate all Account
+Activities around
+Customer Goals
+
+While the Joint Impact Plan is built
+alongside the customer, the
+Account Plan is an internal tool that
+focuses on the goals your
+company has for the account.
+
+Account Planning is the process of managing an
+account with the aim to retain or grow recurring
+revenue from that account. Account Planning
+can be simpliﬁed to three key elements:
+
+●
+●
+
+Impact: Identify the rational impact that a
+customer will gain from your product.
+Critical Event: Prioritize projects based on the
+presence of a critical event.
+Decision Process: Who is involved and what
+matters to them (emotional Impact)
+
+These elements must be captured in a simple
+account plan. The account plan is a living
+document that evolves over time.
+Important: As accounts get bigger, an increasing amount of
+resources will be involved. This may even include feature
+request or dedicated support. When this happens, internal
+selling grows in importance. This highlights the importance of
+the Account Plan and the planning process.
+
+Engagement
+
+●
+
+Prioritize accounts on the
+combination of the amount of
+Impact we can provide and the
+presence of any Critical Event
+
+Present a subset of the
+plan to the customer
+and together ﬁll in any
+gaps.
+ACCOUNT PLAN
+
+I
+
+CE PRIORITIZE
+
+ACTIVE PROJECTS
+
+WHITESPACE
+PLANNING
+
+!
+
+1. What is the spend potential?
+2. What is the current spend?
+3. What are other projects that
+would increase the spend?
+4. What critical events are there?
+5. When should we reach out?
+
+Not expanding
+decreases the
+engagement and
+increases the chance on
+churn.
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Draft an
+Account
+plan
+
+Internal preso
+to gain buy-in.
+
+Update
+the plan
+
+EXPANSION
+EXECUTION
+
+Run a 3x3
+approach.
+
+STAKEHOLDER MAP
+
+D NAVIGATE THE ORG
+
+GTM ALIGNMENT
+
+Align GTM teams
+such as Sales,
+CS, AMs, and
+Execs.
+
+Know the expansion:
+which project, the
+impact, critical
+events, and the
+decision making
+process.
+Present the plan to
+the customer and ﬁll
+in any of the gaps.
+
+1. Who do we know?
+2. What matters to them?
+3. How are we connected?
+4. Who should we know?
+5. What matters to them?
+6. How are they involved?
+7. How to get connected?
+
+Time
+
+!
+
+High churn risk
+
+| 37
+
+CS Operating Model - Expansion
+
+Expansion Execution
+
+There is no need to negotiate with recurring
+revenue customers. They are your customers; if
+you do not deliver, they will unsubscribe or
+downgrade their service.
+It requires thinking about trading items of equal
+value during the expansion execution process.
+1.
+
+Get all negotiation items on the table.
+
+2.
+
+Listen carefully and take notes.
+
+3.
+
+Repeat what you heard: “So if I got this right___.”
+
+4.
+
+Ask, ”Is there anything else?”.
+
+5.
+
+Prioritize the issues with them.
+
+6.
+
+Summarize .“Okay, so you want ___ and ___.”
+
+7.
+
+Trade: Start w/ easy items, give to get.
+
+8.
+
+Make the offer; be clear and concise.
+
+9.
+
+If they counter, listen & understand the request.
+
+10.
+
+Before you answer, repeat the counteroffer.
+
+11.
+
+Make small adjustments.
+
+12.
+
+When you reach an agreement, repeat it back.
+
+Trading items of value is more
+applicable in a recurring revenue
+business. If the customer wants the
+same discount next year, they need
+to provide the same items of value
+used during the trade.
+
+Engagement
+
+E4
+
+There is no negotiation
+in recurring revenue
+operations. Trade!
+
+Diagnose the impact
+The customer wants
+and when they want
+it by ( critical event.)
+S
+
+P
+
+ACCOUNT
+PLANNING
+SETUP
+
+I
+
+CE
+
+Listen to the ask
+before you counter.
+Take careful notes.
+LISTEN
+
+Get all items on
+the table; avoid
+negotiating one
+item at a time
+
+Start with easy items.
+Don’t give anything
+without getting
+something in return.
+
+TRADE
+
+Take copious notes.on
+what was agreed to.
+
+Qualify the decision
+maker; reschedule if
+not available
+
+These are two very
+different offers, So run the
+numbers – does this deal
+still make sense? If not,
+propose another trade.
+
+May take a few tries.
+
+QUALIFY
+
+CONFIRM
+In simple language
+conﬁrm what you believe
+we all just agreed to.
+
+PRIORITIZE
+
+D
+
+SUMMARIZE
+
+CLOSE
+Agree to an expiration
+date and consequences.
+Ask, “Does that sound
+fair?”
+
+Conﬁrm you
+got it right
+Summarize what
+you have heard.
+
+!
+PREPARE
+
+Repeat what
+you heard
+
+Create a list of items
+to trade in exchange
+for concessions.
+
+DRIVE IMPACT
+
+Email the agreed terms immediately
+following the meeting. The contract
+can take days and you want to lock
+it in right away..
+
+!
+FOLLOW-UP
+
+Time
+If they ask for more: ”That changes the deal.”
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+!
+
+High churn risk
+
+| 38
+
+CS Operating Model - Expansion
+
+Account Termination
+
+E5
+
+Ensure you have a clear
+process for when an
+account terminates
+
+While losing accounts is never something we
+want to happen, there will be customers that
+terminate their engagement with you. It’s
+important to have a clear, detailed plan for what
+to do in that situation.
+On a strategic level, make sure you’re capturing
+detail about why they are leaving. Sometimes it’s
+due to circumstances out of your control, but if it
+has something to do with your product or a lack
+of Impact, use this opportunity to get as much
+detail as possible about how you could have
+better served them. Share that information with
+the appropriate teams.
+Also make sure that at an operational level, you
+have a detailed checklist of tasks to be
+completed when an account terminates, such as
+access to tools, updates to systems, etc.
+
+Account Termination Checklist:
+❏ Connect with the Finance/Legal team to ensure you’re clear on the
+date the access should be turned off
+❏ Work with your Support/Dev team to turn off access to systems on
+that date
+❏ Update all systems, including your CRM, CS Tool, etc.
+❏ If there are any customer email lists they need to be removed from,
+make sure that happens
+❏ Gather details about WHY the customer is leaving, and make sure
+those details are captured in the right system
+❏ If possible/appropriate, ask the customer for a few minutes to do a
+quick “exit interview” to provide color on why they left, and any
+input/suggestions for you. Make sure to thank them for their
+partnership and end the conversation on a positive note
+❏ If there are churn reasons that other teams should be aware of (e.g.
+product input for the dev/product team, Sales or CS input, etc.) make
+sure that is circulated
+❏ If your marketing team or CS team has a list of former customers that
+they try to stay in touch with for key updates (tailored to them as
+former customers) make sure the right email addresses are on that list
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+| 39
+
+CUSTOMER SUCCESS
+OPERATING MODEL
+
+Core Skills
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+01
+
+Introduction
+
+02
+
+Core Elements
+
+03
+
+Onboarding
+
+04
+
+Adoption
+
+05
+
+Expansion
+
+06
+
+Skills
+
+| 40
+
+CS Operating Model - Core Skills
+
+Core Skills
+
+S0
+
+The only way to achieve sustainable
+growth is through expansion from
+existing customers.
+
+Developing and continuously improving your team’s skills is essential
+to bringing your customer journey and the CS Operating Model to life.
+We encourage you to invest in ongoing skills training for your CS
+teams - you will reap the ﬁnancial rewards of that investment many
+times over via improved customer outcomes.
+
+Awareness
+
+Education
+
+Selection
+
+Mutual
+Commit Onboarding
+
+Adoption
+
+Expansion
+
+S3
+
+S5
+
+In this section, we provide a sampling of WbD Skills blueprints that
+can be a reference for your teams.
+The following blueprints include:
+S1. Managing Meetings
+S2. How to Diagnose
+S3. Critical Event Blueprint
+S4. Critical Event Timeline
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+ne
+
+S6
+
+ts
+im
+tT
+
+Cr
+
+itic
+
+al
+
+Ev
+en
+
+al
+itic
+Cr
+
+eli
+
+Ev
+en
+
+eli
+im
+tT
+
+al
+itic
+
+S4
+
+ne
+
+ts
+Ev
+en
+
+al
+itic
+
+Cr
+
+Di
+to
+w
+
+Ho
+
+Cr
+
+M
+
+an
+
+ag
+
+ing
+
+M
+
+You can ﬁnd additional WbD skills blueprints and training videos in the
+Resources section of our website.
+
+ag
+
+ee
+t
+
+no
+
+ing
+
+s
+
+S6. Share a Customer Story
+
+S2
+
+se
+
+S1
+
+Ev
+en
+
+S5. Navigating an Organization
+
+| 41
+
+CS Operating Model - Core Skills
+
+Managing Meetings
+
+S1
+
+Most business is conducted via meetings. This
+makes managing a meeting a critical skill to
+have. The steps to success are:
+1.
+2.
+3.
+
+4.
+5.
+6.
+7.
+8.
+
+Ask “Based on our
+discussion today are you
+ready to move forward?”
+
+The ability to achieve
+results via meetings is
+vital to your success.
+
+Setup the meeting at the start with the goal
+of the meeting and end-time.
+Agree to a short agenda to achieve the goal
+and stick to it.
+Close the meeting on-time to allow for next
+steps. Do this by ﬁrst looking back to see if
+set goals were accomplished.
+Then conﬁrm if everyone is ready to move
+forward. Agree to what is next
+Discuss what is the outcome of that meeting
+Who should be in that meeting?
+Agree if this can be done async, or if a
+synchronous meeting is needed
+Follow-up diligently
+
+Get the agenda on track to
+close “In interest of time..”
+and “.do you want to extend
+the meeting?”
+
+Discuss the
+goal of the
+next
+meeting.
+
+Appreciate
+Check
+time
+End goal
+
+1
+
+3
+
+SETUP
+
+2
+
+4
+
+CLOSE
+
+MEETING 1
+
+AGENDA
+
+Discuss the that need to
+be covered to hit the
+goal within the allotted
+time.
+Start the ACE/Agenda no
+later than 5 mins past the
+start time.
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+Ask ”Have you
+done this before?”
+
+7
+
+FOLLOW-UP
+
+5
+
+GOAL
+
+OUTCOME
+
+MEETING 2
+
+6
+
+STAKEHOLDERS
+
+“Who was involved and
+should we include them?”
+
+Begin your close 5 to
+10 mins before the
+end time.
+
+| 42
+
+CS Operating Model - Core Skills
+
+Diagnose Sequence
+
+S2
+
+A step-by-step guide on
+how to consistently
+diagnose a customer.
+
+The goal of this blueprint is to
+provide insights how to perform a
+diagnostic call. A very minor
+improvement in the quality of a
+diagnose, which is performed
+dozens of times, can lead to
+monumental results.
+
+When and why to use SPICEDTM?
+
+●
+
+●
+
+●
+
+As a diagnostic guide during customer calls.
+To ensure ongoing alignment with
+customers and your customer facing teams
+at every stage of engagement.
+To align customer usage of your
+product/solution with the Impact they are
+looking to achieve.
+As an eﬃcient way to hand off, debrief, and
+collaborate with other team members
+throughout the customer journey (Sales, CS,
+Marketing, Product).
+A way to surface your customer’s business
+updates or key changes that inevitably
+happen over time.
+
+C RITICAL E VENT
+D ECISION
+“When do you
+need this by?”
+
+Engagement
+
+●
+●
+
+Is this a situation
+you’ve seen before?
+Ask if you
+got it right.
+
+Determine the
+decision factors?
+
+MPACT
+
+EMPATHIZE
+
+If customer starts
+venting, ask to
+prioritize.
+2 to 3 pointed
+questions in their
+context.
+
+I
+
+“What
+happens if
+you miss that
+date?”
+
+STORY
+SUMMARIZE
+
+Ask if this resonates, and
+how this Impact compares
+to their business.
+
+P AIN
+Share a story about
+another person achieving
+Impact In Real Life.
+
+S ITUATION
+
+CLOSE
+
+End on time.
+Connect the
+WAGONS.
+
+Listen and take
+notes!
+OPEN
+ACE the call, prepare an
+agenda, introduce each
+other.
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Time
+
+| 43
+
+CS Operating Model - Core Skills
+
+Critical Event Blueprint
+
+S3
+
+A critical event carries
+a negative impact.
+
+2.
+3.
+
+4.
+
+5.
+
+During the Onboarding call, EBR, etc.
+establish where the customer is:
+○ Are they experiencing any pains?
+○ Is this recurring?
+○ What is your target go live date?
+○ What happens if they miss that date?
+Use examples of others in a similar position
+to establish a critical event.
+Organize a stakeholder meeting.
+Stakeholders are those who gain from the
+Impact.
+During the stakeholder meeting, present a
+critical event timeline of actions needed to
+deliver the Impact at the critical event date.
+Deliver against the critical event date.
+
+Note: Do not worry when a customer goes dark.
+Continue to educate on others and the IRL
+Impact they experienced.
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+Impact
+Engagement
+
+Key steps:
+1.
+
+Critical Event with a
+huge consequence
+(negative impact) in
+case the event is
+missed.
+
+The goal of this blueprint is to
+demonstrate what a Critical Event
+is and what the differences is with
+a compelling event.
+
+With no solution in place
+the customer
+experiences critical
+negative Impact.
+The customer has an
+A critical event timeline tells
+idea on the size and
+us when a solution needs
+recurrence of the
+to be in place, or else…
+Impact.
+
+C RITICAL E VENT
+
+I
+
+I
+
+Critical Impact
+
+Compelling Impact
+
+Hurry up…
+
+Gathering of those
+who will beneﬁt
+from the Impact.
+
+and wait…
+
+Discovery identiﬁes
+a customer’s needs.
+
+CALL TO ACTION
+Ideal time to help a customer
+Having learned from its past
+mistakes, the customer uses
+your support and takes action
+to avoid the negative Impact.
+
+GO DARK
+DISCOVERY
+
+Committed customer
+executes the critical
+event timeline.
+
+STAKEHOLDER
+
+COMPELLING EVENT
+
+Decision on the
+priority.
+
+Time
+
+| 44
+
+CS Operating Model - Core Skills
+
+Critical Event Timeline
+
+S4
+
+The chronological
+actions needed to
+achieve the impact.
+
+A critical event is like the end result of a recipe
+when cooking a meal. In order to achieve your
+desired outcome, the recipe tells you what to do
+and in what order.
+This is the same with a critical event, following
+the identiﬁcation of a critical event, you must
+uncover all the steps that need to happen.
+Instead of determining when you need the P/O
+from the customer, you need to start with the
+customer’s impact in mind. When does the
+customer need the desired impact and then work
+your way back. For example, if the customer has
+a sales kick-off on July 7, they need your new
+sales acceleration solution for their team in place
+by end of June.
+
+CRITICAL EVENT
+Step 1. Identify a Critical event
+A critical event can be a date,
+or an event such as reaching
+1M subscribers.
+
+[ Fill in ]
+Step 2. Establish what happens if they miss the event?
+
+Critical event is impact as a
+function of time. You can
+recognize a critical event as
+it has a negative impact
+associated with it.
+
+[ Fill in ]
+
+Step 3. What are the steps that lead to this critical event (reverse chronological order)
+The actions needed to
+deliver the impact at the set
+event date. reverse
+chronological order.
+
+[ Fill in ]
+
+A critical event message is a short, stand-alone
+email that solely talks about the critical event.
+This cannot be part of a two-page email with all
+kinds of actions. See the example next. Note the
+reverse chronological order of the message, a
+hallmark of customer centric selling.
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+| 45
+
+CS Operating Model - Core Skills
+
+Navigating an Organization
+
+S5
+
+Help your customer to
+sell internally based on
+facts and ﬁgures.
+
+The goal of this blueprint is to
+provide a framework of how
+decisions are made within an
+organization. It is custom
+designed for decisions for
+recurring revenue services which
+are based on priority (not just
+budget or RoI).
+
+The people involved in a buying decision is what
+is called a buying center. When we look at the
+roles they play, we ﬁnd the same roles to form a
+very similar decision process.
+
+● The Decider makes the actual decision,
+typically based on a critical event (CE).
+
+● Inﬂuencers help nullify the gatekeeper by
+providing educational insights.
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+The gatekeeper often
+uses impact and the lack
+of priority to prioritize an
+alternative decision.
+
+INFLUENCER
+A discover call
+introduces us to
+the champion.
+
+CHAMPION I
+GATEKEEPER
+
+An initiator starts a
+convo based on the
+pain they experience.
+
+Use of insights
+will help
+convince the
+gatekeeper.
+
+USER
+
+I
+
+Trial
+
+Users can provoke the
+need with the decision
+maker, and get the
+project prioritized.
+
+A small (3-5) group of
+individuals that help
+determine the priority.
+
+EXEC BUYER D
+
+INITIATOR P
+
+● The Executive Buyer is a often a small group
+of executives that makes the decision (D).
+● Gatekeepers are those that oppose a decision
+based on emotional impact.
+
+It is the role of the
+inﬂuencer to teach
+you how to overcome
+the road blocker.
+
+The champion has a
+quantiﬁable need.
+
+Engagement
+
+● The Champion recognizes the impact and
+helps identify a project with a critical event..
+
+A provocative statement
+around impact and
+critical event causes the
+org to take action.
+
+The decider cannot
+overrule the
+objections as it will
+cause resentment
+later on.
+
+DECISION MAKER CE
+
+● The Initiator recognizes the situation & pain.
+● Users often play a critical role as they provide
+practical insights into measurable Impact a
+product offers.
+
+The decider prioritizes
+this project based on a
+function of impact and
+critical event.
+
+A responsible decider
+secures there is
+budget available based
+on the priority of the
+project.
+
+Using a Stakeholder meeting
+a small group agrees to the
+commitment based on the
+impact it provides.
+
+RESEARCH S
+Research may help identify
+which accounts are worth
+the increase in resources
+(time and people.)
+
+There may already be users
+that are using the product,
+they often have insights into
+what the measurable impact
+is.
+
+Time
+
+| 46
+
+CS Operating Model - Core Skills
+
+Share a Customer Story
+The goal of this blueprint is to
+provide a framework that you can
+use to tell a story (instead of
+pitching). The use of a customer
+story helps a customer as it
+reﬂects a view from another
+practitioner..
+
+Part 2. Pain, the negative impact of not solving
+the problem or addressing the
+opportunity.
+Part 3. The positive impact of your solution.
+The lows make the highs feel higher, making the
+story more memorable.
+When Marketing operates on the same model,
+the storytelling integrates with Pocket Stores,
+codiﬁed to match this storytelling format.
+
+Proprietary &
+Creative
+Common
+Conﬁdential
+Material- by
+Do not
+Winning
+distribute
+by Design™
+Winning by Design™
+
+The pain the customer
+experienced because of that
+situation
+
+Ca
+
+us
+a
+
+tio
+
+lat
+ion
+.
+
+C
+
+n.
+
+on.
+
+S ITUATION
+
+I
+n.
+latio
+orre
+
+MPACT
+
+When they deployed the
+solution, and the problem
+was solved, share how the
+customer thrived.
+
+Cau
+
+Part 1. The situation makes it relevant to them.
+
+Engagement
+
+For this, we will use a three-part story format in
+which you take your customer down the
+rollercoaster of emotions before describing the
+positive outcome.
+
+Describe a similar situation
+of another customer; use
+the person’s ﬁrst name,
+make it real.
+
+sati
+
+Every great story follows a well-deﬁned
+framework. Explain your customer's challenges,
+and describe the negative impact they
+experienced.
+
+Co
+rre
+
+S6
+
+Share a relevant story
+that resonates with the
+customer’s situation.
+
+P
+
+AIN
+
+What happened when the
+problem remained
+unresolved?
+
+Causation.
+
+I
+
+MPACT
+
+There were negative
+consequences, since no
+action was taken.
+
+Time
+
+| 47
+
+Customer Success
+OPERATING MODEL
+September 2022
+
+Proprietary & Conﬁdential - Do not distribute - Winning by Design™
+
+| 48
+
+

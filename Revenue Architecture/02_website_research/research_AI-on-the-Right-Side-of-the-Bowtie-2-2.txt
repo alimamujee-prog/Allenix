@@ -1,0 +1,1015 @@
+RESEARCH BRIEF
+
+AI ON THE RIGHT
+SIDE OF THE BOWTIE
+UNLOCKING EXPANSION
+REVENUE USING AI
+By David Gordillo and David Ellin, Revenue Architects at Winning by Design
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+AI on the Right Side of the Bowtie:
+Unlocking Expansion Revenue Using AI
+By David Gordillo and David Ellin, Revenue Architects at Winning by Design
+
+Research conducted Q2 2025
+
+Research Abstract
+This brief explores how AI is being deployed across onboarding, adoption, retention, and
+expansion workﬂows, spotlighting 11 vendors validated by WbD for their AI capabilities in
+Customer Success and Account Management. We break down where the market is today,
+how AI helps identify expansion opportunities, and what executives should consider when
+deploying AI across the right side of the bowtie.
+For those looking to implement these approaches, the full version includes a feature-level
+vendor comparison and a ready-to-use RFP template, available to Winning by Design Advisory
+Access subscribers.
+
+CEO Take: Expansion Revenue is an Often Neglected
+(but Powerful) Growth Lever, and AI Might Finally
+Make it Predictable
+If your Ideal Customer Proﬁle (ICP) doesn’t expand by design, then it’s not an ICP.
+If annual recurring revenue (ARR) is over $10M, then expansion is more important to future
+revenue growth than new customer acquisition, yet we often do not treat it that way. Let’s get
+real: If we’re still treating Customer Success like a defensive playbook focused purely on
+retention, we’re missing the bigger picture. Since revenue growth is absolutely crucial to
+shareholder value creation, expansion isn't just a nice-to-have, it must be a primary growth
+focus.
+The accounts that expand are the ones achieving Impact from the solution. For years, the
+smartest minds in our industry have been trying to crack the code of account health scoring,
+believing this could not only predict churn, but also expansion. First we used spreadsheets
+and complex equations, then we went to scoring models and algorithms, and ﬁnally we
+introduced machine learning. But here's the truth: most of those models failed to consistently
+predict churn and expansion. Why? Because they were blind to context.
+
+May 1, 2025
+
+1
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+We’ve tried everything. Product usage can be a lagging indicator, NPS is noisy, and a
+high quantity or frequency of touchpoints from a CSM/AM doesn’t equal progress.
+But now, AI is giving us a shot at redemption. With access to unstructured data like
+call transcripts, stakeholder sentiment, email tone, and stakeholder shifts, it seems
+we will ﬁnally have a chance to see expansion before it happens.
+It’s early days. The models are improving fast, but we’re not ready to declare victory
+yet. What’s clear, though, is that growth-focused companies are shifting their
+post-sale investments from cost-eﬃciency to revenue creation. AI agents that scale
+white-glove service are interesting. But AI agents that uncover the next million-dollar
+expansion? They’re game-changing. Welcome to the future of customer expansion.
+
+Strategic Insights
+Customer Success, Account Management, and post-sales as a whole are undergoing
+a major shift—from protect-and-renew motions to expansion-led growth engines.
+As data complexity increases and headcount stays ﬂat (or shrinks), organizations
+need systems that scale intelligent action. Whether it’s prioritizing accounts using
+growth signals, running onboarding at scale, or generating QBRs automatically—AI is
+now helping post-sales teams move faster, with more precision, and with greater
+revenue impact.
+The best GTM teams are using AI not just to automate tasks, but to generate pipeline
+from the customer base. What previously took a human hours to discover and
+address—or worse yet went completely unnoticed—can now be surfaced in seconds,
+with recommended actions.
+Expansion happens when Impact is understood and ampliﬁed. AI helps us see where
+Impact has already taken root—so we can double down.
+
+May 1, 2025
+
+2
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+Vendors Validated by WbD for this Research Brief
+Countless players are entering the AI-for-CS space. In this brief, we had the
+opportunity to talk with eleven of them and validate their AI capabilities
+(summarised in a Vendor Comparison guide)
+●
+
+ChurnZero - churnzero.com
+
+●
+
+ClientSuccess - clientsuccess.com
+
+●
+
+CoWrkr - mycowrkr.ai
+
+●
+
+Cust - cust.co
+
+●
+
+DIVACS - divacs.com
+
+●
+
+FunnelStory - funnelstory.ai
+
+●
+
+Radiant Point (Sky) - skycs.co
+
+●
+
+Signals AI - getsignals.ai
+
+●
+
+Staircase AI by Gainsight - gainsight.com
+
+●
+
+Sturdy AI - sturdy.ai
+
+●
+
+Totango - totango.com
+
+●
+
+Upollo - upollo.ai
+
+These vendors offer capabilities across:
+
+May 1, 2025
+
+●
+
+AI onboarding
+
+●
+
+Expansion prediction
+
+●
+
+Conversational sentiment analysis
+
+●
+
+Relationship intelligence
+
+●
+
+Value realization tracking
+
+3
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+Jobs to Be Done (JTBD): Where AI Is Driving Value Now
+Job to Be Done
+
+AI in Action
+
+Scaling onboarding
+without more headcount
+
+AI agents guide users step-by-step and accelerate activation
+
+Predicting risk and upsell
+readiness
+
+Models surface churn risks and expansion opportunities in
+real-time
+
+Extracting insight from
+unstructured data
+
+AI parses support tickets, emails, and calls for sentiment and
+intent
+
+Driving expansion through
+Impact realization
+
+Agents track and quantify Impact to justify renewals and upsells
+
+Optimizing CS/AM
+workﬂows
+
+Co-pilots recommend and trigger next-best actions
+
+Maturity Model: Art of the Present
+Stage
+
+Description
+
+Examples
+
+Reactive
+
+Responding to churn with basic health
+indicators
+
+Most Vendors
+
+Proactive
+
+Predictive scoring and play-triggering
+
+Totango, Upollo, Signals AI
+
+Prescriptive
+
+AI recommends targeted actions in real time
+
+ChurnZero, Gainsight, Radiant
+Point (Sky)
+
+Autonomous
+
+AI agents handle full playbooks: onboarding,
+check-ins, renewals
+
+CoWrkr, Cust, FunnelStory
+
+Most CS AI vendors today operate between Reactive and Proactive, but leading
+teams are pushing into Prescriptive territory. The future will increasingly feature
+Autonomous Agents capable of running entire customer success motions.
+
+May 1, 2025
+
+4
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+What Good Looks Like
+Companies that are unlocking expansion with AI today typically share ﬁve core traits:
+1.
+
+Uniﬁed Customer Data Across Product, CRM, Support, and Comms
+What it means:
+Your AI is only as good as the signals it receives. Companies that lead in post-sales AI
+have connected the key systems that capture customer interactions, product usage,
+CRM history, support tickets, call transcripts, and email threads, into a uniﬁed data layer.
+Why it matters:
+AI models need both structured data (like usage metrics) and unstructured data (like
+stakeholder sentiment or feature requests in support tickets) to identify patterns that
+humans miss. Fragmented data creates blind spots, and blind spots kill expansion.
+What to do:
+Start by auditing your existing data ﬂows. Are your product analytics synced to CRM?
+Can your AI tools “read/hear” customer communications?
+
+2.
+
+Deﬁned Jobs To Be Done for CS/AM with Metrics Tied to Revenue
+What it means:
+Top-performing companies deﬁne speciﬁc, measurable outcomes that Customer
+Success and Account Management are responsible for. These JTBD are tied directly to
+expansion, retention, and account growth.
+Why it matters:
+AI needs direction. When teams are aligned around JTBD like “accelerate time-to-value,”
+“validate ﬁrst Impact,” or “capture expansion intent,” AI tools can be trained and
+conﬁgured to optimize for those outcomes, not just for generic engagement.
+What to do:
+Map out your team’s critical workﬂows across the customer lifecycle. For each stage
+(e.g. onboarding, adoption, renewal), deﬁne what success looks like, what leading and
+lagging indicators matter, and what jobs AI could support. Then track against metrics
+like NRR, expansion rate, and onboarding velocity.
+
+May 1, 2025
+
+5
+
+AI on the Right Side of the Bowtie
+
+3.
+
+Winning by Design Proprietary
+
+Commitment to Experimentation: Piloting AI Agents and Playbooks
+What it means:
+These companies run controlled pilots before scaling AI across their entire book of
+business. They test agents, observe how they interact with customers, and measure
+impact at every step.
+Why it matters:
+AI in CS is not plug-and-play. It’s more like managing a new team member—you need
+to train it, give it feedback, and observe how it performs. Experimentation creates a
+low-risk path to high-impact transformation.
+What to do:
+Start with a single use case—onboarding reminders, risk alerts, or follow-up
+summaries. Assign a test group of AMs or CSMs to use the AI co-pilot while others
+serve as a control group. Track leading and intermediate indicators, then iterate
+based on what’s working.
+
+4.
+
+Clear Executive Support for Post-Sale Growth. Not Just Retention
+What it means:
+The C-suite doesn’t see Customer Success as a cost center, they see it as a revenue
+engine. They align incentive structures, resource allocation, and strategic goals
+accordingly.
+Why it matters:
+Without executive buy-in, AI initiatives often stall in the middle. You need leadership
+that’s willing to shift mindsets, reframe metrics, and invest in new capabilities that
+prioritize growth.
+What to do:
+Make the business case for AI in terms executives care about: increased Net
+Revenue Retention, shorter ramp time, or higher expansion velocity. Share early wins
+from pilot projects and demonstrate how AI enables scale without sacriﬁcing impact.
+
+May 1, 2025
+
+6
+
+AI on the Right Side of the Bowtie
+
+5.
+
+Winning by Design Proprietary
+
+Treat AI not as a tool, but as a co-strategist.
+What it means:
+This mindset shift is what separates leading companies from everyone else.
+Instead of seeing AI as a feature, they treat it as a strategic partner that
+brings visibility, decision support, and execution to the table. The best teams
+involve AI in their day-to-day judgment calls, just like they would a trusted
+team lead.
+Example:
+Imagine a CSM preparing for a QBR. Instead of pulling data manually from
+the CRM, they ask their AI co-pilot to summarize:
+●
+
+Account health trends
+
+●
+
+Sentiment from support interactions
+
+●
+
+Unread signals from emails or recorded calls
+
+●
+
+Any recent org changes
+
+In seconds, the co-pilot returns a 360º account brief, surfaces a likely
+expansion path based on feature usage, and suggests a next-best action.
+The CSM adds their strategic perspective and personal context and then
+walks into the QBR with insight, not just intuition.
+What to do:
+Pilot this shift by assigning speciﬁc decisions or workﬂows to an AI partner:
+“Show me which accounts are primed for upsell,” or “Summarize risks in my
+renewals pipeline.” Use the results to build internal conﬁdence.
+
+May 1, 2025
+
+7
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+What to Watch
+We are still early in the AI CS transformation. The foundation is being laid, but the best ideas have
+not all been built yet. Below are the seeds of a vision we hope to see the industry grow into–the
+capabilities and mindsets that could reshape the revenue architecture of modern companies.
+1.
+
+The Rise of AI-Native Post-Sales Platforms
+Today, most AI features are layered onto legacy Customer Success or CRM
+platforms, bolted onto brittle workﬂows that were never designed for dynamic,
+data-driven decision-making.
+Where we are headed:
+We need a new class of platforms designed from the ground up to be AI-ﬁrst. Systems
+that assume AI agents are handling 80% of the volume tasks, and that humans step in
+where strategic context is required. These tools won’t just manage accounts; they’ll
+predict, adapt, and act across every touchpoint in the customer journey.
+Why it matters:
+True AI-native design unlocks automation, scalability, and insight without legacy
+constraints, and that is essential to move Customer Success from a cost center
+to a growth engine.
+
+2.
+
+Better Contextual AI, Tuned to Revenue Reality
+Generic AI isn’t enough. We need contextual AI—LLMs and models that are
+ﬁne-tuned on your product signals, customer personas, business rules, success
+milestones, and commercial objectives.
+Where we are headed:
+AI that understands not just what the customer is doing, but why it matters to
+their expansion potential. AI that can recognize when an onboarding milestone
+correlates with long-term account growth. AI that ﬂags intent before it is expressed.
+Why it matters:
+This is what makes AI truly revenue-relevant. When contextualized correctly,
+AI becomes an insight engine, not just a task executor. It helps prioritize limited
+human bandwidth toward actions that move the revenue needle.
+
+May 1, 2025
+
+8
+
+AI on the Right Side of the Bowtie
+
+3.
+
+Winning by Design Proprietary
+
+Agent Orchestration Across the Entire Lifecycle
+Right now, most AI agents are point solutions: one for onboarding, one for
+renewals, another for product support, etc…
+Where we are headed:
+A future where multiple agents operate in concert, passing off context and
+customer data across stages, from sales handoff to onboarding, from
+adoption to QBRs, from renewal to expansion. We believe the encoding
+language for these handoffs is SPICED (see the WbD Research Brief, AI GTM
+Intelligence.) This is agent choreography: a system where each agent knows
+its role in a broader revenue generation playbook.
+Why it matters:
+Revenue is a lifecycle event, not a series of disconnected moments. Agent
+orchestration ensures continuity of experience, reduces operational drag, and
+creates a compounding effect on value realization.
+
+4.
+
+Human + AI Partnerships That Redeﬁne Post-Sales Work
+The endgame is not automation for automation’s sake, the endgame is
+blended teams. AI handles scale, surfacing, and repetition. Humans focus on
+strategy, relationships, and nuance.
+Where we are headed:
+CSMs and AMs will work like strategy consultants, backed by intelligent
+agents that do the prep, data crunching, and real-time nudging. CSMs won’t be
+judged by how many emails they send, but by how well they direct the
+orchestra of signals and systems around them.
+Why it matters:
+This unlocks the holy grail of revenue architecture: high recurring Impact.
+When human capital is deployed strategically, you create more value with
+fewer touchpoints, and improve customer experience at the same time.
+
+May 1, 2025
+
+9
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+The Future We’re Betting On
+We believe in a world where:
+●
+
+Post-sales teams are measured by revenue outcomes, not task completion
+
+●
+
+AI acts as a signal ampliﬁer, not a blunt force tool
+
+●
+
+Expansion is proactively earned, not passively awaited
+
+●
+
+Human expertise is freed up to build relationships and drive impact, not
+assemble slides or hunt for data
+
+To the builders reading this: we need tools that work like revenue strategists, not
+workﬂow managers.
+To the operators: we need you to challenge the default settings of your CS tech stack.
+To the execs: you now have the opportunity to properly architect the right side of the
+bowtie, not just manage it.
+Let’s build the post-sales systems we wish we had ﬁve years ago.
+
+Practical Insights: Implementation
+Feature Overview by Capability
+Capability
+
+Description
+
+AI Onboarding Assistants
+
+Guide users via email/chat with no CSM involvement
+
+Expansion Prediction Engines
+
+Surface upsell opportunities based on usage + engagement
+
+NLP for Voice-of-Customer
+
+Parse tickets and comms for intent, blockers, and sentiment
+
+Next-Best Action Co-Pilots
+
+Recommend plays based on account data
+
+Value Realization & ROI Agents
+
+Track outcomes and create a proof of value for upsells
+
+More info in the Vendor Comparison Guide.
+
+May 1, 2025
+
+10
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+How to Implement AI on the Right Side of the Bowtie
+Bringing AI into your post-sales motion is not a big bang, it is a thoughtful progression.
+The most successful teams don’t start with the ﬂashiest use case. They start where AI
+can meaningfully reduce human lift or surface signals that would otherwise be lost.
+But implementation isn’t just about wiring tools together. It’s a shift in mindset, design,
+and execution. This section walks through what to focus on across frameworks, people,
+and systems, with guidance to help you feel how this transformation unfolds inside an
+organization.
+1.
+
+Frameworks: Lead with Playbooks, Not Just Platforms
+AI only becomes powerful when it is attached to purpose. That means starting
+not with the tool, but with the job to be done.
+Ask:
+●
+
+What are your core customer workﬂows today: onboarding, QBRs,
+renewals, expansion?
+
+●
+
+Where is human effort highest and insight lowest?
+
+●
+
+What’s reactive? What could become proactive with the right signals?
+
+Most companies don’t have to build new journeys, they just need to map the
+ones they already have and identify where AI could be plugged in.
+Start by drawing your current customer journey. Step by step. Then
+annotate:
+
+May 1, 2025
+
+●
+
+Where is your team spending time?
+
+●
+
+Where are you missing signals?
+
+●
+
+Where do actions get delayed?
+
+11
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+From there, deﬁne your expansion plays:
+●
+
+What triggers them? (e.g. feature usage spike, stakeholder change,
+ROI milestone)
+
+●
+
+What do they require? (e.g. outreach, QBR prep, data validation)
+
+●
+
+Which of those steps could be AI-driven, now or in the future?
+
+It’s okay to start small.
+For example, replace manual onboarding check-ins with an AI agent that:
+●
+
+Greets the customer
+
+●
+
+Tracks milestone progress
+
+●
+
+Flags blocker signals before the ﬁrst CSM call
+
+This not only frees up human bandwidth, it builds conﬁdence that AI can
+perform to standard.
+What to watch for:
+●
+
+Overengineering. Don’t try to automate everything at once. Focus on
+low-complexity, high-impact workﬂows ﬁrst.
+
+●
+
+Blind spots. You may discover that key signals (like feature adoption)
+aren’t actually tracked consistently, this becomes a data hygiene
+opportunity.
+
+May 1, 2025
+
+12
+
+AI on the Right Side of the Bowtie
+
+2.
+
+Winning by Design Proprietary
+
+People: Prepare Your Team for a New Kind of Partnership
+AI doesn’t fully replace a Customer Success team. It redeﬁnes their role. That’s
+a shift that requires both mindset change and skill development.
+CSMs are no longer task executors. They become:
+●
+
+Strategic advisors
+
+●
+
+Relationship builders
+
+●
+
+Insight interpreters
+
+●
+
+Decision validators
+
+The AI is the analyst, researcher, and operations assistant working behind the
+scenes. The human adds context, judgment, and inﬂuence.
+RevOps and CS Ops become the architects of this transformation. They:
+●
+
+Orchestrate systems
+
+●
+
+Deﬁne signal thresholds and triggers
+
+●
+
+Monitor model performance
+
+●
+
+Validate impact with dashboards and revenue metrics
+
+Product and Data Teams need to ensure:
+
+May 1, 2025
+
+●
+
+Product telemetry is ﬂowing and usable
+
+●
+
+Signals are structured in a way that AI models can learn from
+
+●
+
+Event streams are mapped to meaningful milestones
+
+13
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+Leadership must:
+●
+
+Reset success metrics—from activity-based (calls, emails) to
+outcome-based (Time To Impact, expansion lift)
+
+●
+
+Reinforce that AI is here to elevate, not displace
+
+What to watch for:
+●
+
+Trust barriers. CSMs may fear being “replaced” or question the reliability
+of AI-generated insights. Start in co-pilot mode—show them what AI sees,
+and let them choose how to act.
+
+●
+
+Incentive misalignment. If your team is still rewarded for volume (e.g.
+number of touchpoints), they won’t adopt AI that does more with less.
+Align metrics with outcomes.
+
+3.
+
+Systems: Connect Signals, Don’t Just Add Software
+AI without clean, connected data is just guesswork with a cool user experience.
+Before enabling any AI capability, ensure your core systems are integrated and
+reliable.
+Here’s what needs to talk to what:
+
+May 1, 2025
+
+System
+
+Why It Matters
+
+CRM
+
+Provides customer context, segmentation, opportunity stage
+
+Product
+Analytics
+
+Offers behavioral signals, usage milestones, feature activation
+
+Customer
+Comms
+
+Surfaces tone, sentiment, blockers, intent through support and
+conversation data
+
+BI / Data
+Warehouse
+
+Adds revenue context, customer lifecycle stage, and historical
+trends
+
+14
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+This becomes your “Signal Lake,” the centralized source of structured and
+unstructured insight that feeds your AI models.
+From there, your AI systems consume these signals and generate:
+●
+
+Risk alerts
+
+●
+
+Expansion readiness ﬂags
+
+●
+
+Workﬂow triggers
+
+●
+
+Draft outreach messages
+
+●
+
+Prioritized daily task lists
+
+What to watch for:
+●
+
+Signal distortion. If your CRM is outdated or your support tools don’t
+capture data properly, AI insights will suffer. Start by ﬁxing the pipes
+before turning on the engine.
+
+●
+
+Overintegration. Resist the urge to connect every system “just in case.”
+Focus ﬁrst on the minimum viable signal loop for your use case.
+
+Final Word on Implementation
+You can follow this loop:
+1.
+
+Map your journey
+
+2.
+
+Instrument it with meaningful signals
+
+3.
+
+Deploy AI in speciﬁc moments
+
+4.
+
+Measure the result
+
+5.
+
+Expand from what works
+
+Remember that this isn’t just implementation—it’s transformation. It requires buy-in,
+experimentation, and iteration.
+
+May 1, 2025
+
+15
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+Timeline: 12-Month Rollout Roadmap
+Every company’s path is different, but here’s what a typical rollout plan could look like:
+Phase
+
+0–3 Months
+
+3–6 Months
+
+6–12 Months
+
+Focus
+
+Foundation & Pilots Workﬂow
+integration
+
+Orchestrated AI
+expansion
+
+Implementation
+
+Risk scores,
+onboarding
+
+Multi-agent
+automation
+
+Trigger playbooks,
+alerts, ﬂags,
+notiﬁcations
+
+Measurement: What Success Looks Like
+Leading organizations track a range of indicators across three horizons: leading,
+intermediate, and lagging.
+
+May 1, 2025
+
+Indicator Type
+
+Description
+
+Examples
+
+Leading Indicators
+
+Measures of productivity
+and agent activity within
+workﬂows
+
+Number of emails sent
+during handoffs, kickoff
+meetings booked,
+follow-up emails drafted by
+AI agents
+
+Intermediate Indicators
+
+Signals of successful
+workﬂow progress and
+customer momentum
+
+Onboardings completed
+with AI, ﬁrst Impact
+delivered, intent-to-renew
+validated
+
+Lagging Indicators
+
+Revenue-level outcomes
+that reﬂect true business
+impact
+
+Renewal rate increase,
+expansion revenue lift
+
+16
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+Pro tip: To quantify the business value, some organizations adopt an A/B testing
+approach:
+●
+
+One group of AMs or CSMs continues operating with business-as-usual
+workﬂows (control group)
+
+●
+
+A second group leverages AI agents throughout onboarding, adoption, and
+expansion workﬂows
+
+In this setup:
+●
+
+Leading and intermediate indicators show short-term productivity gains and
+improved workﬂow execution
+
+●
+
+Lagging indicators validate long-term impact on revenue, but may take longer
+to reﬂect changes, depending on Time to Impact
+
+This layered approach ensures companies don’t wait 6–12 months to learn whether
+AI is working. Instead, they get early signal clarity from workﬂow adoption
+metrics—while keeping a line of sight to downstream revenue outcomes.
+
+Risks and Considerations
+
+May 1, 2025
+
+Risk
+
+Mitigation Strategy
+
+Poor data quality / silos
+
+Start with integration of key systems
+before applying models
+
+CSM resistance to AI
+
+Begin in co-pilot mode and showcase
+impact
+
+Over-reliance on automation
+
+Blend human + AI touchpoints, especially
+for high-value accounts
+
+Privacy and compliance
+
+Use vendors with masking, SOC 2, and
+controllable LLM logic
+
+17
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+Final Thoughts
+Customer expansion shouldn’t be a guessing game anymore—and AI is the reason why.
+We’re entering a new era where post-sales is no longer reactive, underfunded, or
+disconnected from growth. With the right AI capabilities in place, Customer Success and
+Account Management can become powerful engines of predictable, scalable, and intelligent
+revenue creation.
+The companies that win this decade won’t just retain customers, they’ll grow with them.
+And they’ll do it by giving their teams an unfair advantage: context-rich, signal-driven,
+AI-augmented decision-making, at scale.
+Expansion is the new pipeline. AI is the lens that helps you see it clearly and act on it with
+precision. Now is the time to reimagine what your post-sales team is capable of.
+
+Want to make this happen?
+Book Time with an Advisor
+
+May 1, 2025
+
+18
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+SUPPLEMENTARY MATERIALS
+The following supplementary materials are available in the full version
+of this report, available to subscribers in the reference library. For more
+information on subscribing, see winningbydesign.com/access-pass.
+
+01 Vendor Descriptions
+02 Vendor Comparison
+03 RFP Template
+04 The Customer Success
+Operating Model
+05 Core Elements Across the
+Customer Journey
+
+May 1, 2025
+
+19
+
+AI on the Right Side of the Bowtie
+
+Winning by Design Proprietary
+
+READ OUR OTHER AI AGENT RESEARCH REPORTS
+
+AI AGENTS: RESEARCH ACROSS THE BOWTIE
+
+Like what you read?
+Send to a Colleague
+
+May 1, 2025
+
+20
+
+

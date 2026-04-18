@@ -1,0 +1,342 @@
+BLUEPRINT.
+
+Target Account List Creation
+How to unify your organization around a target account list
+
+Once you have identiﬁed your Ideal Customer Proﬁle, you can
+leverage it to create and operationalize your target account list.
+Selecting the right target accounts is key to the success of your
+account-based strategy (ABS). Your target account list is the list of
+accounts that are most likely to become your next best customers, and
+includes the accounts you will engage using your account-based programs.
+Developing a target account list is an iterative process that will likely
+evolve over time. As you learn more about your ABS strategy and ideal
+customer proﬁle (ICP), you will likely reﬁne and expand your list.
+Building trust in this list across your entire GTM team — including Sales,
+Marketing, and Customer Success — will be critical to getting these
+accounts across the line. Marketing will focus their budget and program
+resources on these accounts, SDRs will focus their time on prospecting
+these accounts, and the Sales team will cultivate relationships within these
+accounts. Transparency and communication are key, so the ﬁrst
+step is to agree on which approach you will take to build your target
+account list.
+
+Approaches to developing a target account list
+1
+
+Named Account List
+For an account based pilot, using the named account list that your
+account executives (AEs) are already leveraging can be a good
+starting point. A seasoned rep who knows the company’s ideal
+customer proﬁle (ICP) or the right “ﬁt” for your organization can
+help you build the foundation for your list.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+1
+
+2
+
+Fit Model
+Accounts that are a “ﬁt” have the same traits and characteristics as
+your current customer base. In this data-driven approach, you would
+model your list using the attributes of your current successful
+customers; other companies that have those “ﬁt” criteria would make
+it onto the list. These criteria might include factors such as company
+size, industry, geography, or number of locations, as well as others
+that are unique to your business, such as key technologies, budget
+size, or department size. Examining these factors and ﬁnding “like”
+accounts will help you zero in on those are that are similar to your
+existing best customers.
+
+3
+
+Adding In-Market Signals
+An ideal account is not only one that is a good ﬁt for your solution; it
+should also be in the market for your solution too. Finding accounts
+that ﬁt your ICP, and are experiencing the pain points you solve for,
+can be key to turning your target account list into active pipeline.
+Use intent-based data from vendors such as Demandbase and
+6Sense, along with customer interaction data from your CRM or
+marketing automation system, to identify accounts that may be
+actively looking for solutions like yours.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+2
+
+ICP attributes and
+Top Segments
+ACCOUNT LIST
+STEP...1
+ANALYSIS
+
+Run attributes
+through data source
+to uncover your
+target accounts
+STEP...2
+Tiering of accounts
+
+QUALIFIED
+ACCOUNTS
+STEP...3
+
+CUSTOMERS
+
+T1
+
+T2
+
+T3
+
+S ituation
+
+Yes
+
+Yes
+
+Yes
+
+P ain
+
+Yes
+
+Yes
+
+I mpact Potential
+
+Likely
+
+C ritical E vent
+
+Yes
+
+Validate accounts
+with key GTM
+Stakeholders
+
+TIERED TARGET
+ACCOUNT LIST
+
+Compelling
+
+Take the following steps to operationalize a target
+account list across your organization:
+STEP 1.1
+Run attributes through your data source to uncover your
+target accounts
+Once you have a clearly deﬁned and documented ICP, run these
+attributes through your data source to ﬁnd more accounts with the
+same proﬁle. Enriching your database with these accounts will ensure
+that you have one source of truth, and that your sales and marketing
+teams are engaging with the right accounts.
+
+TIP: Leveraging data
+sources such as ZoomInfo,
+InsideView, Dun &
+Bradstreet, and Clearbit will
+provide the necessary data
+for this process. For a more
+advanced selection, you can
+also leverage predictive data
+vendors such as 6Sense,
+Demandbase, or LeadSpace,
+for both ﬁt and intent data.
+Many of these technologies
+also allow for an account
+“score”, so you can easily
+prioritize accounts within
+your list.
+
+You may need to use several data sources to enrich your database
+with the level of detail that you need. The data sources that you
+choose will be highly speciﬁc to your ICP.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+3
+
+STEP 1.2
+Tier your accounts
+Within your target account list, not every account will have the
+same level of priority or receive the same treatment from your
+organization. Tiering helps deﬁne how different accounts are treated
+across the bowtie, and helps identify which teams are tasked with
+engaging accounts at what time.
+To determine which tier to assign to each account, create a ﬁt score
+based on your modeled customer data. A ﬁt score is a score given to
+an account to represent the likelihood of becoming a customer, as
+well as the opportunity size of the account. Depending on how you
+deﬁne your ICP, some data providers may be able to provide a ﬁt
+score based on your modeled customer data, or you can create your
+own. Assigning a ﬁt score to each account in your list will help you
+prioritize accounts and tier them out.
+Below are some sample criteria you can use to determine your ﬁt
+score:
+● Market
+● Region
+● Pain
+● Impact
+● Critical Event
+● Role
+● Size
+● Environment
+● Opportunity Size
+A tiered account structure allows you to assign a different level of
+resource allocation for your engagement strategy. With this, your Tier
+1 accounts are the highest priority and receive the most focus, while
+Tier 3 accounts still receive broad air cover from your Marketing
+team. Clearly deﬁned tiers help deﬁne the “swim lanes” for which
+teams will be engaging with which accounts over time.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+4
+
+Real Life Example
+One of our customers, an enterprise video solution, used a tiered target account list
+strategy to deﬁne how each account was treated throughout the sales cycle. Tier 1
+accounts were enterprise accounts engaged with 1-to-1 strategic account programs
+from Account Executives, Tier 2 accounts were pursued with outbound plays from
+Sales Development Reps, and Tier 3 accounts were engaged with more programmatic
+campaigns such as webinars and account-based advertising. This ensured that the
+accounts that had the largest revenue opportunity and the best ﬁt were allocated the
+most resources.
+
+STEP 1.3
+Validate accounts with GTM stakeholders
+When your target account list is ready, the next step is to get buy-in
+and ensure that it is adopted throughout your GTM team. This can be
+accomplished by creating cross-functional ownership across teams.
+Establish the roles of each stakeholder involved in the account
+selection process. These stakeholders will help reﬁne the criteria for
+
+TIP: Include a series of
+reviews, feedback loops, and
+approval points with your
+key stakeholders throughout
+each step. Align on target
+dates to ensure a list is
+operationalized prior to
+rolling out a full
+account-based program.
+
+inclusion on the list, and will start to buy into the process and the
+model of how the list has been built.
+Position
+
+Role
+
+Driver
+
+GTM strategy leader (Marketing and/or Sales Operations leader): Responsible for
+driving the project and providing strategy and insights; these roles are key to data
+insights and account criteria selection
+
+Approvers
+
+CMO/CRO/CEO: Responsible for reviewing and approving the initial target
+account list and quarterly account changes
+
+Contributor
+
+AEs: Involved in manually reviewing the target accounts in their territories
+
+Inﬂuencers
+
+Marketing, Product SDRs, and Sales Management: Will help to maintain the list
+going forward and identify discrepancies
+
+Once you have aligned, approved, and tiered out your target account
+list with your GTM stakeholders, the list is ready to be
+operationalized in your systems.
+Proprietary And Conﬁdential | Winning By Design™
+
+5
+
+STEP 1.4
+Operationalize Across Your Systems
+In order to target, engage, and report on your target accounts, be
+sure that they are easily accessible in your CRM and marketing
+automation platform, as well as any other orchestration systems
+you’re using.
+Make sure that each account indicates whether or not they are a
+target account on the actual account record in your CRM. This way,
+your target account lists, contacts, and reporting are easily
+streamlined and measurable.
+
+TARGET ACCOUNT TIER 01
+
+01
+02
+
+TARGET ACCOUNT TIER 02
+
+TARGET ACCOUNT TIER 03
+
+03
+STEP 1.5
+Review the Target Account List on a Quarterly Basis
+You should maintain your target account list each quarter, but when
+you’re ﬁrst getting started, be sure to give your accounts a chance to
+gain traction before changing course. A best practice is to review
+your target accounts quarterly, and refresh around 20% of your list
+each time. If the list turns over more than that, then it will be difﬁcult
+to track the performance of your success against non-target
+accounts.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+6
+
+Be sure to continually optimize for things such as:
+● AE account selection: Allow AEs to tag accounts they wish to
+exclude and/or include in the next quarterly target account
+review process based on clearly outlined criteria.
+● Market changes: Changes in market dynamics, the competitive
+landscape, or a new feature in your own product may open up a
+greater total addressable market.
+● Performance: If certain segments or customer attributes are
+converting at a substantially higher rate, ensure that you evolve
+your list so that it incorporates those insights and bubbles up the
+accounts that are most likely to convert.
+● Engagement and Intent: If certain accounts have shown high
+levels of buying signals, you may want to prioritize these
+accounts in your tiering process.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+TIP: Don’t over-architect
+your target account selection
+with too much complexity.
+Teams often get stuck here.
+While having a data-driven
+list and solid strategy for
+your selected accounts is
+important, decision makers
+should keep in mind an
+80/20 rule when it comes to
+approving the account list.
+Aligning on a data-driven
+account list is always better
+than each team pursuing
+their own set of accounts in
+silos.
+
+7
+
+ADDITIONAL RESOURCES FROM
+
+Videos available on
+the WbD YouTube Channel
+
+Proprietary And Conﬁdential | Winning By Design™
+
+Additional open source
+templates can be accessed at
+www.thescienceofrevenue.com
+
+8
+
+

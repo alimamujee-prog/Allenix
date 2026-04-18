@@ -1,0 +1,556 @@
+RESEARCH BRIEF
+
+GTM
+INTELLIGENCE
+AGENTS
+By Calvin Boyce, Product Manager at Winning by Design
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+GTM Intelligence Agents
+By Calvin Boyce, Product Manager at Winning by Design
+
+Research conducted Q2 2025
+
+Research Abstract
+Conversational Intelligence is a saturated market with myriad players and good
+existing research that covers features and capabilities broadly. This report dives
+narrowly and deeply into the GTM intelligence aspects of the broader conversational
+intelligence sector, focusing speciﬁcally on GTM Intelligence Agents, who monitor
+all customer conversations and structure information into actions to boost GTM
+performance.
+For those looking to implement these approaches, the full version includes a
+feature-level vendor comparison and a ready-to-use RFP template, available to
+Winning by Design Advisory Access subscribers.
+
+CEO Take
+Conversations with customers are your company’s single most valuable dataset.
+Conversations are where we hear the customer’s voice, and if we’re not using AI to
+learn from and generate action around those conversations, we’re losing crucial
+information, resulting in lower conversion rates, slower sales cycles, and lost
+customers.
+
+Conversations with customers are your
+company’s single most valuable dataset.
+- Jacob Fleisher, Attention
+
+For decades, companies have used methodologies such as BANT, MEDDICC, and
+SPICED to structure customer conversations and preserve deal-level information. In
+the past we relied on manual notetaking processes, and we hoped reps would adopt
+our framework, document results, and effectuate handoffs rich with contextual
+information. Since human follow-through is fraught,
+
+May 1, 2025
+
+1
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+this approach risks losing information at every handoff in the customer journey. At
+best, this results in frustration for the customer. At worst, it prevents us from
+delivering impact. Both of these outcomes result in lower conversion, lower renewal,
+and lower expansion rates.
+GTM intelligence agents join every call and meeting, read every email and Slack
+message, and analyze customers’ thoughts and questions. Today’s GTM intelligence
+agents automatically capture information from calls and emails, ﬁll in CRM, and then
+make themselves available as a thought partner between meetings.
+In an era when every source of growth counts, and customers assume seamless
+information continuity because of experiences with B2C platforms, GTM intelligence
+agents help reps manage with full visibility, deliver seamless experiences for
+customers, and drive higher growth rates via acquisition, retention and expansion.
+Operating without a GTM intelligence agent is like asking your GTM team to dig with
+picks and shovels when an excavator is available. No amount of effort will help them
+be more effective than their competitors until they use the available power tools.
+
+Strategic Insights
+Customer interactions are your company’s most important data, but they’re also the
+least structured. AI is capable of extracting insights from large, unstructured
+datasets, and it is most effective when using a framework to structure the data. This
+is where methodologies come in, and we’ve been using them for decades – at least
+in sales. A methodology like SPICED helps map unstructured conversations across
+several engagements into what matters most to help close a deal. What is the
+Situation in which your customer ﬁnds herself? What Pain is she experiencing?
+What would be the Impact of overcoming that Pain? Is there a Critical Event, by which
+time she needs to have solved this issue? What Decision process will she follow to
+determine her path forward? MEDDIC and other methodologies have similar
+objectives. Methodologies provide a structure to sort information into so we can
+extract insights from an engagement with a customer.
+
+May 1, 2025
+
+2
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+Process ﬁrst; AI Second.
+Winning by Design has conducted research showing that adherence to the SPICED
+methodology increases win-rate by 10%, and quota attainment by 30%. Capturing
+information from our conversations in a structured way drives improved results.
+Once you’ve established a process, AI can take over the manual task of extracting
+insights from customer conversations to ﬁll in the information related to your chosen
+methodology and record that information in your CRM. With GTM intelligence agents
+in place, as soon as a rep completes a call or receives an email, notes are already
+up-to-date and structured in a consistent and repeatable way. AI can also help
+identify when reps aren’t asking the right questions to uncover the appropriate
+information and use that as the basis for coaching opportunities (see Winning by
+Design Research Brief: AI Coaching in Go-to-Market and the Changing Role of the
+Frontline Manager here »).
+Structuring sales data is just the beginning. After $10M in annual recurring revenue
+(ARR), growth switches from being driven primarily by acquisition to being driven by
+retention and expansion. Most revenue is now contributed by the customers we
+already have as they renew and expand their contracts. But pure sales
+methodologies do not reﬂect that. The metrics, pain and decision criteria that we
+identiﬁed with MEDDICC during sales may still be relevant, but the buyer is different,
+the decision process is different, and the champion may be different. Sales
+methodologies themselves improve sales, but that’s only part of the picture. When
+sales operates in a silo and can’t communicate with marketing or customer success
+using a common language around customer impact, the data we collect during sales
+doesn’t translate. We end up with a fragmented system that does not facilitate
+staying power. To further exacerbate the situation, if our data isn’t interoperable,
+adding AI only makes the problem worse.
+
+1
+
+May 1, 2025
+
+based on 100% SPICED completion across 50,000 closed-won or closed-lost opportunities
+
+3
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+Retention
+Outbound
+
+Target
+Sales
+Expansion
+
+Inbound
+
+Onboard
+
+Figure 1. The Ineﬃciency of Siloed Operations, Each with Individualized Processes and Language
+
+This is where SPICED comes in: Situation, Pain, Impact, Critical Event, Decision. The
+SPICED methodology focuses on the customer, not the seller. Accordingly, SPICED
+applies during marketing and sales, but it also translates to customer success where
+most revenue growth originates. SPICED provides a framework and a common
+language for AI to structure customer data across the entire journey and ensure no
+information loss during handoffs.
+Where do handoffs come in, and how does a GTM intelligence agent make a handoff
+more effective? Imagine if the same person responded to an inbound lead, qualiﬁed
+the opportunity, promised impact, closed the deal, onboarded the customer, helped
+them achieve ﬁrst impact, reviewed the impact that was delivered after the ﬁrst year,
+secured the renewal, AND was able to promise more impact in the form of an
+expanded deal. How much smoother would that process be for customers? In this
+scenario, nothing falls through the cracks, because the same person has been with
+the customer from the beginning, they didn’t promise anything they forgot to deliver,
+and they’ve followed through each step of the way. Since this hypothetical situation is
+impossible – we can’t train a single person to do all those jobs – we have a glaring
+need for smooth handoffs and information transfer between customer journey
+stages. With AI and the right framework, we can capture and leverage information
+across the full customer-journey.
+
+May 1, 2025
+
+4
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+Here’s the second major lift of a GTM intelligence agent: by unifying around a
+common language and establishing an operating model in the form of SPICED, we
+can utilize AI to keep track of a company’s situation, the pain they experience, the
+impact we’ve promised and what we’ve delivered so far, their critical events and
+timeline, and their renewal decision. Different people interact with customers at
+different stages of the bowtie, but why not have a single AI agent there for the whole
+process? The agent won’t miss anything and will be able to get any individual up to
+speed on where the customer is at.
+Here are a few use cases for interrogating a GTM intelligence agent. The hypothetical
+company used for this example employs a medium touch GTM motion, including a
+two-stage sales motion and dedicated Customer Success Managers (CSM). They’ve
+hired a GTM intelligence agent named Celeste to help facilitate handoffs:
+
+Role
+
+Situation
+
+Questions for a GTM Intelligence Agent
+
+SDR
+
+I just got a Marketing
+Qualiﬁed Lead (MQL) that I
+need to further qualify for
+sales engagement.
+
+“Hey Celeste, tell me about ACME, do they ﬁt in our ICP?
+Based on their information, what questions should I ask
+them to uncover their pain points?”
+
+AE
+
+I just got a Sales Qualiﬁed
+Lead (SQL) and I need to
+close it
+
+“Hey Celeste, what situation and pain did we uncover
+during discovery? What impact can I promise to drive
+them to make a decision? Are there any open action
+items we haven’t followed up on?”
+
+CSM
+
+I just received a closed deal
+and need to onboard it
+
+“Hey Celeste, what impact did our AE speciﬁcally
+promise during closing? What pain points haven’t been
+addressed that I can ease during onboarding? How can I
+tailor our product to ACME’s situation?”
+
+CSM
+
+I’m performing a Quarterly
+Business Review 3 months
+before renewal
+
+“Hey Celeste, remind me of the impact we promised to
+deliver to ACME? How have our interactions met their
+needs? What further pain points could I lean into to pitch
+a larger deal?”
+
+Exec
+
+I’m the executive sponsor on
+an account, and I’ve been
+asked to join a meeting.
+
+“Hey Celeste, please catch me up on our current status
+at ACME. Tell me who the main champion is, and who
+our detractors are. Based on the most recent meetings,
+tell me what the hottest issues are right now.”
+
+Table 1. Examples of Role-based Inquiries for a GTM Intelligence Agent
+
+May 1, 2025
+
+5
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+Practical Insights
+With the advent of natural language processing, software providers have rushed to
+the opportunity to extract meaningful information from unstructured customer
+conversations. The largest divide in the GTM intelligence market is between “builders”
+and “integrators.”
+Builders focus mainly on building their own platform to organize, host, and
+display GTM intelligence through dashboards and scorecards in their own
+website or app.
+Integrators connect directly to existing systems and customize use cases to
+your business, focusing primarily on presenting data in your CRM, Slack, or
+other channel.
+Most GTM intelligence vendors do both, but they often lean to one side or the other.
+
+GTM Intelligence Builders
+GTM intelligence builders are providing fast implementations with high visibility
+across data, displaying conversational and GTM intelligence in their website and
+platform. Funnel dashboards provide momentum analyses, methodology adherence,
+and risk estimation for all deals at the same time. Deal dashboards provide SPICED
+and other methodology summaries, activity capture/tracking, and link to source
+material in individual meetings and emails. Rep dashboards track
+performance/insights for all reps over time. Video libraries and call recordings are
+often more robust from builders’ platforms and provide more information at a glance.
+These all live in their website or app and require you to learn their platform. Builders
+provide less customization, but their features are more deﬁned than integrators,
+which means you don’t have to spend time deciding what you want out of your data.
+It takes more work to learn a new system, but that system is often very robust and
+includes more information than you knew you needed.
+
+GTM Intelligence Integrators
+GTM intelligence integrators operate under the assumption that you’ll move faster in
+your existing systems by customizing agents and workﬂows into your current
+platforms. Intelligence is
+
+May 1, 2025
+
+6
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+designed to ﬁll existing CRM reports so you spend more time in systems you’re used
+to. Custom agents send reports to Slack channels to summarize common customer
+pain points, product feature requests, how well reps follow through with a new pitch,
+open action items, or competitor mentions. It’s easier to get exactly what you want
+out of the data you have, but you do have to know what you want. You’ll get fewer
+built-in features on a platform to explore, but you’ll have more control over your data
+and where it gets sent.
+
+Claap
+Builders
+
+Integrators
+
+Figure 2. Categorization of GTM Intelligence Agents
+
+Process, Systems, People
+When implementing GTM intelligence, remember the process, systems, and people
+framework. In the past we may have hired rockstar humans to sell our products, and
+they may have brought their favorite processes and methodologies with them. Those
+methodologies were often unique to them, and we may have had multiple people
+running multiple processes. Furthermore, these processes were incompatible with
+the rest of our revenue factory as we scaled.
+Ideally we would want everyone standardized on the same process. This allows us
+to add capacity without adding to confusion. To that end, we must focus on deﬁning
+and installing proven processes ﬁrst, then putting systems in place that reinforce
+those processes, and ﬁnally adding high performers to the mix to maximize your
+investment. This is a process-ﬁrst approach, and this leads to stability and scalability
+within our GTM organization.
+
+May 1, 2025
+
+7
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+designed to ﬁll existing CRM reports so you spend more time in systems you’re used
+to. Custom agents send reports to Slack channels to summarize common customer
+pain points, product feature requests, how well reps follow through with a new pitch,
+open action items, or competitor mentions. It’s easier to get exactly what you want
+out of the data you have, but you do have to know what you want. You’ll get fewer
+built-in features on a platform to explore, but you’ll have more control over your data
+and where it gets sent.
+
+Destabilizes as it grows
+
+Stabilizes as it grows
+
+SYSTEMS & PROCESSES
+PEOPLE
+TECHNOLOGY
+
+PHASE
+SHIFT
+
+TECHNOLOGY
+
+PEOPLE
+SYSTEMS & PROCESSES
+
+Figure 3. Contrast Between a People-First vs. a Process-First Organization
+
+Process
+To capture customer data across the bowtie, we recommend focusing on uncovering
+pain and impact using SPICED as an operating model. If you’re using a framework
+that caters only to sales, you may improve your acquisition. But when most of your
+revenue comes from retention and expansion, you’ll be unable to translate this
+sales-speciﬁc information to the other parts of your organization, designed to deliver
+impact and expand customer relationships. If your GTM intelligence vendor supports
+SPICED, your data will be ideally structured to hand a deal off to customer success
+without losing sight of impact.
+
+May 1, 2025
+
+8
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+S
+SITUATION
+SEQUENTIAL
+
+P
+CUSTOMER
+CENTRIC
+
+PAIN
+
+I
+
+Relevant background facts or circumstances about the
+customer's organization. It includes company size, location,
+number of employees, software used, hiring needs, security
+requirements, maturity level, and revenue goals.
+
+Represents the problem or opportunity the customer is
+facing and for which they require a solution. Pain is often
+initially expressed at a surface level, and a deeper diagnosis
+is needed to uncover the underlying needs.
+
+Speciﬁc outcomes that can be achieved by addressing the
+customer's pain. It encompasses both Emotional Impact,
+
+IMPACT
+
+which relates to individual experiences, and Rational Impact,
+which focuses on the overall beneﬁts for the company.
+
+CE
+
+A deadline or time-sensitive milestone by which the
+
+CAUSAL
+
+CRITICAL
+EVENT
+
+DECISION AS AN
+OUTCOME
+
+D
+DECISION
+
+customer must achieve the desired Impact or face
+negative consequences. Critical events drive behavior,
+inﬂuence actions, expand product usage, renew, and upsell.
+
+The people involved, the decision-making process, and
+the criteria used to evaluate and select the right solution.
+Understanding these aspects is crucial for effectively
+navigating the decision-making journey with the customer.
+
+Systems
+Conversational intelligence is a saturated market, but the subset of GTM intelligence
+is a core value focus for most vendors. Many well-established AI notetakers are now
+realizing the importance of GTM intelligence and improving functionality in this
+space, while newer solutions are developing features with GTM intelligence at the
+core of their product.
+Regardless of the vendor, here are a few key considerations when implementing a
+GTM intelligence agent:
+
+May 1, 2025
+
+9
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+Data sources
+Consider where most of your customer data comes from. Do you have conversations
+over email? Slack? In Zoom, Google Meet, or Teams meetings? How much data is
+already stored in your CRM, and how do you want to read that data? Find a vendor
+that gathers enough data to accurately represent the status of your customers.
+Agentic capabilities
+While some vendors present deal-level information only in dashboards, others have
+created copilots that can talk you through the status of your deals. Many vendors
+draft and send emails for you, or proactively push data into Slack during handoffs.
+Editable AI
+AI does a great job of aggregating your conversations into structured outputs and
+summaries, but it gets this wrong sometimes. Humans should always have the last
+say in data they’re accountable for. How would it affect your workﬂow with a
+particular vendor if their summary is inaccurate and you want to adjust a SPICED
+summary or other CRM notes?
+Data extraction
+How easy is it to get raw data out of the platform you choose? Can you download
+transcripts and meeting recordings? Depending on your use case, it can be important
+to share meeting information in various formats both inside and outside your
+organization. If you want to build your own custom integrations, learn more about API
+access to meeting details.
+
+People
+The GTM intelligence implementation should be owned by Revenue Operations, who
+will be responsible for adoption and training in the solution you choose. It’s also
+important to regularly review how well your GTM intelligence agent represents the
+experiences of your sales and CS reps. AI needs to be managed and coached just like
+a human does. Providing regular feedback to your vendor of choice will ensure your
+AI is working for you as eﬃciently and effectively as possible.
+
+May 1, 2025
+
+10
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+Once your GTM intelligence agent is in place, it can serve as the foundation for
+ongoing deal reviews and coaching. Determine how front-line managers can use
+dashboards, summaries, and key moment markers to review customer engagements
+and coach reps on their ability to reinforce SPICED or whatever other methodology /
+process you are using. AI + human coaching is an ideal way to leverage the capacity
+of your front-line managers. Even more leverage is available if you use AI to do some
+of the coaching independently (see Winning by Design Research Brief: AI Coaching in
+Go-to-Market and the Changing Role of the Frontline Manager here »).
+
+Final Thoughts
+The most important input to growth is the impact our customers experience with our
+product. And the most important information we have about that impact–both
+promised and delivered–is contained in the conversations we have with customers.
+To responsibly manage growth across the bowtie, we must have visibility to
+customer conversations. GTM intelligence agents are the key to gathering and
+organizing information from customer conversations in a way that facilitates
+smoother handoffs, more closed deals, actionable sales and customer success
+trends, and even product feedback.
+If you do not have a GTM intelligence agent working for you right now, run-don’t-walk
+toward solving this. Find a solution that reads as much of your data as possible and
+presents it in the format you prefer. There are plenty of vendors collecting intelligence
+on sales data; fewer vendors are collecting intelligence on customer success, which
+is where most of your revenue is coming from after $10M in revenue. The most
+advanced agents are using SPICED as an operating model to structure GTM
+intelligence across the entire customer journey, from awareness through impact,
+through expansion.
+Winning by Design’s partners, certiﬁed to implement SPICED across the customer
+journey, include: Grain, Momentum, Fathom
+
+Want to make this happen?
+Book Time with an Advisor
+
+May 1, 2025
+
+11
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+SUPPLEMENTARY MATERIALS
+The following supplementary materials are available in the full version
+of this report, available to subscribers in the reference library. For more
+information on subscribing, see winningbydesign.com/access-pass.
+
+01 Vendor Descriptions
+02 Vendor Comparison
+03 RFP Template
+04 SPICED Blueprint
+05 Coaching with Gong Trackers
+06 The GTM Model
+
+May 1, 2025
+
+12
+
+GTM Intelligence Agents
+
+Winning by Design Proprietary
+
+READ OUR OTHER AI AGENT RESEARCH REPORTS
+
+AI AGENTS: RESEARCH ACROSS THE BOWTIE
+
+Like what you read?
+Send to a Colleague
+
+May 1, 2025
+
+13
+
+

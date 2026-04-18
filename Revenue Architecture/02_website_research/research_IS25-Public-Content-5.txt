@@ -1,0 +1,3062 @@
+May 14th, 2025
+
+ACCELERATING
+
+GROWTH
+IN THE AGE OF AI
+
+Winning by Design | San Francisco | CA
+
+Common Rules of Use
+To ensure respectful and consistent use of Winning by Design’s intellectual
+property, we ask that all recipients of this content follow the usage
+guidelines outlined below.
+Always Attribute Appropriately
+When sharing or referencing slides, visuals, or models from this
+presentation, please include attribution for:
+●
+
+Speaker (e.g., Jacco van der Kooij)
+
+●
+
+Company (Winning by Design)
+
+●
+
+Event (Impact Summit 2025, San Francisco)
+
+2. Do Not Alter Without Disclosure
+●
+●
+
+You may adapt or build upon models/frameworks, but you must
+clearly indicate that changes have been made.
+Use language such as: “Based on the Winning by Design [model
+name], with modiﬁcations by [your name/company].”
+
+3. Do Not Share the Deck in Full
+●
+
+Please do not distribute the full presentation without written
+permission from Winning by Design.
+
+●
+
+Select slides or summaries may be shared in internal brieﬁngs or
+private sessions with proper attribution.
+
+Call to Action: Join the Movement
+These insights are part of a larger initiative led by Winning by Design to equip GTM
+leaders for the AI era.
+To access the full body of research, frameworks, and future summits—including
+the online/city-hosted Impact Summit series—we invite you to become a
+member.
+Membership: $30,000/year Includes:
+●
+
+Advisory Access
+
+●
+
+Benchmark Data
+
+●
+
+Proven Frameworks
+
+●
+
+Actionable Insights
+
+●
+
+Executive Summit
+
+●
+
+Growth Playbooks
+
+Join.
+
+To learn more or inquire about membership, contact:
+Shari Johnston – shari@winningbydesign.com
+
+T HANK YOU TO THE ADVISORS
+
+THE EXPERIENCE
+
+Thank You to Our Sponsors
+
+THE FUTURE OF REVENUE GROWTH
+
+GROWTH VELOCITY
+
+GROWTH LOOPS
+
+AI-LED GROWTH
+
+When velocity becomes
+the strategy, systems
+are the solution.
+
+The use of customers
+as your growth
+engine.
+
+The use of AI to
+scale what people
+can’t.
+
+SaaS at a Crossroads
+Challenges of growth & eﬃciency
+and what you can do to adapt.
+
+David Spitz
+CEO, BenchSights
+
+Growth Cut in Half: A Warning Shot for All ScaleUps
+Based on data from 50+ public SaaS ﬁrms
+
+36%
+
+40%
+
+34%
+30%
+
+32%
+
+AI tailwinds have not hit
+yet—old systems are
+still dragging growth
+
+24%
+19%
+
+20%
+
+16%
+10%
+2019
+
+2020
+
+____
+Source: BenchSights N = 52 to 86, depending on year
+
+2021
+
+2022
+
+2023
+
+2024
+
+Lowest in a
+decade and
+declining
+
+Don’t Let Outliers Distort Reality
+Don’t Benchmark Against Anomalies
+
+2023: $1B
+
+2023: N/A
+
+2024: $4B
+
++300%
+
+2024: $100M
+
+2025E: $12B
+
++300%
+
+2025: _____
+
+∞
+
+2022: $175M
+
+2023: $1.7B
+
+2024: $350M +100%
+
+2024: $2.6B +57%
+
+2025E: $570M +65%
+
+2025: _____
+
+____
+Source: The Information. Cursor and Rippling data is based on ARR.
+
+____
+Source: The Information. Cursor and Rippling data is based on ARR.
+
+Capital Is Returned to Earth
+Total Capital Raised by US Startup by Quarter
+funding
+67B Peak
+bubble
+
+$60B
+
+$40B
+
+20B
+
+$20B
+
+Without AI hype the
+funding landscape
+reﬂects stalled growth.
+
+2018
+____
+Source: Carta
+____
+Source: Carta
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+FCF is a Temporary Lifeline Not a Growth Engine
+Median FCF Margins for Public SaaS Companies
+
+18%
+
+20%
+
+Highest in
+a decade.
+
+10%
+A recovery
+from a 1%
+trough late
+2021.
+
+0%
+2019
+
+2020
+
+____
+Source: BenchSights N = 52 to 86, depending on year
+
+2021
+
+2022
+
+2023
+
+2024
+
+Growth is Much More Important for Valuation
+“Rule of 40” adds nothing to the signal
+Growth is doing all the work,
+you can't hack it, it is the
+metric that moves multiples.
+
+EV/ARR
+
+R²=.39
+20x
+
+R²=.40
+
+R²=.51
+
+PREMIUM VALUATION ZONE
+
+10x
+
+Growth vs.
+Valuation
+
+Rule of 40
+Growth + FCF Margin
+
+____
+N=90. Based on prices as of 5/2/25. Source of Multiples and growth: Meritech.
+“Rule of X” based on 2xGrowth+FCF Margin
+
+Rule of X
+2x Growth + FCF Margin
+
+Premium for Growth is as High as Ever
+A step in Growth Rate = Disproportionately higher valuation multiple
+
+EV/ARR
+
+20x
+
+PREMIUM VALUATION ZONE
+
+Growth over 40% earns a
+premium multiple—even
+more if you break 100%.
+
+10x
+
+Growth Rate
+
+____
+White bars based on prices for public SaaS as of 5/2/25 (Source: Meritech, N=90).
+Blue bars are educated guesses based on the private market
+
+explode—as this
+40% Multiples
+kind of growth is scarce.
+
+So What is Holding Growth Back?
+Every problem can be traced back to Market, Product, and GTM
+
+Market
+
+Product
+
+Go To Market
+
+● Saturated Segment
+
+● Loss of PMF
+
+● CAC > Value
+
+● Wrong ICP
+
+● Competition
+
+● GTM Motion Broken
+
+● AI Disruption
+
+● AI Issues
+
+● Misaligned Teams
+
+We are Spending More to Get Less Growth
+But a closer look reveals that cost of Net New ARR has gone up
+Cost of S&M as
+a % of Revenue
+
+40%
+33%
+$1.98
+
+Cost per $1 of
+Net New ARR
+
+$1.24
+2021
+
+____
+Source: BenchSights N = 52 to 86, depending on year
+
+2022
+
+2023
+
+2024
+
+Revenue
+Cost
+of S&M
+as aas
+%
+of%S&M
+a
+of costs
+Revenue
+has dropped.
+
+The cost of net
+new ARR has
+steadily risen.
+
+Net New ARR
+Breaking it down into three key elements
+ACQUISITION
+
+EXPANSION
+
+RETENTION
+
+New Logo Sales
+
+Upsell/Expansion
+
+Churn
+
+ARR Growth Rate
+% $ from New Logos
+
+ARR Growth Rate
+% $ from Base
+NRR
+
+NRR
+GRR
+
+Net New ARR
+Breaking it down into three key elements
+ACQUISITION
+
+EXPANSION
+
+RETENTION
+
+New CAC Ratio
+
+Upsell CAC Ratio
+
+Retention Cost Ratio
+
+S&M for new logos
+
+S&M for Upsells
+
+S&M for Retention*
+
+New Logo ARR
+
+Upsell ARR
+
+Starting ARR
+
+____
+*) Customer Success is usually the bulk of this. Some of these costs may also be in COGS.
+
+Comparing Yourself with the Benchmarks
+What the components of Net New are costing
+
+$2.00
+
+New CAC
+
+$1.66
+$1.32
+
+$1.00
+$0.67
+
+$0.55
+
+2016
+
+2018
+
+2020
+
+2022
+
+____
+Source: 2024 (N=73) from Benchmarkit. 2020 (N=102) and 2017 (N=127) data from KBCM SaaS Surveys.
+
+2024
+
+Upsell CAC
+
+Understand Your Math
+Example dashboard: What you should track
+GROWTH AND RETENTION
+
+____
+Source: Benchsights.com
+
+GTM EFFICIENCY
+
+Understand Your Math
+
+AMOUNT (M$)
+
+Know your metrics: Example (continued)
+
+____
+Source: Benchsights.com
+
+CAC Ratios:
+
+Understand Your Math
+Across the entire Customer Journey
+BOWTIE METRICS (N=593)
+
+____
+Source: Benchsights.com/wbd, n=593
+
+WIN RATE (CR4)
+
+Conclusion
+It’s all about Growth. Fixing GTM is a priority.
+20x
+
+38%
+
+15x
+
+$1.98
+
+11x
+$1.24
+
+1. Growth is more
+valuable than
+ever, but harder
+to generate.
+
+16%
+
+2. Classic GaaC
+playbooks are
+breaking under
+pressure.
+
+3. A metric-driven GTM
+approach that covers all
+parts of the customer
+journey is now essential.
+
+Conclusion
+It’s all about Growth. Fixing GTM is a priority.
+20x
+
+38%
+
+15x
+
+$1.98
+
+11x
+$1.24
+
+1. Growth is more
+valuable than
+ever, but harder
+to generate.
+
+16%
+
+2. Classic GaaC
+playbooks are
+breaking under
+pressure.
+
+3. A metric-driven GTM
+approach that covers all
+parts of the customer
+journey is now essential.
+
+The Data Model (Bowtie)
+It is now a fundamental model to truly understand growth
+
+1
+
+Acquisition
+
+Commit
+
+Retention & Expansion
+
+The funnel stops
+where recurring
+revenue begins
+
+Recurring revenue
+is the result of
+recurring impact
+
+The Data Model (Bowtie)
+
+Lesson Learned #1. Different monetization strategy
+Lesson Learned #2. Make customers part of the GTM motion
+CUSTOMERS
+
+1
+
+Acquisition
+
+Commit
+
+MONETIZATION
+
+Retention & Expansion
+
+The funnel stops
+where recurring
+revenue begins
+
+Recurring revenue
+is the result of
+recurring impact
+
+The Growth Model
+AI-native companies follow the same, albeit accelerated, S-curve
+
+ARR/GTM
+
+Total
+
+OpenAI
+
+Canva
+Cursor
+
+TIME
+
+The Growth Model
+Growth can be sourced to Acquisition, Retention and Expansion
+Total
+
+ARR/GTM
+
+Retention
+
+Expansion
+Acquisition
+TIME
+
+The Growth Model
+
+ARR/GTM
+
+Real World Example [$100M to $1B]
+
+TIME
+
+The Growth Model
+Real World Example [$100M to $1B]
+Acquisition
+
+ARR/GTM
+
+Expansion
+
+Retention
+
+TIME (QUARTERS 2021-2025)
+
+The Growth Model
+Real World Example [$100M to $1B]
+Acquisition
+
+ARR/GTM
+
+Expansion
+
+Allocation of
+
+75%+
+of GTM resources.
+
+Retention
+
+If customers fuel growth,
+why does growth slow
+down as we add more of
+them?
+
+Question:
+If customers fuel growth, then
+why does growth slow down
+when we have more of them?
+Dave Boyce
+
+How you buy?
+
+What do
+you use?
+
+We scaled what we understood
+
+$1M
+
+$10M
+
+$100M
+
+$1B
+
+Classic GTM
+Mostly Acquisition (TOFU) Driven
+
+OUTBOUND
+
+LeadDev
+
+Selling
+
+Commit
+
+Retention
+
+Expansion
+
+CR(n)
+
+CR(n)
+
+INBOUND
+
+CR(n)
+
+CR(n)
+
+Classic GTM
+Different Worlds: Leads, Opportunities and Customers
+
+OUTBOUND
+
+LeadDev
+
+Selling
+
+Commit
+
+Retention
+
+Expansion
+
+INBOUND
+
+Reservoir
+of Leads
+
+Reservoir
+of Customers
+
+Modern GTM
+What we can learn from AI-Native companies
+
+LeadDev
+
+Selling
+
+Reservoir
+of Leads
+
+Commit
+
+Retention
+
+Reservoir
+of Users
+
+Expansion
+
+Reservoir
+of Customers
+
+Modern GTM
+What we can learn from AI-Native companies
+
+● Users not Companies
+● Built-in Targeted Audience
+● Sustainable Growth
+● Immediate Access
+● Augments not Replace
+● Known Campaigns
+
+Modern GTM
+What we can learn from AI-Native companies
+
+k(n)= 1%
+
+1 in a 100 people create
+once a year 1 opportunity.
+
+● Number of users it takes,
+● To refer one opportunity,
+● Per year.
+Not a lead!
+
+Growth Loop: A Closer Look
+1) Dilution Effect: Leads > Customers
+Prospects
+Customer Domain
+Campaigns
+Leads
+
+Oppty’s
+
+Wins
+
+Customers
+
+Classic GTM linear ﬂow
+
+Retention
+
+Expansion
+
+Growth Loop: A Closer Look
+2) Concentration effect: Customers > Users
+Prospects
+Customer Domain
+Campaigns
+Leads
+
+Oppty’s
+
+Wins
+
+Customers
+
+Retention
+
+Expansion
+
+c(n)
+Users
+
+Growth Loop: A Closer Look
+3) Reservoir Effect: Users > Advocates
+Prospects
+
+Campaigns
+Leads
+
+Oppty’s
+
+Wins
+
+Customers
+
+c(n)
+AI-Driven
+Campaigns
+Advocates
+
+Growth Loop: A Closer Look
+4) Fast Track Effect: New Leads & Opportunities
+Prospects
+
+Campaigns
+Leads
+
+Oppty’s
+
+Wins
+
+Customers
+
+c(n)
+Naturally targets ICP
+New leads &
+Opportunities
+
+k(n)
+
+Growth Loop: A Closer Look
+5) Perpetual Effect: Continuous Growth Loop Flow
+
+True Customer value ($) = LTV + Advocacy Impact ($)
+Oppty’s
+
+Growth
+Loop
+
+Wins
+
+Customers
+
+Growth Loop: The Impact [Year 1]
+Lower marketing risk, higher revenue certainty
+Classic GTM
+
+$100M ARR
+SaaS
+
+$50K/deal
+Acq. 20%
+YoY growth
+
+Modern GTM
+20% win rate
+4,500
+leads/month
+5% churn
+
+$20M new acquisition end of year 1
+$289M ARR end of year 4
+Unsustainable cost of acquisition
+
+1,500
+customers
+12 users per
+customer
+19,200 users
+
+1:25 users
+creates opp
+650
+additional
+opportunities
+
+111 extra
+deals
+$6M gain on
+the $20M
+28% new
+acq. gain
+
+$144M ARR year 1, 14% growth improvement
+Lower cost of acquisition
+Lower lead generation risk
+
+Compounding Impact Over Time
+Flywheel effect
+$200M
+
+140%
+
+$100M
+
+70%
+
+50% new ARR gain
+within 3 years
+$0M
+
+2025 2026 2027 2028 2029 2030
+
+2031
+
+2032 2033 2034
+
+ARR Gain [%]
+
+ARR Gain [$]
+
+and …we achieve our 4 year
+goal by the end of year 3.
+A 33% velocity increase.
+
+Lead Volume Pressure in Classic GTM
+High Sensitivity to a Small Improvement in User Activation
+
+Leads/Quarter
+
+20,000
+
+CLASSIC GTM
+
+15,000
+
+10,000
+
+1:100
+5,000
+
+MODERN GTM
+
+z
+
+0
+
+1:50
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+Lead Volume Pressure in Classic GTM
+The difference between Referral and Advocacy is Activation
+
+We won a new customer,
+
+We added 20 new users,
+
+let’s not lose it, and ﬁnd
+
+let’s help them succeed,
+
+another one to win.
+
+and they’ll help us grow.
+
+How to Activate Users
+A combination of PLG, Inbound and Field Sales
+
+1
+
+2
+
+3
+
+Tiered user
+
+Cohort-based
+
+Human-led
+
+ecosystem
+
+campaigns
+
+growth
+
+How to Activate Users
+A new playbook
+
+● User Tiering & Reward System
+
+● Power User Spotlight
+● Customer-driven social threads
+● Usage to Event
+● Peer-led Insights Forum
+● Targeted Community Drop-ins
+AI POWERED
+
+● “Show me your setup” session
+● “Ask a Power User” 1-1 session
+● “Evening with Experts” series
+● “Bring a Colleague” Workshops
+
+Conclusion
+Modern GTM Playbook is the 4th Playbook
+
+PLAYBOOK 1
+
+PLAYBOOK 2
+
+PLAYBOOK 3
+
+Acquisition
+
+Retention
+
+Expansion
+
+PLAYBOOK 4
+
+“User Activated” Pipeline
+
+Thank You to Our Sponsors
+
+Checkout our Research Library
+
+Revenue
+
+Architecture.
+● Advisory Access
+● Benchmark Data
+● Proven Frameworks
+● Actionable Insights
+● Executive Summit
+● Growth Playbooks
+
+r
+ea
+/y
+
+0
+00
+0,
+$3
+
+Join
+.
+Try a sample:
+
+The Science of Building Growth
+
+Growth Guidance
+The End of Guesswork
+
+Certainty is not just a planning outcome,
+it’s the new competitive edge
+
+Dr. Dan
+Patterson
+Chief Innovation Ofﬁcer
+
+We have a Growth Crisis
+We are chasing a deterministic goal with an opportunistic plan
+
+“
+
+78% of sellers
+missed quota last
+year—a 9% increase
+from the year prior*.
+
+____
+*) Ebsta Pavilion 2025 Benchmarks
+**) BenchSights David Spitz
+
+“
+
+Growth has
+slowed to 16%—at
+nearly twice the
+cost**.
+
+We are Not the First
+to Face the Cost of Poor Planning.
+Lessons learned from Mega Construction Projects
+
+77% of all Billion Dollar+ Projects Overrun on Cost*
+Smarter planning—not faster execution—is what reduced cost overrun
+40%
+Cost Overrun
+
+Planning improved while
+execution stayed the same.
+
+12%
+
+Anticipated
+Impact of AI.
+
+Classic 2015
+Risk
+AI
+2025
+Planning
+Adjusted
+Assisted
+Planning
+Planning
+____
+*McKinsey Construction Productivity Imperative Report 2015
+
+HOW
+Optimizing Revenue Growth is No Different to
+Taming Project Cost
+
+Maturity Level
+
+3 Steps
+
+Closed Loop
+Planning
+
+Planning Maturity: A Shift In Growth Planning
+From Forecasting to Precision Planning
+LEVEL 0
+
+LEVEL 1
+
+LEVEL 2
+
+LEVEL 3
+
+LEVEL 4
+
+LEVEL 5
+
+Valuation
+
+Forecasting
+
+Budgeting &
+Planning
+
+Probability
+Modeling
+
+Course
+Correction
+
+Autonomous
+
+INVESTOR
+
+SALES
+
+FINANCE
+
+STRATEGY
+
+OPERATIONS
+
+[AI]
+
+Siloed/Capacity
+models—static,
+not strategic.
+
+Bottom-up
+modeling of
+risk-adjusted
+growth.
+
+Detects drift in
+advance,
+requires manual
+adjustments.
+
+Continuous
+real-time
+correction at
+scale, faster
+than humans.
+
+Targets imposed
+from the top are
+disconnected from
+operations.
+
+Acquisition focus,
+lacks long-range
+strategic
+alignment.
+
+OUR NEXT STEP
+
+CONSTRUCTION
+INDUSTRY
+
+Growth Guidance Step 1
+Determine Our Outcome Certainty
+Revenue Goal
+
+Strategy
+
+GTM Plan
+
+2025
+
+2026
+
+2027
+
+2028
+
+Resources
+
+Inputs
+
+Metrics
+
+Resources
+
+Inputs
+
+Metrics
+
+Resources
+
+Inputs
+
+Metrics
+
+Resources
+
+Inputs
+
+Metrics
+
+Demand-based GTM Plan
+
+Growth Guidance Step 1
+Determine Our Outcome Certainty
+Revenue Goal
+
+Strategy
+
+GTM Outcome
+
+Model what’s achievable,
+based on inputs, metrics, and
+capacity over time.
+P-Value.
+
+2025
+
+2026
+
+2027
+
+2028
+
+Resources
+
+Inputs
+
+Metrics
+
+Resources
+
+Inputs
+
+Metrics
+
+Resources
+
+Inputs
+
+Metrics
+
+Resources
+
+Inputs
+
+Metrics
+
+GTM Plan
+
+Growth Guidance Step 2
+Identify Drivers of Growth Variability
+Resultant Causality
+
+Drivers
+
+GTM Motion
+
+Plan Sensitivity
+
+Which inputs and conditions
+have the highest leverage, to
+adjust the plan proactively.
+
+Growth Guidance Step 3
+Establish our risk-adjusted path
+Strategy
+Risk adjusted outcome within
+our risk tolerance
+
+2025
+
+2026
+
+2027
+
+2028
+
+Resources
+
+Inputs
+
+Metrics
+
+Resources
+
+Inputs
+
+Metrics
+
+Resources
+
+Inputs
+
+Metrics
+
+Resources
+
+Inputs
+
+Metrics
+
+GTM Plan
+
+Closed Loop Planning
+An auto course correcting plan that is supportive of our revenue growth
+Plan
+
+Execution
+
+Top Down
+
+Revenue Growth
+Aspiration
+
+Autonomous
+course
+correction
+
+Bottom Up
+
+Risk-adjusted
+GTM Plan
+
+GTM Guidance Revenue Range
+Factor
+
+PUTTING IT ALL TOGETHER
+
+Autonomous Course Correction
+
+Maturity Level
+
+3 Steps
+
+Closed Loop
+Planning
+
+Autonomous Course Correction
+Dynamic pipeline: variable lead ﬂow rate drives revenue, not volume
+Q3 2024
+
+Q4 2024
+
+OUTPUT
+Revenue
+
+INPUT
+Pipeline
+
+Q1 2025
+
+$
+
+Classic
+Lead Gen
+
+Classic
+Lead Gen
+
+Classic
+Lead Gen
+
+Q2 2025
+
+$
+
+Q3 2025
+
+Q4 2025
+
+$
+
+Classic
+Lead Gen
+
+Growth Loop
+Growth Loop
+
+User Reservoir
+[on-demand contingency]
+
+$
+
+Takeaways from Predictable Growth
+Insight results in higher growth certainty
+
+Velocity
+
+Growth Loops
+
+AI
+
+..increases due to
+autonomous
+course correction
+
+..de-risks lead
+responsibility
+and uplift wins
+
+..drives realism
+into riskadjusted plans
+
+We ﬁxed Cost in Construction,
+now let’s ﬁx Revenue Growth.
+The order of magnitude was greater in construction
+
+Checkout our Research Library
+
+Revenue
+
+Architecture.
+● Advisory Access
+● Benchmark Data
+● Proven Frameworks
+● Actionable Insights
+● Executive Summit
+● Growth Playbooks
+
+r
+ea
+/y
+
+0
+00
+0,
+$3
+
+Join
+.
+Try a sample:
+
+The Science of Building Growth
+
+AI Readiness Workshop
+
+Shari Johnston
+Chief Operating Ofﬁcer
+
+Real World Examples Across The Bowtie
+
+Dan Smith
+Chief Learning Ofﬁcer
+
+AGENDA
+1
+
+AI Archetypes
+
+2
+
+Case Studies
+
+3
+
+Actionable Next Steps
+
+Stated Top Adoption Issues
+(In Order)
+
+INCREASE IN AI INVESTMENT
+No Change
+
+1. Budget constraints
+
+11%
+
+Lack of budgets is slowing down AI adoption.
+
+2. Lack of internal expertise
+Teams lack the skills and training to effectively leverage AI.
+
+3. System integration difﬁculties
+Organizations struggle to integrate AI tools seamlessly with
+existing workﬂows and CRM systems.
+
+4. Data quality issues
+Inconsistent or incomplete data reduces AI effectiveness.
+
+5. Unclear ROI
+Challenges in quantifying the tangible returns from AI
+investments hinder obtaining commitment from the
+stakeholders within the company.
+
+____
+*WbD AI-Led GTM Growth Survey, conducted in April 2025
+
+39%
+
+Signiﬁcantly
+
+50%
+Moderately
+
+AI investment is not slowing—it’s accelerating
+to become part of the DNA of GTM strategy.
+
+AI GTM Archetypes
+Framework for Getting Started
+
+AI Assistive
+
+Agentic
+
+Orchestrative
+
+Autonomous
+
+Empower individuals
+by closing skill gaps,
+automating repetitive
+tasks, and speeding up
+research through
+AI-powered tools.
+
+Systematically transition
+lower-complexity,
+high-volume human
+tasks to AI agents while
+maintaining or improving
+performance.
+
+Integrate AI across
+multiple functions and
+stages of the GTM
+process to ensure
+smooth, optimized, and
+consistent workﬂows.
+
+Enable AI systems to
+make decisions
+independently within
+human-set boundaries,
+frameworks, and
+objectives.
+
+AI GTM Archetypes
+Framework for Getting Started
+
+Use cases
+
+Key
+considerations
+
+AI Assistive
+
+Agentic
+
+Orchestrated
+
+Autonomous
+
+Empower individuals by automating
+repetitive tasks, speeding up
+research, and closing skill gaps
+through AI-powered tools.
+
+Systematically transition
+lower-complexity, high-volume human
+tasks to AI agents while maintaining or
+improving performance.
+
+Integrate AI across multiple functions
+and stages of the GTM process to ensure
+smooth, optimized, and consistent
+workﬂows.
+
+Enable AI systems to make decisions
+independently within human-set
+boundaries, frameworks, and
+objectives.
+
+Account research
+and lead
+intelligence
+gathering
+
+Content creation
+and messaging
+personalization
+
+AI SDRs (Sales
+Development Reps)
+for outbound
+prospecting
+
+Ideal Customer
+Proﬁle (ICP)
+analysis and
+segmentation
+
+Marketing
+campaign
+generation and
+optimization
+
+AI-powered CS
+(Customer Success)
+chatbots for ticket
+deﬂection
+
+Automated
+meeting notetaking and
+summarizing
+
+Project
+management task
+automation
+
+★
+
+Tool access, team training,
+security, reinforcement.
+
+★
+
+Prompt engineering
+
+★
+
+Cross sharing and top down
+support
+
+AI onboarding
+agents for
+customer setup
+and FAQ handling
+
+★
+
+Deﬁne job descriptions,
+performance goals, enablement
+cycles, and feedback loops.
+
+★
+
+Continuous training and
+enablement
+
+AI-driven lead-tocustomer journey
+management
+
+Automatic task
+routing and
+prioritization based
+on account scoring
+
+Intelligent revenue
+forecasting and
+pipeline
+management
+
+Marketing-to- sales
+alignment through
+real- time campaign
+insights
+
+Fully autonomous
+revenue teams
+(sales, marketing,
+success) operating
+on set targets
+
+AI systems selfadjusting GTM
+strategies based on
+market signals
+without human
+prompts
+
+★
+
+Integration with existing tech stack
+(CRM, ERP, CPQ systems)
+
+★
+
+Framework design and guardrail
+enforcement
+
+★
+
+Central governance of data sources
+and process ﬂows
+
+★
+
+Exception handling protocols for
+edge cases.
+
+★
+
+Change management and
+executive sponsorship
+
+Harnessing AI prospecting tools
+to save time and grow pipeline
+
+SAVING REPS
+
+2–5
+HOURS / WEEK
+
+USER
+ENGAGEMENT
+
+Mural integrated PocusAI
+Prospecting to combine
+internal and external signals
+for outreach, saving reps
+hours per week.
+Chris Geraci
+Mural
+
+AI tech used: PocusAI Prospecting
+
+| 73
+
+Hiring an AI agent to handle
+a wealth of inbound leads
+
+3x
+
+2x
+
+24/7
+
+MEETINGS
+BOOKED
+
+QUALIFIED
+OPPORTUNITIES
+
+LEAD
+ENGAGEMENT
+
+50% LOWER COST PER
+MEETING
+
+PASSED TO SALES TEAMS
+
+NO PROSPECTS LEFT
+UNATTENDED
+
+SafetyCulture used custom
+AI agents to improve lead
+management, increasing
+qualiﬁed opportunities
+Jon Teo
+SafetyCulture
+
+AI tech used: Custom AI agents
+
+| 74
+
+AI agents to improve preand post-event experience
+
+REGISTER
+
+REGISTRATION
+
+NAVIGATION
+
+POST-EVENT
+FOLLOW-UP
+
+Domo leveraged AI to
+drive event engagement,
+driving deeper postevent conversations
+with prospects.
+Mark Boothe
+Domo
+
+AI tech used: Signals voice agents, AI helpdesk
+
+| 75
+
+Getting Started–Assistive
+AI Readiness Planning Worksheet
+Planning Area
+
+Notes / Team Input
+
+Key Bottlenecks to Solve
+
+What recurring tasks or processes are inefficient or time-consuming?
+
+Skills Gaps Identiﬁed
+
+Where do individuals or teams need support (e.g. writing, research, data analysis)?
+
+Initial Use Cases
+
+What tools or AI assistants could help today? List 2–3 (e.g., ChatGPT for writing, Apollo for
+research).
+
+Data/Tool Access Needs
+
+What access or licenses are needed for tools to be effective across the team?
+
+Security & Compliance Concerns
+
+What guardrails or approvals are needed before using tools?
+
+Success Metrics
+
+How will we measure success (e.g., time saved, output quality, team feedback)?
+
+Owner & Timeline
+
+Who is leading, and what are the next steps?
+
+Getting Started–Agentic
+AI Readiness Planning Worksheet
+Planning Area
+
+Notes / Team Input
+
+Candidates for Automation
+
+What roles/tasks can be enhanced.replaced (e.g., call summaries, onboarding checklists)?
+
+Entry Point Tools or Technologies
+
+What AI platforms can be tested in tandem with human reps (e.g., call coaching tools like Gong
+or Avoma)?
+
+Role & Goal Design
+
+What would an AI “job description” look like? What success criteria would it be held to?
+
+Process & Workﬂow Design
+
+How well are processes documented? How will AI integrate into current workﬂows?
+
+ICP, Product and Use Case
+Documentation
+
+How well is our ICP documented? The job to be done? Expected Pain and rational / emotional
+Impact? Our product features and beneﬁts that deliver Impact?
+
+Enablement & Iteration Plan
+
+How will the AI system be trained, monitored, and improved over time?
+
+Change Management
+
+How will this be communicated to teams? What support is needed?
+
+Owner & Timeline
+
+Who is leading this and what are the next steps?
+
+Checkout our Research Library
+
+Revenue
+
+Architecture.
+● Advisory Access
+● Benchmark Data
+● Proven Frameworks
+● Actionable Insights
+● Executive Summit
+● Growth Playbooks
+
+r
+ea
+/y
+
+0
+00
+0,
+$3
+
+Join
+.
+Try a sample:
+
+The Science of Building Growth
+
+[AI]
+
+on the Left Side of the Bowtie
+
+Jim Hopkins
+Revenue Architect
+
+AI Research Across The Entire Customer Journey
+Marketing
+
+SDRs
+Inbound
+
+Solution
+Engineers
+
+Awareness
+
+Education
+
+Selection
+
+Messaging & Content
+
+Customer Success
+and Expansion
+
+Mutual
+Commit
+
+Onboarding
+
+Retention
+
+Pipeline
+Management
+GTM Intelligence | GTM Coaching | Growth Guidance Systems
+
+Expansion
+
+Marketing: Messaging & Content
+My playbook for generating demand is stale,
+ineffective, and expensive. Help me create
+messaging and content that’s cheaper, more
+personalized, and creates more, better pipeline.
+thinking…
+Here
+you go… Enjoy:
+💰 90-95% reduction in costs
+🤝 40% improvement in conversions
+🧰 Assistive: 3-5x pipeline
+🎻 Orchestrated: 5-10x pipeline
+
+SDRs: Inbound
+Lead to Pipeline conversion rates are lagging, and
+SDRs are expensive to hire and train. Help me ﬁnd
+SDRs that can respond to each inbound lead within
+minutes, and have deep knowledge about the
+customer and our product/company.
+Here
+you go… Enjoy:
+thinking…
+⌚ Unlimited availability & scalability
+💰 80% cost reduction
+🤝 30% improvement in conversions
+🏇 100x speed to lead
+
+SHOW & TELL
+
+powered by
+
+Solution Engineers
+My pre-sales SEs are stretched thin and burnt
+out. Help me remove bottlenecks from the buying
+experience, while making my SEs and sellers more
+efﬁcient and focused on high value tasks.
+thinking…
+Here
+you go… Enjoy:
+⏩ 20-30% faster sales cycles
+🤖 40-60% of tasks automated
+🏆 Higher win rates
+
+SHOW & TELL
+
+powered by
+
+Pipeline Management
+Our pipeline visibility and forecasts are full of
+human error, personal bias, and wishful thinking.
+Help me better monitor true customer signals to
+have a better handle on the business.
+thinking…
+Here
+you go… Enjoy:
+⌚ 1000+ hours / year saved in seller time
+💰 2-3x increase in pipeline
+🤝 15-25% improvement in win rate
+
+GTM Coaching
+My frontline managers are struggling to measurably
+improve productivity and performance of my GTM
+team. Help me implement skill and deal coaching that
+improves performance, without burdening managers.
+thinking…
+Here
+you go… Enjoy:
+⏩ 11% shorter sales cycles
+🏆 21% increase in win rates
+💵 16% increase in ARR/rep
+
+SHOW & TELL
+
+powered by
+
+GTM Intelligence
+The info I have, and can access, about customers is
+incomplete, outdated, or missing. Help my GTM teams
+better gather and organize info to be intelligent about
+customer relationships across their journey.
+thinking…
+Here
+you go… Enjoy:
+🏆 50-80% increase in win rates from
+better prioritization of top deals, and
+timely follow-through with to-do’s
+
+Key Takeaways on Growth
+
+Growth Velocity
+
+Growth Loops
+
+AI-led Growth
+
+Fantastic future
+for the industry
+as a whole.
+
+There’s proof this
+can impact real
+GTM metrics.
+
+Immediate
+relief in AI
+assistance
+
+Checkout our Research Library
+
+Revenue
+
+Architecture.
+● Advisory Access
+● Benchmark Data
+● Proven Frameworks
+● Actionable Insights
+● Executive Summit
+● Growth Playbooks
+
+r
+ea
+/y
+
+0
+00
+0,
+$3
+
+Join
+.
+Try a sample:
+
+The Science of Building Growth
+
+[AI]
+
+David Ellin
+Revenue Architect
+
+on the Right Side of the Bowtie
+
+Unlocking Expansion Revenue using AI
+
+David Gordilla
+Revenue Architect
+London Based
+
+“
+
+If your Ideal Customer
+Proﬁle doesn’t expand by
+design, then it’s not an ICP.
+David Gordillo and David Ellin
+
+AGENDA
+1
+
+Expansion led-growth
+
+2
+
+What Good Looks Like
+
+3
+
+Implementing AI
+
+Expansion-led Growth
+
+Awareness
+
+Education
+
+Selection
+
+Mutual
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+Expansion as a primary revenue driver
+WbD Growth Model: The 12 Revenue Breakpoints
+
+2
+
+1
+
+1
+
+3
+
+Durability
+
+Interoperability
+
+Scalability (throughput)
+
+Sustainability
+
+Scalability (inputs)
+
+Growth Formula
+
+Repeatable Process
+
+GTM Model
+
+Data Model & Structure
+
+10
+
+Founder-Led Growth
+
+100
+
+Pricing & Packaging
+
+ARR/GTM [ mUSD ]
+
+1,000
+
+Proﬁtability
+
+Three types of revenue
+●
+
+Acquisition
+
+●
+
+Renewal
+
+12
+
+●
+
+Expansion
+
+11
+
+10
+
+9
+
+6
+
+● Churn reduction creates the
+potential for expansion
+
+Proven
+process
+
+● Expansion prediction engines
+based on previously
+unavailable insights
+
+8
+
+7
+
+5
+4
+
+Unrepeatable
+process
+
+Time [Years]
+
+Disciplined
+execution
+
+Revenue
+Factory
+
+● Expansion plays - next-best
+actions
+
+What Great Looks Like
+
+Creating a sustainable AI use case
+Today’s challenge is tomorrow’s key to growth
+PAST
+
+PRESENT
+
+Human-led growth
+
+AI-led growth
+
+FUTURE
+
+Scalability & Strategic Operation
+
+FIVE CORE TRAITS
+
+Jobs To Be
+Done
+(JTBD)
+
+Uniﬁed
+Structured &
+Unstructured
+Customer
+Data
+
+AI as a
+Co-Strate
+gist- not
+just a tool
+
+Commit to
+Experiment
+
+Clear
+Executive
+Support
+
+Revenue KPIs
+vs
+Task
+Completion
+
+Proactive
+Expansion
+
+AI as a
+Signal
+Ampliﬁer
+
+Humans build
+relationships
+and drive
+Impact
+
+ation
+
+Sample Use-Cases
+Augment CSM & AM skills
+Priority
+
+ASSISTIVE AI
+
+IMPACT
+
+Serve up enablement content
+Surface risk; create summaries
+
+● Lower Cost To Serve (CTS)
+
+Prioritized next best actions
+
+● Identify churn risk sooner
+● Prioritize accounts and tasks
+
+Selection
+
+Mutual
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+● Accelerate growth
+● Increase CSM/AM Customer Ratio
+● Surface previously unrecognized opportunities
+
+Human-free engagement
+
+AGENTIC AI
+
+Write emails-Create reports-build decks
+Execute tasks, plays, full playbooks
+
+Implementing [AI]
+
+Strategic Implementation of AI
+
+PEOPLE
+
+Human + AI relationships will
+redeﬁne roles
+
+SYSTEMS
+
+Connect Signals, don’t just
+add software.
+
+FRAMEWORKS
+
+Lead with Playbooks (JTBD),
+not platforms
+
+Strategic Implementation of AI
+●
+
+Start small with a Minimum Viable Signal loop
+
+●
+
+Map your journey
+
+●
+
+Identify meaningful signals
+
+●
+
+Deploy AI in speciﬁc moments
+
+●
+
+Measure results
+
+●
+
+Expand from what works
+
+Checkout our Research Library
+
+Revenue
+
+Architecture.
+● Advisory Access
+● Benchmark Data
+● Proven Frameworks
+● Actionable Insights
+● Executive Summit
+● Growth Playbooks
+
+r
+ea
+/y
+
+0
+00
+0,
+$3
+
+Join
+.
+Try a sample:
+
+The Science of Building Growth
+
+Build Your
+
+2025 AI
+
+David Boyce
+Chairman WbD
+
+GTM Strategy
+Unlocking Expansion Revenue using AI
+
+z
+
+Walter Velazquez
+Revenue Architect
+
+Roadmap To Growth Architecture
+Growth Model
+
+GTM Model
+
+Data Model
+
+AI Archetypes
+
+Growth Model
+Proﬁtability
+
+12 Revenue Breakpoints
+
+4
+
+3
+
+2
+
+SEED
+
+STAGE
+
+S
+
+A
+
+MATURITY
+
+MVP
+
+PMF
+
+B
+Scalable
+
+Durability
+
+Interoperability
+
+12
+
+Users [#]
+2M
+
+11
+
+10
+
+200k
+
+9
+
+8
+
+20k
+
+7
+
+5
+
+2,000
+Scale the
+Operation
+
+Disciplined
+execution
+
+Quality
+Compliance
+
+Time
+[Years] D
+C
+GTMF
+
+Sustainable
+
+200
+
+GROWNUP
+
+SCALEUP
+
+STARTUP
+
+FUNDING
+
+Productivity
+
+Sustainability
+
+Growth Velocity
+
+Growth Formula
+6
+
+Playbook
+& Training
+
+1
+
+1
+
+Repeatable Process
+
+GTM Model
+
+Data Model & Structure
+
+10
+
+Founder-Led Growth
+
+100
+
+Pricing & Packaging
+
+ARR/GTM [mUSD]
+
+1,000
+
+IPO
+
+E
+Durable
+
+GTM Model
+Common GTM Motions
+NO
+TOUCH
+
+Number of customers
+served/year
+
+100,000s
+
+LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+DEDICATED
+TOUCH
+
+HIGH
+TOUCH
+
+Self Serve
+Inbound
+
+10,000s
+
+Community
+
+1-Stage
+Helpdesk
+
+2-Stage
+
+1,000s
+
+Outbound
+Volume
+
+Field Sales
+Target
+
+100s
+
+Segment
+
+Named Accts
+
+10s
+
+Network
+Accounts
+
+0
+
+$1,000
+
+$10,000
+
+$100,000
+
+First Year Revenue
+
+$1,000,000
+
+$10,000,000
+
+Data Model
+
+AWARENESS
+
+EDUCATION
+
+CR1
+
+CR2
+
+PRIORITIZE
+
+Full Customer Journey
+
+SELECTION
+
+CR3
+
+CR4
+
+MUTUAL
+COMMIT
+
+ONBOARDING
+
+RETENTION
+
+EXPANSION
+
+CR5
+
+CR6
+
+CR7
+
+CR8
+
+AI Archetypes
+AI Assistive
+
+Agentic
+
+Orchestrated
+
+Autonomous
+
+Empower individuals by automating
+repetitive tasks, speeding up
+research, and closing skill gaps
+through AI-powered tools.
+
+Systematically transition
+lower-complexity, high-volume human
+tasks to AI agents while maintaining or
+improving performance.
+
+Integrate AI across multiple functions
+and stages of the GTM process to
+ensure smooth, optimized, and
+consistent workﬂows.
+
+Enable AI systems to make decisions
+independently within human-set
+boundaries, frameworks, and
+objectives.
+
+Account
+research and
+lead intelligence
+gathering
+
+Content creation
+and messaging
+personalization
+
+AI SDRs (Sales
+Development Reps)
+for outbound
+prospecting
+
+Ideal Customer
+Proﬁle (ICP)
+analysis and
+segmentation
+
+Marketing
+campaign
+generation and
+optimization
+
+AI-powered CS
+(Customer
+Success) chatbots
+for ticket deﬂection
+
+Automated
+meeting notetaking and
+summarizing
+
+Project
+management
+task automation
+
+★
+
+Tool access, team training,
+security, reinforcement.
+
+★
+
+Prompt engineering
+
+★
+
+Cross sharing and top down
+support
+
+AI onboarding
+agents for
+customer setup
+and FAQ handling
+
+★
+
+Deﬁne job descriptions,
+performance goals, enablement
+cycles, and feedback loops.
+
+★
+
+Continuous training and
+enablement
+
+AI-driven lead-tocustomer journey
+management
+
+Automatic task
+routing and
+prioritization
+based on account
+scoring
+
+Intelligent revenue
+forecasting and
+pipeline
+management
+
+Marketing-tosales alignment
+through real- time
+campaign
+insights
+
+Fully autonomous
+revenue teams
+(sales, marketing,
+success)
+operating on set
+targets
+
+AI systems selfadjusting GTM
+strategies based
+on market signals
+without human
+prompts
+
+★
+
+Integration with existing tech
+stack (CRM, ERP, CPQ systems)
+
+★
+
+Framework design and guardrail
+enforcement
+
+★
+
+Central governance of data
+sources and process ﬂows
+
+★
+
+Exception handling protocols for
+edge cases.
+
+★
+
+Change management and
+executive sponsorship
+
+AI-led Growth Guided Pathway
+
+3
+2
+
+4
+
+5
+
+6
+
+7
+
+AILG Deploy: Hire, Onboard, Train, Manage, Coach
+AILG
+Design
+
+1
+AILG
+Diagnose
+
+Iterate for Impact
+
+WbD Reference Library and Advisory Access
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+Months
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+Checkout our Research Library
+
+Revenue
+
+Architecture.
+● Advisory Access
+● Benchmark Data
+● Proven Frameworks
+● Actionable Insights
+● Executive Summit
+● Growth Playbooks
+
+r
+ea
+/y
+
+0
+00
+0,
+$3
+
+Join
+.
+Try a sample:
+
+The Science of Building Growth
+
+May 2025
+
+[AI] Awards
+
+[AI] Awards
+
+Excellence in
+AI-Powered Marketing
+
+May 2025
+
+[AI] Awards
+
+May 2025
+
+Excellence in AI-Powered Marketing
+
+Kevin White
+
+Leigh Choate
+
+Jon Teo
+
+[AI] Awards
+
+AI-Innovation in
+Sales
+
+May 2025
+
+[AI] Awards
+
+May 2025
+
+AI-Innovation in Sales
+
+Chris
+Geraci
+
+Manny
+Adelstein
+
+Frank
+van der Vinden
+
+Neda
+Stoll
+
+[AI] Awards
+
+AI-Transformation in
+Customer Success
+
+May 2025
+
+[AI] Awards
+
+May 2025
+
+AI Transformation in Customer Success
+
+Bruno Radice
+
+Michael Davis
+
+Manu Narayan
+
+[AI] Awards
+
+RevOps
+AI Excellence
+
+May 2025
+
+[AI] Awards
+
+May 2025
+
+RevOps AI Excellence
+
+Idit
+Bar-Netz
+
+Nathaniel
+Sintros
+
+Osman
+Sheikhnureldin
+
+[AI] Awards
+
+AI-Innovation in
+Go To Market
+Excellence
+
+May 2025
+
+[AI] Awards
+
+May 2025
+
+AI Innovation in Go To Market Excellence
+
+Jessica Chiew
+
+Omar Chanoua
+
+Kyle Norton
+
+The Future of Revenue Growth.
+
+Growth Velocity
+
+Growth Loops
+
+Ai-Led Growth
+
+Thank You
+
+You.
+
+Checkout our Research Library
+
+Revenue
+
+Architecture.
+● Advisory Access
+● Benchmark Data
+● Proven Frameworks
+● Actionable Insights
+● Executive Summit
+● Growth Playbooks
+
+r
+ea
+/y
+
+0
+00
+0,
+$3
+
+Join
+.
+Try a sample:
+
+The Science of Building Growth
+
+

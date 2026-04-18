@@ -1,0 +1,16416 @@
+REVENUE
+ARCHITECTURE
+VISUAL GUIDE
+TO THE AUDIOBOOK
+
+JACCO VAN DER KOOIJ
+FIRST EDITION
+
+01
+INTRODUCTION
+
+The explosive growth of communication applications in B2B during the pandemic
+reﬂected by the rise in the number of Zoom customers with more than 10 employees.
+
+Customers (>10 seats)
+
+FIGURE 1.1
+
+FIGURE 1.2
+
+The 2020
+Pandemic
+
+The term “SaaS” means different things to different people.
+
+DELIVERY MODEL
+
+BUSINESS MODEL
+
+PAYMENT STRUCTURE
+
+Hosted in the cloud
+
+A subscription or a
+consumption service
+
+Recurring revenue
+
+SaaS
+
+SUBSCRIBE
+
+$
+
+3
+
+FIGURE 1.3
+
+Performance of SaaS companies over time, normalized against January 2012 by SaaS
+Capital Index®.
+
+THE GOLDEN ERA.
+1200%
+
+THE
+SAAS
+CRASH
+
+800%
+
+400%
+
+0%
+
+2012
+
+FIGURE 1.4
+
+Time (years)
+
+PANDEMIC
+
+2023
+
+The 4th Industrial Revolution is marked by cloud computing, machine learning, and AI.
+
+THE LEAP WE
+ARE MAKING
+
+FACTORY 1.0
+
+FACTORY 2.0
+
+FACTORY 3.0
+
+FACTORY 4.0
+
+MECHANIZATION
+
+ELECTRIFICATION
+
+AUTOMATION
+
+CYBER-PHYSICAL
+
+Introduction of power
+by water and steam to
+mechanize labor.
+
+Mass production
+through assembly
+lines using electrical
+power.
+
+Use of networks,
+computers, and
+robotics to automate
+production.
+
+Use of cyber-physical
+systems, cloud
+computing, machine
+learning, and AI.
+
+CHAPTER 01 | INTRODUCTION
+
+FIGURE 1.5
+
+A subscription business operates like a revenue factory with a number of production
+lines (GTM motions). Each production line signiﬁes a different revenue stream,
+characterized by speciﬁc growth metrics and cost structures.
+
+REVENUE FACTORY
+
+PRODUCTION LINES
+
+REVENUE PRODUCTION
+
+GTM Motion A
+ARR (A)
+
+GTM Motion B
+ARR (B)
+Deliver a quality product
+that produces revenue growth
+
+GTM Motion C
+
+in a cost-eﬃcient way
+
+FIGURE 1.6
+
+ARR (C)
+
+Today, recurring revenue businesses operate in silos, in which each department focuses
+on its own objectives. A GTM approach breaks down these silos and emphasizes
+cross-functional collaboration and alignment across departments.
+
+Department 1
+
+Department 2
+
+Department 3
+
+Marketing
+
+Sales
+
+Customer
+Success
+GTM
+APPROACH
+
+DEPARTMENTAL
+APPROACH
+
+5
+
+FIGURE 1.7
+
+The median headcount by fundraising stage was recorded by Carta in 2021. It shows
+the 10x growth in headcount which causes ﬁefdom building. Such rapid growth occurs
+at the moment the organization still lacks processes.
+
+Median
+Headcount
+
+Headcount
+
+From Series A to Series D,
+the median headcount of a
+Startup grows by 10x.
+33%
+66%
+
+Growth
+rate from
+prior raise
+
+87%
+121%
+225%
+
+FIGURE 1.8
+
+162%
+
+An example of a high-velocity inbound GTM motion, as perceived from the customer's
+perspective. It involves multiple actions across many functions and 3 departments
+
+MARKETING
+DEPARTMENT
+
+CUSTOMER
+SUCCESS
+DEPARTMENT
+
+SALES
+DEPARTMENT
+
+Visit a
+website
+
+Download
+content
+
+Click
+Contact Us
+
+Expand
+
+Learn more
+about the
+offering
+
+Review
+price and
+terms
+
+Commit
+and
+activate
+
+Use the
+product and
+get the impact
+
+Advocate
+
+CHAPTER 01 | INTRODUCTION
+
+Recurring
+Revenue
+
+FIGURE 1.9
+
+Different products and GTM motions each can create different revenue streams.
+
+SCENARIO 1
+
+SCENARIO 2
+
+SCENARIO 3
+
+One product,
+one GTM motion.
+
+One product,
+multiple GTM motions.
+
+Multiple products, each with
+their own GTM motion.
+
+Product
+
+Product
+ARR A
+GTM motion A
+ARR
+
+ARR A
+Product A
+
+GTM motion A
+
+Product B
+
+GTM motion B
+
+Product C
+
+GTM motion C
+
+ARR B
+
+GTM motion
+
+GTM motion B
+
+ARR B
+
+ARR C
+GTM motion C
+
+FIGURE 1.10
+
+ARR C
+
+From 2018 to 2024, we observed a signiﬁcant rise in the cost of GTM motions. In some
+instances, the mid-touch approach, utilizing 2 junior sellers (SDR and a Jr. AE), even
+became more costly than a high-touch approach relying on a single seller (Sr. AE).
+
+Cost of Leads
+
+Compensation
+
+2018
+
+No Touch
+
+2024
+
+Low Touch
+Large increase in cost due
+to impact of ineﬃciencies.
+
+Mid Touch
+
+High Touch
+
+Dedicated
+$0
+
+$200,000
+
+$400,000
+
+$600,000
+
+Cost of Marketing, Sales, and Customer Success
+
+7
+
+FIGURE 1.11
+
+Cost of Acquisition and Expansion depicts that the GTM problem is not solved.
+
+of net new ARR
+
+of total ARR
+
+FIGURE 1.12
+
+The decline in average growth rate and increase of FCF among public SaaS companies.
+
+Growth rate
+FCF margin
+
+CHAPTER 01 | INTRODUCTION
+
+FIGURE 1.13
+
+The importance of GTM grows signiﬁcantly as a company evolves from a Startup into a
+Scaleup. This transformation requires a company to make drastic changes.
+
+IMPORTANCE
+
+PHASE SHIFT
+
+PHASE SHIFT
+
+Product
+
+Product
+Product
+GTM
+GTM
+
+PMF
+
+FIGURE 1.14
+
+STARTUP
+
+Strategy
+
+Strategy
+
+GTM
+GTMF
+
+SCALEUP
+
+GROWNUP
+
+IPO
+
+F2000
+
+Phase Shifts deﬁne the Startup, Scaleup, and Grownup growth stages.
+
+$5M
+
+$10M
+
+$20M
+
+$50M
+
+$100M
+
+$200M
+
+$500M
+
+$1B
+
+Founder-led.
+Scalability.
+Sustainability.
+Multi-product.
+GAAP Compliance.
+IPO.
+Productivity.
+STARTUP
+
+SCALEUP
+
+GROWNUP
+
+9
+
+Table 1.1
+
+FIGURE 1.15
+
+The 3 main goals of a recurring revenue factory, mapped to maturity phases.
+
+Factory
+Goal
+
+Recurring Revenue
+Factory
+
+Operational
+Directive
+
+Maturity
+Phase
+
+Production
+
+Accelerate Growth
+
+Implement proven processes
+
+Scalability
+
+Eﬃciency
+
+Lower Cost
+
+Apply unit economics (cost)
+
+Sustainability
+
+Quality
+
+Deliver Recurring Impact
+
+Instill quality management
+
+Durability
+
+The importance of GTM grows signiﬁcantly as a company evolves from a Startup into a
+Scaleup. This transformation requires a phase shift.
+
+IMPORTANCE
+
+PHASE SHIFT
+
+PHASE SHIFT
+
+Product
+
+Product
+Product
+GTM
+GTM
+
+PMF
+
+STARTUP
+
+CHAPTER 01 | INTRODUCTION
+
+Strategy
+
+Strategy
+
+GTM
+GTMF
+
+SCALEUP
+
+IPO
+
+GROWNUP
+
+F2000
+
+P A R T I
+FUNDAMENTALS
+
+11
+
+FIGURE I1
+
+FIGURE I2
+
+Three scientiﬁc principles form the foundation for building a recurring revenue factory.
+
+FIRST
+PRINCIPLES
+
+MODELS
+& DATA
+
+SYSTEMS &
+PROCESSES
+
+Where does
+growth come
+from?
+
+Can we
+design growth
+machines?
+
+How do we
+build growth
+machines?
+
+Architects rely on ﬁrst principles, models, and systematic processes to create
+structurally sound, adaptable, and well-coordinated buildings.
+
+SYSTEMS AND PROCESSES
+Construction activities are
+carried out by a diverse crew
+who follow systematic
+processes and blueprints,
+ensuring precision and
+coordination in the building
+process.
+MODELS AND DATA
+Field tests, along with simulations,
+provide us with data to evaluate
+the performance of a design in
+different conditions to enable
+making informed decisions.
+
+Depth (m)
+
+BORING LOG
+
+FIRST PRINCIPLES
+Architects consider the
+foundation's constraints and
+prioritize structural integrity to
+ensure the stability and
+durability of the building.
+
+PART I | FUNDAMENTALS
+
+Steel-H piles
+Cast-in-place
+concrete piles
+
+02
+FIRST PRINCIPLES
+
+CHAPTER 02 | FIRST PRINCIPLES
+
+TABLE 2.1
+
+BestCo's revenue growth in ARR split across 3 revenue streams.
+
+Step 2.
+RETENTION
+
+Retention
+
+Expansion
+
+Acquisition
+
+ARR
+
+2013
+
+$0.0
+
+$0.00
+
+$0.90
+
+$0.9
+
+2014
+
+$0.85
+
+$0.08
+
+$1.87
+
+$2.80
+
+2015
+
+$2.63
+
+$0.26
+
+$5.79
+
+$8.69
+
+2016
+
+$8.17
+
+$0.82
+
+$6.48
+
+$15.46
+
+2017
+
+$14.54
+
+$1.45
+
+$11.23
+
+$27.22
+
+2018
+
+$25.59
+
+$2.56
+
+$18.90
+
+$47.04
+
+2019
+
+$44.22
+
+$4.42
+
+$19.96
+
+$68.60
+
+2020
+
+$64.49
+
+$6.45
+
+$22.36
+
+$93.30
+
+2021
+
+$87.70
+
+$8.77
+
+$18.55
+
+$115.02
+
+2022
+
+$108.12
+
+$10.81
+
+$24.54
+
+$143.47
+
+Kickstart
+FOUNDER SALES
+
+Step 1.
+ACQUISITION
+
+Step 3.
+EXPANSION
+
+Breaking down the ARR into 3 components, and determining a trendline for each.
+
+ARR [mUSD]
+
+FIGURE 2.1
+
+15
+
+FIGURE 2.2
+
+The trend of BestCo’s annual revenue growth from acquisition.
+
+Acquisition
+
+FIGURE 2.3
+
+The exponential growth of the expansion revenue.
+
+CHAPTER 02 | FIRST PRINCIPLES
+
+FIGURE 2.4
+
+As revenue increases by the same amount, the growth rate naturally declines.
+
+Growth rate 100%
+
+50%
+
+33%
+
+25%
+
+ARR [mUSD]
+
+$10m
+
+Acquisition
+
+$ 8m
+$ 6m
+$ 4m
+
+Retention
+
+$ 2m
+$0
+
+Year 1
+
+Year 3
+
+Year 4
+
+Year 5
+
+The exponential growth curve from retention (and expansion) needs to be noticed.
+
+$125m
+
+Retention
+$100m
+
+ARR [mUSD]
+
+FIGURE 2.5
+
+Year 2
+
+$ 75m
+
+$ 50m
+
+Acquisition and
+Retention appear
+to behave similarly
+
+Expansion
+
+$ 25m
+
+Acquisition
+$0
+Year 1
+
+Year 2
+
+Year 3
+
+Year 4
+
+Year 5
+
+Year 6
+
+Year 7
+
+Year 8
+
+Year 9
+
+Year 10
+
+17
+
+FIGURE 2.6
+
+Gross proﬁt increases over time as costs decline, driven by the shift in revenue growth
+towards renewals.
+
+The proﬁt grows
+disproportionately
+over time.
+
+Proﬁt
+Cost grows at a
+different pace.
+
+FIGURE 2.7
+
+Assigning the acquisition (sales) team to expansions and renewals signiﬁcantly
+increases costs, leading to a substantial drop in proﬁt.
+
+Early on, the
+behavior of both
+scenarios is similar.
+
+CHAPTER 02 | FIRST PRINCIPLES
+
+Drop in
+proﬁt
+
+FIGURE 2.8
+
+In a subscription business the risk of the deal sifts from the buyer to the seller.
+
+Ownership
+
+Risk
+
+Places the burden of risk
+squarely on the buyer's
+shoulders in their pursuit
+of achieving impact. This
+gave rise to support
+contracts and
+involvement of system
+integrators.
+
+EXERCISE 2.1
+
+Subscription
+
+Risk
+
+Buyer Seller
+
+Buyer
+High
+
+Low
+
+Seller
+
+In SaaS, it is the seller
+who takes on all the risk
+to deliver impact.
+Processes around
+managing risks have not
+changed, for example,
+buyers today still expect a
+20% discount.
+
+Obtain a Data Set
+Obtain the recurring revenue numbers and split them into 3 components of
+growth. Enter this in a spreadsheet similar to the one depicted in the table below.
+Do this over a minimum of 8 periods. The period can be a month, a quarter, or a
+year. For a product with longer sales cycles, your period should be longer, like
+quarters; for products with short sales cycles, your periods should be shorter,
+like months.
+
+TABLE 2.2
+
+Recurring revenue over 10 periods, split across 3 components of growth.
+
+Revenue
+
+Acquisition
+
+Retention
+
+Expansion
+
+Total
+
+Period 1
+Period 2
+Period 3
+Period 4
+Period 5
+Period 6
+Period 7
+Period 8
+Period 9
+Period 10
+
+19
+
+EXERCISE 2.2
+
+Plot These Numbers in a Column Chart
+Please select all the data and plot them in a side-by-side column chart with
+separate columns for acquisition, retention, and expansion. The chart should
+resemble Figure 2.9. Remember not to use a stacked bar chart, which won't
+helps us establish the trendlines per growth component.
+
+FIGURE 2.9
+
+Example of a column chart with the 3 different components of growth side by side.
+
+Retention
+
+EXERCISE 2.3
+
+Expansion
+
+Acquisition
+
+Add a Trendline
+If you are using Google Sheets, click on 1 of the 3 series, and add a trendline.
+Next, check the R2 box, which indicates how accurately the trendline follows the
+data. Choose the type of trendline, such as linear, exponential, polynomial, etc.
+that results in an R2 value as close as possible to 1. A 2nd or 3rd-degree
+polynomial trendline usually yields the best results, with an R2 value around 0.98
+or higher. Repeat this process for each series.
+
+CHAPTER 02 | FIRST PRINCIPLES
+
+EXERCISE 2.4
+
+Gain an Understanding
+Study the trendline, and answer the following questions:
+● Question 1: Where is most of the growth coming from today?
+● Question 2: When will growth from retention exceed growth from
+acquisition?
+● Question 3: When will growth from expansion exceed growth from
+acquisition?
+By completing these simple exercises, you now better understand where growth
+currently originates from and where it is trending.
+
+The 4 stages of growth consisting of 3 components with growth curves for each.
+
+Total
+Retention
+
+ARR/GTM [ mUSD ]
+
+FIGURE 2.10
+
+Retention
+shadows the
+total.
+
+2
+Expansion
+
+3
+Acquisition
+
+1
+
+4
+Time [ Years ]
+
+21
+
+03
+MODELS & DATA
+
+CHAPTER 03 | MODELS AND DATA
+
+FIGURE 3.1
+
+The design of a suspension bridge can be broken down into 6 components.
+
+Towers
+
+Suspension cables
+
+Main cable
+
+Anchors
+
+Piers
+
+FIGURE 3.2
+
+Deck
+
+Human anatomy can be described by a series of models.
+
+l
+
+ode
+
+M
+tal
+
+le
+
+Ske
+
+u
+usc
+
+M
+
+l
+
+ode
+
+M
+lar
+
+lar
+
+cu
+vas
+o
+i
+rd
+
+del
+Mo
+
+●
+
+The human anatomy can be
+described by a series of models.
+
+●
+
+Each model is 100% accurate.
+
+●
+
+A single model does not provide
+an accurate picture of how a
+human as a whole works.
+
+●
+
+Different models provide a
+different perspective.
+
+●
+
+Combining models increases the
+accuracy.
+
+●
+
+It takes multiple models to
+create an accurate picture of
+how the human body works.
+
+Ca
+
+24
+
+FIGURE 3.3
+
+FIGURE 3.4
+
+The 6 essential models that govern a recurring revenue business.
+
+MODEL 1.
+
+MODEL 2.
+
+MODEL 3.
+
+REVENUE MODEL
+
+DATA MODEL
+
+MATHEMATICAL
+MODEL
+
+MODEL 4.
+
+MODEL 5.
+
+MODEL 6.
+
+OPERATING MODEL
+
+GROWTH MODEL
+
+GTM MODEL
+
+The structural hierarchy of the 6 essential models, and the separation of dynamic and
+static models.
+
+6. GTM Model
+DYNAMIC MODELS
+These models change
+over time and are likely
+to respond to changing
+conditions.
+
+We interact with
+this model on a
+daily basis.
+
+5. Growth Model
+
+4. Operating Model
+
+3. Mathematical Model
+
+The absence of
+this model causes
+a huge disconnect.
+Models interacts with
+the models above
+and below.
+
+STATIC MODELS
+These models remain
+consistent and do not
+change over time or
+under varying
+circumstances.
+
+CHAPTER 03 | MODELS AND DATA
+
+2. Data Model
+
+1. Revenue Model
+
+This model rarely
+changes, a change will
+have a signiﬁcant
+impact and will likely
+take years to absorb.
+
+FIGURE 3.5
+
+The structure of the 6 essential models, and the organization of data.
+
+INFORMED DECISIONS
+
+ADDRESSABLE MARKET
+
+HIERARCHY OF DATA
+
+Market penetration
+
+EFFECTIVENESS
+Scalable (Velocity)
+
+6. GTM Model
+
+GTM metrics
+Growth and Costs
+
+EFFICIENCY
+Sustainable (Cost)
+
+5. Growth Model
+
+Growth metrics
+Growth Rate
+
+ECONOMY
+Durable (Quality)
+
+Productivity metrics
+
+4. Operating Model
+
+EVIDENCE BASED
+Growth Formulas
+
+CAUSAL
+Analyze and Interpret
+
+3. Mathematical Model
+Conversion Metrics (VM(n), CR(n), and t(n))
+
+ANALYTICAL
+Empirical evidence
+
+2. Data Model
+Pricing and payment (term) structure
+
+FOUNDATIONAL
+First Principle thinking
+
+1. Revenue Model
+
+26
+
+EXERCISE 3.1
+
+EXERCISE 3.2
+
+EXERCISE 3.3
+
+Growing from $10M to $30M in ARR, which models are affected and how?
+Six Essential Models
+
+Affected?
+
+How is the model affected?
+
+1. Revenue Model
+
+口 Yes
+
+______________________________________________________
+
+2. Data Model
+
+口 Yes
+
+______________________________________________________
+
+3. Mathematical Model
+
+口 Yes
+
+______________________________________________________
+
+4. Operating Model
+
+口 Yes
+
+______________________________________________________
+
+5. Growth Model
+
+口 Yes
+
+______________________________________________________
+
+6. GTM Model
+
+口 Yes
+
+______________________________________________________
+
+Changing from perpetual to subscription, which models are affected and how?
+
+Six Essential Models
+
+Affected?
+
+How is the model affected?
+
+1. Revenue Model
+
+口 Yes
+
+______________________________________________________
+
+2. Data Model
+
+口 Yes
+
+______________________________________________________
+
+3. Mathematical Model
+
+口 Yes
+
+______________________________________________________
+
+4. Operating Model
+
+口 Yes
+
+______________________________________________________
+
+5. Growth Model
+
+口 Yes
+
+______________________________________________________
+
+6. GTM Model
+
+口 Yes
+
+______________________________________________________
+
+Launching a new GTM motion, which models are affected and how?
+Six Essential Models
+
+Affected?
+
+1. Revenue Model
+
+口 Yes
+
+______________________________________________________
+
+2. Data Model
+
+口 Yes
+
+______________________________________________________
+
+3. Mathematical Model
+
+口 Yes
+
+______________________________________________________
+
+4. Operating Model
+
+口 Yes
+
+______________________________________________________
+
+5. Growth Model
+
+口 Yes
+
+______________________________________________________
+
+6. GTM Model
+
+口 Yes
+
+______________________________________________________
+
+CHAPTER 03 | MODELS AND DATA
+
+How is the model affected?
+
+EXERCISE 3.4
+
+Understand the Data Structure by connecting models to the right letters.
+Draw lines to connect the models to the right metrics. Once you have done this
+read off the metrics in the right order, and build a story of the data structure.
+1. Revenue Model
+
+A.
+
+Growth Rate
+
+B.
+
+Conversion Metrics
+
+3. Mathematical Model
+
+C.
+
+Productivity Metrics
+
+4. Operating Model
+
+D.
+
+Growth Formula
+
+5. Growth Model
+
+E.
+
+Market Penetration
+
+6. GTM Model
+
+F.
+
+Pricing
+
+2. Data Model
+
+FIGURE 3.6
+
+EX
+A
+
+MP
+LE
+
+The 6 essential models hierarchically structured in layers.
+
+6. GTM Model
+DYNAMIC MODELS
+These models are likely
+to change over the
+course of time.
+
+5. Growth Model
+
+4. Operating Model
+
+3. Mathematical Model
+STATIC MODELS
+Set these models up
+once. Avoid making
+any changes.
+
+2. Data Model
+
+1. Revenue Model
+
+CHAPTER 03 | MODELS AND DATA
+
+04
+SYSTEMS &
+PROCESSES
+
+CHAPTER 04 | SYSTEMS AND PROCESSES
+
+FIGURE 4.1
+
+The classic marketing and sales funnel functions as a revenue acquisition system
+consisting of 4 sub-systems, with the fourth being the funnel as a whole.
+
+Total Addressable Market
+Prospects
+
+SUB-SYSTEM 1
+
+AWARENESS
+Leads
+
+SUB-SYSTEM 2
+
+EDUCATION
+Opportunities
+
+SUB-SYSTEM 3
+
+SELECTION
+Closed Deals
+
+SUB-SYSTEM 4
+
+FIGURE 4.2
+
+Revenue
+
+Recurring revenue takes place outside the purview of the marketing and sales funnel.
+
+A funnel is
+one-directional
+
+Prospects
+AWARENESS
+Leads
+EDUCATION
+Opportunities
+
+Recurring revenue
+takes place outside the
+purview of the marketing
+and sales funnel.
+
+SELECTION
+
+Deals & Revenue
+
+?
+
+Recurring Revenue
+
+32
+
+FIGURE 4.3
+
+The Bowtie extends the classic marketing and sales funnel to cover the critical stages
+responsible for recurring revenue growth.
+
+CUSTOMER
+ACQUISITION
+
+CUSTOMER RETENTION
+AND EXPANSION
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+AWARENESS
+
+EDUCATION
+
+SELECTION
+
+MUTUAL
+COMMIT
+
+ONBOARDING
+
+ADOPTION
+
+EXPANSION
+
+8 THE GTM SYSTEM
+
+FIGURE 4.4
+
+A simpliﬁed view of the difference between an open-loop and a closed-loop system.
+
+AN OPEN-LOOP SYSTEM
+INPUT
+
+SYSTEM
+
+OUTPUT
+
+A CLOSED-LOOP SYSTEM
+INPUT
+
+Compares the
+input with the
+feedback loop.
+
+CHAPTER 04 | SYSTEMS AND PROCESSES
+
+SYSTEM
+
+FEEDBACK LOOP
+
+OUTPUT
+
+FIGURE 4.5
+
+The numerous closed loops across the customer journey.
+
+ACQUISITION
+
+AWARENESS
+
+RETENTION AND EXPANSION
+
+EDUCATION
+
+MUTUAL
+ONBOARDING
+COMMIT
+
+SELECTION
+
+5
+
+RETENTION
+
+2
+
+6
+
+EXPANSION
+
+1
+
+3
+4
+
+As a superstar (people-centric) organization grows, it destabilizes as more and more
+tasks stack on top of each other without any structural framework. Note that this can
+apply to a GTM motion, function, or entire company.
+
+ONBOARDING
+PROCESS
+
+RE-ORG
+
+SKILLS
+
+CRM
+
+GTM
+
+SALES
+STAGES
+
+METRICS
+
+CO
+
+NSU
+
+LTA
+NT
+
+TH
+
+DASHBOARDS
+
+SALES PLAN
+
+HIRE A SALES
+LEADER
+PITCH
+DECK
+
+DATA
+
+SKO
+
+OW
+
+PLAYBOOK
+
+TRAINING
+
+TERRITORY
+PLANNING
+
+METHODOLOGY
+
+GR
+
+SALES
+PROCESS
+
+GROWTH
+HACKS
+
+FIGURE 4.6
+
+PRICE
+LIST
+QUOTA
+SUPER
+STARS
+
+PIPELINE
+
+TIME
+
+COMP
+PLAN
+TOOLS
+
+ANT
+SULT
+CON
+
+34
+
+FIGURE 4.7
+
+A people-centric culture without structured processes eventually becomes its downfall
+due to scalability issues. The challenge is the shift from a non-scalable, people-centric
+approach to a scalable, process-centric one. Complicating this transition is the absence
+of a deﬁning moment signaling the need for change.
+
+PEOPLE-CENTRIC
+
+PROCESS-CENTRIC
+
+Use of technology and
+(performance) process
+to manage people.
+
+Use of people and
+technology to inspect the
+process.
+
+Destabilizes as it grows
+
+Stabilizes as it grows
+
+SYSTEMS & PROCESSES
+PEOPLE
+TECHNOLOGY
+
+PHASE
+SHIFT
+
+TECHNOLOGY
+
+PEOPLE
+SYSTEMS & PROCESSES
+
+EXERCISE 4.1
+
+Identify Key GTM Functions for Recurring Revenue
+Whether focusing on a speciﬁc GTM motion or your entire company, list the
+GTM functions crucial for generating at least $10M in recurring revenue.
+
+CHAPTER 04 | SYSTEMS AND PROCESSES
+
+TABLE 4.1
+
+EXERCISE 4.2
+
+Checklist of existing GTM functions and processes.
+
+GTM function
+
+Current process in place
+
+Example: Sales
+
+Challenger
+
+Tools in use
+
+Describe Current Processes for These GTM Functions
+In the next column, jot down the processes you currently have in place for
+each identiﬁed GTM function. You can do this for a single GTM motion or
+across your revenue operations. Completing this will help you see how many
+processes are operational.
+
+EXERCISE 4.3
+
+List Tools for Implementing Processes
+The primary reason for using tools is to make processes more eﬃcient. In the
+next column, jot down the crucial tools you've put in place to implement or
+improve existing processes. This is a chance to identify any unallocated
+tools, overlaps, or gaps in crucial stages of your operation.
+
+36
+
+EXERCISE 4.4
+
+Sketch Out Your Key Closed Loops
+Draw the most common closed loops that your recurring revenue business
+relies on. Pay close attention to where these loops start and end, as this will
+provide insight into which part of your organization should manage each
+growth loop.
+
+FIGURE 4.8
+
+Draw the closed loops that exist in your business, and number each loop.
+
+Awareness
+
+Education
+
+Selection
+
+Mutual
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+1
+
+TABLE 4.2
+
+Checklist of the number of closed loops, their description, and who is responsible for each.
+
+Name
+
+Description
+
+Who is Responsible
+
+1. Advocacy
+
+Existing customers post on social media
+
+Customer Marketing
+
+CHAPTER 04 | SYSTEMS AND PROCESSES
+
+FIGURE 4.9
+
+The Bowtie extends the classic Marketing and Sales funnel to cover the stages where
+recurring revenue is created through delivering recurring impact.
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+
+VALUE DOMAIN.
+
+IMPACT DOMAIN.
+
+Awareness
+
+Education
+
+Selection
+
+Mutual
+Commit
+
+Retention
+
+Onboarding
+
+A mutual commitment
+to achieve the impact
+that was promised.
+
+Deliver
+First
+Impact
+
+Expansion
+
+Deliver
+Recurring
+Impact
+
+Achieve
+Maximum
+Impact
+
+Recurring Revenue is what you get
+when you deliver Recurring Impact.
+
+FIGURE 4.10
+
+There are 3 tasks to close the loop: expand the funnel into a Bowtie, interconnect all the
+sub-systems, and close the loop itself.
+
+ACQUISITION
+
+Awareness
+
+Education
+
+Selection
+
+5
+6
+
+RETENTION AND EXPANSION
+
+Mutual
+Commit
+
+2
+
+Onboarding
+
+Retention
+
+Expansion
+
+1
+
+3
+4
+
+38
+
+FIGURE 4.11
+
+A people-centric culture without structured processes eventually becomes its downfall
+due to scalability issues. The challenge is the shift from a non-scalable people-centric
+approach to a scalable, process-centric one.
+
+PEOPLE-CENTRIC
+
+PROCESS-CENTRIC
+
+Destabilizes as it grows
+
+Stabilizes as it grows
+
+SYSTEMS & PROCESSES
+
+Fixing a
+process
+problem
+
+PEOPLE
+TECHNOLOGY
+
+Fixing a
+people
+problem
+
+PHASE
+SHIFT
+
+TECHNOLOGY
+
+PEOPLE
+
+CHAPTER 04 | SYSTEMS AND PROCESSES
+
+SYSTEMS & PROCESSES
+
+PART I | FUNDAMENTALS
+
+P A R T II
+DESIGN
+
+41
+
+PART II | DESIGN
+
+FIGURE II
+
+The static models form the base of the recurring revenue system. They require minimal
+to no adjustments once properly designed. They are indispensable for the system's
+stability, eﬃciency, and long-term growth.
+
+6. The GTM Model
+
+5. The Growth Model
+
+4. The Operating Model
+
+3. The Mathematical Model
+
+CAUSALITY
+Analyze and Interpret
+
+STATIC MODELS
+Models that remain
+consistent and do not
+change over time or
+under varying
+circumstances.
+
+2. The Data Model
+
+1. The Revenue Model
+
+ANALYTICAL
+Empirical evidence
+
+FOUNDATIONAL
+First Principle thinking
+
+43
+
+05
+THE REVENUE MODEL
+
+CHAPTER 05 | REVENUE MODEL
+
+FIGURE 5.1
+
+Monetization strategies are mapped along an arc that form the Revenue Model.
+
+SUBSCRIPTION
+Pay per Year
+
+OWNERSHIP
+
+CONSUMPTION
+
+Pay Up Front
+
+TABLE 5.1
+
+No Cure. No Pay
+
+Shift in responsibilities based on the chosen monetization strategy.
+
+Seller Responsibility
+
+OWNERSHIP
+
+SUBSCRIPTION
+
+CONSUMPTION
+
+Deliver the product
+
+Deliver the product
+
+Deliver the product
+
+Make sure it works
+
+Make sure it works
+
+Make sure it works
+
+Buyer Responsibility
+
+Use it
+
+Use it
+
+Use it
+
+Achieve results
+
+Achieve results
+
+Achieve results
+
+46
+
+FIGURE 5.2
+
+In the various ownership models the buyer pays for the value exchange up front.
+
+Pay Per Year
+
+OWNERSHIP
+
+Perpetual
+software
+
+Hardware +
+support
+On-premise
+hardware
+Pay Upfront
+
+FIGURE 5.3
+
+No Cure. No Pay
+
+As a subscriber, you pay for using the product over a period of time.
+
+SUBSCRIPTION
+
+Multi-year SaaS
+2 years
+
+Pay Up Front
+
+Annual SaaS
+Pay Per year
+
+Monthly SaaS
+Pay Per Month
+
+No Cure. No Pay
+
+47
+
+FIGURE 5.4
+
+In the consumption model you can pay per use, for an action, or for a speciﬁc outcome.
+
+Pay per Year
+
+Pay per use
+
+CONSUMPTION
+Pay per action
+
+Pay per outcome
+Pay Up Front
+
+FIGURE 5.5
+
+No Cure. No Pay
+
+The chasm between different monetization strategies is substantial, underscoring the
+importance of careful consideration when applying best practices from
+ownership-based models to subscription and consumption models.
+
+The chasm between
+impact and value based
+monetization strategies
+
+SUBSCRIPTION
+
+IMPACT
+
+OWNERSHIP
+CONSUMPTION
+
+VALUE
+
+48
+
+A change in the monetization strategy causes the risk of the purchase to change and
+switch between the buyer and seller.
+
+SUBSCRIPTION
+Risk shifts to
+the buyer
+
+Risk shifts to
+the seller
+
+OWNERSHIP
+
+CONSUMPTION
+
+The overall risk goes
+down due to a shared
+infrastructure.
+
+High
+
+Medium
+
+A buyer pays 1
+year up front
+
+Risk
+
+The risk
+ﬂips
+
+Risk
+
+FIGURE 5.6
+
+A seller has to
+build a global
+infrastructure.
+
+Low
+
+Low
+Buyer
+
+Seller
+
+Buyer
+
+Seller
+
+Low
+Buyer
+
+Seller
+
+OWNERSHIP
+
+SUBSCRIPTION
+
+CONSUMPTION
+
+With a “build to order”
+model, the buyer takes
+on all the risk.
+
+With a mutual commit,
+the risk is more
+balanced between the
+buyer and seller.
+
+The seller takes on all
+the risk and the buyer
+has almost no risk.
+
+49
+
+FIGURE 5.7
+
+As a business moves along the arc the average price paid in the ﬁrst year changes by an
+order of magnitude.
+
+SUBSCRIPTION
+Price paid up front
+goes up.
+
+Price paid up front
+goes down.
+Annual SaaS
+
+Multi-year SaaS
+
+$10,000s
+
+Monthly SaaS
+$1,000s
+
+$100,000s
+
+Usage
+
+Perpetual Software
+$1,000,000s
+
+$100s
+
+OWNERSHIP
+
+CONSUMPTION
+
+$1,000,000s
+
+$10s
+
+FREEMIUM
+
+FIGURE 5.8
+
+The impact of the monetization strategy on the win rate.
+
+SUBSCRIPTION
+Increase in win rate
+
+Multi-year SaaS
+1:4
+Perpetual Software
+1:3
+
+OWNERSHIP
+
+Decrease in win rate
+Annual SaaS
+1:5
+
+Monthly SaaS
+1:6
+Usage
+1:10
+
+CONSUMPTION
+FREEMIUM 1:100
+
+50
+
+FIGURE 5.9
+
+Revenue acceleration for acquisition is based on consecutive acceleration and for
+retention and expansion it is based on concurrent acceleration.
+
+ACQUISITION
+
+Lead
+
+RETENTION AND EXPANSION
+Mutual
+Commit
+
+Opportunity
+
+LeadDev
+
+Sales
+
+Time for a lead to
+convert into an
+opportunity.
+
+The time for an
+opportunity to
+convert into a mutual
+commitment.
+
+Account
+Penetration
+
+Adoption
+Expansion
+Account Growth
+
+Consecutive Acceleration
+
+FIGURE 5.10
+
+Lifetime
+Value
+
+Concurrent Acceleration
+
+The impact of the monetization strategy on revenue velocity.
+
+SUBSCRIPTION
+Revenue velocity
+decelerates
+
+Multi-year SaaS
+6+ mo’s
+
+Revenue velocity
+accelerates
+Annual SaaS
+30+ days
+
+Monthly SaaS
+10+ days
+
+Perpetual Software
+
+Usage
+
+9 to 18 mo’s
+
+1+ day
+
+OWNERSHIP
+
+CONSUMPTION
+
+FREEMIUM
+
+Minutes
+
+51
+
+FIGURE 5.11
+
+The impact of the monetization strategy on the retention rate.
+
+SUBSCRIPTION
+
+Increase in
+retention
+
+Decrease in
+retention
+
+Annual SaaS
+>90%
+Multi-year SaaS
+Monthly SaaS
+>78%
+>95%
+Perpetual Software
+100%
+
+OWNERSHIP
+
+CONSUMPTION
+
+FREEMIUM
+
+FIGURE 5.12
+
+Choices made in the monetization strategy will impact all models layered above.
+
+Dynamic
+
+Layer 6. The GTM Model
+.. results in myriad of GTM motions
+
+Layer 5. The Growth Model
+.. causes non-sustainable growth
+
+Layer 4. The Operating Model
+.. results in operating the business incorrectly
+
+Layer 3. The Mathematical Model
+.. results in building the wrong Growth Formula
+
+Layer 2. The Data Model
+.. results in measuring the wrong data
+Static
+
+Layer 1. The Revenue Model
+Being based on the wrong First Principles ..
+FIRST PRINCIPLES
+
+52
+
+FIGURE 5.14
+
+Changing or adding a monetization strategy will have far-reaching effects.
+
+LAUNCH A SAAS OFFERING
+
+LONG-TERM CONTRACTS
+
+MOVE UPSTREAM
+
+Changing the model from a
+perpetual license model to a
+subscription model.
+
+Moving from a monthly to an
+annual, or a multi-year
+contract.
+
+Companies with a PLG offer
+moving from a consumption
+to a subscription model.
+
+Commonly used to compete
+with a prevailing SaaS vendor
+in a the SMB market.
+
+Commonly used to counter a
+growing cost of acquisition
+and retention.
+
+Commonly used to secure
+larger contracts and reduce
+churn to increase growth.
+
+The pace of Adobe’s switch from an ownership to a subscription based monetization
+model to a subscription based.
+
+3,416
+
+3,343
+
+3,159
+
+$3B
+2,470
+2,685
+2,077 Subscription
+ARR
+(in million USD)
+
+FIGURE 5.13
+
+$2B
+Ownership
+1,138
+
+$1B
+387
+
+459
+
+673
+
+186
+
+0
+
+75
+
+2009
+
+254
+
+2010
+
+1,628
+
+341
+
+388
+
+2011
+
+2012
+
+447
+
+443
+
+2013
+
+2014
+
+Services
+and Support
+
+Source: Tomasz Tunguz
+
+53
+
+FIGURE 5.15
+
+The revenue growth of Adobe during the Golden Era of SaaS.
+
+ARR
+$15B
+
+$10B
+
+The transformation to a
+subscription model.
+
+$5B
+
+0
+2010
+
+FIGURE 5.16
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+The most common moments that cause a radical change in a monetization strategy.
+
+A shift in revenue model
+between a perpetual and
+a subscription model.
+
+SUBSCRIPTION
+
+A shift in revenue model
+between a consumption and
+a subscription model.
+
+OWNERSHIP
+
+CONSUMPTION
+
+FREEMIUM
+
+CHAPTER 05 | REVENUE MODEL
+
+The shift from a
+freemium to a paid
+(consumption) model.
+
+FIGURE 5.17
+
+Multiple monetization strategies depicted in the Revenue Model.
+
+SUBSCRIPTION
+High Velocity
+1. Have an annual
+software contract.
+2. With a monthly
+option to “try it out.”
+
+OWNERSHIP
+
+CONSUMPTION
+
+Big Deals
+
+High Volume
+
+4. An on-site model that
+comes pre-installed on a
+server.
+
+The difference between recurring and re-occurring revenue comes down to regularity
+over time and the predictability of the amount of revenue.
+Recurring
+
+Revenue
+
+FIGURE 5.18
+
+3. A consumption
+based model for above
+average consumption.
+
+Re-occurring
+
+Predictable
+Unpredictable
+Time (t)
+
+Regular
+
+Irregular
+
+55
+
+EXERCISE 5.1
+
+Draw an arrow from the center to every monetization approach you are using.
+
+SUBSCRIPTION
+Multi Year
+SaaS
+
+OWNERSHIP
+
+Annual
+SaaS
+
+Monthly
+SaaS
+Pay per
+Use
+
+Perpetual
+Software
+
+CONSUMPTION
+
+Pay per
+Action
+
+Hardware +
+Support
+
+Pay upon
+Impact
+
+Hardware
+
+VALUE
+
+IMPACT
+
+Fundamentally you are using a/n _________________ based monetization strategy.
+
+EXERCISE 5.2
+
+Based on the monetization strategy benchmark your key metrics and see if
+they match up to the characteristics of your monetization approach.
+
+Suggested Metric
+based on the Revenue
+Model
+
+What Is Your Growth
+Metric today?
+
+Win Rate (Figure 5.8)
+
+_______________
+1:5 OR 20%
+
+_______________
+18%
+
+Revenue Acceleration (Figure 5.10)
+
+_______________
+(>30 DAYS)
+
+_______________
+(68 DAYS)
+
+Retention (Figure 5.11)
+
+_______________
+>90% annual
+
+_______________
+84% annually
+
+ARR: ________ ACV/GTM Motion: __________
+
+CHAPTER 05 | REVENUE MODEL
+
+If your numbers are not in the ballpark, assess whether:
+● You used a metric based on a different monetization strategy.
+● The average performance of the team meets your expectations.
+● The market dynamics have changed recently.
+If you are off, no need to panic. We simply want to raise the awareness of how
+your revenue factory is supposed to work. In the following chapters, we will
+show you how to design it step by step.
+EXERCISE 5.3
+
+Do you operate in more than one monetization strategy?
+For example, if you run a business with less than $100M in recurring revenue, you
+should not have different products with varying types of monetization strategy, such
+as an ownership and. a subscription approach. You may have different approaches
+within the monetization type—for example, a monthly vs. annual subscription.
+
+If you operate more than one monetization strategy, we recommend you focus
+on one monetization strategy with at max 3 GTM motions (see Chapter 10).
+EXERCISE 5.4
+
+Are you using the right metrics for the chosen monetization strategy?
+For example, are you operating around the right metrics as part of your monetization
+type? A common mistake here is that companies with a subscription product that
+sells for $20,000 to $50,000 per year operate against a funnel size based on a 1:3 win
+rate, whereas it should operate against a funnel based on a 1:5 win rate.
+
+Make sure you use the right benchmark data, relevant to your monetization
+strategy (see Chapter 6.)
+EXERCISE 5.5
+
+Is your revenue approach aligned across all GTM functions?
+For example, a common problem is the mixing of characteristics from different
+revenue approaches across departments: the company is selling monthly
+subscriptions, but sales are still working on a 3x pipeline (ownership), and the
+customer success team is reporting annual retention numbers, whilst the marketing
+team spends most of its resources on lead generation vs. customer marketing.
+
+We recommend that you start based on the principles of recurring revenue,
+implement a Bowtie across all customer facing roles, and establish impact as a
+uniform language (see Chapter 8).
+By now, you should have a basic understanding of the Revenue Model and a
+sense of your business's operational needs.
+57
+
+FIGURE 5.19
+
+The Revenue Model
+SUBSCRIPTION
+
+The chasm between
+value and impact
+Multi Year
+SaaS
+
+OWNERSHIP
+
+Annual
+SaaS
+
+Perpetual
+Software
+
+Monthly
+SaaS
+
+Pay Per
+Use
+
+Hardware +
+Support
+
+Pay Per
+Action
+Pay Upon
+Impact
+
+Hardware
+
+VALUE
+
+FIGURE 5.20
+
+CONSUMPTION
+
+FREEMIUM
+
+IMPACT
+
+Choices made in the monetization strategy will propagate to all models on top.
+Dynamic
+
+Layer 6. The GTM Model
+.. results in myriad of GTM motions
+
+Layer 5. The Growth Model
+.. causes non-sustainable growth
+
+Layer 4. The Operating Model
+.. results in operating the business incorrectly
+
+Layer 3. The Mathematical Model
+.. results in building the wrong Growth Formula
+
+Layer 2. The Data Model
+.. results in measuring the wrong data
+Static
+
+Layer 1. The Revenue Model
+Being based on the wrong First Principles ..
+FIRST PRINCIPLES
+
+CHAPTER 05 | REVENUE MODEL
+
+06
+THE DATA MODEL
+
+FIGURE 6.1
+
+The Bowtie as a Data Model reﬂecting there is a balance between Value and Impact.
+
+Awareness
+
+FIGURE 6.2
+
+ACQUISITION
+VALUE
+
+RETENTION AND EXPANSION
+IMPACT
+
+The promise of
+future impact
+
+The fulﬁllment of
+the promised value
+
+Education
+
+Mutual
+Commit
+
+Selection
+
+Onboarding
+
+Retention
+
+Expansion
+
+OWNERSHIP
+
+SUBSCRIPTION
+
+CONSUMPTION
+
+Emphasizes value-based
+selling, correlating with
+acquisition.
+
+Concentrates on both value
+and impact, representing a
+balanced approach.
+
+Strongly focuses on
+impact, aligning with
+expansion.
+
+A simpliﬁed view of the Data Structure.
+
+Time Metric
+
+Output [y]
+
+Input [x]
+SYSTEM or
+SUB-SYSTEM
+Volume Metric
+
+Conversion Metric
+
+Volume Metric
+
+60
+
+FIGURE 6.3
+
+The Data Structure: Volume Metrics measured across the customer journey.
+
+RETENTION AND EXPANSION
+
+ACQUISITION
+The most
+expensive
+resources
+
+Prioritization
+
+Awareness
+
+VM 1
+
+Education
+
+VM 2
+
+Selection
+
+VM 3
+
+VM 4
+
+Mutual
+Commit
+
+VM 5
+
+VM 6
+
+Measured in [ n ]
+
+TABLE 6.1
+
+Onboarding
+
+Retention
+
+VM 7
+
+Expansion
+
+VM 8
+
+Measured in [ $ ]
+
+Deﬁnition of the Volume Metrics in the standardized Data Model.
+
+ACRONYM DESCRIPTION
+
+EXAMPLE
+
+VM1
+
+Match to the target proﬁle based on Situation, Pain, and Impact
+potential
+
+Prospect
+
+VM2
+
+Expressed interest and has provided a form of contact information
+
+MQL
+
+VM3
+
+Experiences so much pain that they are considering taking action
+
+SQL
+
+VM4
+
+Veriﬁed that this is a priority and no action carries a consequence
+
+SAL
+
+VM5
+
+Number of Mutual Commitments (wins)
+
+Wins
+
+VM6
+
+Amount of revenue committed
+
+MRRcommitted
+
+VM7
+
+Amount of revenue committed minus the Onboarding churn
+
+MRRstart
+
+VM8
+
+Monthly or annual recurring revenue
+
+MRR
+
+VM9
+
+The total amount of revenue generated over the entire lifetime
+
+LTV
+
+CHAPTER 06 | DATA MODEL
+
+VM 9
+
+FIGURE 6.4
+
+The historic data model (L2O, OTC, and churn) mapped to a standardized data structure.
+
+RETENTION AND EXPANSION
+
+ACQUISITION
+Prioritization
+
+Awareness
+
+Education
+
+L2O
+
+CR1
+
+VM 1
+
+TABLE 6.2
+
+CR2
+
+VM 2
+
+Selection
+
+Mutual
+Onboarding
+Commit
+
+OTC
+
+Discount
+
+CR3
+
+VM 3
+
+CR4
+
+VM 4
+
+CR5
+
+VM 5
+
+Retention
+
+Expansion
+
+Churn
+
+CR6
+
+VM 6
+
+CR7
+
+VM 7
+
+CR8
+
+VM 8
+
+VM 9
+
+Deﬁnition of the volume metrics with 2 examples of different GTM motions.
+
+ACRONYM
+
+DESCRIPTION OF A SALES GTM MOTION
+
+CR 1
+AWARENESS
+
+The eﬃciency of lead gen marketing campaigns to attract attention. For
+example, the number of signups as a percentage of the total visitors.
+
+CR 2
+EDUCATION
+
+Effectiveness of outreach campaigns to develop leads. For example, the
+number of people that want to enter the sales process.
+
+CR 3
+PRIORITIZATION
+
+Qualify the lead based on the priority of the impact. The result is a qualiﬁed
+opportunity. A common way of doing this is through a discovery call.
+
+CR 4
+SELLING
+
+Known as the “win rate,” this measures the number of qualiﬁed opportunities
+to obtain one commitment.
+
+CR 5
+COMMIT
+
+Multiplying the number of deals committed by the list price (minus any
+discounts) provides us with the revenue committed.
+
+CR 6
+ONBOARDING
+
+Percentage of committed clients in the cohort that were successfully
+Onboarded. This is represented as a retention number (1 minus churn).
+
+CR 7
+RETENTION
+
+The percentage of recurring revenue retained from existing customers,
+including downgrades and cancels, known as gross revenue retention (GRR).
+
+CR 8
+EXPANSION
+
+New ARR added to the cohort through upsells or expansions during the ﬁrst
+year and measured as a percentage of ARR of the cohort, post-churn.
+
+CR 9
+CLOSED LOOP
+
+For future use in closed loops.
+
+62
+
+FIGURE 6.5
+
+Four growth areas, each with a different opportunity.
+
+CROSS-SELL
+
+Sell a new product to
+the same group that
+provides more Impact.
+
+Sell another group
+within the same
+company on Impact.
+
+EXPANSION
+
+IMPACT
+
+New
+
+UPSELL
+
+Existing
+
+RENEW
+
+RESELL
+
+Sell the same
+Impact to the
+
+Resell a new
+Champion on the
+
+same group.
+
+same Impact.
+
+Existing
+
+New
+
+RETENTION
+
+BENEFICIARY
+
+FIGURE 6.6
+
+The data structure: Time metrics measured across the customer journey.
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+
+GO FAST
+
+GO LONG
+
+Prioritization
+
+Awareness
+
+Education
+
+Δt1
+
+Δt2
+
+VM 1
+
+VM 2
+
+CHAPTER 06 | DATA MODEL
+
+Selection
+
+Δt3
+
+VM 3
+
+Mutual
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+Δt5
+
+Δt6
+
+Δt7
+
+Δt8
+
+Δt4
+
+VM 4
+
+VM 5
+
+VM 6
+
+VM 7
+
+VM 8
+
+VM 9
+
+TABLE 6.3
+
+Deﬁnitions of the time metrics.
+
+ACRONYM
+
+DESCRIPTION
+
+Δt1
+AWARENESS
+
+Prospect conversion time; the time it takes to develop a conversation with a
+customer.
+
+Δt2
+EDUCATION
+
+Length of education time needed before a customer is interested in starting
+the buying process.
+
+Δt3
+PRIORITIZATION
+
+The time it takes to qualify the opportunity based on priority (Budget and ROI
+play a secondary role in Saas).
+
+Δt4
+SELLING
+
+The length of the sales cycle.
+
+Δt5
+COMMIT
+
+The time it takes to setup an instance in the internal systems and processes.
+
+Δt6
+ONBOARDING
+
+The time from when a customer buys to when the ﬁrst impact is achieved.
+
+Δt7
+RETENTION
+
+The length of the contract is often monthly or annually.
+
+Δt8
+EXPANSION
+
+The lifetime of the customer is often measured in years.
+
+Δt9
+CLOSED LOOP
+
+For future use as a loopback time metric.
+
+64
+
+TABLE 6.4
+
+Demonstrating the impact of performance metrics across 2 sales representatives.
+
+Rob
+
+Jennifer
+
+Opportunities/month
+
+15
+
+15
+
+Win rate
+
+33%
+
+20%
+
+Commits/month
+
+5.0
+
+3.0
+
+Average Price
+
+$5,000
+
+$5,500
+
+Sales Cycle/deal
+
+20 days
+
+28 days
+
+MRR
+
+$25,000
+
+$16,500
+
+12
+
+12
+
+ARR/mo
+
+$300,000
+
+$198,000
+
+Retention
+
+90%
+
+100%
+
+Year 1
+
+$270,000
+
+$198,000
+
+NRR
+
+0.9
+
+1.2
+
+Year 2
+
+$243,000
+
+$237,600
+
+Year 3
+
+$218,700
+
+$285,120
+
+Year 4
+
+$196,830
+
+$342,144
+
+Year 5
+
+$177,147
+
+$410,573
+
+5Y-LTV
+
+$1,105,677
+
+$1,473,437
+
+CHAPTER 06 | DATA MODEL
+
+FIGURE 6.7
+
+The combination of conversion rates creates a performance improvement process.
+
+CR3
+CONVERSION OF THE DISCOVERY CALL
+
+CR4
+
+WIN RATE
+
+<18%
+
+18%
+to
+22%
+
+>22%
+
+<60%
+
+80%
+
+>95%
+
+Process issue. Lots of
+cold calling with no
+relevance for the client.
+
+Train the seller on
+diagnosing: are they
+working as a team?
+
+Train SDRs to qualify
+and sellers to
+diagnose on priority.
+
+Train the SDR on
+identifying deals
+that have a pain.
+
+Effective and eﬃcient
+team; record and
+repeat the process.
+
+Add an AE to the
+SDR; identify the
+source of leads.
+
+Train the seller to
+stop taking on just the
+ready-to-close deals.
+
+Potential to add a
+seller and close
+more deals.
+
+Add a sales team if
+you are in a hot
+market.
+
+TABLE 6.5
+
+Example of a simpliﬁed industry-wide benchmark for SaaS companies based on the Data Model.
+
+ACV
+
+CR1
+
+CR2
+
+CR3
+
+CR4
+
+CR5
+
+CR6
+
+CR7
+
+CR8
+
+Price
+
+Prospect
+→
+Lead
+
+Lead
+→
+Opportunity
+
+Opportunity
+→
+Qualiﬁed
+
+Qualiﬁed
+→
+Commit
+
+1Discount
+Level
+
+1Onboarding
+Churn
+
+Retention
+(GRR)
+
+Expansion
+
+Up to $1k
+
+5%
+
+10%
+
+65%
+
+15%
+
+90%
+
+90%
+
+90%
+
+5%
+
+Up to $5k
+
+7%
+
+12%
+
+70%
+
+17%
+
+85%
+
+92%
+
+92%
+
+10%
+
+Up to $15k
+
+8%
+
+15%
+
+80%
+
+20%
+
+81%
+
+93%
+
+95%
+
+15%
+
+Up to $50k
+
+9%
+
+18%
+
+90%
+
+25%
+
+80%
+
+94%
+
+96%
+
+20%
+
+Up to $150k
+
+10%
+
+20%
+
+95%
+
+30%
+
+78%
+
+98%
+
+97%
+
+25%
+
+Over $150k
+
+n/a
+
+n/a
+
+100%
+
+35%
+
+74%
+
+99%
+
+98%
+
+30%
+
+66
+
+REALTIME
+BENCHMARK
+DATA
+
+An online benchmark featuring the latest metrics is available.
+The goal is to enable contributors to compare speciﬁc Bowtie
+metrics in real time, based on different growth characteristics
+such as ARR and ACV.
+
+FIGURE 6.8
+
+Example trendline of lead development and win rate.
+
+VM4
+
+CR4
+
+OPPORTUNITIES
+
+WIN RATE
+
+500
+
+35%
+SMB
+
+400
+
+30%
+SMB
+
+300
+
+MM
+
+25%
+
+MM
+ENT
+
+ENT
+
+200
+
+20%
+
+100
+
+0
+
+0
+10 QUARTERS
+
+FIGURE 6.9
+
+10 QUARTERS
+
+Mapping the High Touch GTM motion on top of the Data Model.
+ACQUISITION
+
+Awareness
+
+Education
+
+RETENTION AND EXPANSION
+
+Sales
+
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+VM 1
+
+VM 2
+
+VM 3
+
+VM 4
+
+VM 5
+
+VM 6
+
+VM 7
+
+VM 8
+
+VM 9
+
+TARGET
+
+MQA
+
+QUALIFIED
+OPPORTUNITY
+
+WIN
+
+ARRCOMMIT
+
+ARRSTART
+
+ARR
+
+LTV
+
+Targeting
+Accounts.
+
+CHAPTER 06 | DATA MODEL
+
+Proof of
+Concept
+
+Executive
+Referral
+
+Expansion
+
+FIGURE 6.10
+
+Applying the Low Touch GTM Motion to the Data Model.
+ACQUISITION
+
+Awareness
+
+RETENTION AND EXPANSION
+
+Education
+
+VM 1
+
+VM 2
+
+PROSPECT
+
+MQL
+
+Sales
+
+VM 3
+
+Commit
+
+Onboarding
+
+VM 4
+
+VM 5
+
+VM 6
+
+SQL SAL
+
+WIN
+
+MRRCOMMI
+
+Retention
+
+Expansion
+
+VM 7
+
+VM 8
+
+VM 9
+
+MRRSTART
+
+MRR
+
+LTV
+
+T
+
+Thought
+Leadership
+
+FIGURE 6.11
+
+Prevent
+Churn
+
+Email
+Sequencing
+
+Renewal
+
+Applying the No Touch GTM Motion to the Data Model.
+ACQUISITION
+
+Awareness
+
+RETENTION AND EXPANSION
+
+Education
+
+VM 1
+
+VM 2
+
+PROSPECT
+
+HAND RAISE
+
+Sales
+
+VM 3
+
+VM 4
+
+Commit
+VM 5
+
+PQL PQA
+
+Onboarding
+
+VM 6
+
+SIGN UPS
+
+Retention
+
+VM 7
+
+MRRCOMMI
+
+MRRSTART
+
+Expansion
+VM 8
+
+VM 9
+
+MAU/MRR
+
+LTV
+
+T
+
+Great
+Product
+
+FIGURE 6.12
+
+Spread
+Virally
+
+Monthly
+Active Users
+
+Sign Up
+
+The ownership monetization strategy traditionally employs a High Touch motion,
+emphasizing value selling and delegating the realization of impact to the buyer.
+
+T
+AC
+IMP
+
+SUBSCRIPTION
+VALUE
+
+OWNERSHIP
+
+VALUE
+
+CONSUMPTION
+
+IMPACT
+
+68
+
+FIGURE 6.13
+
+The consumption monetization strategy centers on delivering impact and positions the
+seller at the forefront of the risks.
+
+VA
+LU
+
+E
+
+SUBSCRIPTION
+
+IMPACT
+
+OWNERSHIP
+
+CONSUMPTION
+
+IMPACT
+
+VALUE
+
+FIGURE 6.14
+
+The subscription monetization strategy distributes risk between seller and buyer more
+evenly, making it one of the most balanced business models in current use.
+
+OWNERSHIP
+
+CONSUMPTION
+
+IMPACT
+
+VALUE
+
+FIGURE 6.15
+
+T
+IMPAC
+
+VALU
+E
+
+SUBSCRIPTION
+
+The Bowtie: The standardized data model for recurring revenue.
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+
+Prioritization
+
+Awareness
+
+Education
+
+Δt1
+
+Δt2
+
+Δt3
+
+CR1
+
+CR2
+
+CR3
+
+VM1
+
+VM2
+
+CHAPTER 06 | DATA MODEL
+
+Mutual
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+Δt4
+
+Δt5
+
+Δt6
+
+Δt7
+
+Δt8
+
+CR4
+
+CR5
+
+CR6
+
+CR7
+
+CR8
+
+Selection
+
+VM3
+
+VM4
+
+VM5
+
+VM6
+
+VM7
+
+VM8
+
+VM9
+
+Example of different GTM motions mapped to the Bowtie.
+
+ACQUISITION
+
+Awareness
+
+Education
+
+HIGH
+TOUCH
+
+MQA
+
+LOW
+TOUCH
+
+Thought
+Leadership
+
+HAND RAISE
+Great
+Product
+
+RETENTION AND EXPANSION
+
+Sales
+
+Commit
+
+WIN
+
+OPPTY
+
+Targeting
+Accounts.
+
+MQL
+
+NO
+TOUCH
+
+FIGURE 6.16
+
+ONBOARD
+
+Proof of
+Concept
+
+ONBOARD
+
+Email
+Sequencing
+
+PQL
+
+MRR
+Prevent
+Churn
+
+SIGN-UP
+Spread
+Virally
+
+LIVE
+
+Expansion
+
+ARR
+
+Executive
+Referral
+
+WIN
+
+SQL
+
+Retention
+
+Onboarding
+
+ACTIVATE
+
+Sign Up
+
+MAU
+
+Expansion
+
+LTV
+Renewal
+
+MRR
+Monthly
+Active Users
+
+70
+
+TABLE 6.7
+
+Extending the classic Marketing and Sales Funnel into the Bowtie.
+
+The “Classic Funnel” Characteristics
+
+The “Bowtie” Characteristics
+
+Ownership Model.
+
+Ownership Model,
+Subscription Model, and
+Consumption Model.
+
+Growth comes from winning more deals.
+
+Growth comes from winning more deals,
+Retaining existing customers, and
+Expanding business with existing customers.
+
+Dependency on Volume of the leads.
+
+Dependency on Volume of the leads, Quality of the
+leads, and Quality of existing customers.
+
+Decision is commonly based on the
+availability of budget and positive ROI.
+
+Decision is reliant on availability of budget, and
+positive ROI, but a decision is made on Priority.
+
+Measure leads, deals closed, discount, sales
+cycle, revenue, NPS, and churn.
+
+Measure ARR, growth rate, CAC Payback, CTS, FCF,
+MAU, DAU, GRR, and NRR (per GTM motion).
+
+Data are used used primarily to increase lead
+generation and improve sales conversion.
+
+Data are leveraged for continuous and iterative
+improvement of the customer experience and
+measuring a user’s ability to achieve impact.
+
+Right customers are those that do not churn.
+
+Right customers are those that expand.
+
+Limited feedback from post-sale stages,
+often delayed by months (mostly NPS).
+
+Continuous (closed) feedback loop, adapting to
+customer needs and changing behaviors over time.
+
+Always be closing.
+
+No recurring impact. No recurring revenue.
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+EXERCISE 6.1
+
+Turn the Funnel into a Bowtie
+Team Collaboration: Gather the entire GTM team and draw the Bowtie. Begin by
+assigning departments and their respective functions within the model.
+Metrics Identiﬁcation: Identify and illustrate key metrics relevant to the
+business. Determine what is being measured and where. For instance, if the win
+rate is measured from VM3 or VM4, draw an arrow to indicate this. As a group,
+continue to layer the most common metrics over the Data Model. Remember,
+different GTM motions within a company may use varied terminologies.
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+WIN RATE
+
+Awareness
+
+Education
+
+Sales
+
+CHURN
+
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+VM 1
+
+VM 2
+
+VM 3 VM 4
+
+VM 5
+
+VM 6
+
+VM 7
+
+VM 8
+
+VM 9
+
+PROSPECT
+
+MQL
+
+SQL SAL
+
+WIN
+
+MRR1
+
+MRR2
+
+MRR3
+
+LTV
+
+Objectives of this exercise:
+● Align the most important metrics with the Bowtie model. For example, MQL
+may correspond to VM2, marking the end of lead generation and preceding
+lead development.
+● Visualize and understand overlaps and gaps across departments and
+different GTM motions.
+
+72
+
+Common mistakes to avoid:
+● Inconsistent term deﬁnitions across departments.
+● Same terms and deﬁnitions used, but aligned with different timelines,
+affecting metrics like win rate and sales cycle.
+● Ambiguity in term meanings, such as confusion between GRR and NRR.
+EXERCISE 6.2
+
+Normalization: Now let’s lock it in, establish the standardized Data Model for
+your company across time, functions, and different GTM motions.
+● Start with volume metrics: Deﬁne each metric clearly, perhaps in a tabular
+format for ease of understanding. Keep the deﬁnitions concise.
+● Proceed to conversion metrics and ﬁnally, address time metrics.
+GTM MOTION:
+
+Bowtie
+
+Acronym
+
+Description
+
+VM1
+VM2
+VM3
+VM4
+VM5
+VM6
+VM7
+VM8
+
+EXERCISE 6.3
+
+Benchmark
+Use the benchmark via www.benchsights.com/wbd to get
+yourself oriented. Apply your ACV, and get a ﬁrst idea.
+Where appropriate, apply the ﬁlter and keep a close eye on
+the sample size (n) of the data. Once the sample size falls
+below 20, it will default to the generic benchmark.
+
+CHAPTER 06 | DATA MODEL
+
+EXERCISE 6.4
+
+Establish a Trendline of the Metrics: Benchmark your performance by creating
+a trendline. Your chosen timeline should reﬂect the context of your sales cycle.
+For example, if your GTM motion is High Touch and your sales cycle spans 9
+
+Metric A
+
+0
+
+Metric B
+
+0
+Time
+
+Time
+
+Making Data Actionable: To render the data actionable, construct a 2 x 2 matrix
+for a direct comparison of Metrics A and B. Evaluate the outcomes of both
+positive and negative scenarios for each metric, and identify the necessary steps
+for improvement. This method is useful for getting a better understanding of
+how to utilize AI in decision-making.
+
+TOO LONG
+
+ON TARGET
+
+Cut out or
+accelerate
+steps using
+technology.
+
+Document
+the process
+as part of the
+onboarding
+process.
+
+GOOD
+
+Train the
+team on the
+process.
+
+BAD
+
+BAD
+
+GOOD
+
+Onboarding Time
+
+Onboarding Churn
+
+EXERCISE 6.5
+
+Benchmark
+
+Benchmark
+
+months, it's advisable to use quarterly intervals.
+
+Level set:
+Establish a
+process and
+obtain
+benchmark
+data
+
+BAD
+
+GOOD
+
+74
+
+07
+THE MATHEMATICAL
+MODEL
+
+Formula 7.1 depicts the mathematical notation for repeatedly adding numbers,
+represented by the Greek letter Sigma. Sigma, a capital letter in the Greek
+alphabet, corresponds to “S” in the English alphabet and is used in mathematics
+to denote summation. Essentially, Sigma is analogous to Sum.
+5
+
+FORMULA 7-1
+
+y=
+
+∑ x(n)
+n=1
+
+y = x(1) + x(2)
+
++ x(3) + x(4) + x(5)
+
+Formula 7.2 illustrates the mathematical notation for repeatedly multiplying
+numbers, using the Greek letter Pi. Pi corresponds to “P” in our alphabet and is
+commonly used to represent the product of a series of terms. This is akin to the
+initial sound of the word product: Pi is used in the same way as Sigma is
+described above, except the terms are multiplied instead of added.
+5
+FORMULA 7-2
+
+y=
+
+x(n)
+n=1
+
+y = x(1) × x(2) × x(3) × x(4) × x(5)
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+FIGURE 7.1
+
+Each side of the Bowtie is governed by a different mathematical principle. Acquisition is
+governed by multiplying a number of actions, and retention and expansion is about
+adding up the cumulative effects over the years.
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+
+Prioritization
+
+Awareness
+
+Education
+
+CR 1
+
+CR 2
+
+VM 1
+
+VM 2
+
+Selection
+
+CR 3
+VM 3
+
+Mutual
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+CR 5
+
+CR 6
+
+CR 7
+
+CR 8
+
+CR 4
+
+VM 4
+
+VM 5
+
+VM 6
+
+VM 7
+
+VM 8
+
+VM 9
+
+Multiplying the input (VM1), such as leads,
+
+Adding a percentage of the previous year's total to
+
+multiple times exposes it to compound impact.
+
+the next year, the growth becomes exponential.
+
+Number of
+
+Conversion rates for
+
+conversions
+
+Revenue as the
+
+each function
+5
+
+multiplications
+
+n=1
+
+Repeated in numbers
+
+Annual recurring
+
+customer
+
+Revenue
+
+CR(n)
+
+result of repeated
+
+Lifetime of the
+
+accumulated
+over time
+
+revenue
+Lifetime
+
+∑ ARR(t)
+
+t=1
+
+Repeated over time
+
+77
+
+FORMULA 7-3
+
+y=x×n
+
+(linear)
+
+y = 1.15 × 6 = 6.9
+
+FORMULA 7-4
+
+y = xn
+
+(nonlinear)
+
+y=x×x×x×x×x×x
+y = 1.15 × 1.15 × 1.15 × 1.15 × 1.15 × 1.15 = 2.3
+
+It is the difference between these 2 formulas that cause confusion. Plotting both
+in a chart helps us visualize the effects of disproportionate impact.
+
+FIGURE 7.2
+
+Exponential growth causes a disproportionate impact, where the same incremental
+change (Δx) results in a much larger change in output (Δy).
+
+60
+
+n
+
+y=x
+
+50
+
+OUTPUT
+
+40
+
+y=
+
+30
+
+n
+
+.
+×x
+
+Δy = 32
+
+20
+10
+
+Δy = 7
+
+0
+0
+
+6
+
+12
+
+18
+
+24
+
+30
+
+INPUT
+
+Δx
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+Δx
+
+36
+
+FIGURE 7.3
+
+Win rate depicts a seemingly linear relationship in which the win rate (CR4) equals the
+amount of commits (VM5) divided by the number of qualiﬁed opportunities (VM4).
+Sales Cycle
+
+Input [x]
+Qualiﬁed Opportunities
+VM4
+
+Output [y]
+Wins/Commits
+VM5
+
+SUB-SYSTEM
+Selling
+
+Win Rate (CR4)
+
+FORMULA 7-5
+
+Commits (y) = Number of Qualiﬁed Opportunities (y) × Win Rate (CR4)
+
+Now, compare Formula 7-5 with Formula 7-3, and you'll notice they look the
+same.
+
+FORMULA 7-3
+
+FIGURE 7.4
+
+y=x×n
+
+(linear)
+
+The number of commits is the product of the conversion rate of all meetings.
+
+Input [x]
+Qualiﬁed Opportunities
+VM4
+
+Output [y]
+Mutual Commits
+VM5
+
+SUB-SYSTEM
+Selling
+
+Win Rate (CR4)
+
+Emails/Calls
+
+Emails/Calls
+
+Emails/Calls
+
+Emails/Calls
+
+Emails/Calls
+
+Meeting (a)
+
+Meeting (b)
+
+Meeting (c)
+
+Meeting (n)
+
+CR (a)
+
+CR (b)
+
+CR (c)
+
+CR (n)
+
+79
+
+FORMULA 7-6
+
+Commits = Number of Qualiﬁed Opportunities × CR (a) × CR (b) × CR (c) × CR (n)
+
+FORMULA 7-7
+
+Commits = Number of Qualiﬁed Opportunities × CR (n) number of meetings
+
+FORMULA 7-4
+
+y = xn
+
+FORMULA 7-7a
+
+Commits = Number of Qualiﬁed Opportunities × CR (n) number of meetings
+Commits = 20 × 85% 12 meetings
+
+(nonlinear)
+
+= 2.85
+= 2.85 × $40,000 = $113,793
+
+FORMULA 7-7b
+
+Commits = 20 × 90% 12 meetings
+
+= 5.6
+= 5.6 × $40,000 = $225,944
+
+FORMULA 7-7c
+
+Commits = 20 × 90% 13 meetings
+
+= 5.1
+= 5.1 × $40,000 = $203,349
+
+FORMULA 7-7d
+
+Commits = 20 × 90% 11 meetings
+
+= 6.3
+= 6.3 × $40,000 = $251,049
+
+FORMULA 7-7e
+
+20 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 = 5.6
+
+FORMULA 7-7f
+
+Commits = 20 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 × 0.9 = 6.3
+
+80
+
+FIGURE 7.5
+
+An increase in actions (emails) resulting in an exponential decrease in the success rate.
+
+100%
+
+Success Rate
+
+80%
+
+60%
+0.9.
+40%
+
+0.8
+
+0.6
+20%
+
+0
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+Number of Actions (n)
+
+FIGURE 7.6
+
+The acquisition system operates as 3 nonlinear sub-systems in an open-loop setup.
+This conﬁguration is known to cause instability and can lead to a runaway system.
+
+RETENTION AND EXPANSION
+
+ACQUISITION
+
+VM1
+
+VM2
+VM3 VM4
+
+Awareness
+
+Education
+
+VM5
+Mutual
+Commit
+
+Selection
+
+Onboarding
+
+WINS
+OPPORTUNITIES
+LEADS
+PROSPECTS
+
+5
+
+A series of nonlinear, open-loop
+sub-systems operating on:
+
+CR(n)
+n=1
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+An acquisition
+system lacks
+feedback loops
+causing volatility.
+
+Retention
+
+Expansion
+
+TABLE 7.1
+
+A marginal decline in performance of different conversion rates across departments,
+each operating nonlinearly within an open-loop system, causes a sharp decline in ARR.
+
+VM1
+
+FIGURE 7.7
+
+CR1
+
+VM2
+
+CR2
+
+MQLs
+
+VM3
+
+CR3
+
+SQLs
+
+VM4
+
+CR4
+
+SALs
+
+VM5
+
+CR5
+
+VM6
+
+Ref
+
+Prospects
+
+Wins
+
+ARR
+
+Q1
+
+500
+
+12%
+
+60
+
+15.0%
+
+9.0
+
+85%
+
+7.7
+
+30.0%
+
+2.3
+
+90%
+
+$41,310
+
+Q2
+
+475
+
+11½%
+
+55
+
+14½%
+
+7.9
+
+83%
+
+6.6
+
+29.0%
+
+1.9
+
+88%
+
+$33,554
+
+Q3
+
+450
+
+11%
+
+50
+
+14.0%
+
+6.9
+
+82%
+
+5.7
+
+28.0%
+
+1.6
+
+87%
+
+$27,686
+
+Q4
+
+425
+
+10½%
+
+45
+
+13½%
+
+6.0
+
+81%
+
+4.9
+
+27½%
+
+1.3
+
+86%
+
+$23,081
+
+Q5
+
+400
+
+10%
+
+40
+
+13.0%
+
+5.2
+
+80%
+
+4.2
+
+27.0%
+
+1.1
+
+85%
+
+$19,094
+
+Retention and Expansion form a closed loop creating stability within the system.
+
+RETENTION AND EXPANSION
+
+ACQUISITION
+
+VM9
+VM8
+VM7
+VM6
+
+Awareness
+
+Education
+
+Selection
+
+Mutual
+Commit
+
+Onboarding.
+
+Retention
+
+Expansion
+
+ARRCOMMITTED
+ARRSTART
+ARR
+Retention and
+expansion form
+a closed loop.
+
+LTV
+
+A nonlinear, closed-
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+Lifetime
+
+loop sub-system
+
+∑ ARR(t)
+
+that operates on:
+
+i=1
+
+FORMULA 7-8
+
+GRR =
+
+MRR(Start) - MRR(Contraction) - MRR(Churn)
+
+× 100
+
+MRR(Start)
+
+FORMULA 7-8a
+
+GRR =
+
+FORMULA 7-9
+
+NRR =
+
+FORMULA 7-9a
+
+NRR =
+
+FORMULA 7-9
+
+NRR =
+
+FORMULA 7-9a
+
+NRR =
+
+$100,000 - (2x$500) - (3x$1,000)
+$100,000
+
+× 100 = 96%
+
+MRR(Start)+MRR(Expansion)-MRR(Contraction)-MRR(Churn)
+MRR(Start)
+
+VM7 x CR7 x CR8
+VM7
+
+× 100
+
+MRR(Start)-MRR(Contraction)-MRR(Churn)+MRR(Expansion)
+MRR(Start)
+
+$100,000 - (2x$500) - (3x$1,000) + (12x $500)
+$100,000
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+× 100
+
+× 100
+
+× 100 = 102% (or 1.02)
+
+FIGURE 7.8
+
+Deﬁnition of GRR and NRR within the Data Model.
+RETENTION AND EXPANSION
+
+ACQUISITION
+
+VM9
+VM8
+VM7
+VM6
+
+Awareness
+
+Education
+
+Selection
+
+Mutual
+Commit
+
+Onboarding.
+
+Retention
+
+Expansion
+
+MRRCOMMITTED
+MRRSTART
+MRR
+CR 7
+
+CR 8
+
+LTV
+
+GRR
+NRR
+VM 7
+
+FIGURE 7.9
+
+VM 8
+
+NRR and GRR both operate on the same hyperbolic function, but values greater than 1
+versus less than 1 result in different nonlinearities within the ﬁrst 10 years, best
+observed when zoomed out.
+
+“GRR” CURVE
+
+Y = 0.9
+
+“NRR” CURVE
+
+x
+
+Y = 1.1x
+60x
+
+30x
+
+0
+Figure 7.10
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+10
+
+30
+
+Years
+
+60
+
+VM 9
+
+5
+
+LTV =
+
+FORMULA 7-1
+
+∑ ARR (t)
+
+[ t in years ]
+
+t=1
+ARR(Year 1): $100,000
+
+FORMULA 7-1a
+
+ARR(Year 2): $100,000 × 1.10 = $110,000
+ARR(Year 3): $100,000 × 1.10 × 1.10 = $121,000
+ARR(Year 4): $100,000 × 1.10 × 1.10 × 1.10 = $133,100
+ARR(Year 5): $100,000 × 1.10 × 1.10 × 1.10 × 1.10 = $146,410
+
+FORMULA 7-1b
+
+LTV = $100,000 + $110,000 + $121,000 + $133,100 + $146,410 = $610,510
+
+FIGURE 7.10
+
+The nonlinearity of NRR leads to a disproportionate effect that becomes more
+pronounced at higher NRR rates. It is fundamental to driving hypergrowth.
+
+10
+
+Growth Rate
+
+8
+
+NRR = 1.25.
+
+6
+NRR = 1.20
+4
+NRR = 1.15.
+NRR = 1.10.
+
+2
+
+NRR = 1.00.
+GRR = NRR = 0.90.
+
+0
+1
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+3
+
+5
+
+Years
+
+7
+
+9
+
+11
+
+Characteristic for Growth from Acquisition vs. Retention and Expansion.
+
+FIGURE 7.11
+
+RETENTION AND EXPANSION
+
+ACQUISITION
+REFERENCE
+
+VALUE
+
+IMPACT
+
+Figure 6.1
+
+The promise of
+future impact
+
+The fulﬁllment of
+the promised value
+
+OPEN LOOP
+ACTION
+
+CLOSED LOOP
+
+ACTION
+
+ACTION
+
+Figure 4.4
+
+ARR
+
+ACTION
+
+Measured in [n] actions.
+Repeats in frequency such
+as number of meetings.
+
+Measured in [Revenue].
+Repeats over time such as
+an annual price increase.
+
+GO FAST
+
+GO LONG
+
+Figure 6.6
+
+VM1
+
+VM9
+
+Domain Transformation
+VM2
+
+VM8
+VM3
+
+Awareness
+
+Education
+
+VM4
+
+VM7
+VM6
+
+VM5
+
+Selection
+
+Mutual
+Mutual
+Commit
+Commit
+
+Commit
+Opportunity
+
+Onboarding
+
+ARRCOMMITTED
+
+Leads
+
+Retention
+
+Expansion
+
+ARRSTART
+ARR
+
+Prospects
+
+LTV
+
+Multiplicative
+
+x
+
+ARR
+
+∏ Conversion Rate / Action (n)
+
+Additive
+
+Lifetime
+Figure 7.1
+
+∑ Annual Revenue / Year (t)
+i=1
+
+n=1
+
+Accumulation
+
+Attrition
+
+1
+Figure 7.9
+
+(%)
+
+(%)
+
+1
+(n)
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+(t)
+
+FIGURE 7.12
+
+The characteristics of the frequency and time domains explained.
+
+RETENTION AND EXPANSION
+
+ACQUISITION
+(i)
+
+(ii)
+
+(iii)
+
+Something starts
+small, and it grows
+over time. Like a
+snowball rolling down
+a hill. Time is a critical
+part of the result.
+
+A series of small
+improvements can
+make a huge impact,
+but you have to
+repeat it again and
+again manually.
+
+Frequency
+
+TABLE 7.2
+
+Time
+
+Growth formula of a Low Touch GTM motion: 928 visitors generate $67,555 in ARR.
+
+Visitors
+
+Visited
+
+Leads
+
+Interested
+
+Oppty
+
+Qualiﬁed
+
+Q'Oppty
+
+[VM1]
+
+[CR1]
+
+[VM2]
+
+[CR2]
+
+[VM3]
+
+[CR3]
+
+[VM4]
+
+928
+
+12.00%
+
+111
+
+15.00%
+
+17
+
+84.50%
+
+14
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+Win Rate
+
+Commit
+
+Discount
+
+List Price
+
+ARR(commit)
+
+[CR4]
+
+[VM5]
+
+[CR5]
+
+$24,000
+
+[VM6]
+
+26.00%
+
+3.7
+
+23.30%
+
+$18,408
+
+$67,555
+
+TABLE 7.3
+
+Normalized Growth Formula, providing unit economics for a single win.
+
+Visitors
+
+Visited
+
+Leads
+
+Interested
+
+Oppty
+
+Qualiﬁed
+
+Q'Oppty
+
+[VM1]
+
+[CR1]
+
+[VM2]
+
+[CR2]
+
+[VM3]
+
+[CR3]
+
+[VM4]
+
+253
+
+12.00%
+
+30
+
+15.00%
+
+5
+
+84.50%
+
+4
+
+Win Rate
+
+Commit
+
+Discount
+
+List Price
+
+ARR(commit)
+
+[CR4]
+
+[VM5]
+
+[CR5]
+
+$24,000
+
+[VM6]
+
+26.00%
+
+1.0
+
+76.70%
+
+$18,408
+
+$18,408
+
+5
+
+FORMULA 7-8
+
+ARR (Commit) = Visitors × ∏ CR[n] × List Price
+n=1
+
+= 253 × CR[1] × CR[2] × CR[3] × CR[4] × CR[5] × $24,000
+= 253 × 0.12 × 0.15 × 0.845 × 0.26 × 0.767 × $24,000
+=
+
+TABLE 7.4
+
+1
+
+$18,408
+
+= $18,408
+
+Simulation of the impact of an economic downturn on the “Acquisition System.”
+
+Visitors
+
+Visited
+
+Leads
+
+Interested
+
+Oppty
+
+Qualiﬁed
+
+Q'Oppty
+
+[VM1]
+
+[CR1]
+
+[VM2]
+
+[CR2]
+
+[VM3]
+
+[CR3]
+
+[VM4]
+
+253
+
+12.00%
+
+30
+
+15.00%
+
+5
+
+84.50%
+
+4
+
+240
+
+11.40%
+
+27
+
+14.25%
+
+4
+
+80.28%
+
+3
+
+Win Rate
+
+Commit
+
+Discount
+
+List Price
+
+ARR(commit)
+
+[CR4]
+
+[VM5]
+
+[CR5]
+
+$24,000
+
+[VM6]
+
+26.00%
+
+1.0
+
+76.70%
+
+$18,408
+
+$18,408
+
+24.70%
+
+0.8
+
+24.47%
+
+$13,904
+
+$10,759
+
+88
+
+TABLE 7.5
+
+TABLE 7.6
+
+Simulation of the win rate needed to secure the same amount of ARR.
+
+Visitors
+
+Visited
+
+Leads
+
+Interested
+
+Oppty
+
+Qualiﬁed
+
+Q'Oppty
+
+[VM1]
+
+[CR1]
+
+[VM2]
+
+[CR2]
+
+[VM3]
+
+[CR3]
+
+[VM4]
+
+253
+
+12.00%
+
+30
+
+15.00%
+
+5
+
+84.50%
+
+4
+
+Win Rate
+
+Commit
+
+Discount
+
+List Price
+
+ARR(commit)
+
+[CR4]
+
+[VM5]
+
+[CR5]
+
+$24,000
+
+[VM6]
+
+19.94%
+
+0.8
+
+0.00%
+
+$24,000
+
+$18,408
+
+Calculating Lifetime Value based on a 5-year horizon.
+
+ARR(start)
+
+Retention
+
+Expansion
+
+NRR
+
+ARR
+
+[VM7]
+
+[CR7]
+
+[CR8]
+
+[CR7/8]
+
+[VM9]
+
+Year 1
+
+$18,408
+
+98.0%
+
+102.0%
+
+99.96%
+
+$18,401
+
+Year 2
+
+$18,401
+
+95.0%
+
+128.0%
+
+121.60%
+
+$22,375
+
+Year 3
+
+$22,375
+
+94.0%
+
+112.0%
+
+105.28%
+
+$23,557
+
+Year 4
+
+$23,557
+
+95.0%
+
+108.0%
+
+102.60%
+
+$24,169
+
+Year 5
+
+$24,169
+
+LTV(5Y)
+
+$106,909
+
+89
+
+TABLE 7.7
+
+Over a 7-year span, the comparison of 3 monetization strategies reveals one
+superior model.
+
+MODEL 1.
+Ownership
+Paid Up Front
+
+MODEL 2.
+Annual
+Subscription
+
+MODEL 3.
+Annual Subscription
+w/ a 10% annual increase
+
+y = constant
+
+y=x×n
+
+y = xn
+
+$2,000
+
+$400
+
+$400
+
+Year 2
+
+$800
+
+$840
+
+Year 3
+
+$1,200
+
+$1,324
+
+Year 4
+
+$1,600
+
+$1,856
+
+Year 5
+
+$2,000
+
+$2,442
+
+Year 6
+
+$2,400
+
+$3,086
+
+Year 7
+
+$2,800
+
+$3,795
+
+$2,800
+
+$3,795
+
+Year 1
+
+Total
+
+Plotting the 3 monetization strategies illustrates the non-linear growth impact of a
+subscription service with an annual 10% price increase.
+
+Subscription with
+an annual increase
+y = x n.
+
+$4,000
+
+Lifetime Value [in USD]
+
+FIGURE 7.13
+
+$2,000
+
+Subscription based
+on a ﬂat fee
+y = x × n.
+
+$3,000
+
+Ownership
+y = constant.
+
+$2,000
+
+Upfront Cost
+$1,000
+
+$0
+0
+
+Year 1
+
+Year 2
+
+Year 3 Year 4 Year 5
+
+Year 6 Year 7
+
+Length of commitment
+
+90
+
+FIGURE 7.14
+
+The price increase of Netﬂix through small changes, spread over different time intervals,
+and diversiﬁcation of packages masks the nature of an exponential price increase.
+
+Trendline
+Premium
+$19.99/mo
+
+$20
+
+Monthly Fee
+
+$16
+
+Standard
+$15.49/mo
+Launch of
+Premium
+
+$12
+Basic
+$9.99/mo
+
+Basic
+$7.99/mo
+
+$8
+
+Basic
+price increase
+
+Basic
+with Ads
+
+$4
+
+2007
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+2023
+
+Time (years)
+
+FIGURE 7.15
+
+The simpliﬁed Mathematical Model shows that both acquisition and expansion are based
+on nonlinearity, but operate on a different exponent, creating a different response.
+
+RETENTION AND EXPANSION
+
+ACQUISITION
+
+∑
+OPEN LOOP
+Action
+
+Action
+
+Action
+
+x number of actions
+
+CLOSED LOOP
+Action
+
+Mutual
+Commit
+
+Action
+
+xtime
+
+91
+
+EXERCISE 7.1
+
+Establish an acquisition Growth Formula for the most prominent GTM motion.
+Use a trendline to extrapolate conversion rates based on trends from the past
+few months or quarters.
+
+EXERCISE 7.2
+
+Visitors
+
+Visited
+
+Leads
+
+Interested
+
+Oppty
+
+Qualiﬁed
+
+Q'Oppty
+
+[VM1]
+
+[CR1]
+
+[VM2]
+
+[CR2]
+
+[VM3]
+
+[CR3]
+
+[VM4]
+
+Win Rate
+
+Commit
+
+Discount
+
+List Price
+
+ARR(commit)
+
+[CR4]
+
+[VM5]
+
+[CR5]
+
+$24,000
+
+[VM6]
+
+Establish an expansion Growth Formula for the most prominent GTM motion.
+Carry forward the VM6 from the previous step and ﬁll in the ﬁelds. Propagate
+it across 5 years to calculate the customer LTV for 5 years.
+
+ARR(commit)
+
+Onboarding
+
+ARR(start)
+
+NRR
+
+ARR
+
+[VM6]
+
+[CR6]
+
+[VM7]
+
+[CR7/8]
+
+[VM9]
+
+Year 2
+Year 3
+Year 4
+Year 5
+LTV(5Y)
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+EXERCISE 7.3
+
+Normalize the Acquisition part of the Growth Formula to a single commit.
+Visitors
+
+Visited
+
+Leads
+
+Interested
+
+Oppty
+
+Qualiﬁed
+
+Q'Oppty
+
+[VM1]
+
+[CR1]
+
+[VM2]
+
+[CR2]
+
+[VM3]
+
+[CR3]
+
+[VM4]
+
+Win Rate
+
+Commit
+
+Discount
+
+List Price
+
+ARR(commit)
+
+[CR4]
+
+[VM5]
+
+[CR5]
+
+$24,000
+
+[VM6]
+
+1
+
+EXERCISE 7.4
+
+Normalize the Expansion part of the Growth Formula to a single commit.
+ARR(commit)
+
+Onboarding
+
+ARR(start)
+
+NRR
+
+ARR
+
+[VM6]
+
+[CR6]
+
+[VM7]
+
+[CR7/8]
+
+[VM9]
+
+Year 2
+Year 3
+Year 4
+Year 5
+LTV(5Y)
+
+EXERCISE 7.5
+
+Based on the normalized Growth Formula, determine the unit economics.
+To create ____ in revenue, we will need ______ leads per month.
+It will take ____ leads to turn into ______ opportunities.
+Then, it takes _____ opportunities to gain the commitment on one deal.
+Each deal, on average, brings us _____ in annual recurring revenue.
+If we sustain our NRR over the next 5 years, the LTV/customer is ___________.
+
+Remember, this is an example of an open loop, inbound-based system
+normalized against one commit. It's important to customize this approach
+for all of the speciﬁc GTM motions you have.
+
+93
+
+EXERCISE 7.6
+
+Run scenarios based on the Growth Formula to learn how the business scales.
+Carefully evaluate the results of the different scenarios, as they will provide
+insights into how your business scales. "Scalability" refers to how the system
+responds to various adjustments. Here are a few scenarios to consider:
+● Apply a 10% increase to each conversion metric (VM1 and CR1 to CR5)
+and assess the impact on ARRSTART and LTV. Remember to normalize
+the discount ﬁrst. For example, if you are offering a 20% discount, a 10%
+improvement on the discount would be 18%. Normalizing this means
+that CR5 changes from 0.8 to 0.82.
+● Explore changes to the NRR with increments of 5%, and observe the impact.
+Don't forget to decrease the NRR by 5% increments as well.
+● Extend the length of the LTV from 5 to 6 to 7 years, and analyze the effects.
+Conversely, shorten the LTV to 4 years and then to 3 years.
+It's important to note that while scalability focuses on the system's response,
+sustainability takes costs into account. In Chapter 10, we will discuss the GTM
+model and its relationship to the costs associated with scalability.
+
+EXERCISE 7.7
+
+Establish a scalability thesis.
+Based on this, you may have gained a good idea of how to drive short- and
+long-term revenue growth. Now, let's establish the top 3 metrics that your
+company needs to focus on based on scalability:
+1. ________________________________________________________________________________________
+________________________________________________________________________________________
+2. ________________________________________________________________________________________
+________________________________________________________________________________________
+3. _________________________________________________________________________________________
+________________________________________________________________________________________
+
+CHAPTER 07 | MATHEMATICAL MODEL
+
+P A R T III
+BUILD
+
+95
+
+FIGURE III
+
+The dynamic models are the models a business operates in daily.
+
+PART III. DYNAMIC MODELS
+These models are where a
+GTM team operates daily.
+It's important to note that the
+operating model is currently
+absent in many SaaS companies.
+
+6. The GTM Model
+
+5. The Growth Model
+
+4. The Operating Model
+
+3. The Mathematical Model
+
+2. The Data Model
+
+1. The Revenue Model
+
+96
+
+08
+THE OPERATING MODEL
+
+FIGURE 8.1
+
+Departments operate independently, leading to ineﬃciencies. This disjointed approach
+makes it challenging for customers to experience consistent, recurring impact.
+
+Target
+
+Retention
+
+Outbound
+
+Sales
+Expansion
+
+Inbound
+
+FIGURE 8.2
+
+Onboard
+
+The number of interconnections to gain a mutual commitment from a set of targeted
+accounts using a high touch GTM motion.
+
+BUYING CENTER
+
+MESSAGING
+
+ICP
+
+TARGETS
+
+ABM
+MEDDIC
+NURTURE
+
+CHAPTER 08 | OPERATING MODEL
+
+COMMIT
+
+FIGURE 8.3
+
+The root cause of the GTM issue is that the number of interconnections between
+various means and methods increases exponentially with each additional GTM motions,
+this causes cost to escalate and productivity to decline.
+
+MESSAGING
+
+BUYING CENTER
+ICP
+
+SEO
+
+ABM
+
+BANT
+
+COMMIT
+
+CONTENT
+
+MEDDIC
+TARGETS
+
+FREEMIUM
+
+INBOUND
+NURTURE
+
+FIGURE 8.4
+
+The 3 components of an operating system in software.
+
+APPLICATIONS
+
+INTER FACE
+
+Application
+Programming
+Interface
+
+CHAPTER 08 | OPERATING MODEL
+
+SYSTEM
+
+FIGURE 8.5
+
+The 3 components of the uniform customer centric methodology.
+
+ICP
+ABM
+PLG
+SEO
+
+CHAP
+OEM
+BANT
+
+MEANS &
+METHODS
+
+INTER
+
+SPIN
+
+BOWTIE
+
+FACE
+
+NPS
+A standard Data Model
+based on a common
+language (Impact).
+
+VAR
+SEM
+
+FIGURE 8.6
+
+Interface for all
+Means & Methods
+
+MEDDIC
+
+The relationship between Situation, Pain, Impact, Critical Events and Decision.
+
+FIRST PRINCIPLE
+Recurring Revenue is the
+result of Recurring Impact.
+
+PAIN
+
+SITUATION
+An existing situation
+leads to a pain point
+(or presents a large
+opportunity).
+
+FIGURE 8.7
+
+.
+
+CRITICAL EVENT
+
+IMPACT
+
+This highlights
+the necessity for
+change or Impact.
+
+The Impact is needed
+by an upcoming event
+which creates a sense
+of urgency.
+
+DECISION
+
+A decision must be
+made to attain Impact
+before a critical event
+occurs.
+
+The most common types of Impact are Quantitative, this is called Rational Impact.
+
+Rational Impact
+
+More Proﬁt
+
+Increase
+Revenue
+
+CHAPTER 08 | OPERATING MODEL
+
+Increase Volume
+
+Reduce
+Cost
+
+Sell
+More
+
+Open New
+Markets
+
+FIGURE 8.9
+
+Purchasing a product in B2B is not just about "saving money." The complexity stems
+from the involvement of dozens of humans, each wanting something different.
+
+Sales Process
+
+Rational Impact
+
+Emotional Impact
+
+Example sales process
+consisting of 5 stages
+with 12 meetings.
+
+The rational impact stays
+relatively the same across
+the entire journey.
+
+As more people are introduced
+to the process, more emotional
+impacts are involved.
+
+MEETING 1, 3
+
+Initiator
+
+Discovery
+Discovery
+
+Establish the situation
+and identify the pain (or
+opportunity).
+
+MEETING 2, 4, 6
+
+STAKEHOLDERS
+Champion
+
+Demo
+Demo
+
+Decider
+
+Demo
+
+New factors are
+discovered, they
+change the ROI.
+
+MEETING 5, 7, 8
+Assist
+Assist
+
+Assist
+
+Operations
+MEETING 9, 10
+
+Beta Users
+
+Propose
+Propose
+
+Finance gets
+involved causing
+changes to the ROI.
+
+MEETING 11, 12
+
+Security
+Finance
+
+Propose
+Commit
+
+3
+
+ACTIVATE
+ONBOARD
+
+CxO
+
+Rational Impacts
+● Increase in revenue
+● Decrease cost
+● Save time
+
+0+
+Emotional Impacts
+● Internal politics
+● Personal preferences
+● Human habits
+
+101
+
+Impact goes across the entire customer journey, creating a uniform customer-centric
+language between actions, roles, and functions.
+
+FIGURE 8.10
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+FIRST PRINCIPLE.
+
+Awareness
+
+Education
+
+Selection
+
+4
+5
+6
+
+7
+Unaware
+of Impact
+
+Mutual
+Commit
+
+Discovery
+of Impact
+
+Prioritize
+on Impact
+
+Onboarding
+
+Retention
+
+Expansion
+
+3
+
+Buy on Commit
+Impact to Impact
+
+IMPACT REALIZED.
+
+PROMISE OF IMPACT.
+
+Recurring Revenue is the
+result of Recurring Impact.
+
+2
+Achieve
+1st Impact
+
+1
+Recurring
+Impact
+
+2
+Maximum
+Impact
+
+IMPACT is the one constant across
+the entire customer journey
+
+Solution selling is about pitching a product against the customer's Situation and Pain.
+
+ENGAGEMENT
+
+FIGURE 8.11
+
+Pain
+
+What is the..
+What is the..
+
+Good Pitch
+
+Pain
+Bad Pitch
+
+Situation
+Situation
+
+Solution selling
+vacillates between
+Situation and Pain
+questions.
+
+Situation
+Conversation
+TIME
+
+102
+
+FIGURE 8.12
+
+A summary following a diagnosis establishes a platform offering multiple options.
+
+IMPACT
+
+ENGAGEMENT
+
+PLATFORM
+
+PITCH/DEMO
+
+Summarize
+What is the..
+
+RESET
+
+Pain
+
+What is the..
+
+Pain
+
+Taking detailed notes is crucial
+to ensure a summary represents
+the customer's Situation and
+Pain accurately.
+
+Situation
+Situation
+Situation
+
+Conversation
+TIME
+
+The summary sets up a platform, shifting from a solution-based pitch to a consultative
+approach that uncovers the impact.
+
+CONSULTATIVE
+“When do
+you need
+this by?”
+
+Empathize by letting a
+customer know “I run
+into this all the time.”
+
+Increases in
+customer
+engagement
+ENGAGEMENT
+
+FIGURE 8.13
+
+Empathize
+
+Impact
+Story
+
+Critical Event
+“What
+happens if you
+miss that date?”
+
+Use of a customer story
+to establish the impact
+others have experienced.
+
+PLATFORM.
+
+SOLUTION
+
+Summarize
+Pain
+Situation
+Conversation
+
+TIME
+
+103
+
+FIGURE 8.14
+
+“Man in the Hole” by Kurt Vonnegut using Situation, Pain, and Impact to create a
+repeatable customer story in 3 parts.
+
+PART 1
+
+PART 2
+
+PART 3
+
+IMPACT
+
+n.
+
+1
+
+2. C
+PAIN
+
+Causation
+Since no action was
+taken this resulted in
+a negative Impact.
+
+3. Ca
+usatio
+n.
+
+n.
+
+tio
+The pain the
+customer experienced
+caused by the situation.
+
+The perceived Impact
+
+orre
+latio
+
+SITUATION
+
+.
+ion
+
+lat
+
+e
+orr
+.C
+
+a
+us
+Ca
+
+ENGAGEMENT
+
+Describe a similar
+situation of another
+customer.
+
+When the problem
+was solved, the
+customer thrived.
+
+IMPACT
+TIME
+
+FIGURE 8.15
+
+To uncover Impact is like peeling back layers of an onion, one at a time.
+
+Layers of questions to uncover
+Rational & Emotional Impact.
+
+I
+
+P AIN
+
+S ITUATION
+
+MPACT
+
+There are 2 kinds of
+Impact, Quantitative
+(Rational) and Qualitative
+(Emotional) Impact.
+
+I
+104
+
+FIGURE 8.16
+
+Impact and Critical Events are interconnected, and they occur not only during
+acquisition but also in retention and expansion phases.
+
+When do you
+need that by?
+
+I
+IMPACT
+
+CRITICAL
+EVENT
+
+Priority = Impact (Time)
+
+FORMULA 8-1
+
+Priority is depicted as a function of ﬂuctuating impact over time, a concept teams may
+not be accustomed to handling—especially in contrast to static measures such as
+budget availability or a ﬁxed RoI commonly used in perpetual software sales.
+
+This is the Impact
+caused by the Critical
+Event
+Critical Event
+
+IMPACT
+
+FIGURE 8.17
+
+CE
+
+What happens if
+you miss that date?
+
+Critical Event
+
+CRITICAL EVENT
+
+THRESHOLD
+A solution
+should have
+been in place.
+Proposal
+due date
+
+Customer has
+gone dark
+
+COMPELLING EVENT
+Customer has
+become an
+educated buyer
+
+TIME
+
+105
+
+FIGURE 8.18
+
+Prioritization of the account is crucial throughout the entire customer journey to make
+sure the customer gets the best amount of resources in context of their spend.
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+
+Mutual
+Awareness
+
+Education
+
+Selection
+
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+Prioritization
+
+TABLE 8.1
+
+Critical Event Timeline - reverse order - starting with customer Impact.
+
+Event
+
+Date
+
+Activity
+
+First Impact
+
+October 12
+
+The annual company all-hands meeting
+
+Deployment and Testing
+
+September 29
+
+Installation, training, and testing
+
+Mutual Commitment
+
+September 15
+
+Executed paperwork
+
+Legal Review
+
+September 1
+
+The draft contract goes into legal review
+
+Scope Sign-off
+
+August 22
+
+Stakeholder agreement on the scope
+
+106
+
+TABLE 8.2
+
+A description of the 9 roles that exist within the buying center.
+
+Role*
+
+Description**
+
+Initiators
+
+The ones who ﬁrst suggest or initiate the contact (S, P).
+
+Users
+
+Individuals who will directly use the product or service (S, P, I).
+
+Champions
+
+An advocate within the organization who helps the seller (S, P, I).
+
+Deciders
+
+Members who make the ﬁnal purchasing decision (I, CE).
+
+Gatekeepers
+
+Those who controls (vetoes) the decision process (I, CE).
+
+Inﬂuencers
+
+People who provide information or criteria for evaluating options (I, CE).
+
+Executive Buyer
+
+The person responsible to realize the impact (I, CE, D).
+
+Approvers
+
+Individuals who authorize the proposed actions of deciders or buyers (I, D).
+
+Purchaser
+
+The member who handles the actual procurement process (I, D).
+
+*These roles can overlap, and one person can fulﬁll multiple roles, especially in smaller organizations.
+**The element of a diagnosis most relevant to the role (Situation, Pain, Impact, Critical Event, and Decision).
+
+FIGURE 8.19
+
+A decision process for a mid-touch GTM motion involving 4 different roles.
+
+ELEMENT OF THE DIAGNOSE
+
+Situation
+
+Pain
+
+Impact
+
+Critical Event
+
+Decision
+
+ENGAGEMENT
+
+DECIDER
+Provoke
+
+Approve
+
+CHAMPION
+Verify
+
+Consult
+
+EXEC BUYER
+
+INITIATOR
+Workshop
+EVENT
+
+TIME
+
+CHAPTER 08 | OPERATING MODEL
+
+FIGURE 8.20
+
+A more complex and realistic decision process involving 7 different roles
+within the buying center.
+ELEMENT OF THE DIAGNOSE
+
+Situation
+
+Pain
+
+Impact
+
+Critical Event
+
+Decision
+
+DECIDER
+
+ENGAGEMENT
+
+Provoke
+
+Identify
+
+Roadblocks
+
+INFLUENCER
+
+CHAMPION
+Consult
+
+Enable
+Advice
+GATEKEEPER
+
+INITIATOR
+
+Verify
+
+Check
+
+Stakeholder meeting
+USER
+
+Workshop
+
+EXEC BUYER
+
+Trial
+EVENT
+
+TIME
+
+Historically, decision criteria were stack-ranked and weighted, giving an academic
+facade to the decision-making process. However, this often masked the subjectivity of
+the decision. In contrast, using Impact as a criterion shifts the decision towards
+causality. This allows at a later date, to see if the promised Impact was achieved.
+
+2
+
+4
+
+2. Performance
+
+1
+
+2
+
+3
+
+4
+
+$$$
+
+-$$$
+
+♡
+
+3. Integration
+
+3
+
+2
+
+1
+
+4
+
+-$
+
+-$$
+
+♡
+
+4. Support
+
+2
+
+3
+
+4
+
+1
+
+-$
+
+♡♡
+
+Experience
+
+1
+
+Cost
+
+No action
+
+3
+
+Revenue
+
+Substitute
+
+1. Price
+
+Impact
+
+Competitor
+
+Step 4.
+
+You
+
+Step 2.
+
+Options
+
+FIGURE 8.21
+
+Criteria
+
+-$
+
+Step 1
+
+Ranking
+
+Step 3.
+
+108
+
+FIGURE 8.22
+
+By calculating the Impact of each criterion a new stack rack develops with the most
+impactful impact likely being ranked the highest.
+
+DECISION CRITERIA
+
+Add a new criteria
+into the mix that
+provides Impact.
+
+Price has the least
+amount of Impact
+on a business.
+
+CHAPTER 08 | OPERATING MODEL
+
+IMPACT ON REVENUE
+
+1. Performance
+
+Increases revenue by $2,000/mo
+
+2. Feature X
+
+Increases revenue by $1,500/mo
+
+3. Integration
+
+Save $15k one-time + $500/mo
+
+4. Support
+
+SLA of 2-hour response time
+
+5. Price
+
+Increases costs by $500/month
+
+When you stack
+rank based on
+impact the
+importance of
+price tends to be
+deprioritized.
+
+FIGURE 8.23
+
+In the era of high velocity and cost eﬃcient growth, having a uniform methodology such
+as SPICED is not an option but a necessity.
+
+S
+SITUATION
+SEQUENTIAL
+
+Represents the problem or opportunity the customer is
+facing and for which they require a solution. Pain is often
+initially expressed at a surface level, and a deeper diagnosis
+is needed to uncover the underlying needs.
+
+P
+PAIN
+
+CUSTOMER
+CENTRIC
+
+Relevant background facts or circumstances about the
+customer's organization. It includes company size, location,
+number of employees, software used, hiring needs, security
+requirements, maturity level, and revenue goals.
+
+Speciﬁc outcomes that can be achieved by addressing the
+
+I
+IMPACT
+
+customer's pain. It encompasses both Emotional Impact,
+which relates to individual experiences, and Rational Impact,
+which focuses on the overall beneﬁts for the company.
+
+CAUSAL
+
+CE
+CRITICAL
+EVENT
+
+DECISION
+
+FIGURE 8.24
+
+customer must achieve the desired Impact or face
+negative consequences. Critical events drive behavior,
+inﬂuence actions, expand product usage, renew, and upsell.
+
+The people involved, the decision-making process, and
+
+D
+
+DECISION AS AN
+OUTCOME
+
+A deadline or time-sensitive milestone by which the
+
+the criteria used to evaluate and select the right solution.
+Understanding these aspects is crucial for effectively
+navigating the decision-making journey with the customer.
+
+The SPICED framework acts as an Interface between the different actions.
+
+SPICED
+
+?
+
+STORY
+
+SPICED
+
+CHAPTER 08 | OPERATING MODEL
+
+SPICED
+
+DIAGNOSE
+SPICED
+
+DECISIONMAKING
+PROCESS
+
+DECISION
+CRITERIA
+SPICED
+
+?
+
+The causal relationship reﬂects an increase in relevance.
+
+S
+
+LEAST
+RELEVANT
+
+TIER 1. <BUSINESS AS USUAL>
+
+I noticed on LinkedIn that you are the _________ at a
+
+SITUATION
+
+__________ in the ___________ industry.
+
+TIER 2. <NICE TO HAVE>
+
+P
+
+I read your article in _________ , and you mentioned
+
+PAIN
+INCREASE IN RELEVANCE
+
+that you have problems with _________.
+
+TIER 3. <COMPELLING EVENT>
+
+I
+
+John, your head of OPS team mentioned you need
+
+IMPACT
+
+to solve _________ to increase __________.
+
+CE
+
+TIER 4. <CRITICAL EVENT>
+
+Jennifer mentioned you need to hit ________ , no
+
+CRITICAL
+EVENT
+
+TIER 5. <MANDATORY EVENT>
+
+D
+
+MOST
+RELEVANT
+
+The government mandates you have a solution in
+
+DECISION
+
+place by __________.
+
+S
+
+Awareness
+
+P
+
+INBOUND
+Customer has a Pain,
+sellers assess if the
+Impact can be achieved.
+
+Lead Gen
+
+Education
+
+I
+
+Qualify .
+
+CE
+
+DEAL
+
+QUALIFIED
+
+OPPORTUNITY
+
+By overlaying SPICED onto the Bowtie model and mapping inbound and outbound
+methodologies across the customer journey, we gain insight into the signiﬁcant
+differences between the two.
+
+LEAD
+
+FIGURE 8.26
+
+later than _______ , or else _____.
+
+PROSPECT
+
+FIGURE 8.25
+
+Selection
+
+D
+
+Mutual
+Commit
+
+Lead Dev
+
+OUTBOUND/TARGETING
+Target on Impact, sellers research,
+reach out, start a conversation, pitch,
+handle objections, and close.
+
+111
+
+The difference in generating leads through outbound prospecting and targeting differs
+in the number of individuals they address in various roles across a company.
+
+OUTBOUND PROSPECTING
+
+TARGETING
+
+Address few people
+in many accounts.
+
+Address many people
+in a few accounts.
+
+OR
+
+GC
+
+HA
+RT
+
+FIGURE 8.27
+
+Situation- and
+Pain-based relevance
+
+Using SPICED to create a tiered target account list.
+
+ACCOUNT LIST
+
+STEP 3. Enrich the
+
+account database
+with SPICED data.
+
+STEP 2. Analyze what
+
+the customers have in
+common using SPICED.
+
+ENRICH
+
+STEP 4. Filter based
+
+on what’s important.
+STEP 5. Establish
+
+QUALIFIED
+ACCOUNTS
+
+the tier criteria.
+STEP 1. Select existing
+
+customers we want
+more of.
+
+EXISTING
+CUSTOMERS
+
+T1
+
+T2
+
+T3
+
+Situation
+
+Yes
+
+Yes
+
+Yes
+
+Pain
+
+Yes
+
+Yes
+
+Impact
+
+Likely
+
+Critical Event
+
+Yes
+
+Compelling
+
+TIERED QUALIFIED ACCOUNTS
+
+FIGURE 8.28
+
+Impact- and Critical
+Event–based relevance
+
+112
+
+FIGURE 8.29
+
+By integrating SPICED into ICPs, it can be applied across the entire customer journey.
+SPICED now serves as a versatile interface between various actions and ensures
+coherence throughout different stages of customer engagement.
+
+BUYING
+CENTER
+
+DECISION
+PROCESS
+
+STORY
+
+DECISION
+CRITERIA
+
+DIAGNOSE
+S P I CE D
+
+BUYER
+PERSONA
+
+I
+
+R
+USE
+E
+D SCIDER
+P S
+CHAMPION
+PS
+CE
+I
+I
+
+S ituation
+P ain
+
+P
+CE
+
+I mpact
+
+CE
+
+C ritical E vent
+D ecision
+
+How to diagnose/uncover Impact connects directly to Metrics and Identify Pain.
+
+M etrics
+CRITICAL EVENT
+
+E conomic Buyer
+D ecision Criteria
+D ecision Process
+
+IMPACT
+ENGAGEMENT
+
+FIGURE 8.30
+
+STORY
+EMPATHIZE
+SUMMARIZE
+PAIN
+
+I dentify Pain
+SITUATION
+
+C hampion
+
+PREPARE
+TIME
+
+SITUATION
+
+PAIN
+
+IMPACT
+
+CRITICAL EVENT
+
+113
+
+FIGURE 8.31
+
+Quantitative decision criteria leverage the Impact uncovered in Step 1.
+
+CRITERIA
+
+COMPETITOR
+
+NO ACTION
+
+D ecision Process
+
+1. PRICE
+
+3
+
+2
+
+1
+
+2. PERFORMANCE
+
+1
+
+2
+
+3
+
+$$$
+
+$$$
+
+♡
+
+3. INTEGRATION
+
+3
+
+2
+RANK
+
+1
+
+$
+
+$$
+
+♡
+
+I dentify Pain
+C hampion
+
+FIGURE 8.32
+
+CX
+
+COST
+
+IMPACT
+REVENUE
+
+E conomic Buyer
+
+OPTIONS
+
+D ecision Criteria
+
+YOU
+
+M etrics
+
+$
+
+Decision process mapped to MEDDIC.
+
+M etrics
+
+UNCOVER IMPACT
+DECIDER
+
+D ecision Criteria
+
+ENGAGEMENT
+
+E conomic Buyer
+CHAMPION
+
+INFLUENCER
+
+GATEKEEPER
+INITIATOR
+
+D ecision Process
+
+USER
+
+I dentify Pain
+
+EXEC BUYER
+
+EVENT
+TIME
+
+C hampion
+
+CHAPTER 08 | OPERATING MODEL
+
+SITUATION
+
+PAIN
+
+IMPACT
+
+CRITICAL EVENT
+
+DECISION
+
+FIGURE 8.33
+
+Using the SPICED interface MEDDIC can interface with other interoperable means and
+methods, and be applied in multiple GTM motions across the entire customer journey.
+
+BUYER
+PERSONA
+
+MEDDIC.
+
+DECISIONPROCESS
+
+STORY
+
+BUYING
+CENTER
+
+DECISION
+CRITERIA
+
+DIAGNOSE
+SPICED
+
+FIGURE 8.34
+
+Four distinct sales methodologies in use in B2B sales today, each engaging with
+customers at different stages of the customer journey.
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+
+Awareness
+
+Education
+
+Selection
+
+Realize there
+is a problem
+(or oppty)..
+
+Gain insights
+on various
+solutions.
+
+Determine
+a course of
+action.
+CLOSE.
+DEMO.
+
+DIAGNOSE.
+PROVOKE.
+
+Mutual
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+Transactional
+Solution.
+Consultative.
+
+DIY by the Buyer
+Seller Assisted
+Key Action
+
+Provocative.
+
+115
+
+Transactional selling in which clients do most of the education on their own.
+
+“Can these
+vendors
+really deliver
+the Impact?
+
+“I have a pain …
+who can help
+me?”
+S
+
+Investment of resources
+
+FIGURE 8.35
+
+CUSTOMER THINKING
+
+“Do I get a better
+price if I take feature
+x out and change y?”
+
+- 30 days
+
+t=0
+
+10am
+
+1pm
+Pitch
+
+Qualify
+
+The moment a
+seller engages
+with the buyer.
+
+3pm
+Close
+
+Time (hours)
+Activate
+
+SALES PROCESS
+
+Solution selling commonly follows an inbound lead, and is centered around a demo.
+
+“Does it integrate
+with my existing
+infrastructure?”
+
+CUSTOMER THINKING
+
+“I have a pain.
+Let me ﬁnd a
+company who
+can help me
+with this.”
+S
+
+Investment of resources
+
+FIGURE 8.36
+
+“Does it work
+yet?”
+
+CE
+
+I
+
+P
+
+D
+
+“They are a ﬁt
+but can they
+deliver on time?”
+
+“They showed us
+the impact we are
+looking for.”
+
+“They say they
+can do it... But I
+don’t trust it yet.”
+
+The moment a
+seller engages
+with the buyer.
+
+WHERE SELLERS
+UTILIZE THEIR
+BEST RESOURCES
+
+P
+t=0
+
+10
+Qualify
+
+Disco / Demo
+
+Time (days)
+Objections
+
+“These people
+beat all the
+competitors.”
+
+D
+
+CE
+
+I
+“Hope they
+can do <x>
+and <y>.”
+
+“Get a meeting with
+an executive to
+secure the best
+deal.”
+
+Propose
+
+20
+
+30
+Negotiate
+
+Commit
+
+Onboard
+
+SALES PROCESS
+
+116
+
+Consultative selling focuses on diagnosing the customer's problems.
+
+"Why they keep
+calling me? I don’t
+have a problem!"
+S
+-1 Months
+
+Verbal
+
+Shortlist
+
+Investment of Resources
+
+FIGURE 8.37
+
+CUSTOMER THINKING
+
+"These vendors are
+able to address our
+needs."
+“Hope company
+X will respond
+to our RFQ.”
+
+D
+"Company X has
+the best solution."
+
+CE
+
+"Companies
+X and Y align
+with our needs."
+
+I
+
+"We are
+partnering
+with X."
+
+RFQ
+WHERE SELLERS
+UTILIZE THEIR
+BEST RESOURCES
+
+P
+t =0
+
+Reach Out
+
+6 Months
+
+Time (months)
+Disco
+
+Demo
+
+Diagnose/Educate
+
+Propose
+
+Negotiate
+
+Onboard
+
+Commit
+
+SALES PROCESS
+
+The moment a seller
+engages with the buyer.
+
+Provocative selling utilizes the best people early on to provoke a customer into action.
+
+CUSTOMER THINKING
+
+"I’ve heard great things
+about these people."
+
+CE
+
+“Their experts
+are right. They
+get it.”
+
+‘These people proved
+they can impact my
+business.”
+
+ive
+
+Research
+
+CE
+
+D
+
+at
+ult
+
+S
+-1 Months
+
+I
+
+"Let’s do this, these
+people changed my
+thinking."
+
+D
+
+ns
+Co
+
+Investment of Resources
+
+FIGURE 8.38
+
+Sign
+Exposed
+to (price)
+competition.
+
+“Let’s get started
+on this project to
+get the impact.”
+
+I
+
+UTILIZE OF THE
+TOP RESOURCES
+
+P
+
+Time (months)
+
+t=0
+Provoke
+
+Stakeholder Buy In
+
+The moment a seller
+engages with the buyer.
+
+6 Months
+
+Execute the Decision
+
+Onboard
+
+SALES PROCESS
+
+117
+
+FIGURE 8.39
+
+Connecting it all together.
+
+S P I CE D
+
+S P I CE D
+
+S P I CE D
+Transactional
+
+ICP
+
+Inbound
+
+Buyer Persona
+
+Outbound
+
+Solution
+Customer Success
+Consultative
+Buying Center
+
+Targeting
+Provocative
+
+[ more ]
+
+TABLE 8.3
+
+FIGURE 8.40
+
+[ more ]
+
+[ more ]
+
+Key actions to establish Recurring Impact.
+
+Onboarding (Activation)
+
+Retention (Adoption)
+
+Expansion
+
+O1. Handoff
+
+A1. Drive Impact Process
+
+E1. Expansion Process
+
+O2. Customer Kickoff
+
+A2. Impact Review
+
+E2. Whitespace Planning
+
+O3. Joint Impact Plan
+
+A3. Health Scoring
+
+E3. Account Planning
+
+O4. Achieving First Impact
+
+A4. Trigger Plays
+
+E4. Expansion Execution
+
+A5. Renewal
+
+E5. Account Retirement
+
+The drastic change in the relationship that occurs the moment both parties commit.
+
+Opposite
+side of
+the table
+
+Selection
+
+Mutual
+Commit
+
+Onboarding
+
+Same
+side of
+the table
+
+S P I CE D
+
+118
+
+FIGURE 8.41
+
+SPICED enables for the orchestration of the renewal and expansion.
+
+JOINT IMPACT PLAN
+
+Engagement
+
+Verify if the desired
+Impact and Critical
+Event date are still
+correct.
+
+REVIEW
+
+After the handoff, write
+down what the recurring
+Impact is and when it will
+be available.
+
+CLOSE
+DO-OVER?
+FOLLOW-UP
+
+S P I CE D
+
+MUTUAL COMMIT
+SETUP
+
+PREPARE
+
+Insights disclosed
+during Onboarding
+can cause a do-over
+of the deliverables.
+
+KICKOFF
+
+Transfer of critical
+account info.
+
+Time
+
+FIGURE 8.42
+
+Whitespace planning based on Impact.
+
+Customer 1
+Customer 2
+
+IMPACT
+
+IMPACT.
+
+IMPACT.
+
+.A.
+
+.B.
+
+.C.
+
+I
+
+I
+
+II
+
+I
+
+I
+
+I
+
+Customer 3
+
+I
+
+Customer 4
+
+I
+I
+
+Impact fully utilized
+
+CHAPTER 08 | OPERATING MODEL
+
+Different customers extract
+different kinds of impact.
+
+Customers who achieve a
+single area of impact are more
+likely to churn.
+
+WHITESPACE
+
+Customer 5
+
+Customers are categorized on
+the impact they extract from
+the product, not the product
+itself.
+
+This is the whitespace from
+utilizing multiple products.
+
+FIGURE 8.43
+
+Whitespace planning based on stakeholders from the buying center (decision process).
+
+USER A
+
+USER B.
+
+GATE
+KEEPER
+
+EXEC
+BUYER
+
+Stakeholders from
+the buying center.
+
+Customer 1
+
+REPS
+
+MGRS
+
+REVOPS
+
+EXECS
+
+Customer 2
+
+REPS
+
+MGRS
+
+REVOPS
+
+EXECS
+
+Customers with
+widespread use are
+less likely to churn.
+
+Customer 3
+
+REPS
+
+MGRS
+
+REVOPS
+
+EXECS
+
+Customer 4
+
+REPS
+
+MGRS
+
+REVOPS
+
+EXECS
+
+Customer 5
+
+REPS
+
+MGRS
+
+REVOPS
+
+EXECS
+
+This is the
+stakeholder
+whitespace
+
+Manager to Rep ratio
+
+FIGURE 8.44
+
+SPICED creates a Uniform Methodology that acts as an interface between crucial
+actions from all GTM teams across all GTM motions.
+
+ABM.
+
+MEDDIC.
+
+BUYER
+PERSONA
+BUYING
+CENTER
+
+CUSTOMER SUCCESS.
+
+DECISIONPROCESS
+
+MESSAGING
+DIAGNOSE
+S P I CE D
+
+CHAPTER 08 | OPERATING MODEL
+
+DECISION
+CRITERIA
+
+RENEW
+WHITESPACE
+PLANNING
+ONBOARD
+
+FIGURE 8.45
+
+Standardized data model, a uniform customer-centric language based on the ﬁrst
+principle of recurring revenue.
+ACQUISITION
+
+RETENTION AND EXPANSION
+FIRST PRINCIPLE.
+
+Awareness
+
+Unaware
+of Impact
+
+FIGURE 8.46
+
+Education
+
+Selection
+
+Prioritize
+on Impact
+
+Discovery
+of Impact
+
+Mutual
+Commit
+
+Onboarding
+
+Buy on Commit
+Impact to Impact
+
+Retention
+
+Achieve
+1st Impact
+
+I Expansion
+
+Recurring
+Impact
+
+IMPACT REALIZED.
+
+PROMISE OF IMPACT.
+
+Recurring Revenue is the
+result of Recurring Impact.
+
+Maximum
+Impact
+
+A common language based on Impact and Critical Event.
+
+P AIN
+S ITUATION
+
+I
+
+CE
+
+Step 3. Deploy a uniform methodology: Use SPICED as a standard interface to
+ensure all actions, means and methods are interoperable. SPICED stands for:
+●
+
+Situation
+
+●
+
+Pain
+
+●
+
+Impact
+
+●
+
+Critical Event
+
+●
+
+Decision
+
+Step 4. Map spiced to actions: SPICED can now be used as an interface
+between different actions. This allows any action to plug-in and interact.
+
+FIGURE 8.47
+
+Use SPICED to interface actions, means, and methods.
+ABM.
+
+MEDDIC.
+
+C H A P T E R 0 8 | O P E RBUYER
+ATING MODEL
+
+PERSONA
+
+CUSTOMER SUCCESS.
+
+DECISIONPROCESS
+
+RENEW
+WHITESPACE
+
+FIGURE 8.47
+
+Use SPICED to interface actions, means, and methods.
+ABM.
+
+MEDDIC.
+
+BUYER
+PERSONA
+BUYING
+CENTER
+
+CUSTOMER SUCCESS.
+
+DECISIONPROCESS
+
+MESSAGING
+DIAGNOSE
+SPICED.
+SPI
+CE D
+
+CHAPTER 08 | OPERATING MODEL
+
+DECISION
+CRITERIA
+
+RENEW
+WHITESPACE
+PLANNING
+ONBOARD
+
+EXERCISE 8.1
+
+Create a 5 x 5 x 5.
+Description: Unearth the top 5 rational impacts your product provides, the top 5
+emotional impacts it evokes across different buyers, and the 5 Critical Events
+that drive the customer to buy your product. This is a fantastic starting point for
+any GTM motion.
+Directions: Pick an actual customer you know well, as in a person, not a
+company. Think of how they would respond to these questions. If you do not
+know of a customer, call up a friend in the Customer Success department.
+
+EXERCISE 8.2
+
+Rational (Quantitative) Impact
+
+Emotional (Qualitative) Impact
+
+Critical Event
+
+____________________________________
+
+____________________________________
+
+____________________________________
+
+____________________________________
+
+____________________________________
+
+____________________________________
+
+____________________________________
+
+____________________________________
+
+____________________________________
+
+Using one of the Rational Impacts you offer, establish a SPICED.
+Description: Think of a customer, and pick a rational Impact, identify the Pain
+associated, then describe the Situation when it occurs. This creates a SPICED.
+Directions: For instance, if you offer application tracking software, the rational
+Impact could be faster response time. The Pain would be the overwhelming
+number of responses to a job opening, and the Situation could be hiring 10 reps.
+
+Rational Impact
+
+Pain
+
+Situation
+
+Relevant Use Case
+
+___________________________
+
+___________________________
+
+___________________________
+
+___________________________
+
+___________________________
+
+___________________________
+
+___________________________
+
+___________________________
+
+___________________________
+
+___________________________
+
+___________________________
+
+___________________________
+
+CHAPTER 08 | OPERATING MODEL
+
+EXERCISE 8.3
+
+Create a Customer Story
+Description: Use an existing customer, apply Situation, Pain, and Impact to build
+a customer story. This story can be used across the entire customer journey.
+Directions: You are now using the previously dissected SPICED in reverse,
+starting with the Situation and the Pain it caused.
+
+This reminds me of ___________________ at ________________, who had ________________.
+RELEVANT COMPANY
+
+NAME
+
+SITUATION
+
+This caused her __________________. At ﬁrst she decided to not do anything about it
+PAIN
+
+this caused ________________. It ﬁrst frustrated her, but by ___________________ she now
+NEGATIVE IMPACT
+
+ACTION
+
+has achieved _____________________ , and ______________________.
+RATIONAL IMPACT
+
+EXERCISE 8.4
+
+EMOTIONAL IMPACT
+
+Map to the Decision Process.
+Navigate the organizational maze to identify who matters in the decisionmaking process and what drives them.
+Step 1. Map the Roles
+List the roles and circle the sentiment toward your product: use + for
+positive, – for negative, = for neutral, and ? for unknown.
+
+Role
+
+SPICED
+
+Name
+
+Sentiment
+
+Initiator
+
+S, P, I
+
+__________________________________________
+
++ – = ?
+
+User
+
+P, I
+
+__________________________________________
+
++ – = ?
+
+Champion
+
+I
+
+__________________________________________
+
++ – = ?
+
+Decider
+
+I, CE, D
+
+__________________________________________
+
++ – = ?
+
+Inﬂuencer
+
+I, D
+
+__________________________________________
+
++ – = ?
+
+Gatekeeper
+
+I, D
+
+__________________________________________
+
++ – = ?
+
+Exec. Buyer 1
+
+D
+
+__________________________________________
+
++ – = ?
+
+Exec. Buyer 2
+
+D
+
+__________________________________________
+
++ – = ?
+
+_____________
+
+__
+
+__________________________________________
+
++ – = ?
+
+124
+
+Step 2. Gap Analysis
+Looking at Step 1, identify the gaps. Who do you not know, who has a negative
+sentiment? This is easy to relate to an enterprise deal, but imagine how your AI
+system can assist a PLG motion to increase the coverage inside an account, or
+provide use-cases to the right person to increase DAU.
+Step 3. Map it to Two Pivotal Roles
+Identify 2 pivotal roles you're selling to and ﬁll in their impacts and events.
+
+#1. _________________________
+
+#2. _________________________
+
+Rational Impact:
+
+_____________________________
+
+_____________________________
+
+Emotional Impact:
+
+_____________________________
+
+_____________________________
+
+Critical Event:
+
+_____________________________
+
+_____________________________
+
+Step 4. Establish a 3 × 3 or a 5 × 5
+Many deals are lost due to being single threaded. By establishing multiple
+relationships early on and maintaining the information ﬂow, the win rate doubles.
+Multi-thread your approach to boost your win rate. Name your Customer
+Champion and Account Executive.
+
+Account Executive ______________________
+
+Customer Champion _____________________
+
+● _____________________________________
+
+● _____________________________________
+
+● _____________________________________
+
+● _____________________________________
+
+● _____________________________________
+
+● _____________________________________
+
+● _____________________________________
+
+● _____________________________________
+
+● _____________________________________
+
+● _____________________________________
+
+CHAPTER 08 | OPERATING MODEL
+
+Step 5. Create an Account Plan (for Acquisition, Retention, or Expansion)
+Outline your action plan to ensure stakeholder engagement:
+
+#1 We will talk to ______________________ to identify the rational impact.
+CHAMPION
+
+#2 We will keep ___________________________ happy by providing ______________________ .
+DECIDER
+
+RATIONAL IMPACT
+
+#3 We will develop a 3 x 3 by asking ____________________________ for an intro to
+CHAMPION
+
+_________________________ and have _____________________ on my team reach out to
+INFLUENCER
+
+EXECUTIVE
+
+______________________ with an invite to ______________________ .
+DECIDER
+
+MEET/CALL
+
+#4 Will leverage _________________ on _________________ and ask to provide
+CONTENT
+
+INFLUENCER
+
+___________________ to ____________________ .
+INSIGHT
+
+GATEKEEPER
+
+#5 I will ask ______________ on our team to send ______________ on their team
+EXECUTIVE
+
+EXECUTIVE
+
+a personal note to develop a relationship.
+
+Imagine if 90% of your team followed this guided approach, leveraging AI where
+appropriate. An effective Operating Model enriches the entire customer journey.
+
+126
+
+09
+THE GROWTH MODEL
+
+FIGURE 9.1
+
+Commonly seen growth patterns.
+
+Exponential
+(and J-curve)
+
+Linear
+
+$
+
+$
+
+(t)
+
+FIGURE 9.2
+
+$
+
+$
+
+(t)
+
+Bell Curve
+
+$
+
+(t)
+
+(t)
+
+(t)
+
+Description and examples of commonly seen growth patterns.
+
+Growth Pattern
+
+Company Example
+
+Description
+
+Linear
+
+Coca-Cola, Procter & Gamble
+
+Consistent growth over time.
+
+Exponential
+
+Amazon, Facebook
+
+Rapid, accelerating growth.
+
+J--Curve
+
+Tesla, Spotify
+
+Initial struggle followed by signiﬁcant growth.
+
+Logarithmic
+
+Microsoft Windows, Adobe
+
+Rapid initial growth, then plateau.
+
+S-curve
+
+Apple, Netﬂix
+
+Slow start, rapid growth, then stabilization.
+
+Bell Curve
+
+Blackberry, Nintendo Wii
+
+Peak followed by decline.
+
+Example of revenue growth following an S-curve using DataDog’s public growth data.
+
+TAM
+
+Inﬂection Point
+ARR [mUSD]
+
+TABLE 9.1
+
+S-curve
+(Logistic)
+
+Logarithmic
+
+Quarterly growth data
+published by DataDog
+for the period 2017
+to 3Q 2023
+
+SaaS Crash
+
+Time [Quarters]
+
+128
+
+FORMULA 9.1
+
+Growth Rate =
+
+Revenue(End) - Revenue(Begin)
+Revenue(Begin)
+
+× 100%
+
+Revenue(Begin) is the beginning value of the period over which it is measured
+Revenue(End) is the ending value of the period over which it is measured
+
+FORMULA 9.1a
+
+FORMULA 9.2
+
+Annual Growth Rate =
+
+$1.675B - $1.029B
+
+Compound Growth Rate =
+
+$1.029B
+
+× 100% = 62.7%
+
+Revenue at the end of a period
+
+1/period
+
+Revenue at the beginning of a period
+
+–1
+
+Revenue(Begin) is the beginning value (the denominator).
+Revenue(End) is the ending value.
+Period is the time of measurements. This can be annually (CAGR) or monthly (CMGR).
+The –1 converts the growth ratio over the period into an annualized growth rate.
+
+FORMULA 9.2a
+
+FORMULA 9.2b
+
+Compound Monthly Growth Rate =
+
+Compound Annual Growth Rate =
+
+20
+
+1/12
+
+- 1 = 5.95%
+
+10
+
+100
+
+1/5
+
+- 1 = 58.5%
+
+10
+
+129
+
+TABLE 9.2
+
+TABLE 9.3
+
+Different (names of) growth rates.
+
+Name
+
+Annual Growth Rate
+
+CMGR
+
+Normal Growth
+
+0% to 10%
+
+0.8%
+
+Rapid Growth
+
+10% to 20%
+
+1.5%
+
+Hypergrowth
+
+20% to 40%
+
+2.7%
+
+Double Growth
+
+100%
+
+5.9%
+
+Triple Growth
+
+200%
+
+9.9%
+
+Blitzscaling
+
+>1,000%
+
+>21.2%
+
+Growth stages with funding, ﬁnancial, and market milestones as a function of time.
+
+Growth Stage
+
+Funding Round
+
+Revenue (ARR)
+
+Length
+
+Growth Rate
+
+Seed
+
+Angel
+
+Up to $1M
+
+1 to 2 years
+
+Achieve $1M
+
+Startup
+
+A, B
+
+Up to $10M
+
+2 to 4 years
+
+100% to 200%
+
+Scaleup
+
+C, D, (E)
+
+Up to $300M
+
+3 to 6 years
+
+60% to 100%
+
+Grownup
+
+IPO+
+
+Beyond $300M
+
+2 to 4 years
+
+10% to 60%
+
+Enterprise
+
+Public
+
+Beyond $10B
+
+Over 20 years
+
+<10%
+
+CHAPTER 09 | GROWTH MODEL
+
+FIGURE 9.3
+
+The growth stages mapped to the S-curve.
+
+ENTERPRISE.
+Expand the market, or
+increase proﬁtability.
+
+ARR [mUSD]
+
+GROWNUP.
+Win the right
+customers.
+
+Total
+Accessible
+Market
+
+$1B
+
+The Inﬂection Point
+SCALEUP.
+Do what works,
+effectively, and
+eﬃciently.
+
+STARTUP.
+Find out what
+works.
+
+$100M
+
+$10M
+
+$1M
+
+Time [Years]
+
+FIGURE 9.4
+
+Demonstration of the declining of the growth rate as the revenue rapidly increases. The
+growth follows a T2D3 pattern. Note that the graph has the revenue depicted on a
+logarithmic scale, causing the otherwise exponential growth curve to appear linear.
+
+$89M
+
+$100M
+$52M
+$50M
+ARR [mUSD]
+
+$24.5M
+$20M
+$10.7M
+$10M
+
+128%
+
+Growth rate
+
+$3.9M
+
+$5M
+$2M
+
+174%
+
+225%
+$1.2M
+
+$1M
+
+Time [Years]
+
+CHAPTER 09 | GROWTH MODEL
+
+112%
+
+71%
+
+FIGURE 9.5
+
+Growth funding stages, and the stage to stage success metrics.
+
+Success metric from $2M Seed
+
+Funding round
+
+45% get to Product Market Fit
+
+A-round
+
+27% will make it to Go To Market ﬁt
+
+B-round
+
+14% become a Scaleup
+
+C-round
+
+6% make it to $100M in ARR
+
+D-round
+
+1% goes public
+
+IPO
+
+Startup Stage
+
+Scaleup Stage
+
+Grownup Stage
+
+All the different growth components mapped to the Growth Model
+
+ENTERPRISE.
+Expand the market.
+
+GROWNUP.
+Win the right
+customers.
+
+ARR [mUSD]
+
+TABLE 9.4
+
+SCALEUP.
+Do what works,
+effectively, and
+eﬃciently.
+
+Total
+Accessible
+Market
+
+<20%
+
+Inﬂection Point
+Users [#]
+2M
+
+200k
+STARTUP.
+Find out what
+works.
+
+20k
+$10M
+
+2k
+
+$1M
+Time [Years]
+
+A
+PMF
+
+B
+
+C
+
+D
+
+E
+
+IPO
+
+Funding round
+
+GTMF
+
+132
+
+The ﬁrst 6 revenue breakpoints on the road to achieving true GTM Fit
+
+FIGURE 9.6
+
+1,000
+AREA OF FOCUS
+
+USERS [#]
+
+100
+
+1
+
+Growth Formula
+
+Repeatable Process
+
+200k
+
+6
+
+20k
+
+5
+
+4
+
+3
+
+2k
+
+2
+
+Unrepeatable
+Process
+
+1
+PMF
+
+FIGURE 9.7
+
+GTM Model
+
+Founder-Led Growth
+
+10
+
+Pricing & Packaging
+
+ARR/GTM
+[ mUSD ]
+
+Data Model & Structure
+
+2M
+
+Repeatable
+Process
+
+Time [ Years ]
+
+GTMF
+
+The Bowtie, the data model custom developed for recurring revenue.
+
+ACQUISITION
+
+Awareness
+
+Education
+
+CHAPTER 09 | GROWTH MODEL
+
+RETENTION AND EXPANSION
+
+Selection
+
+Mutual
+Onboarding
+Commit
+
+Retention
+
+Expansion
+
+The GTM model with 5 GTM motions.
+
+FIGURE 9.8
+
+No
+Touch
+
+100,000s
+
+Low
+Touch
+
+Medium
+Touch
+
+High
+Touch
+
+Dedicated
+Touch
+
+Self Serve
+
+Number of Deals per Year
+
+Inbound
+
+10,000s
+
+Community
+
+1-Stage
+Helpdesk
+2-Stage
+
+1,000s
+
+Outbound
+By Volume
+
+100s
+10s
+
+Field Sales
+Target
+Named
+Accounts
+Network
+
+Sales
+
+By Accounts
+
+CS
+
+By Segment
+
+GTM motion
+
+1s
+$5,000
+
+$15,000
+
+$50,000
+
+$500,000
+
+Marketing
+
+>$1M
+
+Annual Contract Value
+
+Launching a new GTM motion requires navigation of all revenue breakpoints.
+
+ARR/GTM [ mUSD ]
+
+FIGURE 9.9
+
+6
+5
+4
+3
+2
+
+Unrepeatable
+process
+
+Repeatable
+process
+
+1
+PMF
+
+Time [ years ]
+
+GTMF
+
+134
+
+FIGURE 9.10
+
+The absence of a repeatable process leads to a decline in the growth rate, a delay in
+GTM ﬁt, and prematurely plateaus the revenue. This carries signiﬁcant consequences.
+
+50
+
+Decline in
+growth rate
+
+ARR/GTM [ mUSD ]
+
+20
+10
+5
+Picked
+a GTM
+
+2
+
+Replace the
+sales leader
+Unrepeatable
+process
+
+1
+Funding round: S
+
+A
+
+Stage:
+
+FIGURE 9.11
+
+Replace
+the CEO
+
+Down
+round
+
+B
+
+C
+
+GTMF
+
+Time [ years ]
+
+PMF
+
+To achieve Scalability, replicate and expand only those processes that have
+demonstrated their effectiveness and yielded positive results.
+
+500
+
+ARR/GTM [ mUSD ]
+
+200
+100
+50
+
+Learn how
+to scale
+here.
+
+20
+10
+
+So you
+can apply
+it here.
+
+5
+
+5
+2
+1
+
+Funding round: S
+Stage:
+
+A
+PMF
+
+CHAPTER 09 | GROWTH MODEL
+
+Unrepeatable
+process
+
+Repeatable
+process
+
+B
+
+C
+GTMF
+
+Time [ years ]
+
+FIGURE 9.12
+
+The use of a Growth Formula and how it predicts the impact on the growth rate.
+
+The growth trajectory is the
+result of the sum of the Growth
+Formulas of all GTM motions.
+
+500
+200
+
+IPO
+
+ARR/GTM [ mUSD ]
+
+100
+50
+
+A Growth Formula depends
+on a repeatable process.
+
+20
+
+6
+
+10
+
+5
+
+5
+
+Have a Growth
+Formula for each
+GTM motion.
+
+2
+1
+
+Unrepeatable
+process
+
+Funding round: S
+
+A
+
+Repeatable
+process
+
+B
+
+C
+
+Time [ years ]
+
+Stage:
+PMF
+
+The twelve revenue breakpoints on the way to becoming a revenue factory
+
+1,000
+
+1
+
+2
+
+1
+
+Interoperability
+
+Productivity
+
+Sustainability
+
+12
+
+USERS [#]
+
+11
+
+2M
+
+10
+
+9
+
+200k
+
+8
+
+7
+
+6
+
+20k
+
+5
+
+4
+
+3
+
+2k
+Unrepeatable
+
+Repeatable
+
+Time [ Years ]
+
+CHAPTER 09 | GROWTH MODEL
+
+Velocity (Systems)
+
+Growth Formula
+
+Repeatable Process
+
+GTM Model
+
+Data Model & Structure
+
+10
+
+Founder-Led Growth
+
+100
+
+Pricing & Packaging
+
+ARR/GTM [ mUSD ]
+
+AREA OF FOCUS
+
+Durability
+Proﬁtabilit
+y
+
+FIGURE 9.13
+
+GTMF
+
+Disciplined
+execution
+
+Revenue
+Factory
+IPO.
+
+ACME spread its resources over 3 GTM motions, whereas NewCo focused its resources
+on one GTM motion. NewCo achieved GTM ﬁt sooner and used its C-round to scale at
+high velocity. Velocity is the determining factor in achieving market leadership.
+
+NEWCO GTM 1
+
+1,000
+500
+
+50
+20
+10
+
+ACME GTM 1
+
+ACME GTM 2
+
+100
+ACME GTM 3
+
+ARR/GTM [ mUSD ]
+
+200
+
+11
+10
+
+8
+7
+6
+Velocity
+
+4
+
+2
+
+3
+2
+
+1
+
+Unrepeatable
+process
+
+1
+Funding round: S
+Stage:
+
+A
+
+It took
+ACME a
+year longer.
+
+Repeatable
+process
+
+B
+
+C
+
+PMF
+
+TABLE 9.5
+
+12
+
+9
+
+5
+
+5
+
+ACME
+
+NEWCO
+
+FIGURE 9.14
+
+D
+
+Time [ years ]
+
+GTMF
+
+The marginal decline per department and the impact on ARR (from Table 7.1).
+Month Prospects
+
+CR1
+
+MQLs
+
+CR2
+
+SQLs
+
+CR3
+
+SALs
+
+Q1
+
+500
+
+12%
+
+60
+
+15%
+
+9.0
+
+85%
+
+7.7
+
+Q5
+
+400
+
+10%
+
+40
+
+13%
+
+5.2
+
+80%
+
+4.2
+
+CHAPTER 09 | GROWTH MODEL
+
+CR4
+
+Wins
+
+Discount
+
+ARR
+
+30.0%
+
+2.3
+
+10%
+
+$41,310
+
+27.0%
+
+1.1
+
+15%
+
+$19,094
+
+TABLE 9.6
+
+TABLE 9.7
+
+The salaries of an SDR/AE team to secure $495,720.
+
+Role
+
+OTE
+
+Base
+
+Variable
+
+Quota
+
+Results
+
+Variable
+
+Comp
+
+SDR
+
+$80,000
+
+$40,000
+
+$40,000
+
+$500,000
+
+$495,720
+
+$39,658
+
+$79,658
+
+AE
+
+$140,000
+
+$70,000
+
+$70,000
+
+$500,000
+
+$495,720
+
+$69,401
+
+$139,401
+
+60
+
+$100
+
+$6,000
+
+Total
+
+$225,058
+
+The salaries of an SDR/AE team to secure $229,133 (during an economic downturn).
+
+Role
+
+OTE
+
+Base
+
+Variable
+
+Quota
+
+Results
+
+Variable
+
+Comp
+
+SDR
+
+$80,000
+
+$40,000
+
+$40,000
+
+$500,000
+
+$229,133
+
+$18,331
+
+$58,331
+
+AE
+
+$140,000
+
+$70,000
+
+$70,000
+
+$500,000
+
+$229,133
+
+$32,079
+
+$102,079
+
+40
+
+$100
+
+$4,000
+
+Total
+
+$164,409
+
+MQLs
+
+The shrinking productivity window of a modern employee reﬂects the effects of changing
+working conditions, such as remote working, the utilization of talent earlier in their career,
+a lack of skill training, overdependence on tools, and a shortage of managers who are to
+act as coaches.
+1 Shorter ramp
+
+2 Stay longer
+
+100%
+
+Employee Productivity
+
+FIGURE 9.15
+
+3 Increase
+
+80%
+
+performance
+
+60%
+40%
+20%
+0
+20%
+40%
+
+Year 1
+Today’s normal
+
+Year 2
+Desired Normal
+
+Year 3
+
+Year 4
+
+Top performer
+
+138
+
+FIGURE 9.16
+
+In this real-life example, the client reduced its headcount over time. Initially, productivity
+per rep declined. However, as the discipline in executing the processes improved,
+productivity rose and eventually surpassed previous levels.
+
+FIGURE 9.17
+
+As ARR grows, the number of GTM motions increases. Most GTM motions do not
+interoperate with each other, in fact they are designed to compete with each other.
+
+ARR:
+
+$1M
+
+$10M
+
+$20M
+
+$50M
+
+$100M
+
+$200M
+
+$500M
+
+$1B
+
+3rd GTM
+
+1st Product
+
+1st GTM
+2nd GTM
+3rd GTM
+
+2nd Product
+
+1st GTM
+2nd GTM
+3rd GTM
+
+3rd Product
+
+1st GTM
+2nd GTM
+
+139
+
+Aligning Recurring Revenue and Recurring Impact by providing monthly impact reports.
+
+FIGURE 9.18
+
+M1
+
+M2
+
+M3
+
+M4
+
+Impact Quote
+
+M5
+
+Outage
+
+M6
+
+M7
+
+M8
+
+M9
+
+M10
+
+M12
+
+Outage
+
+Impact Experience
+
+Happy User
+
+M11
+
+Onboard
+
+Renew
+
+a
+Caus
+tion
+
+Recency Bias
+
+Renew
+
+Reports
+Monthly Impact
+Report
+
+Quarterly
+Impact Report
+
+Balanced Report
+
+In Q2 of 2023, public GAAP based stock performance data from public SaaS
+companies depicted a picture that showed the impending collapse of GTM ﬁt due
+to the disproportionate cost of acquisition compared to the growth rate.
+
+FIGURE 9.19
+
+80%
+Reported Cost of Growth from Marketing and Sales [%]
+
+Asana
+WalkMe
+60%
+
+RingCentral UIPath
+Momentive
+
+SentinelOne
+Gitlab
+
+MongoDB
+Okta
+
+Qualtrics
+Hubspot
+
+DocuSign
+
+Monday
+
+Hashi
+
+MEDIAN
+
+zscaler
+Snowﬂake
+
+40%
+Dynatrace
+
+Salesforce
+
+Bill.com
+CrowdStrike
+
+Wix
+Zoom
+
+Box
+
+Paycom
+
+Adobe
+Blackbaud
+Dropbox
+
+Paylocity
+
+Twilio
+
+Shopify
+
+20%
+
+ZoomInfo
+
+ServiceNow
+
+Workday
+
+DataDog
+
+Ceridian
+$10B
+
+Atlassian
+
+Q2
+
+$1B
+
+Oloe
+Clearwater
+0%
+
+0%
+
+10%
+
+20%
+
+40%
+Annual Growth Rate [%]
+
+CHAPTER 09 | GROWTH MODEL
+
+$100M
+
+Digital Ocean
+
+Veeva
+
+60%
+
+80%
+
+100%
+
+Example illustrating the causal and temporal relationship among diverse layers of data,
+each tailored to a speciﬁc use case, all anchored in the same fundamental data model
+and structure.
+
+FIGURE 9.20
+
+Executive or
+Investor
+Metrics
+
+Growth
+Rate
+
+Strategic
+or Financial
+Metrics
+
+CAC
+Payback
+
+NRR ARR
+
+Performance
+or Operator,
+Metrics
+
+LTV:CAC
+Ratio
+
+LTV
+
+Time
+Metrics
+
+Growth Formula
+
+Volume
+Metrics
+
+People
+Cost
+
+Magic
+Number
+
+R
+YE
+LA
+
+FCF Margin
+
+R
+YE
+LA
+
+Productivity Metrics
+
+R
+YE
+LA
+
+CAC
+
+Unit
+UnitEconomics
+Economics
+
+Tactical
+or Bowtie,
+Metrics
+
+Rule
+of 40
+
+Campaign
+Cost
+
+Conversion
+Metrics
+
+R
+YE
+LA
+
+Data Model
+or Bowtie
+
+R
+YE
+LA
+
+5.
+
+4.
+
+3.
+
+2.
+
+1.
+
+Maturity phases mapped to the Growth Model.
+
+FIGURE 9.21
+
+Durable (Quality)
+
+AREA OF FOCUS
+
+1,000
+500
+
+12
+Sustainable (Cost)
+
+200
+
+11
+E
+
+ARR/GTM [ mUSD ]
+
+100
+
+Users [#]
+
+2M
+
+10
+
+50
+
+9
+
+Scalable (Velocity)
+
+20
+
+200k
+
+D
+8
+
+10
+5
+
+5
+
+4
+
+2
+
+A
+2
+
+1
+S
+
+1
+PMF
+
+6
+
+C
+
+7
+
+20k
+
+B
+
+3
+Unrepeatable
+process
+
+Repeatable
+process
+
+GTMF
+
+Disciplined
+execution
+
+High
+Performing
+Revenue
+Factory
+
+2k
+
+Time [ years ]
+141
+
+TABLE 9.8
+
+TABLE 9.9
+
+TABLE 9.10
+
+The ﬁrst 6 revenue breakpoints are mapped to Scalability
+
+1. Pricing & Packaging
+
+Pricing (annual/monthly), tiers, payment terms, refund
+terms, and discount policies have been established.
+
+2. Leverage Founder-Led Growth
+
+Founder plays an important but no longer operationally
+critical role.
+
+3. Standardize Data Model
+
+A standardized Data Model is used across all departments,
+regions, verticals, and segments.
+
+4. Structured in GTM Model(s)
+
+A structured growth strategy using different (but not too
+many) GTM motions mapped to the data structure.
+
+5. Repeatable Process/GTM Model
+
+Establish a process per GTM motion, write it down so it
+can be explained and people can be trained on it.
+
+6. Growth Formula/GTM Model
+
+Establish a Growth Formula per GTM motion that matches
+the process.
+
+Revenue breakpoints 7 to 10 are mapped to Sustainability.
+
+7. Velocity Based Growth
+
+Use the company's most valuable resources to drive the
+GTM motion with the highest growth rate.
+
+8. Sustainable Growth
+
+Ability to track what each GTM motion is costing and a
+trendline shows the costs are declining.
+
+9. Increase Productivity
+
+Productivity per GTM rep is measured; programs to
+shorten ramp time and improve productivity are in place.
+
+10. Ensure Interoperability
+
+A standardized Data Model, uniform methodology and a
+common language is used across all GTM motions.
+
+Two revenue breakpoints are mapped to Durability.
+11. Attain Durability
+
+The company focuses on anchoring itself on Customer
+Impact.
+
+12. Achieve Proﬁtability
+
+The key GTM motions are proﬁtable, with enough FCF to
+fund innovations where needed.
+
+CHAPTER 09 | GROWTH MODEL
+
+FIGURE 9.22
+
+Scalability metrics breakdown (example).
+LAYER 2
+
+Effect
+LAYER 5
+
+Scalable
+Growth
+
+Cause
+
+Pricing &
+Packaging
+
+ACV
+
+LAYER 4
+
+Growth
+Rate
+
+LAYER 3
+
+Discount
+
+ARR
+Deals
+
+Leads
+
+In this phase, it feels like it's run on power drinks; each month, new records are
+set, more deals are signed, and deal sizes grow larger and larger. Revenue
+continues to grow, but retention can become a challenge. The company is forced
+to establish processes and begins to function as a factory.
+
+FIGURE 9.23
+
+Sustainability metrics breakdown (example).
+
+Effect
+
+Cause
+
+LAYER 2
+
+LAYER 5
+
+Growth
+Rate
+Sustainable
+Growth
+
+LAYER 3
+LAYER 4
+
+ACV
+
+Pricing &
+Packaging
+Discount
+
+ARR
+Deals
+
+CAC
+Payback
+
+Leads
+Campaigns
+CAC
+Salaries
+
+143
+
+FIGURE 9.24
+
+Durability metrics breakdown (example).
+
+LAYER 3
+
+Effect
+
+Expansion
+
+LAYER 4
+
+Cause
+
+LAYER 2
+
+NRR
+
+Seats
+GRR
+Usage
+
+LAYER 5
+
+Growth
+Rate
+
+Pricing &
+Packaging
+
+ACV
+
+Durable
+Growth
+
+Discount
+
+ARR
+Deals
+
+CAC
+Payback
+
+Leads
+Campaigns
+CAC
+Salaries
+
+1,000
+
+2
+
+1
+
+1
+
+Stage
+
+S
+
+A
+SEED
+
+Maturity
+
+3
+
+PMF
+
+Durability
+
+Interoperability
+
+Sustainability
+
+12
+
+Users [#]
+2M
+
+11
+
+10
+
+200k
+
+9
+
+8
+
+20k
+
+7
+
+6
+
+5
+
+4
+
+2,000
+
+Unrepeatable
+process
+
+Repeatable
+process
+
+B
+
+C
+
+STARTUP
+
+Revenue
+Factory
+
+Disciplined
+execution
+D
+SCALEUP
+
+Scalable
+MVP
+
+Velocity
+
+Growth Formula
+
+Repeatable Process
+
+GTM Model
+
+Data Model & Structure
+
+Founder-Led Growth
+
+Pricing & Packaging
+
+10
+
+Productivity
+
+AREA OF FOCUS
+
+100
+
+Funding
+
+Proﬁtability
+
+The 12 key breakpoints mapped to the S-curve that governs Startups and Scaleups.
+
+ARR/GTM [ mUSD ]
+
+FIGURE 9.25
+
+Sustainable
+
+E
+
+IPO
+GROWNUP
+
+Durable
+
+GTMF
+
+144
+
+EXERCISE 9.1
+
+Check the boxes of the revenue breakpoints your organization has tackled.
+Do this ﬁrst for each GTM motion. Think through each of these breakpoints.
+This is a simple exercise but it will provide you an amazing insight as to the
+maturity of the organization as a whole and each GTM motion.
+
+Phase I. Focus on growth to achieve Scalability.
+1. Pricing & Packaging
+
+Pricing (annual/monthly), tiers, payment terms,
+refund terms, and discount policies have been
+established.
+
+2. Leverage Founder-Led Growth
+
+Founder plays an important role but is no longer
+in an operationally critical role.
+
+3. Standardize Data Model & Structure
+
+A standardized Data Model is used across all
+departments, regions, verticals, and segments.
+
+4. Structured in GTM Model(s)
+
+A structured growth strategy using different (but
+not too many) GTM motions mapped to the data
+structure.
+
+5. Repeatable Process / GTM Model
+
+Establish a process per GTM motion; write it
+down so it can be explained and people can be
+trained on it.
+
+6. Growth Formula / GTM Model
+
+Establish a Growth Formula per GTM motion that
+matches the process.
+
+Phase II. Focus on cost-eﬃcient growth to achieve Sustainability.
+7. Velocity Based Growth
+
+Use the company's most valuable resources to
+drive the GTM motion with the highest growth
+rate.
+
+8. Sustainable Growth
+
+Ability to track what each GTM motion is costing
+and a trendline shows the costs are declining.
+
+9. Increase Productivity
+
+Productivity per GTM rep is measured; programs
+to shorten ramp time and improve productivity
+are in place.
+
+10. Ensure Interoperability
+
+A standardized Data Model, uniform methodology
+and a common language is used across all GTM
+motions.
+
+Phase III. Focus on the quality of growth (Impact) to strive for Durability.
+11. Attain Durability
+
+The company focuses on anchoring itself on
+Customer Impact.
+
+12. Achieve Proﬁtability
+
+The key GTM motions are proﬁtable, with enough
+FCF to fund innovations where needed.
+
+CHAPTER 09 | GROWTH MODEL
+
+10
+THE GTM MODEL
+
+The GTM model contains today's 5 most common GTM motions. Each of the blocks can
+be human-led, channel-led, product-led, etc.
+NO
+TOUCH
+
+100,000s
+Number of customers served
+per year
+
+FIGURE 10.1
+
+LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+HIGH
+TOUCH
+
+DEDICATED
+TOUCH
+
+Field Sales
+Target
+By Vertical
+
+Named Accts
+
+Self Serve
+Inbound
+Community
+
+10,000s
+
+1-Stage
+Helpdesk
+
+1,000s
+
+2-Stage
+Outbound
+By Volume
+
+100s
+10s
+
+Networking
+By Account(s)
+
+Sales
+Marketing
+CS
+
+1s
+$0
+
+$5,000
+
+$15,000
+
+$50,000
+
+$500,000
+
+>$1M
+
+Annual Contract Value
+
+FIGURE 10.2
+
+How the GTM model interfaces with the other models.
+Human Interaction
+
+6. The GTM Model
+Growth Rate
+Interoperability of
+the GTM Motions
+GTM Metrics
+
+5. The Growth Model
+4. The Operating Model
+3. The Mathematical Model
+
+Number
+of GTM
+motions
+Growth
+Velocity
+Growth
+Formula
+
+2. The Data Model
+1. The Revenue Model
+
+147
+
+FIGURE 10.3
+
+The X-Y Framework of the GTM model.
+
+Number of customers served
+per year
+
+100,000s
+
+Selling a $50/year solution
+requires 100,000 customers per
+year to achieve $5M in ARR.
+
+10,000s
+
+1,000s
+
+Selling a $5,000/year
+solution requires 1,000
+customers per year to
+achieve $5M in ARR.
+
+100s
+
+Selling a $500,000/year
+solution requires 10
+customers per year to
+achieve $5M in ARR.
+
+10s
+
+1s
+$0
+
+$5,000
+
+$15,000
+
+$50,000
+
+$500,000
+
+>$1M
+
+Annual Contract Value
+
+FIGURE 10.4
+
+Different business segments mapped to the GTM model.
+
+Number of customers served
+per year
+
+100,000s
+
+Consumers
+
+Pro
+Users
+
+10,000s
+
+Small
+Teams
+
+1,000s
+
+VSB
+
+100s
+
+SMB
+10s
+
+Mid
+Market
+
+Enterprise
+
+F500
+
+1s
+$0
+
+$5,000
+
+$15,000
+
+$50,000
+
+Annual Contract Value
+
+CHAPTER 10 | GTM MODEL
+
+$500,000
+
+>$1M
+
+FIGURE 10.5
+
+The most common sales motions mapped to the GTM model.
+
+INSIDE SALES
+
+ENTERPRISE SALES
+
+Number of customers served
+per year
+
+100,000s
+Self Serve
+10,000s
+
+At the high end this
+will involve solution
+architects
+
+1-Stage
+1,000s
+2-Stage
+100s
+
+Field Sales
+10s
+Named
+Accounts
+$0
+
+$5,000
+
+$15,000
+
+$50,000
+
+$500,000
+
+$1M
+
+Annual Contract Value
+
+TABLE 10.1
+
+Approximate salaries vs. quota expectations as of Q1 2024.
+
+Sales Motion
+
+Cost: Salary plus Expense
+
+Quota/Year
+
+Self-Service
+
+$0 (costs are allocated to marketing)
+
+Inside Sales (1-stage)
+
+$ 45,000 - $ 60,000
+
+$240k to $480k
+
+Inside Sales (2-stage)
+
+$ 150,000 - $ 250,000
+
+$480k to $960k
+
+Field Sales
+
+$ 250,000 - $ 500,000
+
+$720k to $1,440k
+
+Field Sales + Sales Engineer
+
+$ 350,000 - $ 800,000
+
+$960k to $2M
+
+Named-Account Sales Team
+
+$ 600,000 - $ 2,000,000
+
+$1M to $10M
+
+Increase
+in cost
+∞
+5x
+4x
+3x
+2x
+
+149
+
+FIGURE 10.6
+
+The most common marketing and sales motions mapped to the GTM model.
+
+INSIDE SALES
+
+Number of customers served
+per year
+
+100,000s
+
+ENTERPRISE SALES
+
+Self Serve
+Inbound
+
+10,000s
+
+1-Stage
+2-Stage
+Outbound
+
+1,000s
+
+Field Sales
+Target
+
+100s
+
+Named Accts
+Networking
+
+10s
+
+Sales
+Marketing
+
+1s
+$0
+
+$5,000
+
+$15,000
+
+$50,000
+
+$500,000
+
+>$1M
+
+Annual Contract Value
+
+Marketing, sales AND customer success motions mapped to the GTM model.
+INSIDE SALES
+
+100,000s
+Number of customers served
+per year
+
+FIGURE 10.7
+
+ENTERPRISE SALES
+
+Self Serve
+Inbound
+Community
+
+10,000s
+
+1-Stage
+Helpdesk
+
+1,000s
+
+2-Stage
+Outbound
+By Volume
+
+100s
+
+Field Sales
+Target
+By Vertical
+
+10s
+
+Named Accts
+Networking
+By Account
+
+1s
+$0
+
+$5,000
+
+$15,000
+
+$50,000
+
+$500,000
+
+Sales
+Marketing
+CS
+
+>$1M
+
+Annual Contract Value
+
+150
+
+FIGURE 10.8
+
+The 5 touch-based GTM motions are mapped to the GTM framework.
+
+NO
+TOUCH
+
+Number of customers served
+per year
+
+100,000s
+
+LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+HIGH
+TOUCH
+
+DEDICATED
+TOUCH
+
+Field Sales
+Target
+By Vertical
+
+Named Accts
+
+Self Serve
+Inbound
+Community
+
+10,000s
+
+1-Stage
+Helpdesk
+
+1,000s
+
+2-Stage
+Outbound
+By Volume
+
+100s
+
+GTM motion
+
+10s
+
+Networking
+By Account
+
+1s
+$0
+
+$5,000
+
+$15,000
+
+$50,000
+
+$500,000
+
+Sales
+Marketing
+CS
+
+>$1M
+
+Annual Contract Value
+
+TABLE 10.2
+
+Example of the different engines each GTM motion is built around.
+
+GTM Motion
+
+Engine
+
+What People Talk About
+
+How It Spreads
+
+No Touch
+
+Product
+
+User Experience
+
+Word of Mouth
+
+Low Touch
+
+Velocity
+
+Easy to Deploy
+
+Word of Mouth
+
+Medium Touch
+
+Content
+
+Thought Leadership
+
+Events/Webinars
+
+High Touch
+
+Brand
+
+Expertise of People
+
+Networking
+
+Dedicated Touch
+
+Relationships
+
+Responsiveness
+
+CxO to CxO Referral
+
+CHAPTER 10 | GTM MODEL
+
+TABLE 10.3
+
+FIGURE 10.9
+
+The 3 maturity stages of a GTM motion.
+
+Maturity Stage
+
+Revenue Factory
+
+ARR/GTM motion
+
+KPIs
+
+Scalability
+
+Growth: Increase in volume and
+improvements in throughput result
+in an increase in revenue.
+
+<$10M
+
+Growth Rate
+and ARR
+
+Sustainability
+
+Eﬃciency: Focus on the cost of growth.
+This comes at a time there is a shift to
+expansion, which comes at a lower cost.
+
+<$30M
+
+CAC Payback,
+NRR, and FCF.
+
+Durability
+
+Quality: Shift the focus on delivering
+recurring Impact–and select those
+customers who can achieve more of it.
+
+>$30M
+
+Usage (DAU)
+and GRR.
+
+The application of different channels apply to different areas of the customer journey.
+
+Aﬃliates
+
+Strategic
+Partners
+
+Resellers
+
+System
+Integrators
+
+promote
+your offering
+
+enhance
+your offering
+
+sell
+your offering
+
+integrate
+your offering
+
+Awareness
+
+Education
+
+Selection
+
+Mutual
+Commit
+
+Onboarding
+
+Retention
+
+Expansion
+
+152
+
+The ﬁrst year cost to serve a single customer across GTM motions increases
+exponentially, not linearly, due to the escalating level of human involvement needed.
+
+$100,000+
+
+The GTM Cost to serve one customer,
+FIGURE 10.11
+
+The difference in cost explains
+the difference between serving
+an enterprise customer and a
+SMB customer.
+
+$10,000
+
+$10
+
+$100
+
+NO
+TOUCH
+
+LOW
+TOUCH
+
+$1,000
+
+MEDIUM
+TOUCH
+
+DEDICATED
+TOUCH
+
+HIGH
+TOUCH
+
+The right GTM motion for a product with an ACV of $7,000 is a Low Touch motion.
+NO
+TOUCH
+
+Number of customers served
+per year
+
+FIGURE 10.10
+
+LOW
+TOUCH
+
+100,000s
+
+Self Serve
+
+10,000s
+
+Community
+
+MEDIUM
+TOUCH
+
+DEDICATED
+TOUCH
+
+HIGH
+TOUCH
+
+Inbound
+1-Stage
+2-Stage
+Outbound
+
+Helpdesk
+
+1,000s
+
+Volume
+
+100s
+
+Field Sales
+Target
+Segment
+
+10s
+
+Named Accts
+Network
+Accounts
+
+1s
+$5,000
+
+$15,000
+
+$50,000
+
+$250,000
+
+$1,000,000
+
+$7,000
+
+Annual Contract Value
+
+153
+
+FIGURE 10.12
+
+The use of different GTM motions for one product without a standardized operating
+model will cause GTM motions to perform ineﬃciently due to interoperability issues.
+No operating model
+
+100,000s
+
+MEDIUM
+TOUCH
+
+HIGH
+TOUCH
+
+DEDICATED
+TOUCH
+
+Self Serve
+
+Number of customers served
+per year
+
+Inbound
+10,000s
+
+Community
+
+1-Stage
+Helpdesk
+
+1,000s
+
+2-Stage
+
+100s
+
+Volume
+
+Outbound
+Field Sales
+Named
+Accounts
+Network
+
+Target
+Segment
+
+10s
+
+Accounts
+1s
+$5,000
+
+$15,000
+
+$50,000
+
+>$1M
+
+$150,000
+
+$500,000+
+
+$80,000
+
+Annual Contract Value
+
+FIGURE 10.13
+
+$250,000
+
+HIGH
+TOUCH
+
+DEDICATED
+TOUCH
+
+Results of a departmental approach.
+NO
+TOUCH
+
+LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+Number of customers served
+per year
+
+100,000s
+Inbound
+10,000s
+
+1-Stage
+Helpdesk
+
+1,000s
+
+2-Stage
+Outbound
+Volume
+
+100s
+
+Field Sales
+Target
+
+10s
+
+Segment
+
+1s
+$15,000
+
+$50,000
+
+Annual Contract Value
+
+CHAPTER 10 | GTM MODEL
+
+$120,000
+
+$5,000
+
+$500,000
+
+$1M+
+
+FIGURE 10.14
+
+A trendline of the product’s ACV shows he product operates in the right GTM motion.
+
+Number of customers served
+per year
+
+NO
+TOUCH
+
+LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+DEDICATED
+TOUCH
+
+HIGH
+TOUCH
+
+1-Stage
+Inbound
+Helpdesk
+
+10,000s
+1,000s
+100s
+10s
+1s
+
+$15,000
+
+$50,000
+
+$150,000
+
+$500,000
+
+Annual Contract Value
+
+Looking at the NRR, the GTM motion does not entirely match up.
+
+NO
+TOUCH
+
+Number of Deals per Year
+
+FIGURE 10.15
+
+$7,111
+$6,790
+$6,225
+
+$5,000
+
+LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+DEDICATED
+TOUCH
+
+HIGH
+TOUCH
+
+10,000s
+Inbound
+1,000s
+
+2-Stage
+
+100s
+
+Volume
+
+Outbound
+Field Sales
+Target
+Segment
+
+10s
+1s
+$50,000
+
+$137,328
+
+$15,000
+
+$40,000
+
+$5,000
+
+$150,000
+
+$500,000
+
+Annual Contract Value
+
+155
+
+FIGURE 10.16
+
+Developer-led growth is the engine behind PLG strategies used by developer platforms,
+they natively form an Operating Model.
+NO/LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+OPERATING MODEL
+Three GTM motions
+interacting seamlessly
+as a complete system.
+
+HIGH
+TOUCH
+
+Number of Deals per Year
+
+100,000s
+10,000s
+1,000s
+
+Independent
+Developers
+
+100s
+
+Teams
+Departments
+and Companies
+
+10s
+1s
+$5,000
+
+$15,000
+
+$500,000
+$ 200,000
+
+$ 25,000
+
+$ 1,000
+
+FIGURE 10.17
+
+$50,000
+
+>$1M
+
+Annual Contract Value
+
+The No Touch GTM motion is moving to serve higher ACV ranges, signaling a shift
+towards more scalable, cost-eﬃcient models.
+NO
+TOUCH
+
+LOW
+TOUCH
+
+100,000s
+
+Self Serve
+
+10,000s
+
+Community
+
+MEDIUM
+TOUCH
+
+HIGH
+TOUCH
+
+DEDICATED
+TOUCH
+
+Number of Deals per Year
+
+Inbound
+1-Stage
+Helpdesk
+1,000s
+
+2-Stage
+Outbound
+Volume
+
+100s
+
+Field Sales
+Target
+By Segment
+
+10s
+
+Named Accts
+Network
+By Accounts
+
+1s
+$5,000
+
+$15,000
+
+$50,000
+
+Annual Contract Value
+
+CHAPTER 10 | GTM MODEL
+
+$150,000
+
+$500,000
+
+FIGURE 10.18
+
+Product-Led Sales uses PLG as lead generation for a high(er) touch sales motion
+
+NO
+TOUCH
+
+Number of Commits per Year
+
+100,000s
+
+LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+HIGH
+TOUCH
+
+DEDICATED
+TOUCH
+
+PRODUCT LED GROWTH
+Self Serve
+
+PRODUCT LED SALES
+
+10,000s
+
+1-Stage
+
+1,000s
+
+SALES LED GROWTH
+2-Stage
+
+100s
+Field Sales
+10s
+
+Named Accts
+
+1s
+$5,000
+
+$15,000
+
+$50,000
+
+$500,000
+
+>$1M
+
+Annual Contract Value
+
+FIGURE 10.19
+
+A simpliﬁed Growth formula for a Low Touch (Inbound) GTM motion
+
+INPUT.
+
+TABLE 10.4
+
+OUTPUT
+
+VM1
+
+CR1 CR2 VM3 CR3
+
+CR4
+
+VM5
+
+CR5 List price
+
+8,422
+
+8%
+
+20%
+
+6.3
+
+78%
+
+Visitors
+
+Lead
+Conversion
+
+7%
+
+47
+
+67%
+
+Opportunity Mutual
+Conversion Commits
+
+VM6
+
+CR7
+
+$24,000
+
+$118,308
+
+Normalized
+Price
+
+ARR(new)
+
+95.0% 108.8%
+
+Retention.
+
+The compounding effect of revenue through retention and expansion
+ARR(start)
+
+Retention
+
+Expansion
+
+ARR(end)
+
+VM7
+
+CR7
+
+CR8
+
+VM9
+
+Year 1
+
+$118,308
+
+93%
+
+109%
+
+$119,929
+
+Year 2
+
+$119,929
+
+96%
+
+107%
+
+$123,191
+
+Year 3
+
+$123,191
+
+96%
+
+110%
+
+$130,090
+
+Year 4
+
+$130,090
+
+95%
+
+109%
+
+$134,708
+
+Year 5
+
+$134,708
+
+5 Year Total
+
+$626,225
+
+CHAPTER 10 | GTM MODEL
+
+CR8
+
+VM9
+$626,225
+
+LTV(5Y)
+Expansion.
+
+FORMULA 10-1
+
+1,000 / 8,422 ྾ $118,308 = $14,407 in ARR(new)
+
+FORMULA 10-2
+
+$1,000,000 / $118,308 ྾ 8,422 = 71,186 visitors
+
+FIGURE 10.20
+
+A simpliﬁed Growth formula for a Medium Touch (Outbound) GTM motion.
+INPUT.
+
+FIGURE 10.21
+
+OUTPUT
+
+THROUGHPUT.
+
+VM1
+
+CR1
+
+CR2
+
+CR3
+
+CR4
+
+VM5
+
+CR5
+
+In 2021
+
+500
+
+10%
+
+12%
+
+84%
+
+20%
+
+1.0
+
+78% $24,000
+
+$18,870
+
+In 2024
+
+2,000
+
+5%
+
+6%
+
+84%
+
+20%
+
+1.0
+
+78% $24,000
+
+$18,870
+
+Targets
+
+Outbound
+Conversion
+
+Mutual
+Commits
+
+Normalized
+Price
+
+ARR(new)
+
+Opportunity
+Conversion
+
+List
+
+VM6
+
+Growth Formula with Trendlines and Benchmark data for individual metrics reveal room
+for marginal adjustments to individual throughput metrics.
+
+INPUT.
+
+OUTPUT
+
+THROUGHPUT.
+
+VM1
+
+CR1
+
+CR2
+
+CR3
+
+CR4
+
+VM5
+
+CR5 List price
+
+8,422
+
+8%
+
+7%
+
+67%
+
+20%
+
+6.3
+
+78%
+
+LEAD CAPTURE
+
+$24,000
+
+1-DISCOUNT
+
+WIN RATE.
+24%
+10%
+
+KEY 1.Trendlines provide more
+relevance to more recent data
+than an average, which assigns
+equal value to all data points.
+
+VM6
+
+KEY 2. Combining trendlines
+can aid in identifying
+causality, thereby improving
+the accuracy of predictions.
+
+CR7
+
+$118,308
+
+CR8
+
+VM9
+
+95.0% 108.8%
+
+$626,225
+
+GRR
+86%
+
+Benchmark
+97%
+Trendline
+
+KEY 3. Comparing benchmark
+data against the trendline
+helps identify if there is a
+scalability issue.
+
+158
+
+The result of a small increase in throughput with a stagnant input
+
+INPUT.
+
+VM1
+
+CR1
+
+CR2
+
+CR3
+
+CR4
+
+8,422
+
+8%
+
+7%
+
+67%
+
+8,422
+
+10%
+
+8%
+
+70%
+
+OUTPUT
+
+VM5
+
+CR5
+
+List Price
+
+20%
+
+6.3
+
+78%
+
+22%
+
+10.4
+
+82%
+
+VM6
+
+THROUGHPUT
+
+OUTPUT
+
+CR7
+
+CR8
+
+VM9
+
+$24,000 $118,308
+
+95%
+
+108.8%
+
+$626,225
+
+$24,000 $204,198
+
+96%
+
+110.0%
+
+$1,132,760
+
+A comparison of key elements in quality management and process improvement
+methodologies demonstrates alignment with the need for a quality management
+methodology for GTM.
+
+us
+
+Da
+t
+
+a
+
+uo
+tin
+
+Co
+n
+
+Cu
+s
+
+to
+m
+er
+
+Fo
+cu
+
+s
+
+TABLE 10.5
+
+THROUGHPUT
+
+Im
+pr
+Dr
+ov
+iv
+em
+en
+Pr
+en
+oc
+t
+es
+s
+Op
+Em
+tim
+pl
+iz
+oy
+at
+ee
+io
+n
+In
+W
+v
+as
+ol
+ve
+te
+m
+Re
+en
+d
+uc
+t
+Qu
+tio
+al
+ity
+n
+Co
+nt
+Te
+ro
+am
+l
+Co
+lla
+bo
+ra
+tio
+n
+
+FIGURE 10.22
+
+Agile
+BPR
+ISO 9001
+Kaizen
+Lean
+Six Sigma
+TQM
+
+FIGURE 10.23
+
+Cost Allocation across different GTM motions
+Cost of Acquisition
+
+Awareness
+
+Education
+
+CR1
+
+CR2
+
+Cost to Serve
+
+Selection
+
+Cost of
+Onboarding
+
+Cost of
+Retention
+
+Cost of
+Expansion
+
+Commit Onboarding
+
+Retention
+
+Expansion
+
+GTM
+motions
+
+VM1
+CHAPTER 10 | GTM MODEL
+
+VM2
+
+CR3
+VM3
+
+CR4
+VM4
+
+FIGURE 10.24
+
+Adding the cost to a Growth Formula for a GTM motion provides insight into the
+sustainability. In this case it takes $310,000 to generate $748,500 in ARRNEW .
+LEAD DEVELOPMENT
+
+SELLING
+
+VM1
+
+CR1
+
+VM2
+
+CR2
+
+VM3
+
+CR3
+
+CR4
+
+VM5
+
+CR5
+
+List Price
+
+VM6
+
+50,000
+
+8%
+
+4,000
+
+7%
+
+280
+
+68%
+
+21%
+
+40.0
+
+78%
+
+$24,000
+
+$748,500
+
+$25/lead = $100,000
+
+FIGURE 10.25
+
+SDR OTE = $60,000
+
+Total = $310,000
+
+Seller OTE = $150,000
+
+As the performance marginally decreases the 50/50 variable compensation does not
+impact the cost proportionally. It now takes $247,843 to generate $400,756 in ARRNEW .
+
+ARRNEW
+
+LEAD GENERATION
+
+LEAD DEVELOPMENT
+
+SELLING
+
+VM1
+
+CR1
+
+VM2
+
+CR2
+
+VM3
+
+CR3
+
+CR4
+
+VM5
+
+CR5
+
+List Price
+
+VM6
+
+45,000
+
+7%
+
+3,150
+
+6%
+
+189
+
+62%
+
+19%
+
+22.3
+
+75%
+
+$24,000
+
+$400,756
+
+$27.50/lead = $86,625
+
+TABLE 10.6
+
+ARRNEW
+
+LEAD GENERATION
+
+Seller OTE = $115,156
+
+SDR OTE = $46,062
+
+Total = $247,843
+
+The cumulative amount of revenue over time is referred to as LTV(nY), with (n) being
+the number of years. LTV(nY) is needed to apply the cost of acquisition, retention, and
+expansion, determining the sustainability over (n) years.
+ARR(start)
+
+Retention
+
+Expansion
+
+ARR(end)
+
+VM7
+
+CR7
+
+CR8
+
+VM9
+
+Year 1
+
+$748,500 ×
+
+87%
+
+Year 2
+
+$729,339
+
+89%
+
+108%
+
+Year 3
+
+$701,041
+
+87%
+
+Year 4
+
+$634,301
+
+84%
+
+Year 5
+
+$554,126
+
+×
+
+LTV(1Y)
+
+$701,041
+
+$748,500
+=
+$1,477,839
+
+104%
+
+$634,301
+
+$2,178,880
+
+LTV(3Y)
+
+104%
+
+$554,126
+
+$2,813,181
+
+112%
+
+=
+
+$729,339 +
+
+$3,367,307
+Revenue is committed up front. Thus
+LTV(nY) is based on the sum of the
+revenue at the start of each year.
+
+CHAPTER 10 | GTM MODEL
+
+LTV(nY)
+
+LTV(5Y)
+
+TABLE 10.7
+
+Scenario A depicts the cost of GTM as a [%] of the revenue gained over a 5-year horizon.
+
+LTV(nY)
+
+1
+
+TABLE 10.8
+
+S&M
+
+ONB
+
+CSM
+
+AM
+
+Total
+
+Cumulative
+
+Ratio
+
+Acquisition Onboarding Retention
+
+Expansion
+
+$310,000
+
+$8,333
+
+$24,000
+
+$12,000
+
+$354,333
+
+$1,477,839
+
+$0
+
+$0
+
+$20,880
+
+$13,440
+
+$34,320
+
+$388,653
+
+26.3%
+
+$2,178,880
+
+$0
+
+$0
+
+$18,583
+
+$14,515
+
+$33,098
+
+$421,752
+
+19.4%
+
+$2,813,181
+
+$0
+
+$0
+
+$16,167
+
+$15,096
+
+$31,263
+
+$453,015
+
+16.1%
+
+$3,367,307
+
+$0
+
+$0
+
+$13,581
+
+$15,700
+
+$29,280
+
+$482,295
+
+14.3%
+
+$310,000
+
+$8,333
+
+$93,211
+
+$70,751
+
+$172,295
+
+$748,500
+
+2
+
+3
+
+$354,333
+
+4
+
+47.3%
+
+5
+
+Scenario B depicts the impact of marginal decline on sustainability over a 5-year horizon.
+LTV(nY)
+
+S&M
+
+ONB
+
+CSM
+
+Acquisition Onboarding Retention
+
+AM
+
+Total
+
+Cumulative
+
+Ratio
+
+Expansion
+
+$400,756
+
+$247,843
+
+$4,638
+
+$13,359
+
+$6,679
+
+$272,519
+
+$272,519
+
+68.0%
+
+$791,252
+
+$0
+
+$0
+
+$11,622
+
+$7,481
+
+$19,103
+
+$291,622
+
+36.9%
+
+$1,166,597
+
+$0
+
+$0
+
+$10,344
+
+$8,079
+
+$18,423
+
+$310,045
+
+26.6%
+
+$1,506,209
+
+$0
+
+$0
+
+$8,999
+
+$8,402
+
+$17,401
+
+$327,446
+
+21.7%
+
+$1,802,894
+
+$0
+
+$0
+
+$7,559
+
+$8,738
+
+$16,298
+
+$343,744
+
+19.1%
+
+The next chart plots the GTM costs from scenarios A and B. It shows when the
+GTM motion becomes sustainable. Scenario B takes over a year longer. It
+stresses the impact of marginal changes, emphasizing the fragility and
+response sensitivity inherent in subscription-based business models.
+
+161
+
+FIGURE 10.26
+
+The GTM cost as a function of time between the original cost of a GTM motion and the
+one that experienced a marginal downturn shows the impact, a delay in over a year.
+
+Increased exposure
+to unsustainability.
+
+Scenario A
+Scenario B
+
+SUSTAINABILITY
+
+TABLE 10.9
+
+Focus on GRR to determine durability.
+ARR(start)
+
+Retention
+
+Expansion
+
+NRR
+
+ARR
+
+[VM7]
+
+[CR7]
+
+[CR8]
+
+[CR7xCR8]
+
+[VM9]
+
+Year 1
+
+$18,408
+
+98.0%
+
+102.0%
+
+99.96%
+
+$18,401
+
+Year 2
+
+$18,401
+
+95.0%
+
+128.0%
+
+121.6%
+
+$22,375
+
+Year 3
+
+$22,375
+
+94.0%
+
+112.0%
+
+105.3%
+
+$23,557
+
+Year 4
+
+$23,557
+
+95.0%
+
+108.0%
+
+102.6%
+
+$24,169
+
+Year 5
+
+$24,169
+
+93.0%
+
+111.0%
+
+104.0%
+
+$24,950
+
+5 Year Total
+
+$106,909
+
+GRR is a true indicator
+of durability.
+
+CHAPTER 10 | GTM MODEL
+
+Price increase increases
+expansion (NRR), and
+obfuscates the problem.
+
+TABLE 10.10
+
+Durability metrics for different GTM motions.
+
+No Touch
+
+Low Touch
+
+Mid Touch
+
+80%
+
+85%
+
+90%
+
+GRR
+
+High Touch
+
+Dedicated Touch
+
+95%
+
+98%
+
+In the previous section on sustainability, we learned that cutting costs through
+technology, such as chatbots, can make operations more sustainable. But that's
+not the only avenue. Growth from existing customers is another cost-effective
+growth strategy, as it comes at a lower cost than acquisition.
+
+FIGURE 10.27
+
+The GTM model aligns cross functional efforts from marketing, sales, and customer
+success departments to 5 most GTM motions in use today.
+NO
+TOUCH
+
+Number of customers served
+per year
+
+100,000s
+
+LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+HIGH
+TOUCH
+
+DEDICATED
+TOUCH
+
+Field Sales
+Target
+By Vertical
+
+Named Accts
+
+Self Serve
+Inbound
+Community
+
+10,000s
+
+1-Stage
+Helpdesk
+
+2-Stage
+Outbound
+By Volume
+
+1,000s
+100s
+10s
+
+Sales
+Marketing
+
+Networking
+By Account(s)
+
+CS
+
+1s
+$0
+
+$5,000
+
+$15,000
+
+$50,000
+
+$500,000
+
+>$1M
+
+Annual Contract Value
+
+FIGURE 10.28
+
+Cost Allocation across different GTM motions.
+Cost of Acquisition
+
+Awareness
+
+GTM
+motions
+
+CHAPTER 10 | GTM MODEL
+
+Education
+
+Selection
+
+Cost to Serve
+Cost of
+Onboarding
+
+Cost of
+Retention
+
+Cost of
+Expansion
+
+Commit Onboarding
+
+Retention
+
+Expansion
+
+FIGURE 10.29
+
+Different channels can be applied to any GTM motion, with an impact to the journey.
+
+Aﬃliates
+
+Awareness
+
+Strategic
+Partners
+
+Education
+
+Resellers
+
+Selection
+
+SIs
+
+Commit Onboarding
+
+Retention
+
+Expansion
+
+164
+
+TABLE 10.11
+
+Step by step explanation of how to calculate sustainability
+
+LTV(nY)
+
+1
+
+S&M
+
+ONB
+
+CSM
+
+AM
+
+Total
+
+Cumulative
+
+Ratio
+
+Acquisition Onboarding Retention
+
+Expansion
+
+$310,000
+
+$8,333
+
+$24,000
+
+$12,000
+
+$1,477,839
+
+$0
+
+$0
+
+$20,880
+
+$13,440
+
+$34,320
+
+$388,653
+
+26.3%
+
+$2,178,880
+
+$0
+
+$0
+
+$18,583
+
+$14,515
+
+$33,098
+
+$421,752
+
+19.4%
+
+$2,813,181
+
+$0
+
+$0
+
+$16,167
+
+$15,096
+
+$31,263
+
+$453,015
+
+16.1%
+
+$3,367,307
+
+$0
+
+$0
+
+$13,581
+
+$15,700
+
+$29,280
+
+$482,295
+
+14.3%
+
+$8,333
+
+$93,211
+
+$70,751
+
+$172,295
+
+$748,500
+
+2
+
+$310,000
+
+6
+
+3
+
+$354,333
+
+4
+
+$354,333
+
+5
+
+47.3%
+
+Sustainability is calculated as follows:
+1. Calculate the cumulative revenue over a period of time.
+2. Calculate the cost for each cost centers.
+3. Sum up the total cost per year.
+4. Accumulate the cost over the years
+5. Calculate the cost of revenue
+If the cumulative cost over the set horizon is <20% it is determined
+sustainable. Note that in a subscription business the cost of expansion
+is about ½ of the cost of acquisition (6) which is in stark contracts to
+perpetual software where it is about ¼.
+● Maturity Phase 3. Durability, then, is your factory quality control department,
+ensuring that every product coming off the line meets high standards.
+
+TABLE 10.12
+
+Durability metrics for different GTM motions (same as Table 10.10).
+
+No Touch
+
+Low Touch
+
+Mid Touch
+
+80%
+
+85%
+
+90%
+
+GRR
+
+High Touch
+95%
+
+Dedicated Touch
+98%
+
+The Growth Formula is a lens for the maturity phases of each GTM motion. It
+offers insights into causality, clariﬁes assumptions, and helps create easy to
+understand unit economics. It helps us establish the maturity of a GTM motion.
+
+CHAPTER 10 | GTM MODEL
+
+EXERCISE 10.1
+
+Identify One to Three GTM Motions
+List the top 3 GTM motions you're currently using, chosen from the following
+options: No Touch, Low Touch, Medium Touch, High Touch, or Dedicated Touch.
+Specify their ACV, the annual volume of deals they generate, and the ARR for
+each. Arrange them in descending order based on ARR.
+
+Description
+
+ACV
+Average
+
+Volume
+Deals/Year
+
+ARR/GTM motion
+High to low
+
+High Touch/Field sales
+
+$50,000
+
+80
+
+$24M
+
+GTM motion 1
+GTM motion 2
+GTM motion 3
+GTM motion x
+
+Plot Your GTM motions on the GTM model
+Map out the identiﬁed GTM motions on the GTM model, using ACV and annual
+deal volume as coordinates. If you have data from the past 2 to 3 years, plot the
+dots and draw a trendline to discern any speciﬁc directional shifts. You should
+be able to pinpoint dominant motions to focus your business on.
+No
+Touch
+
+Low
+Touch
+
+Medium
+Touch
+
+High
+Touch
+
+Dedicated
+Touch
+
+100,000s
+Number of Deals per Year
+
+EXERCISE 10.2
+
+10,000s
+1,000s
+100s
+10s
+1s
+$5,000
+
+$15,000
+
+$50,000
+
+$500,000
+
+>$1M
+
+Annual Contract Value
+
+166
+
+EXERCISE 10.3A
+
+Determine Your GTM motion
+Write down the name of each GTM motion from exercise 10.2, such as High
+Touch. Then move on to marketing motion, is it through inbound, our a speciﬁc
+outbound technique, or a targeting approach such as ABM. Next name the sales
+motion, such as ﬁeld sales. Finally, outline how your customer success
+management (CSM) is structured: by volume, accounts, or segments.
+
+Name
+
+Lead gen motion
+
+Sales motion
+
+CS motion
+
+High Touch
+
+ABM/Targeting
+
+Field sales
+
+By Accounts
+
+GTM motion 1
+GTM motion 2
+GTM motion 3
+GTM motion x
+
+Combined this should reﬂect your main business. If they are not easy to relate to
+your team, or they have lots of programs in each, that is a sign you and the team
+are making things too complicated.
+
+EXERCISE 10.3B
+
+Check for common use-cases
+Now is a good time to review common use-cases and ensure your business is
+not mistakenly categorized under an incorrect GTM motion.
+Description
+
+Check for
+
+Use-case 1:
+Multiple GTM motions
+
+One GTM motion for the ﬁrst $10M in ARR, 3 GTM motions up to
+$50M in ARR, second product over $100M in ARR
+
+Use-case 2:
+Everything all at once
+
+Are your GTM motions aligned vertically, or are you using a CS motion
+from low-touch with a sales motion from high-touch
+
+Use-case 3:
+ACV Trendline
+
+Is your ACV trending up or down, and if so is it entering a new GTM
+motion, e.g. is the price from high touch dropping int medium touch.
+
+Use-case 4:
+ACV, NRR and LTV
+
+If you take the total LTV over 5 years and divide by 5 are you stil in the
+right GTM motion? This is the result of high NRR.
+
+Use-case 5:
+Mixing GTM motions
+
+Are you combining a no touch GTM motion such as PLG with a high
+touch GTM motion such as Enterprise sales?
+
+CHAPTER 10 | GTM MODEL
+
+EXERCISE 10.4
+
+Determine The Growth Formula
+Choose a speciﬁc GTM motion for which you have readily available data. Fill in
+known conversion rates as they currently stand ONLY in the “as is” row. Don't
+worry if you need to make educated guesses at this stage. Calculate the formula
+out VM2 = VM1 x CR1, etc. until you come to the ARRCOMMIT
+
+EXERCISE 10.5
+
+Visitors
+
+Email
+
+Leads
+
+Interested
+
+[VM1]
+
+[CR1]
+
+[VM2]
+
+[CR2]
+
+As is
+
+400
+
+Future State
+
+400
+
+Oppty Qualiﬁed Q'Oppty
+[VM3]
+
+[CR3]
+
+[VM4]
+
+Win rate
+
+Commit
+
+Discount
+
+List Price
+
+ARR(commit)
+
+[CR4]
+
+[VM5]
+
+[CR5]
+
+ACV
+
+[VM6]
+
+Calculate Scalability: Increase Inputs vs. Improve Throughputs
+Perform the following scenario analysis:
+Scenario Analysis
+
+Scenario A
+
+Using the numbers from exercise 10.4 what is the ARRCOMMIT?
+
+Scenario B
+
+What is the ARRCOMMIT when you double the amount of inputs?
+
+Scenario C
+
+Improve CR(1-5) slightly, and reasonably. What is the ARR COMMIT?
+
+Scenario D
+
+Use CR(1-5) of scenario C and reduce the amount of Inputs until
+you achieve the same ARRCOMMIT as in scenario A.
+
+ARRCOMMIT
+
+If you can achieve growth by doubling the leads without affecting conversion
+rates—a scenario often seen in vertical markets—then prioritize this strategy
+immediately. However, if an increase in leads results in a decrease in conversion
+rates (throughput), you must promptly focus on improving throughput through
+enhancements in skills, tools, and process
+
+168
+
+EXERCISE 10.6
+
+Sustainability: Determine Cost of Acquisition
+Calculate the total cost of acquisition (year 1) for the above GTM motion as a [%]
+of the ARRCOMMIT it generates:
+
+Cost Center
+
+% of ARRCOMMIT
+
+Lead Generation [CR1]
+
+Cost per Lead $ ________ x _______ inputs
+
+Lead Development [CR2]
+
+Salaries _______
+
+Campaigns ___________
+
+Lead Qualiﬁcation [CR3]
+
+Salaries _______
+
+Campaigns ___________
+
+Sales [CR4]
+
+Salaries _______
+
+Campaigns ___________
+
+Gain Commit [CR5]
+
+Salaries _______
+
+Campaigns ___________
+Total cost [% of revenue]
+
+%
+
+Conclusion (based on cost of acquisition)
+Total cost of acquisition [% of revenue] > 50%: Unsustainable
+Total cost of acquisition [% of revenue] 40% - 50%: Determine a path to sustainability.
+Total cost of acquisition [% of revenue] <40%: Sustainable
+
+EXERCISE 10.7
+
+Determine Durability
+Identify the GRR for each GTM motion, then identify what the most successful
+part is of that campaign that can be copied to other GTM motions.
+
+Name
+
+GRR
+
+High Touch
+
+98%
+
+What can you learn from it that can be
+applied to other GTM motions?
+
+GTM motion 1
+GTM motion 2
+GTM motion 3
+GTM motion x
+
+CHAPTER 10 | GTM MODEL
+
+Use of hyper-personalized monthly
+newsletter
+
+P A R T IV
+DEPLOY
+
+170
+
+FIGURE IV
+
+Simplicity by design—a carefully engineered piece of machinery that makes it easy
+for the user to tell time.
+
+Simplicity
+
+Complexity
+
+171
+
+11
+SIMPLY DEPLOY
+
+TABLE 11.1
+
+Enhance engagement during the kickoff by assigning stewards to each chapter.
+Model
+
+FIGURE 11.1
+
+Steward(s)
+
+2. First Principles
+
+VP Product
+
+3. Models & Data
+
+Revenue Operations
+
+4. Systems & Processes
+
+VP Engineering
+
+5. Model 1. Revenue Model
+
+CFO/Head of Finance
+
+6. Model 2. Data Model
+
+CMO
+
+7. Model 3. Mathematical Model
+
+FP&A
+
+8. Model 4. Operating Model
+
+COO
+
+9. Model 5. Growth Model
+
+CCO/Head of CS
+
+10. Model 6. GTM Model
+
+CRO/VP of Sales
+
+Sequencing of the models in the order that can cause hypergrowth.
+GROWTH MODEL
+Growth follows an
+s-curve and it has a
+series of breakpoints.
+
+GTM MODEL
+Growth comes
+from multiple
+GTM motions.
+
+DATA MODEL
+Each GTM motion
+has a growth formula
+with speciﬁc metrics.
+
+OPERATING MODEL
+Each metric maps to a
+key moment, that can
+be improved.
+
+A blueprint of a Moment that Matters, creating marginal gain by improving a diagnose.
+
+IDENTIFY MPACT
+
+PLATFORM
+
+Average level of engagement
+ENGAGEMENT
+
+FIGURE 11.2
+
+Example
+
+Summarize
+Pain
+
+Increase
+engagement
+PITCH/DEMO
+RESET
+
+Decrease
+engagement
+
+Pain
+
+Situation
+
+Feels like being
+interrogated
+
+Situation
+Situation
+Conversation
+TIME
+
+173
+
+The 12 revenue breakpoints on the way to becoming a revenue factory.
+
+Proﬁtability
+
+FIGURE 11.3
+
+1,000
+
+2
+
+1
+
+1
+
+Durability
+
+Interoperability
+
+Productivity
+
+Sustainability
+
+Velocity (Systems)
+
+Growth Formula
+
+Repeatable Process
+
+GTM Model
+
+Data Model & Structure
+
+10
+
+Founder-Led Growth
+
+100
+
+Pricing & Packaging
+
+ARR/GTM [ mUSD ]
+
+AREA OF FOCUS
+
+Users [#]
+
+2M
+
+11
+
+10
+
+9
+
+200k
+
+8
+
+7
+
+6
+
+20k
+
+5
+
+4
+
+3
+
+2k
+Unrepeatable
+
+Disciplined
+execution
+
+Repeatable
+
+Revenue
+Factory
+
+Time [ Years ]
+
+FIGURE 11.4
+
+12
+
+IPO
+
+Example of how the growth chart may will look. It shows retention being the top
+contributor to revenue, and how growth over time shifts from acquisition to expansion.
+Where you are on this curve is important to your growth strategy.
+
+Total
+
+ARR/GTM [ mUSD ]
+
+Retention
+
+Retention
+shadows the
+total.
+
+2
+Expansion
+
+3
+Acquisition
+
+1
+4
+Time [ Years ]
+
+CHAPTER 11 | SIMPLY DEPLOY
+
+TABLE 11.2
+
+Contribution of each component to overall growth, its growth pattern, and the type of
+trendline used to determine the growth pattern.
+
+Contribution
+Acquisition
+
+[$] ______ , ____ [%]
+
+Retention
+
+[$] ______ , ____ [%]
+
+Expansion
+
+[$] ______ , ____ [%]
+
+Example
+
+FIGURE 11.5
+
+$ 48 M , 39%
+
+Growth Pattern
+
+Trendline Used
+
+Decelerating
+
+2-Degree Polynomial
+
+Draw the GTM model on the whiteboard and display your top 3 GTM motions in it.
+
+Number of customers served per year
+
+NO
+TOUCH
+
+100,000s
+
+LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+HIGH
+TOUCH
+
+DEDICATED
+TOUCH
+
+Self Serve
+Inbound
+Community
+
+10,000s
+
+1-Stage
+Helpdesk
+
+2-Stage
+Outbound
+
+1,000s
+
+By Volume
+
+Field Sales
+
+100s
+
+Target
+By Vertical
+
+10s
+
+Named Accts
+Networking
+By Account(s)
+
+1s
+$0
+
+$5,000
+
+$15,000
+
+$50,000
+
+Annual Contract Value
+
+CHAPTER 11 | SIMPLY DEPLOY
+
+$500,000
+
+>$1M
+
+Sales
+Marketing
+CS
+
+FIGURE 11.6
+
+The Bowtie: The standardized data model for recurring revenue.
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+
+Prioritization
+
+Awareness
+
+Education
+
+CR1
+
+CR2
+
+VM1
+
+FIGURE 11.7
+
+VM2
+
+Mutual
+
+Selection Commit
+
+CR3
+
+VM3
+
+CR4
+
+VM4
+
+Onboarding
+
+Retention
+
+Expansion
+
+CR6
+
+CR7
+
+CR8
+
+CR5
+
+VM5
+
+VM6
+
+VM7
+
+VM8
+
+VM9
+
+The acquisition part of the Growth Formula.
+ACTION 11.9
+
+[VM1]
+
+[CR1]
+
+[VM2]
+
+[CR2]
+
+[VM3]
+
+[CR4]
+
+[VM5]
+
+[CR3]
+
+[VM4]
+
+GTM 1
+
+ACTION 11.10
+
+[CR5]
+
+ACV
+
+[VM6]
+ARRCOMMIT
+
+CHAPTER 11 | SIMPLY DEPLOY
+
+FIGURE 11.8
+
+The retention and expansion part of the Growth Formula.
+ACTION 11.9
+
+[VM6]
+
+[CR6]
+
+[VM7]
+
+[CR7/8]
+
+ARRCOMMIT
+
+[VM9]
+
+NRR
+
+LTV(1Y)
+LTV(2Y)
+
+ACTION 11.10
+
+LTV(3Y)
+LTV(4Y)
+LTV(5Y)
+
+FIGURE 11.9
+
+The customer journey must be mapped out with the ﬁnal destination in mind, where
+customers experience recurring impact resulting in recurring revenue.
+ACQUISITION
+
+RETENTION AND EXPANSION
+FIRST PRINCIPLE.
+
+Awareness
+
+Education
+
+Selection
+
+4
+5
+6
+
+7
+Unaware
+of Impact
+
+Mutual
+Commit
+
+Discovery
+of Impact
+
+CHAPTER 11 | SIMPLY DEPLOY
+
+Prioritize
+on Impact
+
+Onboarding
+
+Retention
+
+Expansion
+
+3
+
+Buy on Commit
+Impact to Impact
+
+IMPACT REALIZED.
+
+PROMISE OF IMPACT.
+
+Recurring Revenue is the
+result of Recurring Impact.
+
+2
+Achieve
+1st Impact
+
+1
+Recurring
+Impact
+
+2
+Maximum
+Impact
+
+TABLE 11.3
+
+Double your revenue through marginal gain.
+ACTION 11.14
+
+ACTION 11.15
+
+A Moment that Matters
+
+Conversion Rate
+
+Current metric
+
+Target metric
+
+22%
+
+24.2%
+
+CR1/________
+CR2/________
+CR3/________
+CR4/Win rate
+CR5/________
+CR6/________
+CR7/________
+CR8/________
+CR4/Win rate
+
+Example: Multi-thread an account
+
+FIGURE 11.10
+
+The Impact Sprint targets a single skill with the goal of enhancing a speciﬁc moment
+that matters greatly to the customer. While each skill yields an immediate impact,
+combining skills can amplify the overall effect signiﬁcantly.
+
+Analyze
+
+Train
+
+1
+
+2
+
+Inspect the metrics
+and hone-in on a
+speciﬁc skill (MTM).
+
+Coach
+
+Coach
+
+Coach
+
+Coach
+
+3
+
+Host a 1- to 2-hour
+masterclass focused
+solely on this skill.
+
+Implement the skill in
+the ﬁeld, and utilize
+rapid iteration.
+
+Sprint (1)
+
+Sprint (2).
+
+Evaluate and identify
+areas of continuous
+improvement.
+
+Sprint (n).
+
+4
+30 days.
+
+CHAPTER 11 | SIMPLY DEPLOY
+
+Ampliﬁed Impact
+
+FIGURE 11.11
+
+The Onboarding call is an example of a key moment comprising a series of micro-skills.
+
+Engagement
+
+JOINT IMPACT PLAN
+Transfer of critical
+account info. Verify if
+the desired Impact
+and Critical Event date
+are still correct.
+S P I CE D
+
+COMMIT
+SETUP
+
+REVIEW
+CLOSE
+
+After the handoff,
+write down what the
+recurring Impact is
+and when it will be
+available.
+
+DO-OVER?
+FOLLOW-UP
+Insights disclosed
+during Onboarding
+can cause a do-over
+of the deliverables.
+
+KICKOFF
+
+PREPARE
+
+Time
+
+FIGURE 11.12
+
+The revenue factory operates along a series of models that reﬂect its behavior.
+GROWTH MODEL
+Growth follows an
+S-curve and it has a
+series of breakpoints.
+
+CHAPTER 11 | SIMPLY DEPLOY
+
+GTM MODEL
+Growth comes
+from multiple
+GTM motions.
+
+DATA MODEL
+Each GTM motion
+has a growth formula
+with speciﬁc metrics.
+
+OPERATING MODEL
+Each metric maps to a
+key moment that can
+be improved.
+
+Overview of Actions
+Action 11.1: Brief the executive team.
+Action 11.2: Assign stewards to each chapter.
+Action 11.3: Organize a kickoff meeting.
+Think Big – Industrial-Scale Impact
+Action 11.4: Identify the revenue breakpoints applicable to your growth trajectory.
+Action 11.5: Break down the revenue into its growth components.
+Action 11.6: Model the growth patterns for each growth component.
+Action 11.7: Establish GTM motions.
+Action 11.8: Build the Data Model.
+Action 11.9: Build the Data Structure (Label the metrics.)
+Action 11.10: Create a Growth Formula.
+Action 11.11: Compare the effects of Increasing Inputs vs. Improving Throughput
+Action 11.12: Determine scalability and sustainability.
+Act Small – Moments Matter
+Action 11.13: Build an Impact Journey.
+Action 11.14: Identify Moments That Matter (MTM).
+Action 11.15: Aim to improve the conversion rate of each MTM by 10%.
+Move Fast – Better Yet, Sprint!
+Action 11.16: Analyze the team’s performance.
+Action 11.17: Conduct a masterclass.
+Action 11.18: Coach the team using real-life use cases.
+Action 11.19: Combine Sprints to amplify the effect.
+Start Now – Simply Deploy
+Action 11.20: Launch a GTM council.
+Action 11.21: Involve everyone.
+
+CHAPTER 11 | SIMPLY DEPLOY
+
+ANNEX
+
+ANNEX A. WORKSHOP MATERIALS
+A1
+
+REVENUE ARCHITECTURE DIY WORKSHOP
+Assign 1 or 2 executives to each chapter. Ask them to provide a few takeaways
+that relate to your business from each chapter.
+
+Chapter 1
+
+Who?
+
+What? (key takeaway)
+
+CEO
+
+SaaS Crash / Growth at all costs
+
+.
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+Chapter 2
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+
+Chapter 3
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+
+Chapter 4
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+
+Chapter 5
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+
+Chapter 6
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+
+Chapter 7
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+
+Chapter 8
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+
+Chapter 9
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+
+Chapter 10
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+
+Chapter 11
+
+_____________ ___________________________________________________________
+_____________ ___________________________________________________________
+
+182
+
+A2
+
+DATA MODEL
+First, label the volume metrics [VM(n)] using the terminology used within your
+company. Then label the conversion metrics [CR(n)], and lastly label the time
+metrics [Δt(n)].
+
+ACQUISITION
+
+RETENTION AND EXPANSION
+
+Prioritization
+
+Awareness
+
+Education
+
+Δt1
+
+Δt2
+
+Δt3
+
+CR1
+
+CR2
+
+CR3
+
+VM1
+
+VM2
+
+VM3
+
+Onboarding
+
+Retention
+
+Expansion
+
+Δt4
+
+Δt5
+
+Δt6
+
+Δt7
+
+Δt8
+
+CR4
+
+CR5
+
+CR6
+
+CR7
+
+CR8
+
+VM4
+
+VM5
+
+VM6
+
+VM7
+
+VM8
+
+VM1 ________________
+
+CR1 ________________
+
+Δt1 ________________
+
+VM2 ________________
+
+CR2 ________________
+
+Δt2 ________________
+
+VM3 ________________
+
+CR3 ________________
+
+Δt3 ________________
+
+VM4 ________________
+
+CR4 ________________
+
+Δt4 ________________
+
+VM5 ________________
+
+CR5 ________________
+
+Δt5 ________________
+
+VM6 ________________
+
+CR6 ________________
+
+Δt6 ________________
+
+VM7 ________________
+
+CR7 ________________
+
+Δt7 ________________
+
+VM8 ________________
+
+CR8 ________________
+
+Δt8 ________________
+
+VM9 ________________
+
+ANNEX
+
+Mutual
+Commit
+
+Selection
+
+VM9
+
+A3
+
+OPERATING MODEL
+For each product or solution offered, identify 5 rational (quantitative) impacts, 5
+emotional (qualitative) impacts, and 5 critical events. This approach serves as a
+means to facilitate communication across the entire organization.
+
+RATIONAL IMPACT
+
+EMOTIONAL IMPACT
+
+CRITICAL EVENTS
+
+1. _____________________
+
+1. _____________________
+
+1. _____________________
+
+2. _____________________
+
+2. _____________________
+
+2. _____________________
+
+3. _____________________
+
+3. _____________________
+
+3. _____________________
+
+4. _____________________
+
+4. _____________________
+
+4. _____________________
+
+5. _____________________
+
+5. _____________________
+
+5. _____________________
+
+184
+
+A4
+
+GROWTH MODEL
+Depict your revenue growth trajectory on the growth model:
+● Current Revenue (ARR): $ ________ on ____________
+● Target Revenue (ARR):
+
+$ ________ by ____________ (18 to 24 months later)
+
+See where this places you as it relates to the revenue breakpoints:
+● Breakpoints achieved:
+
+__________________________
+
+● Breakpoints missed:
+
+__________________________
+
+● Breakpoints in progress:
+
+__________________________
+
+● Breakpoints in the next months: ___________________
+If past breakpoints have yet to be addressed, they will impede progress. Also,
+future breakpoints may involve a phase shift, which may require up to 18
+
+Proﬁtability
+
+months of preparation.
+
+Stage
+
+2
+
+1
+
+1
+S
+
+A
+SEED
+
+Maturity
+
+3
+
+PMF
+
+Durability
+
+Interoperability
+
+Productivity
+
+Sustainability
+
+Velocity
+
+Growth Formula
+
+Repeatable Process
+
+GTM Model
+
+12
+
+Users [#]
+2M
+
+11
+
+10
+
+200k
+
+9
+
+8
+
+20k
+
+7
+
+6
+
+5
+
+4
+
+2,000
+
+Unrepeatable
+process
+
+Repeatable
+process
+
+B
+
+C
+
+STARTUP
+
+Disciplined
+execution
+
+Quality
+Compliance
+
+D
+
+E
+
+SCALEUP
+
+Scalable
+MVP
+
+ANNEX
+
+Data Model & Structure
+
+10
+
+Funding
+
+Founder-Led Growth
+
+100
+
+Pricing & Packaging
+
+ARR/GTM [ mUSD ]
+
+1,000
+
+Sustainable
+GTMF
+
+IPO
+GROWNUP
+
+Durable
+
+GTM MODEL
+Establish the different GTM motions. Fill in the functions per GTM motion you
+have in use today. Make sure they are aligned with the ACV and # deals/year.
+
+NO
+TOUCH
+
+LOW
+TOUCH
+
+MEDIUM
+TOUCH
+
+HIGH
+TOUCH
+
+DEDICATED
+TOUCH
+
+100,000s
+Number of customers served per Year
+
+A5
+
+10,000s
+
+1,000s
+
+100s
+
+Sales
+
+10s
+
+Marketing
+CS
+
+1s
+_________
+
+________
+
+_________
+
+_________
+
+_________
+
+Annual Contract Value
+
+GTM motion
+
+____________________
+
+____________________
+
+____________________
+
+ACV:
+
+____________________
+
+____________________
+
+____________________
+
+#Deals/year:
+
+____________________
+
+____________________
+
+____________________
+
+LeadGen:
+
+____________________
+
+____________________
+
+____________________
+
+LeadDev:
+
+____________________
+
+____________________
+
+____________________
+
+Selling:
+
+____________________
+
+____________________
+
+____________________
+
+Onboarding:
+
+____________________
+
+____________________
+
+____________________
+
+Adoption:
+
+____________________
+
+____________________
+
+____________________
+
+Expansion:
+
+____________________
+
+____________________
+
+____________________
+
+186
+
+ANNEX B. UNDERSTANDING REVENUE GROWTH
+
+FIGURE B1
+
+Revenue growth of BestCo, a ﬁntech that grew from $1M in 2013 to $115M in 2021.
+
+FIGURE B2
+
+Revenue growth proﬁle of a SaaS business using a recurring revenue model.
+
+Recurring Revenue
+
+100%
+growth
+
+50%
+growth
+
+$ 6m
+
+Acquisition
+$ 4m
+$ 2m
+
+Renewals
+
+$0
+
+Year 1
+
+ANNEX
+
+Year 2
+
+Year 3
+
+FIGURE B3
+
+Revenue growth proﬁle of a subscription business using a recurring revenue license
+model with 100% retention.
+200%
+growth
+
+100%
+growth
+
+$12m
+
+Recurring Revenue
+
+$10m
+
+Acquisition
+$ 8m
+$ 6m
+$ 4m
+
+Renewals
+$ 2m
+$0
+
+Year 1
+
+TABLE B1
+
+Year 2
+
+Year 3
+
+In the beginning, exponential growth results from renewals and growth in acquisition.
+NEWCO
+
+Renewals
+
+Acquisition
+
+Year 1
+
+$ 0M
+
+$ 2M
+
+Total
+$ 2M
+100%
+
+TABLE B2
+
+Year 2
+
+$ 2M
+
+$ 4M
+
+Year 3
+
+$ 6M
+
+$ 6M
+
+200%
+$ 6M
+
+50%
+
+100%
+
+$ 12M
+
+Expansion is critical in any recurring revenue business.
+
+20%.
+NEWCO
+
+Renewals
+
+Expansion
+
+Acquisition
+
+Year 1
+
+$ 0M
+
+$ 0M
+
+$ 2M
+
+Total
+$ 2M
+220%
+
+Year 2
+
+$ 2M
+
+$ 0.4M
+
+$ 4M
+
+$ 6.4M
+
+Year 3
+
+$ 6.4M
+
+$ 1.28M
+
+$ 6M
+
+$ 13.7M
+
+114%
+
+ANNEX
+
+FIGURE B4
+
+Recurring revenue has multiple components of growth that, when managed correctly,
+create hypergrowth.
+
+220%
+growth
+
+114%
+growth
+
+$14m
+$12m
+
+Acquisition
+
+Recurring Revenue
+
+$10m
+$ 8m
+
+Expansion
+
+$ 6m
+$ 4m
+
+Renewals
+$ 2m
+$0
+
+Year 1
+
+FIGURE C1
+
+Year 2
+
+Year 3
+
+A simpliﬁed 7-stage sales process as commonly seen in most B2B sales companies.
+
+Inbound Lead
+Stage 1
+
+Disqualify
+
+Disco
+Stage 2
+
+Demo
+Stage 3
+
+Nurture
+
+Consult
+Stage 4
+
+Propose
+Stage 5
+
+Negotiate
+Stage 6
+
+Closed/Lost
+
+Commit
+Stage 7
+
+Closed/Won
+
+ANNEX
+
+Handoff
+
+A more reﬂective pattern of how customers step through a series of meetings. This
+concept is known in mathematics as graph theory. It allows AI systems to learn which
+sequence of meetings causes the best results.
+
+FIGURE C2
+
+Propose
+Demo
+rm
+Wa
+
+Commit
+
+Inbound
+
+ld
+
+Co
+
+Trade
+Disco
+Consult
+
+FIGURE C3
+
+Micro-actions connect calendared meetings—they provide a more accurate picture of
+the number of actions a salesperson must take to gain mutual commitment from both
+sides.
+
+Invite
+
+Preparation
+
+Warm
+Inbound
+
+Demo
+
+Commit
+
+Follow-up
+Followthrough
+
+Trade
+Disco
+
+Consult
+
+Propose
+
+Cold
+Outbound
+
+Calendared meetings
+
+ANNEX
+
+Stakeholder
+
+Micro-actions (email/call)
+
+Actions taken
+
+FIGURE D1
+
+A 100% effective and eﬃcient system reﬂects market dominance.
+
+ACQUISITION
+
+Awareness
+100%
+effectiveness
+
+Expansion
+
+Education
+
+Retention
+Selection
+
+FORMULA E1
+
+RETENTION AND
+EXPANSION
+
+100% eﬃciency
+
+Commit
+
+Onboarding
+
+Win rate = CR number of meetings
+
+Now, if we regroup that formula around the conversion rate per meeting,
+we get the following:
+
+FORMULA E2
+
+CR = number of meetings win rate
+
+And if we apply the arguments for SMB, we get:
+
+FORMULA E2a
+
+CR = 5 meetings
+
+20% win rate
+
+= 72.48% (round it to 72%)
+
+This means that each calendar meeting converts at an average of 72%.
+In other words:
+Win rate = 72% × 72% × 72% × 72% × 72% ~ 20%.
+
+Now let's compare this to the Enterprise performance per meeting:
+
+ANNEX
+
+CR = 12 meetings 30% win rate = 90%
+
+FORMULA E2b
+
+Win rate = 90% × 90% × 90% × 90% × 90% × 90% × 90% × 90% × 90% × 90% ×
+90% × 90%
+Win rate = 0.912 = 30%
+
+FIGURE E1
+
+The difference in performance between an SMB rep and an Enterprise rep depicted as a
+function of the number of meetings.
+
+1.0
+
+Limitations
+of the model.
+
+0.8
+
+Win rate [%]
+
+Impact of the ﬁrst
+meetings.
+0.6
+Enterprise
+0.4
+
+The drop in win rate of Q1’23
+29%
+
+0.2
+
+20%
+
+18%
+
+SMB
+
+10%
+0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Number of meetings (n)
+
+FORMULA E3
+
+Win rate = CR (n) number of meetings
+
+FORMULA E4
+
+18% = 0.9 (n) number of meetings
+
+For some topical fun, let’s use an AI prompt to help us solve for the number of
+meetings by stating, "If x = y^n and I have x and y, how do I solve for n?" we get:
+FORMULA E5
+
+ANNEX
+
+Number of meetings(n) = ln(0.18) / ln(0.9) = 16 meetings
+
+The mathematics explain what we observed in the ﬁeld. The average win rate
+dropped from 30% to 18%, while at the same time the average number of
+meetings increased from 12 to 16 (see Figure E1).
+
+FIGURE E2
+
+The persistent decline in win rate over time across Enterprise and SMB deals.
+
+Enterprise
+
+Win rate
+
+30%
+
+29%
+26%
+
+20%
+
+SM
+B
+
+Until 1Q22 WbD Architects
+modelled growth metrics
+against a 29% win rate for
+Enterprise.
+
+10%
+
+18%
+
+DCMi, The JOLT Effect,
+reports an average win rate
+of 26%.
+
+1H’23 shows a drop in
+average win rate from
+26% to 18%.
+1Q21
+
+TABLE F1
+
+ANNEX
+
+2Q21
+
+3Q21
+
+4Q21
+
+1Q22
+
+2Q22
+
+3Q22
+
+4Q22
+
+1Q23
+
+Why existing solutions are not working.
+
+Prior Solution
+
+Why it Doesn’t Solve the Current Problem
+
+Large-scale training
+programs
+
+Traditional training programs can take a long time to realize Impact:
+reps can be trained and certiﬁed, but because they are learning
+several skills within the same training course, they don't emerge with
+mastery. Much more time is needed for ongoing coaching and
+applying all those skills.
+
+Month-long onboarding
+bootcamps for new reps
+
+Most companies are not hiring right now; in fact, many are doing the
+opposite as they lay off high proportions of their teams to cut costs.
+
+Rolling out a new
+methodology
+
+A methodology is key for any scaling sales team, but doing this well
+requires a heavy dose of change management and won't quickly solve
+the current problem.
+
+Reliance on
+superstar reps
+
+As we see in the latest data, the number of superstar reps remaining
+at companies has drastically declined. Companies can no longer rely
+on just the superstars to carry them through a tough market.
+
+FIGURE F1
+
+Overview of an Impact Sprint.
+
+ANALYZE
+
+TRAIN
+
+COACH
+
+COACH
+
+COACH
+
+COACH
+
+1
+
+2
+
+3
+
+4
+
+Determine what
+skills are missing
+
+Choose
+one skill
+
+Start
+coaching
+
+Make it stick
+
+Look at the core
+Bowtie metrics
+to determine
+where to start
+
+1-2 hours on one
+speciﬁc skill
+(e.g., improving
+discovery calls)
+
+Review real
+customer call
+recordings - both
+good and bad
+examples
+
+Weekly coaching to determine
+if the skill is being applied, and
+measure every week
+
+Compound Impact
+
+60-90 DAYS
+
+TABLE F2
+
+An example of how to make training stick through coaching.
+
+Analyze
+
+Train
+
+Coach
+
+Some common areas of
+opportunity:
+
+Start with a
+fundamental skill
+(e.g., get your
+discovery calls done
+well before
+attempting to solve
+for Enterprise
+stakeholder
+meetings).
+
+Use actual customer calls; break them
+down as a group and determine if the
+skill was applied, how it was applied, and
+what the results were.
+
+● NRR is too low
+● Discounting is too high
+● The conversion rate from
+a deal to a closed-won is
+too low
+
+Study call snippets of where it goes right
+and where it goes wrong to facilitate
+learning and understanding across the
+team of what "good" looks like.
+
+194
+
+TABLE F3
+
+FIGURE G1
+
+Expected results of improving the group of middle performers.
+
+Average
+quota
+attainment
+
+Current revenue by
+cohort, current
+state
+
+New revenue
+by cohort, after
+Impact Sprints
+
+Cohort
+
+# of
+reps
+
+Top
+
+32
+
+80%+ quota
+attainment
+
+90%
+
+$28,800,000
+
+$28,800,000
+
+Middle
+
+40
+
+50-79% quota
+attainment
+
+60%
+
+$24,000,000
+
+$36,720,000
+
+Bottom
+
+28
+
+<50% quota
+attainment
+
+30%
+
+$8,400,000
+
+$8,400,000
+
+$61,200,000
+
+$73,920,000
+
+Quota attainment
+
+The 10:20:70 learning model.
+
+20%
+CLASSROOM
+
+70%
+ON THE JOB
+
+10%
+COACHING
+
+195
+
+FIGURE G2
+
+Example of a Diagnose Blueprint (explained in detail in Section 8.2.2).
+
+CONSULTATIVE
+“When do
+you need
+this by?”
+
+Empathize by letting a
+customer know “I run
+into this all the time.”
+
+ENGAGEMENT
+
+Increases in
+customer
+engagement
+
+Empathize
+
+Impact
+Story
+
+Critical Event
+“What
+happens if you
+miss that date?”
+
+Use of a customer story
+to establish the impact
+others have experienced.
+
+PLATFORM.
+
+SOLUTION
+
+Summarize
+Pain
+Situation
+Conversation
+
+FIGURE G3
+
+TIME
+
+Amateurs typically overestimate their ability above expert level.
+
+Peak “Mt Stupid”
+
+Plateau of
+productivity
+
+CONFIDENCE.
+
+It takes 10,000 hours
+to achieve mastery..
+
+Valley of
+despair
+
+.AMATEUR.
+
+ANNEX
+
+.WISDOM.
+
+.EXPERT.
+
+TALKER, a conversation technique that can be applied to any customer conversation.
+
+FIGURE H1
+
+Who are you?
+Why me?
+What’s in it for me?
+
+Hear: “We hear this all the time..
+Share: “Let me share a story..
+Care: “We cared for this, and so..
+
+INSIGHT
+
+Use cases
+
+Identify
+Impact
+
+CONVERSATION
+
+ENGAGEMENT
+
+Education
+not swag
+
+FOLLOW-UP
+ICE
+BREAKER
+
+Learn how
+they like to
+converse
+
+swers.
+
+Client an
+
+CALL
+
+Not me
+Not a priority
+Already have it
+Send me an email
+
+Relevance
+Reward
+Request
+
+Identify
+relevance
+PREPARE
+
+FIGURE H2
+
+Situational and
+Pain Questions
+
+Discovery
+meeting
+
+EMAIL
+
+VMAIL
+
+SOCIAL
+
+OBJECTION
+
+Another time
+perhaps. We are
+not for everyone
+
+REJECTION
+
+TIME
+
+Example of a live chat with a client who came to your website to learn more.
+Qualiﬁcation
+
+Conversation
+
+Hi there. How can I help?
+
+How can I help you?
+I am looking to learn more
+about sales acceleration?
+
+I am looking to learn more
+about sales acceleration.
+
+We
+people who
+sales acceleration.
+
+What CRM do you use?
+Salesforce
+
+What made you reach out?
+
+How many sales people?
+
+We experience low
+productivity per rep.
+
+The group I work for has 10.
+How low is it?
+And what is your role?
+<11 SQLs per month.
+I am responsible for
+sales ops.
+
+Your website shows an
+ACV of $1,200.
+
+Are you the decision maker?
+
+That’s right.
+Yeah sure.
+
+Is this project budgeted?
+
+In that case, rep
+productivity is low.
+That’s what I ﬁgured.
+
+Yes.
+Your LinkedIn says you
+are hiring SDRs?
+
+When do you need this by?
+End of next month.
+ANNEX
+
+I would like to set up a 15
+minute meeting with our sales
+team.
+
+Yes, we are adding 4 more.
+You should to talk to an expert to
+see if that even makes sense.
+
+ANNEX
+
+ABBREVIATIONS
+4IR
+
+Fourth Industrial Revolution
+
+CPC
+
+Cost per click
+
+ABM
+
+Account-Based Marketing
+
+CR
+
+Conversion Rate
+
+ACV
+
+Annual Contract Value
+
+CRM
+
+Customer Relationship Management
+
+AE
+
+Account Executive
+
+CRO
+
+Chief Revenue Oﬃcer
+
+AI
+
+Artiﬁcial Intelligence
+
+CS
+
+Customer Success
+
+AM
+
+Account Manager
+
+CSM
+
+Customer Success Manager
+
+ATS
+
+Applicant Tracking System
+
+CTS
+
+Cost to Serve
+
+ARR
+
+Annual Recurring Revenue
+
+CE
+
+Critical Event
+
+AWS
+
+Amazon Web Services
+
+CEO
+
+Chief Executive Oﬃcer
+
+B2B
+
+Business to Business
+
+COGS
+
+Costs of Goods Sold
+
+B2C
+
+Business to Consumer
+
+CCO
+
+Chief Customer Oﬃcer
+
+BANT
+
+Budget, Authority, Need, Timeline
+
+DAU
+
+Daily Active Users
+
+BDR
+
+Business Development Representative
+
+DEMO
+
+Demonstration
+
+CAB
+
+Customer Advisory Board
+
+ERP
+
+Enterprise Resource Planning
+
+CAC
+
+Customer Acquisition Cost
+
+F500
+
+Fortune 500
+
+CAGR
+
+Compound Annual Growth Rate
+
+FCF
+
+Free Cash Flow
+
+CCO
+
+Chief Customer Oﬃcer
+
+FOMO
+
+Fear Of Missing Out
+
+CE
+
+Critical Event
+
+FOMU
+
+Fear Of Messing Up
+
+CET
+
+Critical Event Timeline
+
+FOFO
+
+Fear Of Finding Out
+
+CLG
+
+Customer Led Growth
+
+FP&A
+
+Financial Planning & Analysis
+
+CMGR
+
+Compound Monthly Growth Rate
+
+GAAP
+
+Generally Accepted Accounting Principles
+
+CMO
+
+Chief Marketing Oﬃcer
+
+GR
+
+Growth Rate
+
+199
+
+GRR
+
+Gross Revenue Retention
+
+PLG
+
+Product Led Growth
+
+GTM
+
+Go-To-Market
+
+PLS
+
+Product Led Sales
+
+GTMF
+
+GTM Fit
+
+PMF
+
+Product Market Fit
+
+I
+
+Impact
+
+POC
+
+Proof of Concept
+
+ICE
+
+Impact and Critical Event
+
+PPC
+
+Pay-per-click
+
+ICP
+
+Ideal Customer Proﬁle
+
+PQL
+
+Product Qualiﬁed Lead
+
+IO
+
+Insertion Order
+
+QBR
+
+Quarterly Business Review
+
+IPO
+
+Initial Public Offering
+
+R40
+
+Rule of 40
+
+IRL
+
+In Real Life
+
+RFP
+
+Request for Proposal
+
+IRR
+
+Internal Rate of Return
+
+RFQ
+
+Request for Quotation
+
+ISR
+
+Inside Sales Rep
+
+ROI
+
+Return on Investment
+
+KPI
+
+Key Performance Indicator
+
+ROM
+
+Recurring Revenue Operating Model
+
+L2O
+
+Lead to Opportunity
+
+SaaS
+
+Software as a Service
+
+LTV
+
+Lifetime Value of a customer
+
+SAL
+
+Sales Accepted Lead
+
+MAS
+
+Marketing Automation System
+
+SEM
+
+Search Engine Marketing
+
+MAU
+
+Monthly Active Users
+
+SDR
+
+Sales Development Representative
+
+MCGR
+
+Monthly Compound Growth Rate
+
+SEO
+
+Search Engine Optimization
+
+MDR
+
+Marketing Development Representative
+
+SLG
+
+Sales Led Growth
+
+SMB
+
+Small to Medium Business
+
+SQL
+
+Sales Qualiﬁed Lead, same as Opportunity
+
+T2D3
+
+Triple Triple Double Double Double
+
+TAM
+
+Total Available Market
+
+TOFU
+
+Top Of The Funnel
+
+TQM
+
+Total Quality Management
+
+TTV
+
+Time to Value
+
+USB
+
+Universal Serial Bus
+
+VAR
+
+Value-Added Reseller
+
+VC
+
+Venture Capitalist
+
+VM
+
+Volume Metric
+
+VP
+
+Vice President
+
+VSB
+
+Very Small Business (emerging) segment
+
+WAU
+
+Weekly Active Users
+
+WR
+
+Win ratio
+
+MEDDIC….Metrics, Economic Buyer, Decision Criteria,
+Decision Process, Identify Pain, Champion
+ML
+
+Machine Learning
+
+MM
+
+Mid Market
+
+MQA
+
+Marketing Qualiﬁed Accounts
+
+MQL
+
+Marketing Qualiﬁed Lead
+
+MRR
+
+Monthly Recurring Revenue
+
+MTM
+
+Moment That Matters
+
+NPS
+
+Net Promoter Score
+
+NRR
+
+Net Revenue Retention
+
+Oppty
+
+Opportunity
+
+OTC
+
+Opportunity to Close
+
+OTE
+
+On-target Earnings
+
+ORG
+
+Organization
+
+OS
+
+Operating System
+
+PE
+
+Private Equity
+
+ABBREVIATIONS
+
+BIBLIOGRAPHY
+Adams, D. J. (2007). Building Trust, Growing Sales:
+How to Master Complex High-End Sales.
+
+DataDog. (2023). Quarterly Results, Fourth Quarter
+2023.
+
+Agrawal, N. (2015). The SaaS Adventure.
+
+Deming, W. E. (1982). Out of The Crisis: 14 Points
+for Management. MIT Center for Advanced
+Engineering Study.
+
+Andreessen, M. (2011). Why Software is Eating the
+World.
+Beaubien, R., & Parrish, S. (2019). The Great Mental
+Models series.
+BetterCloud. (n.d.). Average Number of Software as
+a Service (SaaS) Applications Used by
+Organizations Worldwide from 2015 to 2022.
+Boyce, D. (2023). Product that Sells Itself: An
+Executive-level Primer on Product-led Growth.
+Brailsford (Sir), D. (2015). Core Principle and
+Marginal Gains. YouTube.
+Buffett, W. (2001). Berkshire Hathaway Chairman's
+Letter.
+Behavior Shifts. The Wall Street Journal.
+Cespedes, F. V. (2014). Aligning Strategy and Sales:
+The Choices, Systems, and Behaviors that Drive
+Effective Selling. Harvard Business Review Press.
+Cespedes, F. V., & van der Kooij, J.J. (2016). Hiring
+Star Sales People Isn't the Best Way To Grow.
+Harvard Business Review.
+Cespedes, F. V., & van der Kooij, J.J. (2023). The
+Rebirth of Software as a Service. Harvard Business
+Review.
+Chin, K. (2021). DocuSign Shares Fall More Than
+40% as Customer Behavior Shifts. The Wall Street
+Journal.
+
+Deming, W. E. (2018). The New Economics for
+Industry, Government, Education, 3rd edition.
+Dixon, M., & Adamson, B. (2011). The Challenger
+Sale: Taking Control of the Customer Conversation.
+Portfolio/Penguin.
+Dixon, M., & McKenna, T. (2022). The JOLT Effect:
+How High Performers Overcome Customer
+Indecision.
+Dunning, D., & Kruger, J. (1999). The
+Dunning-Kruger Effect. Journal of Personality and
+Social Psychology.
+Dunkel, D., McMahon, J., & Napoli, J. (1996).
+MEDDIC Sales Methodology.
+Heath, C., & Heath, D. (2017). The Power of
+Moments: Why Certain Experiences Have
+Extraordinary Impact.
+Höök, M., Li, J., Oba, N., & Snowden, S. (2012).
+Descriptive and Predictive Growth Curves in Energy
+System Analysis.
+Howarth, J. (2023). How Many People Own
+Smartphones? [Publication Source Not Provided]
+Izosimov A.V., (2008). Managing Hypergrowth.
+Harvard Business Review.
+Johnson, C. H. (2022). Scaling People: Tactics for
+Management and Company Building. Stripe Press.
+
+201
+
+Junger, S. (2016). Tribe: On Homecoming and
+Belonging. Grand Central Publishing.
+Kajanus, S. (2020). Types of Growth and How to
+Show Them.
+Kastrenakes, J. (2022). Netﬂix Raises Prices on
+All Plans in the US. Forbes.
+Khalsa, M., & Illig, R. (2008). Let's Get Real or
+Let's Not Play: Transforming the Buyer/Seller
+Relationship.
+Knaﬂic, C. N. Storytelling with Data: A Data
+Visualization Guide for Business Professionals.
+Wiley.
+Lee, D. (2023). Reddit Made the Mistake of
+Ignoring Its Core Users. The Washington Post.
+Lewis, E. S. E. (1898). The New Thought in
+Advertising.
+Lewis, M. (2003). Moneyball: The Art of Winning
+an Unfair Game. W. W. Norton & Company.
+McJannet, D. (2022). CEO Systems: 5 Lessons
+Learned from Scaling at Every Growth Phase with
+HashiCorp CEO Dave McJannet. SaaStr.
+MacDonald, D., & Nadel, I. (2008). Golden Gate
+Bridge: History and Design of an Icon. Chronicle
+Books.
+Millard, S. (2023). From $1 to $100m Revenue:
+Scaling VC Backed SaaS with Notion Capital.
+Notion Capital.
+Mubeen, J. Mathematical Intelligence: A Story of
+Human Superiority Over Machines. Pegasus
+Books.
+
+Roberge, M. The Sales Acceleration Formula:
+Using Data, Technology, and Inbound Selling to
+Go from $0 to $100 Million. Gildan Media.
+Rubin, R. (2023). The Creative Act: A Way of
+Being. Penguin Press.
+SaaS Capital Index. (n.d.). Performance of SaaS
+Companies Over Time, Normalized Against
+January 2012.
+Sacks, D. (2020). The Burn Multiple.
+Sandler, D. (1967). Sandler Selling System.
+Skok, D. (2010). How Sales Complexity Impacts
+Your Startup's Viability.
+Skok, M. (2009). Chess Metaphors: Artiﬁcial
+Intelligence and the Human Mind.
+Szkutak, R. (2022). Record-Setting Venture
+Capital Market Shows off a Slowdown. Forbes.
+Taylor, F. W. (1910). The Principles of Scientiﬁc
+Management. Harper & Brothers.
+The Farnam Street. (2019). The Great Mental
+Models Volume 1: General Thinking Concepts.
+Latticework Publishing Inc.
+The Farnam Street. (2021). The Great Mental
+Models Volume 3: Systems and Mathematics.
+Latticework Publishing Inc.
+Van der Kooij, J. J. (2016). Blueprints for a SaaS
+Sales Organization: How to Design, Build, and
+Scale a Customer-Centric Sales Organization.
+Winning by Design.
+Van der Kooij, J. J. (2018). The SaaS Sales
+Method: Sales as a Science. Winning by Design.
+
+Nahm, T. H., & Tinker, B. (2018). Survival to
+Thrival: Building the Enterprise Startup. April 16,
+2018. Mascot Books.
+
+Vonnegut, K. (1995). The Shape of Stories. UC
+Berkeley.
+
+Page, S. E. (2018). The Model Thinker: What You
+Need to Know to Make Data Work for You. Basic
+Books.
+
+Voss, C. (2016). Never Split the Difference,
+Negotiating as if Your Life Depended on It.
+Harper Business.
+
+Parrish, S. (2022). Chesterton's Fence: A Lesson
+in Second Order Thinking. Farnham Street Blog.
+
+Walsh, B. (1998), Finding the Winning Edge,
+Sports Publishing Inc. Illinois.
+
+Pink, D. (2012). To Sell Is Human: The Surprising
+Truth about Moving Others. Riverhead Books.
+
+Woodlock, D. (2009). Intro to System Dynamics
+[YouTube series]. December 18, 2009. Youtube.
+
+Rackham, N. (1995). SPIN Selling. McGraw-Hill.
+
+Yeh, C., & Hoffman, R. (2018). Blitzscaling: The
+Lightning-Fast Path to Building Massively
+Valuable. Crown Currency.
+
+Reason, J. (2000). Human Error: Models and
+Management. National Institute of Health.
+
+BIBLIOGRAPHY
+
+

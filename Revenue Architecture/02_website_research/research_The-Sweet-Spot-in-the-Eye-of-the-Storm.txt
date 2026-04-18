@@ -1,0 +1,1540 @@
+THE SWEET SPOT IN
+THE EYE OF THE STORM
+A Clarion Call to SaaS Revenue Leaders
+December 22, 2022.
+Jacco van der Kooij
+Founder and Head of Research & Development at Winning by Design
+
+Winning by Design
+
+Page 1 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+INTRODUCTION
+In 2022 the SaaS Market crashed, and continues its descent as
+I write this. Headed into 2023, we are faced with a continued
+drop, both in growth rate and in public and private company
+valuations. After a stormy 2022, few revenue leaders have had
+time to take inventory of the situation and rethink their
+approach to 2023. As a result, organizations have not yet taken
+significant precautionary actions for 2023 beyond superficial
+cost cuts.
+The moment to rethink your approach is now. In the next weeks, we find ourselves in the Sweet
+Spot in the Eye of the Storm, as portrayed on the front cover1. Why do I say that? To have
+performed so well up until now, without deep insights into how SaaS machinery works, positions
+you to tap into immense opportunity.
+Over the past decade we all pursued growth. But growth in and of itself is a means to an end – a
+metric meant to push us to the top, proof that we can outpace the rest of the market, attract
+attention from potential acquirers or venture capital, and ultimately become the market leader.
+Although the unknown economic environment in 2023 may make it difficult to hit our growth
+targets, it offers an incredible opportunity to achieve a market leadership position or at least to
+move ahead of the competition.
+In this write-up I share how you can find the sweet spot for your business right now, while you are
+in the eye of the storm, and use these insights to prepare for a great 2023. Why is this so
+important? Vladimir Ilyich Lenin once said: “There are decades where nothing happens, and weeks
+when decades happen.” This quote feels eerily descriptive of the times we are in, and suggests to
+me that doing well in the next decade depends on what we do in 2023 – which very much
+depends on the actions we take over the next weeks. So in these coming weeks, we will be in the
+sweet spot!
+
+The Storyboard
+Act 1. The 2022 SaaS crash.
+Act 2. Root cause(s) analysis of the SaaS crash.
+Act 3. Principles of Recurring Revenue.
+Act 4. 2023 The Dawn of a New Era
+
+1
+
+The image was taken by NASA's Hubble Space Telescope in the Omega or Swan Nebula, also known as M17, about
+5,500 light years away. (J. Hester (ASU))
+
+Winning by Design
+
+Page 2 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+ACT ONE
+
+THE 2022 SAAS CRASH
+By many metrics, 2021 will go down in SaaS history as the
+best year ever, with a whopping 291 SaaS IPOs. At
+Winning by Design, we have been fortunate to have been
+involved in many of them on their journey from $10M to
+$350M in Annual Recurring Revenue (ARR). We were given
+a front-row seat and with it an opportunity to gain the
+deep insights I share with you here.
+1.1 2022: the Year of the SaaS Crash
+In mid-November 2021, the SaaS stock market peaked2. At the start of 2022, the casual observer
+could have judged everything to be fine. But by then, geopolitics and other emerging challenges
+had started to slow down the economy. In February, many marketing leaders noticed a sluggish
+lead flow, and months later sales leaders noticed more and more deals being delayed. I must
+emphasize the nuance here: deals were not lost, they were delayed. Naturally, the booking
+performance fell short next, and soon afterwards the growth rate began to decline.
+
+VCs and portfolio leaders at PE firms began to raise the alarm, slowing down funding and
+delaying IPOs. With less money available to invest, valuations of startups dropped. Around the
+same time, market reporter Rebecca Szkutak published an article with the headline
+
+2
+
+The SaaS Capital Index, as of 11/30/2022
+
+Winning by Design
+
+Page 3 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Record-Setting Venture Capital Market Shows Signs Of A Slowdown3. By early summer the
+situation worsened, and to avoid a down-round, most VC/PE firms recommended their portfolio
+companies cut costs by as much as 20% across the board4, while others asked to surgically pare
+down expenses5. But by then, it was too late; the damage was done.
+While this did not come as a surprise to many who had warned for
+years that this decline would happen sooner, the speed at which
+this happened surprised many of us. What warning signs was the
+industry seeing that raised their quivers, that no one else saw as a
+red flag? Having spoken to many, I believe this stems from a
+combination of three factors:
+Factor 1. The ‘grow-at-any-and-all-costs’ approach — which as we will come to learn,
+clashed with SaaS business fundamentals and principles.
+Factor 2. The use of unskilled labor at critical growth points, causing widespread operator
+error.
+Factor 3. Availability of unlimited funds with little oversight and guidance, which amplified
+factors 1 and 2. Many board meetings have been derailed with the question, “If I
+give you twice as much money, can you grow faster?”
+At Winning by Design, we believe that once you surpass $10M in ARR, you can no longer hold
+individual people solely accountable for success nor failure; a SaaS business at this scale of
+revenue is starting to act and behave as a system. As James Reason famously wrote6: “The basic
+premise in the system approach is that humans are fallible and errors are to be expected, even in
+the best organizations. Errors are seen as consequences rather than causes, having their origins
+not so much in the perversity of human nature as in “upstream” systemic factors.”. In the following
+section, we will examine some of the systemic factors that caused the SaaS Crash.
+
+1.2 The Impact of Unskilled Labor
+Operator Error is defined as an unintended consequence due to a wrong decision or deviation
+from a known process. For example, early on (and for a short while), Sales Development Reps, or
+SDRs, found email automation tools to be quite effective. This was a remnant of the Salesforce
+era. But it was mainly due to the simplicity of the value proposal, “You are currently paying $2M
+over three years for your CRM solution. Can I interest you in a demo that does the same, but for
+$5,000/month?”
+Today, unskilled labor, aided by industrial-grade technology, can reach anyone, anywhere, at any
+time, at an unprecedented scale. With it, a carefully nurtured brand name that took years to build
+3
+
+Record-Setting Venture Capital Market Shows Signs Of A Slowdown, by Rebecca Szkutak, New York-based reporter
+covering venture capital, startups and investors.
+4
+Adapting to Endure, Founders All Hands, Sequoia Capital, May 2022
+5
+VC firm IVP warns startups to 'surgically pare down expenses', Business Insider November 24, 2022. [Gated!]
+6
+Human error: models and management by Dr. James Reason, Professor of Human Psychology of the University of
+Manchester, March 18, 2000
+
+Winning by Design
+
+Page 4 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+can now unintentionally be destroyed in a matter of weeks. The use of unskilled labor happens
+across all GTM roles, including marketing, sales and customer success.
+
+SaaS companies are notorious for the use of unskilled labor that
+rely on technology to perform critical tasks on a large scale, and
+they do this with little investment in education or training. This
+makes SaaS companies vulnerable to Operator Error.
+Operator Error can be found at the intersection of three factors: an industry-wide
+misunderstanding of how SaaS works, the use of unskilled labor, and the improper use of tools.
+Each on its own causes Operator Error; the three of them combined are disastrous.
+
+Due to the rapidly changing and unregulated nature of SaaS industry, business leaders (egged on
+by investors to achieve growth) started to depend on advice from practitioners who based their
+advice on tiny sample sizes. The most provocative yet damaging advice would draw a crowd and
+be amplified through conferences, engagements, and social media. The largely self-inflicted SaaS
+Crash can be remedied by addressing these issues.
+Three fundamental principles of SaaS pertain to this larger argument:
+1. The entire customer lifecycle works as a closed loop system,
+2. Its non-linear growth is based on marginal gains across this system, and
+3. It leverages the passing of time to achieve the compound effect of these marginal gains.
+The lack of understanding of these fundamentals, and of operating according to these principles,
+caused operator error as SaaS leaders used low-cost, unskilled labor to operate this
+industrial-grade machinery.
+
+Winning by Design
+
+Page 5 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+1.3 The Eye of the Storm
+As we approach the end of 2022, this crash is not over. Far from it. As Michael Miao from IVP
+reported, in October of 22 we are only 9 months into a downturn that on average lasts 3 years7.
+
+The economic conditions that gave rise to the crash have not
+changed, and the corrective action of cost cutting has not helped –
+indeed, it may have had an adverse impact.
+Organizations have not changed the way they operate their SaaS machinery. And now at the start
+of 2023, we foresee the largest revenue churn event in the history of SaaS. This is largely due to
+contraction – an inevitable consequence linked to the overbuying that occurred during the COVID
+years. This contraction will cause a lack of growth in account expansion. This will hurt late-stage
+startups and scaleups the hardest, as they depend on growth from existing customers. This lack
+of growth from expansion will naturally shift eyes to acquisition. But these efforts too can be
+vulnerable to the challenge of operator error.
+Stakes are high for SaaS companies, but they may be even higher for buyers. A tight economy
+creates enormous pressure to not waste company money. As indecision and the involvement of
+higher-ups increases, sales cycles will lengthen. As Ted McKenna and Matt Dixon point out in their
+book The Jolt Effect8, “The Fear Of Messing Up exceeds the Fear Of Missing Out.”.
+Most enterprise sales organizations will catch on to this around May 2023, a few months after
+they have returned from their annual Sales Kick-Off. Even if the economy stabilizes over the
+summer, which many economists still consider a highly suspect scenario, it will be too late. There
+will not be enough time to take corrective action to close the gap. This coming decrease in the
+growth rate will be accompanied by an increase in burn rate. More and more CEOs will find it
+harder to get funding at acceptable valuations. They will find themselves needing to “stop the
+bleeding,” and they will feel compelled to cut more costs.
+While the 2023 storm may not present a pretty picture, when we look underneath the surface, we
+notice that the SaaS machine is working exactly as it is supposed to. If we learn the root cause of
+the 2022 SaaS Crash and use this as an opportunity to understand how the SaaS machine
+fundamentally works, we can apply SaaS’ fundamental growth principles and make 2023 a
+breakout year for many SaaS companies.
+
+As famed Formula 1 world champion Ayrton Senna once pointed out: “You
+cannot overtake 15 cars in sunny weather, but you can when it’s raining.”
+
+7
+8
+
+Market Downturn and How The Best CFOs are Navigating it by Michael Mae, October 20
+The JOLT Effect: How High Performers Overcome Customer Indecision, by Matt Dixon and Ted McKenna
+
+Winning by Design
+
+Page 6 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+ACT TWO
+
+ROOT CAUSE ANALYSIS
+As an electrical engineer, I am used to building on the
+knowledge of those that came before me, a heuristic
+you’ll find that applies both to a chip and to a software
+module. As an engineer, you will not reinvent fundamental
+components each time. Instead, you rely on defined
+elements that have been tested and iterated to near
+perfection over time. This results in both a high success
+rate and a low time between failures (MTBF). This is the
+reason we complain when our phone call drops, instead
+of celebrating the one time it gets through.
+What I find astonishing, as an engineer, is that in the trillion dollar SaaS industry, founders use very
+few models — and if they do, they are often rudimentary and outdated…not to mention the
+extensive misuse of existing models. The industry uses a series of rules of thumb, a handful of
+which people follow almost religiously9:
+●
+
+LTV to CAC Ratio: LTV/CAC ratio should be 3:1, which means you should make 3x in
+revenue vs what you spend acquiring customers. Generally, 4:1 or higher indicates you
+could be growing faster, and you are likely under-investing in marketing and sales.
+
+●
+
+Rule of 40: Rule of 40 says that profit margin + growth rate should exceed 40%. Generally,
+40 or higher indicates a great business model. If your “rule of 40” metric is 50 or higher,
+you could be growing faster and are likely under-investing in marketing.
+
+●
+
+T2D3/T3D3: SaaS investors during “growth at all costs” times looked for early-stage
+revenue growth that follows the pattern of Triple-triple, double-double-double. Or even
+Triple-triple-triple, double-double-double. When this pattern presented itself, investors
+flocked–never mind the unit economics or profitability.
+
+●
+
+Magic Number: A metric that reflects sales efficiency. It measures how many dollars
+worth of revenue are generated per dollar spent on acquiring new customers through
+sales and marketing. The ideal benchmark for the Magic Number is between 1 and 1.5.
+Below 1 is inefficient; above 1.5 may indicate more growth could be attained by spending
+more on sales and marketing.
+
+9
+
+15 Metrics Every SaaS Company Should Care About by Hubspot, October 18, 2022
+
+Winning by Design
+
+Page 7 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+A rule of thumb is described as a broadly accurate guide or principle, based on experience or
+practice rather than theory. We need rules of thumb. They are vital. But we can and must go
+further, and use a more scientific approach.
+At Winning by Design, we have developed a series of frameworks to model the growth of a SaaS
+company, described in the sections below. As Scott E. Page points out in his book, The Model
+Thinker, models can be used to Reason, Explain, Describe, Communicate, Act, Predict and Explore,
+which he communicates with the acronym REDCAPE10.
+
+MODELS TO ARCHITECT A SUSTAINABLE RECURRING REVENUE BUSINESS
+Revenue Model
+
+Maps the exchange of goods and services against three revenue models:
+ownership, subscription, and consumption.
+
+Data Model
+
+Standardizes the metrics of the entire customer lifecycle, complementing
+the acquisition funnel with the expansion funnel. Referred to as the
+Bowtie.
+
+Mathematical Model
+
+Acquisition and expansion operate in different mathematical domains,
+behave differently, and require different approaches to maximize
+outcomes. A Growth Formula (GF) is the mathematical expression that
+describes sources of growth in a particular Go To Market motion.
+
+Go-To-Market Model Aligns the most expensive resources along proven frameworks, each with
+its own methods, tools, cost structure, and outcomes.
+Growth Model
+
+Recognizes the different phases of growth, each responding to different
+forces and having to obey to different performance metrics.
+
+Operating Model
+
+Creates a uniform operating model so customers who move across
+different departments have a seamless experience.
+
+To serve the SaaS community, we have made these models available through an open-source
+initiative at www.TheScienceOfRevenue.com11. Over the past 18 months, we have had over 1,000
+students go through the Revenue Architecture course12. To be of use to all of us, who may have
+yet to have the opportunity to go through this course, we have deduced these models into
+principles that can be used daily (Act 3).
+Next, we will use a few basic concepts of the Data Model and Mathematical Model. In May of
+2023, we will launch a book detailing these models' use in Revenue Architecture.
+
+10
+
+The Model Thinker: What You Need to Know to Make Data Fork for You by Scott E. Page, 1st edition, published 2018
+The Science of Revenue, an Open Source Initiative for Revenue Architecture, by Winning by Design
+12
+Revenue Architecture Classes 2023 by the Winning by Design Revenue Academy
+11
+
+Winning by Design
+
+Page 8 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+2.1 The Bowtie: A Data Model for Recurring Revenue Operations
+
+A recurring revenue business typically focuses its most valued
+resources around customer acquisition– a mistake that is often
+subconscious.
+This misguided approach is often caused by mis-using one of the few proven models that has
+stood the test of time: The Marketing and Sales funnel. Although the Marketing and Sales funnel
+can be used to model acquisition, it falls short when modeling the behavior of recurring revenue,
+which takes place entirely outside the funnel. This approach contrasts with the typical 'sales
+funnel' or 'marketing funnel' that many Revenue teams have used historically to measure their
+performance across a sales process. With the advent of recurring revenue models, a new model
+is used, which we will refer to as the “Bowtie.”
+The Bowtie must cover two critical gaps: the adoption stage–where sellers must ensure that
+customers achieve the expected impact, and expansion–the critical activity of growing the
+business together with your customer. Together with Onboarding, these additional stages create a
+system to generate recurring revenue (growth).
+
+Unlike conventional models focused on finding and landing a customer, the Bowtie maps the full
+lifecycle journey. A GTM motion correlates to how the company deploys its customer-facing
+resources across the entire lifecycle journey, to not only help the customer acquire its
+products/services, but more importantly achieve the desired outcome, or impact.
+
+Winning by Design
+
+Page 9 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+There are a dozen GTM motions in use today. The most popular GTM motions are Inbound,
+Outbound, Targeted (ABM), Channel, and Product Led Growth (PLG). In a SaaS business with
+$50M in ARR, we may find as many as five different GTM motions13.
+
+2.2 The Growth Formula
+To demonstrate how the SaaS market crashed, I will focus on the acquisition part of the business
+first, and only on the most rudimentary GTM Model: Inbound. To do this I will depict the
+relationship between a group of Prospects and Revenue Growth in a mathematical expression
+called a Growth Formula (GF).
+A Growth Formula can be used to model growth. It describes the relationship between the
+amount of Leads and the Annual Recurring Revenue (ARR) generated for any GTM motion, in this
+example GF(Inbound). Note that different GTM motions such as Product Led Growth (PLG) or
+Account Based Strategies may use terminology unique to its GTM motion, which is often
+propagated by the tools used.
+For example an Inbound lead is called an MQL, whereas in PLG it is referred to as a PQL14, or in
+ABM as an MQA15. To avoid getting lost in acronyms, I refer to these metrics in a more analytical
+way, VM(n), and CR(n), in which VM(n) stands for Volume Metric, and (n) marks the spot in the
+Bowtie. Similarly, CR stands for Conversion Rate, and (n) relates to the spot in the Bowtie16.
+
+13
+
+Go To Market Model, by Jacco van der Kooij, September 9, 2020
+Product Led Growth Metrics, by Product Led Growth Collective
+15
+The Top 9 ABM metrics to Determine Your Campaigns Success by Growth Natives, May 11, 2022
+16
+The SaaS Sales Method, Sales as a Science by Jacco van der Kooij
+14
+
+Winning by Design
+
+Page 10 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+With this standardized language, we can discuss a scenario in which a booming economy of 500
+prospects (VM1) develops into 75 leads (VM2), which through a series of sales development
+efforts earns on average 4.3 wins (VM5). See figure 2.2.
+Across these 4.3 wins, it appears an average of 20% discount (CR5) was extended against a list
+price of $20,000/year. This secures an ARR(new) of $69,120. This provides us with the Growth
+Formula (GF) for this specific inbound GTM motion, or GF(inbound):
+
+{Formula 1a } GF (inbound): ARR(new) = Prospects x CR1 x CR2 x CR3 x CR4 x (1-CR5) x ACV
+{Formula 1b } GF (inbound): ARR(new) = 500 x 15% x 20% x 90% x 32% x (1-20%) x $20,000.
+GF (inbound): ARR(new) = $69,120
+
+2.3 A Normalized Growth Formula (nGF)
+As one can see, the Growth Formula in its original form {Formula 1b} is anchored on the amount
+of prospects we start with. Prospects can refer to the amount of visitors to a website, for
+example. So in this case, it tells us $69,120 in ARR(new) is generated from 500 prospects.
+
+Sales teams may prefer to anchor on “how many leads are needed to secure
+one deal?” while Rev Ops teams may prefer to anchor on what it takes to
+generate $100,000 in ARR(new), creating a stackable revenue model.
+When we anchor a Growth Formula on a specific metric to suit a specific purpose, it is referred to
+as a normalized Growth Formula or nGF. In the case of Formula 1b, we have anchored on 500
+prospects, a number that will generate 4.3 wins. Dividing the number of prospects by 4.3 wins
+normalizes the Growth Formula on a single win: it tells us that it takes 116 Leads to secure one
+Win and therefore $18,000 in ARR(new).
+
+{Formula 1c } nGF(inbound): ARR(new) = 116 x 15% x 20% x 90% x 32% x 80% x $20,000
+nGF(inbound): ARR(new) = $18,000
+
+Remember, every GTM approach has a different Growth Formula, which most organizations do
+not use today. Instead, most mix the data from different GTM motions. This lack of proper use of
+data is one of the fundamental reasons for the SaaS Crash. I am going to demonstrate this next
+by using a Growth Formula to stress test the business.
+
+2.4 Running Scenarios Using the Growth Formula
+The use of a Growth Formula allows us to run scenarios and stress test this model. Let us step
+through five scenarios, one for each quarter, starting at Q1 of 2022. Each quarter we increase the
+
+Winning by Design
+
+Page 11 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+stress on the system by decreasing the number of Prospects (VM1) by 50, from 500 to 450, to
+400, and so on. But realize this, and this is extremely important:
+
+SaaS works as an interconnected system, meaning when a market goes
+south, it is not just the prospect volume going down, it’s also the quality. The
+entire system is impacted, and each function is impacted.
+As a result, each Conversion Rate (CRn) across all functions, from Lead Generation to Lead
+Development to Sales, will see a marginal decline in performance.
+In Figure 2.3, we see the result of the simulation: it shows that in each quarter, the results in
+response to the economic situation worsen just a tiny bit. For example, Opportunity Conversion
+(CR2) starts at 20% during Q1, and declines to 19% in 2Q22. Similarly, the win rate (CR4), drops
+from 32% to 31%. It is likely that as the economy tightens, sales teams will feel forced to increase
+the discount from 20% in Q1 to 22% in Q2. In most SaaS operations, this marginal change would
+go completely unnoticed.
+
+Winning by Design
+
+Page 12 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+At first, the speed at which this happens seems slow and ignorable, but as the changes
+accelerate, the nature of compounding creates an unstoppable effect that increases momentum
+in both speed and size of impact: The Snowball Effect.
+What we see unfolding over the remainder of the year is a steep decline in ARR(new) from what
+once was $69,120 all the way down to $25,742. This snowball effect applies powerfully to
+companies as they ascend and as they fall.
+It’s important to realize that this drop in ARR(new) requires the exact same quantum of people
+campaigns, and spend. We are now getting lower results from the same spend, thus increasing
+the ratio of Client Acquisition Cost to newly acquired ARR and expected LTV.
+Assuming these were the mechanics adversely affecting SaaS companies in 1H2022, one might
+expect most organizations to take corrective action towards the end of 2022. We will learn that
+most took little action, and the few actions that were taken along the mindset of “Grow at any and
+all cost” made matters worse, for example, increasing the spending on SEM.
+Either way in this simulation, by the time we arrive in 4Q22, this organization is only securing 40%
+of the revenue that it previously did. And remember: this part of the organization is supposed to
+grow! And it continues to get worse, since neither the cause of the issue has been removed, nor
+have any operational changes been made.
+
+2.5 The Price of Growing at Any and All Cost
+When revenue started to drop in the spring of 2022, many experienced board
+members directed their CEOs to “sell yourself out of this.” They issued this
+command rather than reflecting and responding to this decline by considering a
+new approach. CEOs told their troops to continue along the same course – and
+just improve the outcomes. In other words… work harder.
+In the early summer of 2022, VCs and board members
+noticed an industry trend of declining revenue across all
+companies within their portfolio, as well as with companies
+in peers’ portfolios. By the time they discovered this trend,
+the damage was done. Actually, the damage was still
+unfolding. One consequence emerged in hiring: because the
+large amount of job reqs that were opened in January of
+2022 (following a record 2021) were finally filled around
+April/May, costs escalated right around June — just as
+revenues were starting a persistent decline.
+This is when we started to hear about sustainable growth as compared to scalable growth.
+Scalable Growth, as used in the SaaS world, ignores cost. Consider the embedded assumptions in
+these formulae:
+
+Winning by Design
+
+{ Statement 1a }
+
+Page 13 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Scalable Growth = Growth as a function of Velocity
+
+Note that this does not mention cost at all. This is rightfully so in the world of Startups, where one
+needs to fund losses to establish growth, and revenue growth is over-weighted as the key metric.
+In 2021, this bias continued all the way to IPO, and in a number of well documented cases such as
+Uber, this would continue well beyond IPO.
+Today we are beginning to see a greater appreciation of the frame of Sustainable Growth, which
+can be defined as:
+{ Statement 1b }
+
+Sustainable Growth = Growth as a function of Velocity and Cost
+
+By making growth a function of both velocity and cost, we do not just add a variable; we are
+opening up an entirely new dimension. The concept of sustainable growth is not new. We see
+“Sustainable Growth” entering talk tracks at industry events in late 2019 . I myself headlined
+several events in which I presented the concepts of Sustainable Growth at events such as
+RevOps17 and SaaStock18 and . What we did not know then was that across the ocean, an
+infectious disease was brewing that would change our world forever.
+
+2.6 COVID Worsened the Situation by Inflating Growth
+When COVID hit in February of 2020, it hit all global markets at the same time. Around the world,
+people were dispatched to work from home, where they relied on cloud-based services to remain
+at least somewhat productive.
+
+COVID catapulted the adoption of SaaS products, and with it, the valuations
+of SaaS companies. Many doubled down on the “grow at any and all cost”
+approach properly fueled by the demand. This only amplified behavior that
+was already broken: the use of unskilled labor, the “grow at any and all cost”
+mindset, all were further amplified with access to even more funding.
+It pains me to write this, but as of this moment, December 22 2022, there is no meaningful
+change in behavior, no significant improvement in market conditions, and worse, we see more
+uncertainty in Europe and a new COVID-strain brewing in China.
+This suggests to me that we should not expect the macro economy in 2023 to be any different,
+and that it may indeed get worse. All this notwithstanding, for those of us who prepare for this
+change, we can achieve our ultimate goal.
+
+17
+18
+
+OpsStars 2019, Closing Keynote - Sustainable Growth: by Jacco van der Kooij, November 2019
+SaaStock 2019, Opening Keynote, by Jacco van der Kooij, October 2019
+
+Winning by Design
+
+Page 14 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+ACT THREE
+
+PRINCIPLES FOR SUSTAINABLE GROWTH
+Much of the SaaS market is guided by rules of thumb
+passed through word of mouth in boardrooms and at
+conferences, and distributed to the masses via online
+events. These rules of thumb invariably lack the
+accuracy needed to operate a SaaS business. Or as
+Andrew Wilkinson so eloquently describes it19, ”Here's
+the number I used to win the lottery.”
+The inner workings of Recurring Revenue can be explained by the series of Models outlined in Act
+2. While Revenue Architects are expected to understand and master these six models, not
+everyone in a company who is involved in the operation of recurring revenue should have to study
+and become a certified Revenue Architect. To create a shorthand of these fundamentals, I am
+sharing the following ten SaaS principles.
+
+SaaS Principles for Sustainable Growth
+1.
+
+Recurring Revenue is eating the world.
+
+2.
+
+Recurring Revenue is the result of Recurring Impact.
+
+3.
+
+Impact Expansion results in Revenue Expansion.
+
+4.
+
+A customer commits based on the priority of the impact.
+
+5.
+
+Risks have shifted from the buyer to the seller.
+
+6.
+
+Rapid growth is caused by marginal gains.
+
+7.
+
+Repetition compounds marginal gains.
+
+8.
+
+Compounding causes a cumulative disproportionate impact.
+
+9.
+
+Sustainable results require an Operating Model.
+
+10.
+
+SaaS was born from, and thrives in, a crisis.
+
+Adhere to these principles and you will succeed and thrive in 2023 and beyond. These principles
+will orchestrate your efforts around your customer’s success, which will in turn lead you towards
+market leadership. Market leadership will give you the opportunity to meet your investors’ interest
+in accelerated growth or an increase in profitability.
+
+19
+
+Twitter Quote “Here’s the number I used to win the lottery” by @AWilkinson September 30, 2022
+
+Winning by Design
+
+Page 15 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Principle #1 Recurring Revenue is Eating the World
+In his prescient 2011 article titled Why Software is Eating the World20, Marc Andreessen predicted
+that more and more major businesses and industries are being run on software, pointing out that
+software was (is) also eating much of the value chain of industries that are widely viewed as
+primarily existing in the physical world. In everything from cars to retail to oil and gas and beyond,
+he noted, embedded software delivers value and offers dynamic new products and services. Today
+we continue to discover the implications of Andreessen’s argument.
+Marc was spot on in his vision–we are the ones who mistook his words. To help us better
+understand the implications, I would argue that a more apt title might have been Why Software
+delivered as online Services is Eating the World. After all, it was not CDs with software on it,
+purchased for a million dollars upfront that caused all this growth. It was Software sitting in the
+cloud, which we commonly refer to as Software as a Service (SaaS). I realize you all know this,
+but, and this is critical: fundamentally it was NOT SaaS alone that caused the growth.
+If companies no longer needed server hardware, but they still had to buy SaaS products, and they
+paid in the form of an upfront license measured in hundreds of thousands, if not millions of
+dollars, there would not have been 1,000 software IPOs over the past decade.
+So what caused all this growth? It was the business model of Recurring Revenue! Recurring
+Revenue made it possible for software to eat the world. Recurring Revenue helped make it all
+digestible21.
+{ Statement 2a } Why
+
+software
+
+Is Eating the World.
+
+{ Statement 2b } Why Software as a Service Is Eating the World.
+{ Statement 2c } Why Recurring Revenue
+
+Is Eating the World.
+
+Over the past years we have finely focused on engineering a software
+product that lives in the cloud. I cannot help but ask myself: what would
+happen if we spent the same amount of engineering capacity on designing,
+building and operating Recurring Revenue as a business model?
+
+20
+21
+
+Why Software is Eating the World, August 20, 2011, by Marc Andreessen
+Software is eating the world but it does so because of recurring revenue, March 2022, by Jacco van der Kooij
+
+Winning by Design
+
+Page 16 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Principle #2 Recurring Revenue is the Result of Recurring Impact
+In philosophy and science, First Principle thinking breaks down complicated problems into basic
+elements22. The book (and movie) Moneyball shows how the Oakland A’s, a baseball team with
+little money, changed the fundamental thinking of the industry regarding the use of metrics by
+building a championship team from a group of misfits. Under the leadership of a visionary GM,
+the team thrived by gauging talent using a completely different assessment of value–prioritizing
+the ability to get on base over common metrics such as speed and power23.
+This willingness to reconsider how to assess value has spread throughout other sports: we have
+the InEos cycling team using the concept of marginal gain24, while the Golden State Warriors
+redefined basketball based on the efficiency of the 3-point shot25. All these real life scenarios
+successfully challenged previously accepted First Principles. This has happened in Software
+sales as well, where we changed the First Principle by adopting Recurring Revenue as a business
+model. We succeeded in supplanting a First Principle, but we have failed to adjust the operational
+part of the business accordingly.
+
+What so many hypergrowth companies get fundamentally wrong, especially early
+on, is assuming the goal of a SaaS machine is to generate recurring revenue, and
+that to increase the growth rate you need to win lots of deals.
+Growing revenue by winning more deals sounds pretty reasonable, right!? It is an incomplete
+understanding. This assumption leaves out the key question of what produces the recurring
+revenue. What’s missing from the following formula?
+{ Statement 3a }
+
+Customer ⇒
+
+⇒ Recurring Revenue
+
+If, say, Netflix wants recurring revenue from its customers, it needs to provide something of value
+on a regular cadence. If Netflix were to stop producing new shows for their audience each month,
+eventually people would stop paying, right? Netflix customers want new monthly content in return
+for their monthly payments26.
+{ Statement 3b }
+
+Customer ⇒ Recurring Impact ⇒ Recurring Revenue
+
+A broader name that applies generically across different industries is Recurring Impact. If a
+customer does not perceive they are getting this impact month over month, and year over year,
+they will stop paying. It's really that simple. Recurring Revenue should be seen as a result. It is the
+dynamic of Recurring Impact that drives recurring revenue growth.
+Successful companies establish a uniform language of identifying, developing, and growing
+recurring customer impact, not just recurring revenue.
+22
+
+First Principles: The Building Blocks of True Knowledge by Farnham Street
+The True Story That Inspired Moneyball by Daniel Johnson, February 18, 2022
+24
+Core Principle and Marginal Gains, March 11, 2015 by Sir Dave Brailsford
+25
+Understanding Features of Successful the 3 Point Shots in the NBA, Nate Bailey, Karan Bhuwalka, Hin Lee, Tim Zhong
+Massachusetts Institute of Technology, MIT (Dated: December 13, 2018)
+26
+How Netflix is Changing the TV Industry by the Investopedia Team, September 3, 2022
+23
+
+Winning by Design
+
+Page 17 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Principle #3 Impact Expansion Results in Revenue Expansion
+Many companies who pursue recurring revenue fail to harness the power of recurring revenue
+because they fail to understand how it results from recurring impact.
+These companies may have found a way to artificially increase recurring revenue by selling more
+deals, or bigger deals — yet fail to realize why their customer is buying, or rather what the
+customer is buying. This may explain why so many companies fail to inform their customers of
+the recurring impact they provide every month. They are not aware of this; “customer impact” is a
+foreign language they do not speak.
+Instead they pursue unhealthy growth, which is based on the pursuit of recurring revenue growth
+without delivering recurring impact. You can recognize an organization pursuing unhealthy growth
+by the following characteristics:
+●
+
+A maniacal focus on winning more deals,
+
+●
+
+A corresponding insatiable hunger for leads, and
+
+●
+
+Look for constant affirmation of how great they are (often via a Net Promoter Score or
+company valuation).
+
+All these efforts lack one common quality: they are not centered around achieving impact for the
+customer.
+
+In a world where buyers have dozens, if not hundreds, of SaaS services, each with
+a renewal, companies that provide the customer with recurring impact will be
+rewarded with recurring revenue. No recurring impact, no renewal.
+Let’s examine the characteristics of an impact-centric organization:
+●
+
+Positioning their offering based on the impact it offers.
+
+●
+
+A maniacal focus on achieving the promised impact for customers.
+
+●
+
+A growing pressure to find the right kind of customers based on impact. They change their
+lead generation mindset to quality over quantity.
+
+●
+
+The ability to measure the impact provided to a customer. They produce and carefully
+track a regular, periodic impact report for the customer.
+
+●
+
+They close the loop and feed customer information back into the organization:
+Engineering, Product Management, Marketing, Sales and the C-suite.
+
+In 2023, companies who measure the recurring impact customers get from the
+product, and as a result develop a deep understanding of the impact a customer
+achieves with their product, will differentiate themselves.
+
+Winning by Design
+
+Page 18 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Principle #4 A Customer Commits Based on the Priority of the Impact
+Most organizations rally around the mistaken thesis that availability of budget, or a Return on
+Investment (ROI) model, drives the purchase. This was true in the past, but it is no longer.
+
+Historically, the B2B market has been built on hardware products with steep upfront costs27 28 29.
+IBM’s first generation mainframe computers were not only extremely pricey, but they required a
+significant investment for installation. This generated a culture in which sellers rightfully pursued
+buyers with sufficiently large budgets. Thus BANT, the sales methodology developed by IBM in the
+1960s, begins with the letter B which stands for ”Budget.”
+{ Statement 4a } Most companies have no problem finding the budget to buy SaaS services.
+The advent of the Internet caused extensive innovation in the 1990s. This forced companies to
+scrap their IT systems prematurely and replace them with newer systems that operated at a
+significantly lower cost or produced higher revenues. To validate the premature purchase, sellers
+used an approach popularized as Return on Investment (ROI) analysis.
+{ Statement 4b } Each SaaS product, by its very nature, offers an amazing ROI.
+Most companies in the early 2000s would buy one (or at most two) perpetual software platforms
+a year. How times have changed!
+
+Today, buyers commit to as many as a dozen new SaaS services a year, and
+hundreds of renewals a year.
+All these SaaS services individually easily fit within the budget, and all of them have a 10x ROI. So
+trying to fit the budget and offering a 10x ROI is not what it is about. If these qualities are not why
+a SaaS product is purchased, what is?
+{ Statement 4c } Today, SaaS Services are bought on the priority of the Impact a service provides.
+
+27
+
+The History of SaaS, by Johnson Hur
+The History of SaaS (Software as a Service), by Uvaro
+29
+The History of SaaS: From Emerging Technology to Ubiquity, by Victoria Fryer
+28
+
+Winning by Design
+
+Page 19 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+As mentioned earlier, the reason we noticed a decline in growth over the summer, is not that deals
+were lost to a competitor. Intriguingly, what we found is that deals are delayed due to customer
+indecision30.
+Note that during the client acquisition process, budget and ROI are relatively static, whereas
+priority constantly fluctuates. Different stakeholders may emerge. Conversations may be more
+about priority than about ROI. Shifting organizations or priorities can lead to indecision. This is
+new to sales organizations, many of whom are not familiar with how to overcome indecision.
+
+In 2023, successful SaaS GTM teams will position and sell based on priority,
+not budget. This means asking “Why now?” rather than “Why do you need this
+product?” or “Why us?”
+Principle #5 The Risk has Shifted from Buyer to Seller
+We have experienced a number of significant shifts in the move to SaaS. Many of these shifts
+have been ignored, causing daily disruptions and even fractures between departments within
+SaaS organizations who do not understand the implications. I find it astonishing that the industry
+never responded to the tectonic shift of the risk from buyer to seller when we moved from an
+ownership-based pay model to a subscription-based pay model31.
+
+Allow me to explain with an example. With a $10M hardware purchase of servers that are paid for
+upfront, the buyer takes on the lion’s share of the risk. The product was built for the customer,
+shipped to their location, and installed within their network. Since they paid up front, and the asset
+is fixed in place, if anything goes wrong–the buyer bears the risk.
+In contrast, the seller takes on the lion’s share of the risk with SaaS. The seller must build the
+infrastructure, develop the software, and host the service. Due to the fractional revenues a SaaS
+service provider receives each month/year, it is common to take anywhere from 15 to 25 months
+to recoup just the customer acquisition cost, or CAC.
+
+30
+31
+
+The JOLT Effect: How High Performers Overcome Customer Indecision, by Matt Dixon and Ted McKenna
+The SaaS Sales Method, Sales as a Science by Jacco van der Kooij
+
+Winning by Design
+
+Page 20 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Most companies will need a customer lifetime 3x that amount to run a profitable business with
+healthy margins. That means the customer needs to keep renewing for anywhere from 45 to 75
+months. That leads to many years of achieving impact and earning renewals.
+
+SaaS GTM teams must be trained on identifying more of the right customers
+(based on potential impact) early on, and fewer of the wrong customers.
+Quality over quantity.
+Premature churn presents a huge risk, which explains two popular SaaS strategies:
+●
+
+Quality-based over Quantity-based outreach programs: the ability of an organization to
+determine if Impact can be achieved early in the process to keep the churn impact low.
+
+●
+
+Product Led Growth, in which the CAC in many cases is about one to three months,
+making a PLG customer profitable within a year.
+
+Principle #6 Recurring Revenue Is Sensitive to Marginal Gain
+As you can see in the example in Figure 2.3, the Recurring Revenue machinery is highly sensitive
+to marginal gain. This is due to three factors:
+Factor 1. There are many actions and interactions between a seller and all those involved on the
+buyer side, along the entire lifecycle of a customer.
+Factor 2. All these actions and interactions are connected and influence each other, so a small
+change in one affects the next. For example, a bad discovery call can lead to a poorly
+informed demo.
+Factor 3. The changes often amplify each other. For example, a discount and its impact on win
+rate32.
+The combination of these three factors represents a system highly sensitive to marginal gain — a
+system so sensitive we may call it volatile. This fundamental understanding of marginal gains
+sets top performers apart. There are many practices where marginal gains in the most basic of
+tasks can make a big impact, yet are frequently unrecognized:
+●
+
+Consistent messaging from first touch throughout the entire journey.
+
+●
+
+Starting/ending meetings on time, with an agreed next step as a result.
+
+●
+
+Following up diligently on agreed action items.
+
+●
+
+Sending monthly impact reports to customers.
+
+●
+
+Use of uniform language within the company.
+
+●
+
+Great hiring and onboarding process.
+
+Tackle one basic task per month. Do this for 12 months across 12 actions
+and you will see systematic and qualitative improvements.
+32
+
+Relationship between discount and win rate by Jacco van der Kooij, November 17. 2022
+
+Winning by Design
+
+Page 21 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+At first, each of these actions may seem isolated. But the Recurring Revenue savant knows they
+are all connected into a coherent system that depends on and amplifies each element. For
+example, hiring a person who during the interview demonstrated their meeting management
+abilities, and the time-sensitive nature of following up is likely to result in higher-quality customer
+interactions as well.
+
+Principle #7 Repetition Is A Critical Factor in Recurring Revenue
+As presented in Principle #6, a Recurring Revenue system is susceptible to small changes,
+especially if these changes are repeated over and over again.
+
+There are two different ways of repetition (as visualized in Figure 3.3):
+●
+
+During Acquisition, there is no direct Growth loop. The customer invariably goes through
+the “buying process as a first-time customer” only once. In this process they are exposed
+to a relatively high concentration of high-engagement actions over a short time frame. For
+example, the sales cycle may be an intense three months in which two dozen meetings
+are held across the organization. This involves a high repetition of online and in-person
+meetings.
+
+●
+
+During Expansion, there is a direct Growth loop. For example, an annual increase of the
+sales price of 6%. That means that each year, you keep increasing the price, causing
+growth based on growth based on growth. The higher the amount of repetition over time,
+the more insane the impact is, and the harder it is for a human to comprehend that impact
+without opening a spreadsheet and calculating it out. For example, an annual increase of
+the price by 8% over 7 years.
+
+Winning by Design
+
+Page 22 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Principle #8 Disproportionate Impact
+Ask a typical sales leader what they need from the organization to double revenue, and they will
+say, “I need 2x the amount of leads at the same quality as today, and I need 2x the amount of
+people to call on all of these!” This assumes a linear relationship between leads and wins.
+
+As we have proven elsewhere, we can increase performance of the entire
+system by making marginal improvements across a small number of
+conversion points.
+For example, if we follow the idea of a Growth Formula, a more manageable 15% improvement
+across 5 conversion points will yield double the revenue. Here’s how that works:
+1. 15% increase in the lead volume, say from 100 to 115 leads per month
+2. 15% increase in lead-to-opportunity conversion, say from 2% to 2.3%
+3. 15% increase improvement in qualification, say from 60% to 69%
+4. 15% improvement in win rate, from 20% to 23%
+5. 15% improvement in price by reducing the discount
+This growth follows a polynomial curve (sometimes incorrectly popularized as exponential growth
+due to its similarity33) The next figure illustrates linear vs. polynomial growth.
+
+Consider an example: a platform that sells for $20,000/year, and maintains the same price which
+results in a total revenue of $100,000 over a 5-year period. The seller makes the same amount of
+money in year 6 as they do in year 1.
+33
+
+An Introduction to Exponential Functions
+
+Winning by Design
+
+Page 23 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+However, when you increase the price annually by 10%, it starts to follow a polynomial growth
+curve. This shows that growth in year 6 is far greater than the growth in year 1.
+In the first years both models seem to yield, against a relatively small number of 10 projects,
+similar revenue. However, this relatively small increase of 10% in the price, over a relatively small
+amount of projects, through the effects of repetition (Principle 6), and along a polynomial growth
+curve results in a huge (34%) increase. And using a very similar cost structure.
+FIGURE 3.5
+
+Demonstrating the Non-Linear Impact on Growth Over a 5-year Period
+No annual
+increase
+
+10% annual price
+increase
+
+Number of Customer
+Projects.
+
+Impact with no
+annual increase
+
+Impact with a
+10% increase
+
+Year 1
+
+$ 20,000
+
+$ 20,000
+
+10
+
+$ 200,000
+
+$ 200,000
+
+Year 2
+
+$ 20,000
+
+$ 22,000
+
+10+12
+
+$ 440,000
+
+$ 484,000
+
+Year 3
+
+$ 20,000
+
+$ 24,200
+
+10+12+14
+
+$ 720,000
+
+$ 871,200
+
+Year 4
+
+$ 20,000
+
+$ 26,620
+
+10+12+14+16
+
+$ 1,040,000
+
+$ 1,384,240
+
+Year 5
+
+$ 20,000
+
+$ 29,282
+
+10+12+14+16+18
+
+$ 1,400,000
+
+$ 2,049,740
+
+Total
+
+$ 100,000
+
+$ 122,102
+
+$ 3,800,000
+
+$ 4,989,180
+
+Although I realize many may consider this a simple insight, even the smartest people rarely
+recognize the full impact of these effects34. A few key observations:
+Observation 1. The total amount earned per project is obviously higher with $122,102 which is a
+difference of $22,102, equating to approximately one extra project.
+Observation 2. The gap is growing each year. It starts with $2,000/project, but in year 5 it has
+grown to $2,982/project, and this is important — in year 5, this is pure profit.
+Observation 3. This keeps growing along 2 axes, for more revenue per project, and more projects.
+Over a 5-year period this compounds into an extra $1,189,180 in revenue, or a
+30% increase.
+Now, multiply this by thousands of accounts, and extend this over ten years, and you can see why
+SaaS is such a powerful model — if, that is, you apply the aforementioned principles. But if you are
+not focused on impact, and as a result you are churning more than you are growing, this
+machinery starts to work in reverse. And as we explained in Act 2, this is where we find ourselves
+today.
+
+34
+
+Compounding Knowledge by Farnam Street (and Warren Buffet)
+
+Winning by Design
+
+Page 24 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Principle #9 Recurring Revenue Operating Model
+Most SaaS businesses today operate with no oversight or consistent approach; the organization
+as a whole simply trusts that if each department just does its thing…and hands it off to the next
+department, everything magically works together.
+So each department “does its own thing,” they pick their own tools, often each with their own
+methodology, and they use their own data/metrics and dashboards. To make matters worse,
+every 2 years or so, the leadership of the department is changed, and the new leader is free to
+once again “does its own thing” pick new tools, a new methodology, implement a new approach
+(CS), hire a new team (sales), or spend a lot of money on popular campaigns (Marketing).
+This is not an exception; it is the norm. A new sales leader will come with a preferred sales
+methodology, e.g. MEDDIC, Challenger, etc. Both are great, that is not the problem, but I ask you to
+imagine walking into the Ford manufacturing plant and imagine the impact of a new leader
+deciding on a whim to change some of the tools, metrics, approaches, etc. And to do this without
+informing any other department of these changes. Would that work?
+
+As a business gets bigger and bigger, like a factory, it needs a uniform
+operating model. This provides the customer with a consistent experience,
+and enables it to respond faster to changing market conditions,
+Without such an operating model (similar to that of an Operating System), it becomes virtually
+impossible for a SaaS business at $50 to 350M to adapt to any new changes. A uniform operating
+model leads to a common language and a standardized data model.
+
+SaaS companies who want to be successful in 2023 and beyond must align all GTM functions
+(better yet, the entire business) along a uniform Operating Model. We recommend this Operating
+Model to be fundamentally based on delivering Customer Impact, and considering Recurring
+Revenue as the result. Successful companies using Product Led Growth (PLG) as their GTM
+motion are already leading and paving the way.
+
+Winning by Design
+
+Page 25 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Principle #10 SaaS Thrives in Crisis
+SaaS was conceived in the late 1990s as a technology solution to overcome infrastructure
+inefficiencies. This led to the birth of SaaS during the dotcom bubble burst in 2001. In the
+mid-2003-2007 time period, SaaS matured — at first not in the SMB industry, but rather in the VSB
+(very small business) industry. This stigma of being a solution for small companies would take
+more than a decade to get rid of.
+As the financial market suddenly collapsed following the real-estate bubble in 2008, CAPEX
+budgets fell away. SaaS in those days was deemed an Operational Expense due to its monthly fee
+structure. As a result, SaaS entered what we know today as the Golden Era around 2012, and for
+the next decade, anything that was “SaaS” would sell, generate incredible valuations, and fuel
+hundreds of companies who would go public.
+CFOs became more familiar with the impact of SaaS expenses on their budgets, and soon the
+CAPEX vs. OPEX advantage disappeared. Selling became harder and harder. Every SaaS vendor
+was now selling based on the pitch, "All you need to do is win one additional deal a year, and the
+software practically pays for itself." And as more and more vendors flooded the marketplace, and
+right when this pitch was getting really tired, COVID happened.
+
+COVID represented a once-in-a-lifetime industry-wide critical event. Overnight
+it created a massive boost for SaaS software providers, as many leaders had
+to rush to "get Zoom licenses" or equivalent software products to keep their
+teams productive. With it, SaaS overcame its stigma and became part of the
+Enterprise toolstack.
+What does all this mean? SaaS is responsive to a crisis, and in the various crises of 2001, 2008
+and 2020 SaaS did not just survive, it uprooted the entire market, and it thrived. Why is that?
+SaaS is fundamentally customer-centric. Remember the principle that Recurring Revenue is the
+result of Recurring Impact, which makes SaaS solutions responsive to a customer’s needs. Then
+consider that in 2020, COVID caused delays on shipping containers, which in turn delayed
+shipments of physical goods such as routers, forcing manufacturers to wait for months to source
+all the materials needed to increase production to meet the demand..
+Compare that to founder Eric Yuan of Zoom, who scaled up cloud capacity to address the
+increased demand, and was able to fix bugs, address regulatory issues, and the like. He even went
+to work on the product himself, and his team was able to scale wide and deep in a matter of days,
+sometimes even hours, not months or years.
+
+Let’s call it what it is: the SaaS Crash of 2022 was the result of Operator Error, by all
+of us. But the recurring revenue machine is still in place and fully operational. In
+2023, we will see that SaaS can and will thrive, even in a crisis it created itself.
+
+Winning by Design
+
+Page 26 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+ACT FOUR
+
+2023 THE DAWN OF A NEW ERA
+While the Golden Age of SaaS may have come to an end,
+SaaS is just beginning to realize its full potential. Instead of
+a frivolous solution that disrupted nearly every business,
+SaaS has now matured into a robust solution that today’s
+broader markets depend on. 2023 will be a transformative
+year, and SaaS leaders will need to take swift action early
+in the year for their organizations not only to be a part of
+the transformation, but to reap the rewards.
+The entire transformation can be captured simply by: Stop Doing What Doesn’t Work and Do More
+of What Works. It guides us what to do next:
+Guidance #1 Set a clear goal
+Guidance #2 Measure what is working.
+Guidance #3 Stop Doing What Does Not Work.
+Guidance #4 Do More Of What Works.
+Guidance #5 Start Now. Time is of the essence.
+
+Guidance #1 Set A Clear Goal
+What we are trying to achieve: do we want to be profitable, do we want to grow faster, grow more
+efficiently, or become the undisputed market leader? The past decades have been all about
+achieving maximum growth in the shortest amount of time, and we should celebrate what has
+been accomplished since the first appearance of that now famous statement, “Software is Eating
+the World.”
+{ Statement 5a } Revenue Growth ⇒ Growth Rate ⇒ Valuation
+We did it!35 But now it's time to move on. We have grown out of adolescence and matured. Which
+means that we now have to carry bigger responsibilities, and act accordingly. We are shaking off
+the frivolous, and while in the midst of the economic storm, taking on what lies ahead.
+
+35
+
+A Record Year For IPOs by Sophia Kunthara of Crunchbase, December 9, 2021
+
+Winning by Design
+
+Page 27 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Unless you are a company such as a security software company that stands to gain from the
+storm36, your growth trajectory will change in 2023. Many of you may fear that this will change
+your valuation. It may, but it does not have to!
+The growth you pursued all along was just a means to an end. It resulted in Market Leadership —
+look at companies such as Snowflake and Adobe. Market Leadership enables a company to sell
+more products, or to produce at a higher volume and a lower cost. And the great news is that
+there are more paths to achieve an end goal of higher valuation.
+{ Statement 5b } Achieve Sustainable Growth ⇒ Market Leadership ⇒ Valuation
+{ Statement 5c } Achieve Customer Impact ⇒ Market Leadership ⇒ Valuation
+And herein lies the answer to 2023. Whether you adjust your goal to market leadership via the
+sustainable growth path (seller-centric), or via achieving customer impact (buyer-centric), both
+will position you for dynamic growth. With several years of experience, you can rally the entire
+GTM team around a new goal that achieves not only the same result, but a better long-term result,
+which follows a more natural growth motion. You are in the sweet spot, even while being in the
+middle of the storm.
+
+Guidance #2 Measure What Is Working
+When you operate a SaaS business and have grown well beyond $10M in ARR, you have become
+a revenue factory, and, as a factory, your company should have become dependent on
+standardizing and executing the right processes. But now (and this is important): what got you
+here, in this sweet spot, will not get you where you are going next.
+You can no longer use a dataset averaged over 2021 and 2022. The world has changed and will
+continue to change. You have to understand the story behind the data:
+Step 1. Create a data model that covers the entire lifecycle of the business, e.g., expand the
+funnel into a Bowtie.
+Step 2. Obtain the data and establish a trendline for the past 18 months, increasing the weight of
+more recent data over that of historical data.
+Step 3. Develop a Growth Formula for each of your key GTM motions based on this trendline.
+This should be somewhere between 3 to 5 GTM motions.
+Step 4. Aggregate all Growth Formulas, one for each GTM motion, into your 2023 model.
+This may sound complicated, but it should not be. It should take an organization less than a few
+days to get a general idea of the situation. If it takes longer, you are not doing it right. Do not be
+afraid to make assumptions.
+
+36
+
+A 2 trillion dollar market opportunity for cybersecurity technology and service providers, by Bharath Aiyer, Jeffrey
+Caso, Peter Russell, and Marc Sorel. McKinsey, October 27, 2022.
+
+Winning by Design
+
+Page 28 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+The Use of Assumptions
+Assumptions are a critical element of science37. Assumptions help us fill gaps in our data until
+we can replace them with the actual data. When using assumptions, they need to be clearly
+called out. In many cases, we put off creating a Growth Formula because we can’t find or get
+the data. Don’t let the lack of data get in the way of starting this project. Instead, make an
+assumption, of which there are multiple levels:
+Level 4 Results from an random unrelated internet search.
+Level 3 Results from a recent personal experience (small sample size).
+Level 2 Relevant trend data from a peer company over the last 3 months.
+Level 1 Talk to a person in the field about what happened last week/month.
+Strive for level 1 and 2 assumptions, and minimize the reliance on level 3 and 4 assumptions.
+
+Guidance #3 Stop Doing What Does Not Work
+As we have come to learn, the biggest challenge for most companies is to STOP doing the
+comfortable but suboptimal things they have been doing for years.
+Having worked with thousands of leaders at hundreds of SaaS companies, I’ve realized that
+leaders often lead with their gut feeling or intuition when making critical decisions; these intuitive
+decisions are based on qualitative data or observations.
+But we have made a turn, and we are now at the dawn of a new era in which previously held
+perspectives will not only hold back progress, but will have an adverse and radical impact.
+For example, over the second half of 2022, sales organizations started to experience a new
+phenomenon: the key reason that sales targets were missed was not that deals were lost,
+and not even that our champions and deciders ‘went dark’. What we noticed is that
+customers across most segments, regions, and verticals started to deliberately push deals
+down the road. Research by the DCM Insights team confirmed this38. DCM Insights analyzed
+over 2.5 million sales calls via call recordings and machine-based learning, and noticed the
+presence of Indecision in 87% of all sales calls. They discovered that a relationship existed
+between the increase in Indecision and the number of deals being pushed out39.
+Their findings, in a nutshell: The Fear Of Messing Up (FOMU) that buyers have is now
+encountered far more often than the Fear Of Missing Out (FOMO). They also found that when
+buyers felt forced to make a purchase, the FOMU increased, which in turn increased the level
+of Indecision. The higher the FOMU, the more likely the decision was delayed. Now I ask you,
+what do most sales organizations that fall short of their goals do at the end of the year? They
+offer a discount that expires at a set date! The seller intuits that they are using a tool that will
+
+37
+
+How Description Leads to Understanding, by Farnam Street
+The JOLT Effect: How High Performers Overcome Customer Indecision, by Matt Dixon and Ted McKenna
+39
+How Sales Reps can Overcome Indecision, by Matt Dixon and Jacco vanderKooij
+38
+
+Winning by Design
+
+Page 29 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+motivate the buyer to buy, but what they are actually doing is increasing the FOMU, and
+therefore increasing the chance of the buyer delaying her decision.
+In other words, the intuition of the sellers themselves is causing an adverse impact.
+I have seen this elsewhere: a race car driver who can “drift” a car through a corner knows that she
+has to steer the car in the opposite direction for it to work40. Is it hard? No. Once you know how to
+do it, can you repeat it? Of course! Just as savvy individuals learn to defy their first natural
+impulses when the situation dictates, good leaders trust their intuition when initial data tells a
+different story. Here are a few examples of where leaders need to defy their own intuition:
+Quantity vs. Quality: In a down economy, you cannot increase the size of your pipeline by
+seeking to increase the amount of leads. Doing so will not correlate to more
+qualified opportunities, but lead instead to fewer.
+Discount vs. Win Rate: An increase in discount does not result in an automatic increase in win
+rate. It radically decreases the amount of revenue committed41.
+People vs. Process: When things go right, our first intent is to reward the person in charge, and
+when things go wrong, we have a tendency to blame and even fire people. Instead of
+recognizing individual traits, we should look for (and operationalize) the processes
+that give rise to these turns of events. As W. Edwards Deming would say, blame the
+process — not the people.
+Cost cutting: Under the duress of needing to cut costs, firing a customer success rep often feels
+like an easy decision; after all, “We already won the customer.” Data tells us, however,
+that Customer Success impacts the revenue in three ways, which when combined,
+providing a far greater positive impact than the salary savings of decreasing CSM
+headcount 42:
+● Reduction of churn by preventing a scenario where a customer walks away.
+● Increase in expansion, e.g., a customer buying more, and at the fraction of the
+cost compared to that of new customer acquisition.
+● Increasing the length of the customer retention period, say on average from 5½
+years, to 5¾ years, which we know from principle 8 has a disproportionate
+impact.
+
+40
+
+The Science Behind Drifting, Burt Brothers, November 2, 2018.
+Relationship between discount and win rate by Jacco van der Kooij, November 17. 2022
+42
+The Rise of Customer Success as a Profit Center, by Julie Weill Persofsky, May 7, 2021.
+41
+
+Winning by Design
+
+Page 30 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Stopping Is Not as Easy as it Sounds
+Most of us love to start new things, especially if we do not get the results we had hoped for.
+We launch another campaign, hire another person, or buy a new domain. Each of these
+initiatives requires more resources and more energy. We keep starting new things, we keep
+opening new tabs in our browser. But we rarely close them.
+This is because, for most people, the hardest thing to do is to stop. We do not easily give up
+on a campaign, fire a person we hired, or abandon an approach we carefully picked. We hate
+admitting we made a bad choice and we hope things will change. If something is not working,
+we consider it a failure; we are unable to see it as a successful outcome. We need to learn
+how to “Stop It.”
+Here’s how you stop something: discuss with the team the project you are suggesting to stop,
+set a date and a target. If the target has not been reached by the set date, stop the project.
+And reassign the valuable resources to projects that are working.
+
+Guidance #4 Do More Of What Works
+Many SaaS companies have been dependent on programs that ask “Will it scale?” as the primary
+decision criteria and have no regard for cost. In 2022, we learned that if it is not sustainable, it is
+not scalable43.
+The LeadGen team at companies is feeling the impact of the lack of scaling in their GTM motion.
+Every day, they are faced with a near-maniacal frenzy around the production of leads to fuel a
+hungry sales team. On Inbound LeadGen, this led to excessive spending on SEO and SEM. In
+Outbound LeadGen, this resulted in the hiring and firing of large numbers of sellers.
+These programs are designed around scalability, often automated via tools. But now these
+programs have both scalability and sustainability challenges. ‘Scalable’ in that doubling the spend
+does not double the results. ‘Sustainable’ in that to get to 2x the results, they often need to boost
+the spend by 3x, 5x or even 10x. There are many reasons for this: it is a crowded space, overuse
+of technology, and buyers being SPAMMED and PHISHED all the time.
+So, what is working? Here are a few examples of what we have ourselves found to be extremely
+helpful in our own growth44:
+
+43
+44
+
+●
+●
+
+The use of content as outbound call,
+Channels and partners generating leads for you,
+
+●
+
+Word of mouth spreading in a closed community,
+
+●
+
+People attending educational workshops,
+
+●
+
+“How to” videos on YouTube,
+
+●
+
+Impromptu referrals from happy users, and
+
+●
+
+Champions moving across companies.
+
+You can't scale that which you can't sustain, by Jacco van der Kooij, November 2021
+The fastest growing companies in Silicon Valley, Silicon Valley Business Journal, October 27, 2022
+
+Winning by Design
+
+Page 31 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+These successful programs share common qualities: they are hard to do, they have been
+developed natively, and they generate a lower volume but a higher quality of leads. And because
+they are hard, few companies will enact them. The key point for you is to do more of what works
+— even if it is hard.
+
+Guidance #5 A Clarion Call: Start Now. Time is of the Essence.
+Bring the team together, do it now. Use your SKO/RKO to make this Clarion Call. Time is of the
+Essence.
+Remember that SaaS operates on marginal gains. That means every little thing helps, and that
+means that every person has a role to play. Success in 2023 is based on everyone working
+together, as a team. What a fantastic message for an event to open the year 2023, based on
+scientific principles, and plenty of sports and team examples to use as a theme and to inspire.
+Think of asking each team or function to identify a key action that they have seen as impacting
+the customer the most. We call this a Moment That Matters45. For example, a better discovery
+call, an improved approach to online workshops, or a better customer onboarding call perhaps.
+Then ask that team how to cause a 10% marginal gain in that Moment That Matters. In the first
+quarter, aim for that. It’s as simple as that. Next quarter, pick a different Moment That Matters.
+That gives you 3 to 4 improved actions per function for the year. Do this across all
+customer-facing functions.
+Next, trust the power of your SaaS Machine. Trust that these marginal gains will compound over
+time. No need to rush, no need to bulk up and do dozens of actions per function every quarter. Do
+one patiently every quarter. Let time do the rest.
+Your people will get the idea, and they will start to extrapolate that one Moment That Matters will
+positively impact other areas with growth potential. It is a beautiful thing.
+
+45
+
+The Power of Moments: Why Certain Experiences Have Extraordinary Impact by Chip Heat, October 3, 2017
+
+Winning by Design
+
+Page 32 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+The Next Act is Yours
+2022 marked the end of the Golden Age of SaaS, when SaaS was the new kid on the block,
+shaking up the establishment when leads were plentiful, in a fertile economy, when anything SaaS
+was hot. But times have changed, and we need to respond accordingly.
+SaaS is adopted by most of the B2B market today, and its recurring revenue approach is known
+for all of its strengths and weaknesses. The strength is its customer-centric focus — SaaS
+businesses' ability to scale seamlessly with an increase or decrease in demand. The weakness of
+SaaS is that its marginal gain dynamics make it volatile and susceptible to Operator Error.
+But, if we architect, build, and responsibly operate the SaaS machinery — the way it was meant to
+work — it will become the foundation for all successful Enterprise businesses. If we fail and
+pursue it as a way to make a quick buck as an owner, an investor, or even a customer, the next
+decade will see the demise of this model. It will be perceived as too volatile and as the primary
+cause of failed SaaS companies.
+2012 may have marked the beginning of the Golden Age of SaaS. And indeed, over the next
+decade, it Ate the World. Will 2023 mark the start of a new era?
+Going from Recurring Revenue to Recurring Impact will transform your business to one that is
+customer-centric. Your organization will become far more data-driven, by basing your efforts on
+Growth Formulas that use more relevant, real-time data instead of outdated averages. And by
+using the scientific models of Revenue Architecture, you will make your business sustainable for
+the decade to come.
+With the insights provided here, I encourage SaaS leaders to rely on the same engineering
+prowess to design their Recurring Revenue machinery, as they already do when developing the
+product it represents.
+The companies that came out swinging from 2012 to 2014 have become the last decade's
+winners. Similarly, those SaaS organizations that succeed in 2023 will be the winners of the next
+decade. And, what you do as an organization in the first weeks of 2023 will determine the
+outcome of 2023. Conversely, Indecision during such transformative moments comes with great
+consequences.
+So here you are, right where you are supposed to be, in the Sweet Spot in the Eye of the Storm.
+What are you going to do next?
+
+Winning by Design
+
+Page 33 of 34
+
+The Sweet Spot in the Eye Of The Storm
+
+Want to keep going?
+If you want to stay informed about the latest in Revenue Architecture, and be notified about the
+release of the upcoming book on this topic, follow us on social media or contact us:
+YouTube: Watch hundreds of videos on this topic on Recurring Revenue
+LinkedIn: Follow me on www.linkedin.com/in/jaccovanderkooij
+Twitter:
+
+Follow me on twitter @Jacco_vd_Kooij
+
+Directly: Contact us at Contact@WinningByDesign.com
+Founded in 2012, Winning by Design is a global B2B revenue consulting and training company
+that enables recurring revenue teams to architect sustainable growth. Combining our
+specialized skills as operators of high-growth companies, we apply scientific frameworks and
+proven models to help Sales, Marketing, and Customer Success teams at B2B companies and
+global enterprises achieve impact.
+
+

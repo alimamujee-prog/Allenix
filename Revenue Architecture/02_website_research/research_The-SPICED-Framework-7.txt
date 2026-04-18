@@ -1,0 +1,404 @@
+BLUEPRINT.
+
+SPICED
+
+When do
+you need
+this by?
+
+Provocative:
+As an expert you are
+telling a customer
+what to do
+
+C RITICAL
+E VENT
+
+What happens
+if you miss that
+date?
+
+CLIENT ENGAGEMENT .
+
+I MPACT
+
+Ask how this
+impacts their
+business
+Consultative: Asking
+questions to understand
+what the customer wants
+you to do.
+
+ACE, Agenda
+
+SETUP
+
+SUMMARIZE
+
+Share a
+client story
+
+P AIN
+
+Perform
+research
+and talk in
+context
+
+Resets
+the convo
+
+S ITUATION
+
+You heard what you
+wanted to hear.. You
+are excited and
+move on too soon.
+
+EMPATHIZE
+
+H
+TC
+PI
+
+Max of 2-3
+closed
+questions
+
+If client starts
+venting, ask
+to prioritize
+
+Ask if
+you got it
+right
+
+D ECISION
+CRITERIA
+
+P AIN
+
+A solution pitch
+often results in
+disengagement
+
+S ITUATION
+
+S ITUATION
+
+.TIME.
+
+Figure 1: SPICED Framework in the context of a Discovery Call
+
+SPICED is a framework that helps you better diagnose your prospects.
+Just like a doctor, your prescribed solution should help them achieve their
+desired outcomes—and that prescription requires you to solve the source
+of their pains, not just the symptoms.
+Using SPICED as a framework, you can ﬁnd and organize information
+systematically to make sure you understand your prospect’s background,
+pains, desired impacts, and how and when they will commit to your solution.
+Use SPICED as a framework to gather information on calls, for hand-offs
+between teams, (e.g., prospecting to sales, sales to customer success), or for
+summarizing deals during internal forecasting meetings.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+1
+
+SPICED, Deﬁned
+S
+
+Situation
+Facts, circumstances, and background details about your prospect
+
+P
+
+Pain
+The challenges that brought the prospect your way
+
+I
+
+Impact
+How you impact your prospect’s business
+
+CE
+
+Critical Event
+Deadline to achieve that impact
+
+D
+
+Decision
+The process, committee, and criteria involved in purchasing a solution
+
+“ICE” Isn’t Always Chronological
+The “I” and “CE” of SPICED are not always uncovered in this order. If a prospect
+is aware they have a problem and educated on the different solutions available,
+they may tell you their desired Impacts and Critical Event in the ﬁrst
+qualiﬁcation call with an SDR. Unfortunately, this doesn’t happen very often—but
+when you’re actively listening, sometimes you can pick up on clues very early in
+the sales cycle and tease out Impacts and Critical Events with further
+questioning.
+
+SQL
+
+First Value
+Commit
+
+AWARENESS
+
+EDUCATION
+
+S
+
+P
+
+I
+
+SELECTION
+
+CE
+
+ONBOARD
+
+USE
+
+GROW
+
+D
+
+Figure 2: SPICED can be uncovered in the ﬁrst qualiﬁcation call, or over several discovery meetings.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+2
+
+How to use SPICED to diagnose .
+S
+
+SITUATION
+
+CE CRITICAL EVENT
+
+The Situation deﬁnes the tools, people, industry, and
+
+Uncovering Critical Events requires recognizing
+
+landscape of the company. Situation questions help
+
+similar patterns revealed by other customers to help
+
+you understand the size of the opportunity, tools they
+
+you ﬁgure out the timing and events that matter to
+
+use, and other facts to determine whether the
+
+your prospect. Oftentimes, we confuse our Critical
+
+prospect is a good ﬁt for your solution.
+
+Event (hitting quota this month/quarter) with what
+the customer actually is driving towards.
+
+Example Situational Questions:
+● How many salespeople work in your San
+
+If you discover an event or date that the prospect
+
+Francisco ofﬁce?
+
+says is important, test how urgent that timing is by
+
+● What CRM are you using today?
+
+asking, “What happens if you miss that date?
+
+● I noticed on LinkedIn you’re currently hiring
+for 30 SDRs. Did I get that right?
+
+P
+
+Example Situational Questions:
+● Why is that date important to you?
+
+PAIN
+
+● What happens if you do not have a solution by that
+
+Pain addresses the acute challenges and frustrations
+
+date?
+
+the company, team, or individual has. These can sound
+like emotional issues caused by their current
+processes or desired improvements in workﬂow OR
+rational issues affecting the company as a whole, like
+cash ﬂow, costly mistakes, or generating pipeline.
+Example Situational Questions:
+● How do you currently onboard and train your sales team?
+● What is your process for building customized proposals
+for your customers through your CRM?
+● How do prospective employees ﬁnd relevant information
+about their positions?
+
+D
+
+DECISION
+You will need to understand your prospect’s decision
+process, decision committee, and decision criteria.
+Decisions are usually made by a group of
+stakeholders rather than a single decision-maker.
+Depending on the scope and size of the deal, you may
+need to map out your prospect’s Decision Process.
+This requires understanding who needs to be
+involved, who will sign off, and all the approvals and
+steps involved in that process. You will also need to
+understand the criteria by which your prospect will
+
+I
+
+IMPACT
+
+evaluate any potential solution.
+
+Impact questions reveal the core business objectives
+that your solution can help solve. Rational impacts
+typically fall into one of three categories: increasing
+revenue, decreasing cost, or improving the customer
+experience. But don’t forget about the emotional
+impacts that your solution can solve for the prospect
+on an individual level.
+
+Example Situational Questions:
+● Have you brought in a platform like this in the past?
+● How does your buying process work? Are there any
+conversations we should start in parallel, like with
+Legal and Procurement? What about Security and IT
+reviews?
+
+Example Situational Questions:
+● How do slow-ramping salespeople affect your ability to
+hit revenue targets?
+● What happened the last time an inconsistent custom
+proposal caused your Finance team to work overtime to
+ﬁx errors?
+● What impact does a lack of visibility have on recruiting?
+● To what extent is remote team collaboration important to
+you?
+
+Proprietary And Conﬁdential | Winning By Design™
+
+3
+
+How to Use SPICED to Capture
+Opportunity Notes
+SPICED - Opportunity Matrix (ACME Cyber Security Example)
+S
+
+Situation
+
+● 3,000 Employees, 4 global oﬃces
+● ACME has traditionally avoided cloud solutions entirely, but they started
+to push into the cloud in early 2017.
+● They are currently using Box, Salesforce, and Google across the organization.
+
+P
+
+Pain
+(quantiﬁable)
+
+Losing time and eﬃciency due to
+the inability to easily share data
+externally to global customers
+and partners.
+
+I
+
+Impact
+
+A breach/leak of any sensitive IP data in Box would lead to signiﬁcant monetary and
+reputational damage for ACME. They are seeking a solution to protect against this.
+
+CE
+
+Critical
+Event
+
+The Board of Directors is looking
+for a solution to be in place by
+the company compliance
+meeting at the end of Q2.
+
+Compelling
+Event
+
+ACME is hiring 20% more engineers
+in Q1, which will increase the risk of
+information leaks.
+
+D
+
+Decision
+(criteria)
+
+Need a solution that can
+integrate with existing
+applications. They require full
+service, integration support, and
+cost-effective pricing.
+
+Decision
+(process and
+committee)
+
+The CFO signs all contracts above
+$25,000. This decision will be
+recommended by the VP of IT, and
+approval will be needed from the
+CTO, CEO, and SVP of Product. Legal
+will likely require redlines of the
+contract.
+
+Status Quo
+
+ACME needs a solution in place and will move forward with something. They are considering
+several point solutions, but we are the only company that offers everything in one platform.
+
+Competitors
+
+Dunder Miﬄin, Luther Corp.
+
+Next Steps
+
+ACME has an internal meeting in mid-January with the steering committee to share ﬁndings
+and discuss next steps.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+Pain
+(qualitative)
+
+Senior execs are concerned about
+the potential for a breach/leak (and
+the resulting bad PR) as the need to
+share sensitive data with third
+parties increases.
+
+4
+
+ADDITIONAL RESOURCES FROM
+
+Videos available on
+the WbD YouTube Channel
+
+Proprietary And Conﬁdential | Winning By Design™
+
+Additional open source
+templates can be accessed at
+www.thescienceofrevenue.com
+
+5
+
+

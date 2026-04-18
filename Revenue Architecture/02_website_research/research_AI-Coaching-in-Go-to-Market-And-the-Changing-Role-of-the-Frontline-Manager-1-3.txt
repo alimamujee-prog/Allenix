@@ -1,0 +1,910 @@
+RESEARCH BRIEF
+
+AI COACHING IN GO-TO-MARKET:
+AND THE CHANGING ROLE OF THE FRONTLINE MANAGER
+By Dominique Levin, CEO Emeritus of Winning by Design
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+AI Coaching in Go-to-Market and the
+Changing Role of the Frontline Manager
+By Dominique Levin, CEO Emeritus of Winning by Design
+Research conducted Q2 2025
+
+Research Abstract
+In this Research Brief, we cover the emerging trend of using AI agents as coaches to provide
+personalized guidance, feedback, and training for go-to-market personnel, including sales and
+customer success professionals. We look at both skills coaching and deal coaching, and we
+examine the implications of AI coaching for frontline managers.
+For those looking to implement these approaches, the full version includes a feature-level
+vendor comparison and a ready-to-use RFP template, available to Winning by Design Advisory
+Access subscribers.
+
+CEO Take
+If frontline managers don’t improve the productivity and performance of individual
+go-to-market personnel, then why have managers? With the help of AI, frontline managers can
+dramatically improve rep performance, while overseeing a signiﬁcantly larger team.
+You may wonder whether coaching is still relevant in an era where go-to-market tasks are
+increasingly taken over by AI agents? The short answer is “yes”: AI will not replace all human
+activities. In particular, more complex customer management throughout the customer
+journey will be executed by humans for the foreseeable future.
+Consistent research, preparation, strategy, and practice signiﬁcantly increases the outcomes
+of activities such as stakeholder meetings, trade/negotiation, business stakeholder
+onboarding, executive business reviews, and such.
+Deploying AI coaching alongside your managers improves the frequency and consistency of
+deal and skill coaching interactions. AI coaching is available to every employee 24/7 and, at its
+best, is tailored to speciﬁc employees, as well as speciﬁc upcoming customer interactions.
+By leveraging AI for deal and skills coaching you can free up about half of managers’ time so
+managers can handle larger teams and/or be involved in more strategic activities such as
+cross-functional collaboration, people strategy, and AI oversight.
+
+May 1, 2025
+
+1
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+Managers will still be involved with coaching, but rather deal with exception management
+and only intervene in the most critical and relevant moments, as highlighted by the AI.
+Overall, the role of the frontline manager will shift from tactical to strategic, and may
+require rethinking your job description and hiring/recruiting strategy for go-to-market team
+leads: bluntly stated, in the future, the frontline manager role will be a VP- or C-Level job.
+
+“In the near future, the frontline manager role will be a
+VP- or C-Level job and you should plan accordingly.”
+Key features to look for in an AI Coaching solution include the ability to provide coaching
+before, during, and after each customer interaction; to tailor coaching to speciﬁc meetings
+and deals via calendar and CRM integration; and to provide solid trend and exception
+reporting for managers.
+
+Strategic Insights: The Promise of AI Coaching
+Skill coaching and deal coaching have long been an important part of a frontline sales
+manager’s job, consuming about half of a manager’s time. Unfortunately many managers
+aren’t very good at consistently coaching.
+Herein lies the dual opportunity of AI Coaching: giving every single customer-facing rep an
+excellent and 24/7 available coach, which can dramatically improve rep productivity, while
+also signiﬁcantly cutting down on management time (and costs).
+1.
+
+Improve productivity per rep with skills coaching.
+Skill coaching can dramatically improve productivity of customer-facing humans
+within a few short months. Winning by Design ran an experiment with a public SaaS
+company wherein reps received a single training session and six weeks of
+facilitated skill practice sessions. Within two months, question-based selling skills
+had dramatically improved with upwards of 90% of reps displaying the desired
+behaviors. This resulted in reduced sales cycles, increased close rates, and a total
+increase of 16% in the ARR per rep:
+
+May 1, 2025
+
+2
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+60-Day Leading Indicators
+
+60-Day Lagging Indicators
+
+Asking Impact Questions
+
+Sales Cycle reduced by 11%
+
+32% → 90%
+
+Asking Critical Event Questions
+
+Close Rate increase by 21%
+
+21% → 70%
+16% increase in ARR / rep
+
+Incremental $724k ARR over a year
+Table 1. The Impact of a Single Coaching Sprint
+
+With AI Coaching, every rep has a personal coach available 24/7 to:
+●
+
+Facilitate role play practice tailored to speciﬁc customers before
+important meetings.
+
+●
+
+Get feedback immediately after each meeting based on call recordings.
+
+●
+
+Receive in-real-time guidance during customer calls.
+
+The AI Coach can hold reps accountable for practice by logging the amount of
+time practiced, as well as speciﬁc skills progression and reporting back to the
+human manager. The human manager now only has to watch trends and
+manage exceptions.
+2.
+
+Drive results with deal coaching.
+Beyond skills coaching, the AI coach can also handle deal inspection and deal
+coaching. Imagine a world in which all reps are well prepared for every
+customer meeting on the calendar. Before each meeting, the AI coach would
+ask questions such as “have you identiﬁed the potential blocker in this deal?” or
+help practice for a speciﬁc “trade/ negotiate” session. Manager time can now
+be spent on conversations that are uniquely human, such as creating
+conﬁdence or discussing a rep’s longer term career goals.
+
+May 1, 2025
+
+3
+
+AI Coaching in Go-to-Market
+
+3.
+
+Winning by Design Proprietary
+
+Dramatically reduce overhead and increase cross-functional alignment.
+Because skills coaching and deal coaching together make up 50% of a frontline
+manager's time, the role of the frontline manager will change with the adoption of
+AI coaching. With AI coaching in place, each manager can handle a signiﬁcantly
+larger team–up to thirty reps per manager. In addition, managers can now spend
+time on more strategic tasks, including cross-functional collaboration with product,
+marketing, and ﬁnance. Managers will also need to spend more time both on
+organizational and people strategy as well as AI oversight and tooling.
+In total, we predict that managers can free up as much as 30 hours a week using AI
+in various aspects of their job (see Table 3). Assuming the remainder of the time
+(30 hours) will be spent on strategic projects and cross-functional collaboration,
+then the shift from tactical to strategic tasks will be dramatic. By focusing on more
+strategic tasks, managers can signiﬁcantly contribute to new growth initiatives for
+the organization:
+
+Frontline Manager Tasks
+
+Before AI
+
+After AI
+
+Tactical
+
+80%
+
+30%
+
+Strategic
+
+20%
+
+70%
+
+Table 2. The Frontline Manager Job Will Be a VP- or C-Level Job in the Future
+
+Without AI
+
+With AI
+
+Size of Team
+
+10 ppl
+
+10 ppl
+
+Assuming same size
+
+Deal coaching
+
+10 hrs
+
+2 hrs
+
+Exception review
+
+Skills coaching
+
+15 hrs
+
+2 hrs
+
+Exception review
+
+Forecasting
+
+5 hrs
+
+2 hrs
+
+Human in the loop
+
+Interviewing
+
+4 hrs
+
+2 hrs
+
+Human in the loop
+
+CRM data entry
+
+6 hrs
+
+2 hrs
+
+Human in the loop
+
+Strategic work
+
+10 hrs
+
+10 hrs
+
+If no change
+
+Total
+
+50 hrs
+
+20 hrs
+
+60% replaced by AI
+
+Table 3. Where Frontline Managers Spend Time with and without AI
+
+May 1, 2025
+
+4
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+In summary, with AI Coaching, an organization can exponentially increase individual
+rep performance in a short period of time, enhance its ability to seize future growth
+opportunities, and reduce overhead costs by as much as 50%.
+
+SalesHood, a provider of AI-driven sales enablement and AI
+Coaching solutions recently reported that their AI helped
+reduce enablement headcount by 45% while coaching grew
+by 231% across customers on their platform.
+4.
+
+Focus on uniquely human skills
+“Why focus on AI Coaching if I can replace human SDRs and AEs with AI Agents
+altogether?” Humans will be replaced only gradually by AI Agents.
+Also, not all human tasks will be replaced. In the short term, AI Agents will begin to
+take over inbound prospecting (see AI SDR Agents report), outbound prospecting,
+transactional selling, and supporting roles such as being an all-knowing sales
+engineer on a call with humans. But for higher-order tasks, AI will serve more of a
+supporting function, to help humans be better at their jobs.So when it comes to AI
+Coaching, the promise of AI is to focus on improving those skills that are innately
+human, such as creativity and complex human relationships. This means focusing
+your AI coaching efforts on key moments and skills involved with stakeholder
+meetings, joint impact planning, or executive business reviews. Deal inspection and
+deal coaching are also relevant. More details are provided in the next section, which
+includes an implementation plan for practitioners.
+
+Practical Insights: Implementing AI Coaching
+Humans cannot develop new habits and skills without reinforcement and practice. An AI
+Coach can be available 24/7 for your reps to provide both skills coaching and deal
+coaching, before, during, and after customer calls and meetings (see above).
+
+May 1, 2025
+
+5
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+Historically frontline managers have owned coaching – but with mixed results. AI can more
+reliably and consistently coach based on role plays, call recordings, and even provide
+real-time guidance.
+AI Coaching can have an immediate and considerable impact on revenue, typically within 6
+to 12 weeks. Investing in AI Coaching also sends a strong signal that you continue to value
+human contributions at a time when you may be replacing some human work with AI
+Agents. Start your AI Coaching program with:
+1.
+
+Bottom-of-funnel moments, where you can have a more immediate impact, and
+where reps have fewer real-life “at bats”.
+
+2.
+
+More complex sales cycles and skills, speciﬁcally innately human skills involving
+creativity and human relationships.
+
+Bottom-of-funnel skills
+We recommend you start with coaching on skills that are near the bottom of the sales
+funnel such as trade/negotiate skills. There are several reasons for this:
+1.
+
+Focusing on bottom-of-funnel skills can show increased revenue within the
+shortest period of time. Improved discovery calls will take months to yield revenue,
+while reducing the discount of a deal may have an impact on revenue within a
+
+Disco
+
+Size of Impact
+
+hi
+
+month or less.
+
+lo
+
+Trade /
+Negotiate
+
+lo
+
+hi
+Speed to Impact
+
+Figure 1. Comparing Speed and Size of Impact of Different Skills
+
+May 1, 2025
+
+6
+
+AI Coaching in Go-to-Market
+
+2.
+
+Winning by Design Proprietary
+
+When it comes to bottom-of-funnel skills, reps have much fewer real-world at bats.
+While a rep may do hundreds of discovery calls in a given year, she may only do
+tens of trade/negotiate closing meetings, making each meeting that much more
+mission-critical and necessitating preparation and practice ahead of time.
+
+3.
+
+Bottom-of-funnel tasks such as agreeing on the ﬁnal proposal and price are less
+likely to be taken over by AI in the short term, so coaching efforts will have a longer
+shelf life.
+
+Complex sales skills
+Focus AI Coaching on key moments in your customer journey that involve uniquely human
+skills that will not be replaced by AI any time soon, speciﬁcally moments involving
+creativity and complex relationship management, e.g. joint solutioning, impact planning,
+controlling the room during a stakeholder meeting, trade/negotiate meeting, business
+kick-off, or executive business review.
+Stakeholder
+Meeting
+
+Awareness
+
+Education
+
+Selection
+
+Business
+Kickoff
+
+Mutual
+Commit
+
+Onboarding
+
+Trade
+
+Retention
+
+Expansion
+
+Executive Business
+Review
+
+Figure 2. Examples of Complex Sales Skills Mapped Against the Bowtie
+
+May 1, 2025
+
+7
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+Process, Systems, People
+When implementing AI Coaching, remember the process, systems, people framework. In
+the past we hired rockstar humans to solve problems, which isn’t repeatable or scalable.
+Adding systems to high performing people may increase the productivity of the top
+percent, but it also scales instability. Instead focus on proven processes ﬁrst, then put
+systems in place that reinforce those processes, and ﬁnally add high performers to the
+mix to maximize your investment.
+
+Destabilizes as it grows
+
+Stabilizes as it grows
+
+SYSTEMS & PROCESSES
+PEOPLE
+TECHNOLOGY
+
+PHASE
+SHIFT
+
+TECHNOLOGY
+
+PEOPLE
+SYSTEMS & PROCESSES
+
+Figure 3. AI Coaching Needs To Sit on a Foundation of Systems & Processes
+
+Process
+From a process and operating cadence point of view, use your AI Coach to conduct
+continuous improvement Impact Sprints with your team. An Impact Sprint is a
+hyper-focused 4- to 8-week program that zeroes in on improving one key skill for an
+outsized impact on rep performance. Sprints are a collaborative, data-driven system
+of upskilling that any team can repeat on an ongoing basis, to achieve a signiﬁcant
+lift in performance.
+Historically, an Impact Sprint relies on a human coach: either a company would hire
+professional coaches for weekly sessions, which is very expensive, or it would try to
+leverage its managers, who often don’t have the time and experience to provide
+consistent skills coaching sessions.
+
+May 1, 2025
+
+8
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+AI Coaching is making the planning and execution of an Impact Sprint much more eﬃcient
+and effective. The average rep will get much more practice at a much lower cost using AI
+Coaching. We also believe that an Impact Sprint can now be a short 30 days instead of the
+prior 60 days, increasing the velocity of your business and the speed to Impact.
+Steps of an Impact Sprint:
+1.
+
+Deﬁne leading and lagging indicators that indicate measurable improvement
+
+2.
+
+Decide on the key skill to focus on during the sprint
+
+3.
+
+Train the reps on the new skill in a single session - either synchronously by humans
+or individually by an AI Coach
+
+4.
+
+Let the AI Coach reinforce the skill for a three week period, starting immediately
+after the training sessions
+
+5.
+
+Hold monthly accountability sessions where the teams reviews and discussed time
+practiced and lessons learned - and where you roll out the skill for the next month
+
+Before AI Coaching: 7 Weeks
+Align
+
+Design
+
+Guide
+
+Train
+
+1
+
+2
+
+3
+
+4
+
+Align on
+goal and skill
+
+Design the
+Sprint
+
+Guide the
+Managers
+
+Train on the
+Key Skill
+
+Coach
+
+Coach
+5
+
+6
+
+Coach
+7
+
+Trainers or managers
+do weekly sessions
+
+With AI Coaching: 4 Weeks
+Align
+
+Train/Coach
+
+AI Coach
+
+AI Coach
+
+1
+
+2
+
+3
+
+4
+
+Align on
+Train team &
+goal and skill start practice
+
+AI Coaching AI Coaching of
+of the team
+the team
+
+Figure 4. With AI Coaching, You Can Run More Impactful and Higher Velocity Impact Sprints
+
+May 1, 2025
+
+9
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+Systems
+Although there are many vendors in the AI Coaching space, most vendors are small, so
+make sure to inquire about their ﬁnances and ask for customer case studies and
+references. Over time AI Coaching will likely become a feature of broader revenue
+enablement solutions, but in the short run you may be better off working with a small
+vendor that can be responsive to your needs and to changes in the market. Some
+incumbents have already released or announced integrated AI coaching solutions,
+including Saleshood, Gong, and Salesforce.
+Solutions from adjacent markets may also be worth considering, such as general purpose
+AI Coaching and Role play platforms and players from the services space, where some
+vendors offer innovative solutions for in-person (door-to-door) sales.
+Regardless of the vendor, here are key features to look for in an AI Coaching solution:
+Types of Coaching
+Most AI coaching vendors in the market today focus on skills coaching, which is
+also the domain of many sales training vendors. However, in addition to skills
+coaching, we expect (and wish) that more vendors will also integrate deal coaching.
+Some vendors show promise in this area.
+Timing of Coaching
+The most powerful solution provides options for coaching before (role play), during
+(in real time), and after (based on recordings). Most vendors focus on role play
+practice. Real-time coaching is the most diﬃcult to get right and so far, we have
+only seen Winn.ai deliver a credible solution in this space. We expect more players
+to emerge in the next twelve months.
+Integrations
+The best coaching is tailored to the individual rep and situation. Integration with a
+rep’s calendar and CRM offers the promise to suggest and offer preparation and
+practice before every speciﬁc customer meeting. The AI Coach can read past
+conversations and meeting transcripts with a particular customer and generate
+preparation questions and a role play scenario on the ﬂy. Several vendors offer this
+capability.
+
+May 1, 2025
+
+10
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+Modalities
+Most vendors offer voice-based coaching, with some experimenting with video.
+Most video avatars are laggy and will be more expensive. We are not convinced yet
+that video offers a signiﬁcant advantage over voice-only solutions. The future will
+tell.
+Range of Feedback
+Different vendors offer different types of coaching feedback. Most offer scorecards
+and look for speciﬁc elements to be present in a call such as “building rapport” or
+“diagnosing pain”. Usually, these scorecards are customizable. Some vendors come
+with out-of-the box scorecards that align with Winning by Design’s SPICED
+diagnostic framework and other industry frameworks. In addition to
+scorecard-based coaching, some vendors provide feedback on general soft skills
+such as tone, pace, ﬁller words, and talk ratio. A few offer sentiment analysis as well.
+How to Set Up a Role play
+Many vendors dump learners into a role play scenario without setting much context.
+Winning by Design has written blueprints on the importance of setting up a role play
+carefully and providing learners with enough context so they can be somewhat
+successful on the ﬁrst try and not get frustrated immediately with the concept of AI
+Coaching.
+Reports
+We were unable to ﬁnd signiﬁcant differences in the depth of reporting across
+vendors, but this doesn’t make reporting less important. In the future managers will
+have very large teams and need to be able to manage by exception based on
+dashboards and reports trending individuals and teams across the company and
+over time. With the reports and exceptions in hand, it is the human manager who will
+have to create accountability for deal preparation and ongoing practice. Most
+exception reporting is still in its infancy.
+
+May 1, 2025
+
+11
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+Vertical Focus/Specialization
+Some companies have a speciﬁc focus or specialization in terms of customers,
+which we support. Vendors tend to either focus on:
+●
+
+Transactional selling or complex sales
+
+●
+
+Face to face selling or online sales
+
+●
+
+Enterprise or mid-market customers
+
+●
+
+A speciﬁc vertical such as technology, pharma, or ﬁnancial services
+
+People
+The AI Coaching implementation and ongoing Impact Sprints could be owned by the head
+of GTM strategy and operations or by the head of GTM enablement. In either case, the job
+of the person in charge of AI Coaching is to:
+1.
+
+Identify a conversion rate that is lagging behind the industry.
+
+2.
+
+Articulate what key moment and skill that you want to focus on improving this
+quarter.
+
+3.
+
+Conﬁgure the role play scenarios and the scorecards to apply to recorded calls
+(and real-time, live calls if applicable).
+
+4.
+
+If relevant, conﬁgure the real-time guidance that reps receive while on the call.
+
+5.
+
+Set a coaching cadence, how often do you expect reps to practice.
+
+6.
+
+Convene the reps and review the “why” and “how” of the program.
+
+7.
+
+Review both efforts and skills demonstrated by reps as compared to results.
+
+8.
+
+Adjust and optimize the program as needed.
+
+9.
+
+See results!
+
+# of deals
+
+PLG
+
+AI Coach
+
+AILG
+
+HLG
+
+ACV
+Figure 5. AI Coaching Applies to Human-Led Growth (Less AI-Led Growth or Product-Led Growth)
+
+May 1, 2025
+
+12
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+Vendors to Consider
+For subscribers to the Winning by Design Advisory Access Pass, we have a detailed
+comparison of vendor capabilities as well as a template for an RFP you can use in your
+own evaluation.
+Vendors included in the comparison are:
+●
+
+Avarra (Avarra.ai), San Mateo, CA: Complex sales for B2B high growth companies,
+used by Owner.com and BrightEdge amongst others. Working on deal coaching.
+Supports SPICED (not yet certiﬁed)..
+
+●
+
+Brevity (Brevitypitch.com), Minneapolis, MN: Large enterprise, large companies
+with custom programs, such as SAP. Partnered with a top MBB consulting ﬁrm.
+
+●
+
+Claap.io (Claap.io), France: B2B, medical, and insurance verticals. Supports SPICED.
+PLG version available.
+
+●
+
+Coachable AI (Joincoachable.ai), Miami, FL: Solution for individual sales reps. PLG
+version available.
+
+●
+
+Demodesk (Demodesk.com), Germany: Transactional sales. Also have a solution
+that competes with Zoom for remote selling that can provide real-time guidance.
+Customers include Pipedrive. Supports SPICED (not yet certiﬁed). PLG available.
+
+●
+
+Dextego (Dextego.com), New York: Complex sales solutions. Customers include
+Aptivio and Deloitte. Working on deal coaching and already has integration with
+calendar and CRM. PLG version available.
+
+●
+
+GetBlue (Beta.getblue.ai), New York: Going beyond coaching, focused on individual
+reps, making reps more productive also through AI email edits, recommending next
+steps, and (eventually) scheduling those follow-up meetings.
+
+●
+
+Hyperbound (Hyperbound.ai), San Francisco, CA: B2B tech, mid-market to
+enterprise. Customers include Monday.com, Tipalti, and Vanta. Supports SPICED
+(not yet certiﬁed). PLG available.
+
+●
+
+Luster (Luster.ai), Indianapolis, IN: B2B tech companies. Customers include
+Shipbob Logistics. Predictive Enablement™uses skill proﬁciency data to predict
+revenue impacting mistakes.
+
+May 1, 2025
+
+13
+
+AI Coaching in Go-to-Market
+
+●
+
+Winning by Design Proprietary
+
+Quantiﬁed (Quantiﬁed.ai), Austin, TX: Big pharma, insurance and in-person selling.
+Customers include Novartis, Sanoﬁ, and Open Lending.
+
+●
+
+Replicate Labs (Replicatelabs.ai), London, UK: B2B sales-led companies with 100
+reps or more. Customers include Gitlab, Similarweb, and Payhawk. Working on true
+coaching, including deal coaching. Supports SPICED (not yet certiﬁed).
+
+●
+
+Saleshood (Saleshood.com), San Francisco, CA: B2B sales-led companies with 100
+reps or more. Customers include Gitlab, Similarweb, and Payhawk. Working on true
+coaching, including deal coaching. Supports SPICED. (oﬃcially certiﬁed)
+
+●
+
+SalesMagic (Salesmagic.com), San Francisco, CA: Generating complete training
+plans out of the box. PLG version available.
+
+●
+
+SecondBody (Secondbody.app), New York: Face to face selling environments,
+including construction. Customers include FreightWaves. PLG version available.
+
+●
+
+Second Nature (Secondnature.ai), Tel Aviv: Soft skills and hard skills of complex
+sales cycles. Have been around longer than most. Customers include Zoom, SAP,
+CheckPoint, PureStorage, Oracle, and Adobe amongst others. PLG available.
+
+●
+
+Winn.ai (Winn.ai), Israel: Realtime guidance and updating the CRM after the call.
+Customers include Sendoso, Intercom, Kaseya, and Deel amongst others. Supports
+SPICED (not yet certiﬁed). PLG version available.
+
+May 1, 2025
+
+14
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+Case Studies
+SalesHood | Star Compliance: “SalesHood’s AI Role Play changed the script on
+seller prospecting. The AI creates real, life-like conversations allowing sales reps to
+think on their feet, angle new positioning strategies, and create learning actions to
+follow up on. We’re able to reduce the number of meetings and gain deeper level
+interactions, improving productivity and increasing win rates by 7-10% over the last
+quarter.” Craig Jones, CRO StarCompliance
+Second Nature | Zoom: Zoom used Second Nature's AI-driven sales coaching
+software, featuring an AI bot named Jenny, to train its global sales team on
+updated brand messaging. Zoom framed the training as a gamiﬁed, team-based
+competition to increase engagement. The sales team was asked to pitch to Jenny
+as many times as they wanted and were given a minimum score to achieve. Zoom
+took great care to "humanize" the AI and presented Jenny as a member of the
+sales enablement team to bypass skepticism towards the new software.
+Zoom Outcomes:
+●
+
+Achieved 100% participation in the training
+
+●
+
+Improved skills and message mastery across all sales reps
+
+●
+
+Increased the number of practice sales conversations performed by each
+employee
+
+●
+
+Standardized feedback and scoring of practice sessions
+
+●
+
+Salespeople spent more than 300 hours talking to Jenny in thousands of
+simulations
+
+●
+
+Sales employees appreciated the tailored feedback
+
+Want to make this happen?
+Book Time with an Advisor
+
+May 1, 2025
+
+15
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+SUPPLEMENTARY MATERIALS
+The following supplementary materials are available in the full version
+of this report, available to subscribers in the reference library. For more
+information on subscribing, see winningbydesign.com/access-pass.
+
+01 Vendor Comparison
+02 RFP Template
+03 Stakeholder Meeting
+04 Trade/Negotiate
+05 How to Set Up a Role Play
+
+May 1, 2025
+
+16
+
+AI Coaching in Go-to-Market
+
+Winning by Design Proprietary
+
+READ OUR OTHER AI AGENT RESEARCH REPORTS
+
+AI AGENTS: RESEARCH ACROSS THE BOWTIE
+
+Like what you read?
+Send to a Colleague
+
+May 1, 2025
+
+17
+
+

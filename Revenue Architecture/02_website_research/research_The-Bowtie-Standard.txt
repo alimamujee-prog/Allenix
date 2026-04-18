@@ -1,0 +1,2667 @@
+​
+
+THE BOWTIE STANDARD
+A Modern Data Model for Recurring Revenue Businesses
+Index
+●​ Chapter 1. Thinking in Models
+●​ Chapter 2. The Classic Sales and Marketing FunnelRecurri
+●​ Chapter 3. The Data Model for Recurring Revenue
+●​ Chapter 4. The Data Structure for Recurring Revenue
+●​ Chapter 5. Applications
+●​ Conclusion
+
+1. Thinking in Models
+A venture-backed startup aims to build a fantastic head-snapping product and use it to
+transform a million-dollar startup into a billion-dollar grownup. This transformation requires
+extraordinary annual growth rates driven by an innovative product aligned with an effective
+Go-To-Market (GTM) strategy.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 1 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 1.1 The importance of Go-To-Market strategies increases significantly as a company evolves from a
+Startup to a Grownup. This transformation is characterized by a shift in priorities, moving from a
+singular focus on building great products to incorporating robust GTM approaches and strategic
+planning.
+
+When developing an exceptional product, it's clear that most do not start from scratch. Great
+products are built on existing functions and components. Take, for instance, an iPhone based
+on a screen, processor, memory, and software pulled from libraries. Each component is built on
+the best practices of those who engineered it before them.
+Similarly, to create a GTM strategy, we should not have to start from scratch. Instead, we should
+draw on the accumulated knowledge of those who have come before us. This knowledge in the
+services industry is encapsulated in models. A model is much like a software module, but for
+GTM, it provides a structured, proven framework that can be adapted and implemented to suit a
+specific need and goal.
+
+1.1 Architecture is Based on Using Proven Models
+Models are crucial in many fields because they simplify complex information and help us
+understand how things work. They're like blueprints that turn observations into practical plans.
+Take the Golden Gate Bridge, for example. It was considered the longest suspension bridge
+when it was built in the 1930s. The bridge’s design is based on six simple parts: Anchors, Piers,
+Towers, Main Cables, Suspension Cables, and the Deck. Each part was studied individually and
+together by analyzing its behavior. This way, architects could increase the span by increasing
+the components and testing and improving the design to handle the increase in weight and
+meet the local requirements around earthquakes and the challenges of the moisture and wind
+from the ocean.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 2 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 1.2 The design of a suspension bridge broken down into its six essential components, each modeled
+independently or in combination to simulate and predict behavior.
+
+This modular approach helps us design other bridges based on the same parts, but that might
+face different local challenges. We are going to use the same concept and build repeatable
+growth by developing sustainable GTM strategies based on proven models.
+
+1.2 There are Six Essential Models that Govern Hypergrowth
+Just as the components of a bridge facilitate its construction, six key models are instrumental
+in designing business growth:
+●​ The Revenue Model outlines how to generate revenue through three monetization
+strategies:
+○​ Ownership: On-premise hardware and perpetual software licensing.
+○​ Subscription: Primarily SaaS-based models.
+○​ Consumption: Usage, consumption, and outcome-based models.
+●​ The Data Model transforms the traditional sales and marketing funnel into a bowtie
+shape, emphasizing three critical growth areas: Acquisition, Retention, and Expansion. It
+utilizes Volume, Conversion, and Velocity Metrics to effectively map and analyze growth
+across different GTM strategies.
+●​ The Mathematical Model explains how hypergrowth works by exploring the mechanics
+that drive growth from acquisition, retention, and expansion. Hypergrowth results from a
+disproportionate impact, which, in the case of acquisition, is determined by the
+frequency of actions (n), such as the number of meetings. For retention and expansion,
+the key factor is repetition over time (t), exemplified by actions like renewing annual
+subscriptions or increasing monthly usage.
+●​ The Operating Model ensures the business operates like a well-oiled Lean Revenue
+Factory, employing a standardized data model, speaking a common language, and
+adhering to a uniform methodology.
+●​ The Growth Model shows the progression through four stages of growth—Startup,
+Scaleup, Grownup, and Enterprise. Each stage is characterized by unique challenges and
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 3 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+requires a specific strategy. Importantly, what proves effective in one stage may harm
+growth in the next.
+●​ The GTM Model integrates marketing, sales, and customer success functions to meet
+specific market or segment needs, similar to a factory’s production lines. It includes five
+types of GTM motions; each can encompass both channel and direct sales approaches
+and have a different growth and cost profile:
+○​ No Touch: Self-serve options.
+○​ Low Touch: AI or chatbots that can escalate to human interaction.
+○​ Medium Touch: Inside sales utilizing online selling.
+○​ High Touch: Field sales with subject matter experts.
+○​ Dedicated Touch: Strategic account management with dedicated resources.
+Just as every suspension bridge, big or small, is built from the same six parts, every
+hypergrowth Lean Revenue Factory is constructed using a framework with these same six
+models.
+
+1.3 These Six Essential Models Form a Lean Revenue Factory
+The combination of these six essential models creates hypergrowth as follows:
+●​ The Revenue Model specifies the revenue generated based on the product
+sold—ownership, subscription, or consumption. The product is then marketed to
+(prospective) customers through various GTM motions that align with the customer's
+preferences. The GTM Model provides a framework for which of the five GTM motions
+works best.
+●​ GTM motions act as distinct revenue production lines, each with its inputs (leads),
+throughputs (conversion rates), and outputs (revenue). The effectiveness and efficiency
+of each GTM motion can be evaluated using the Data Model, which assesses
+performance and identifies areas for incremental improvement. Each GTM motion also
+carries distinct cost implications that must correspond to the revenue it generates; for
+example, people-centric growth strategies like direct sales are generally more costly than
+system-driven approaches such as PLG and AiLG.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 4 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 1.3 The process diagram of the six essential models to form a Lean Revenue Factory
+
+●​ The metrics from the Data Model are encapsulated in a growth formula, which quantifies
+the revenue produced by each GTM motion. Aggregating the revenue streams from each
+GTM motion reveals the company’s overall revenue growth.
+●​ Managing multiple GTM motions introduces complexity and leads to chaos, resulting in
+reduced productivity. The Operating Model restores structure and enhances efficiency by
+continuously evaluating and optimizing each GTM motion and discontinuing those that
+underperform, enabling the company to achieve sustainable hypergrowth.
+This demonstrates that the Data Model is part of a much larger, interconnected system of
+models.
+
+Re-occurring vs. Recurring Revenue
+Understanding the difference between recurring and re-occurring revenue is essential for
+businesses to evaluate their revenue models, predict cash flow, and determine their value in
+the market. Companies can build a more stable and sustainable business model with a
+predictable income stream by focusing on recurring revenue. What is recurring revenue?
+Recurring: The term "Recurring" implies that something happens repeatedly and
+consistently, following a predictable pattern with regular intervals. For example, a SaaS
+(Software as a Service) contract that requires payment on the 1st day of every month is a
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 5 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Recurring Revenue model. It signifies a systematic and fixed pattern where customers are
+regularly billed for continued access to the product or service. Subscription-based revenue is
+considered recurring.
+Re-occurring: On the other hand, "re-occurring" suggests that something happens again but
+lacks the same level of regularity or predictability. It implies sporadic or occasional repetition
+rather than a consistent and predetermined pattern. In the context of revenue, re-occurring
+revenue refers to income that may occur repeatedly but without a recurring schedule. It can
+vary both in amount and frequency. Consumption-based revenue is considered Re-occuring.
+
+Figure 1.4 The difference between recurring and re-occurring revenue comes down to regularity over time and the
+predictability of the amount of revenue.
+
+Consumption-based models can be converted into a subscription-like model as follows:
+●​ Step 1. Bill at Regular Intervals: Commonly done on a monthly basis, this method ensures a
+consistent revenue flow and simplifies budgeting for customers.
+●​ Step 2. Create Fixed Spend per Interval: Develop tiers of usage with predetermined prices.
+For example, you might offer a plan where up to 20,000 units of consumption are billed at
+$100 per month.
+●​ Step 3. Offer Pre-Purchase Options Based on Usage Patterns: Encourage customers to
+pre-buy their expected consumption at favorable prices calculated from historical usage.
+This pricing model is advantageous for both the service provider and the customer, as it
+provides predictable revenue for the provider and manageable costs for the customer.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 6 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+2. The Classic Sales and Marketing Funnel
+The Classic Sales and Marketing Funnel models how revenue gets acquired.
+The process begins with a broad base of prospects, each representing potential revenue within
+the Total Addressable Market (TAM). At the top of the funnel (TOFU), these prospects are turned
+into leads through a Lead Generation Process. These leads are then developed into
+opportunities via a Lead Development Process. Opportunities are carefully managed through a
+sales process, resulting in closed deals. Each closed deal is integrated into financial (billing) and
+operational (access to the software) processes, eventually converting into newly acquired
+revenue.
+
+Figure 2.1. The marketing and sales funnel models revenue acquisition
+
+In a Recurring Revenue model based on a subscription contract, the Classic Sales and
+Marketing funnel output is typically quantified as Recurring Revenue, and for
+consumption-based models, this results in Re-occuring Revenue.
+
+2.1 The Four Stages of Revenue Acquisition
+Revenue Acquisition can be divided into four stages:
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 7 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Stage 1. Awareness, the Lead Generation stage
+This stage covers the awareness stage and utilizes a series of touchpoints to
+transform prospects into leads by raising awareness of a problem the prospect is
+experiencing and the implications of inaction on their business. These touchpoints
+can include activities like filling out a form on a website, downloading content,
+attending online events like workshops, or watching demo videos.
+In this context, a lead refers to an individual who has shown interest in your products
+or services, expressed through actions such as attending a webinar, downloading a
+research paper, commenting on a post, or sending an inbound request via the
+website. Leads can be contacted through email, social media, or phone, although they
+may not yet be ready to learn more about your offering.
+
+Stage 2. Education, the Lead Development Stage
+In this stage, leads educate themselves about the problem and solution. This process
+aims to fully understand the product's impact and determine its priority. Depending on
+the GTM motion, this conversion turns a lead into a qualified opportunity. In a Medium
+Touch motion, for instance, a Sales Development Representative (SDR) may engage
+with the lead, qualifying them through conversations that can occur via calls, emails,
+or LinkedIn messages.
+The most common approach for buyers is either a self-serve demo (or video) or an
+online discovery call. During these calls, a salesperson assesses the customer's
+issue, determines the urgency with which the customer views it, and evaluates the
+ability of their product to assist the customer effectively.
+
+Stage 3. Selection, also known as the Sales Stage
+This stage guides customers through the decision-making and purchasing process. It
+can be as simple as providing a link to a webpage for placing an order, or it may involve
+a months-long decision-making process that includes a series of meetings. During this
+process, the seller works closely with the customer to answer questions and address
+the customer's needs.
+Selection often involves educating stakeholders throughout the buyer's organization
+and may include conducting a proof of concept (POC) to help validate the decision
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 8 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+with a proposal that presents the return on investment (ROI). In an ownership-based
+strategy, the deal is closed, the customer transfers money to the seller within 30 days
+of closing, and the opportunity is converted into revenue.
+
+Stage 4: Deal Execution, also known as the Booking Stage
+After a deal is closed, the booking stage ensures flawless execution of product or
+service delivery. This includes creating instances to provide access to software, setting
+up financial records, and finalizing logistics for product delivery. The stage also
+processes payments, which results in revenue realization, marking the completion of
+the acquisition cycle in the company's financial systems.
+Together, these four stages form a revenue acquisition system. At the top, there is significant
+economic potential, but only a small percentage converts at each stage. What emerges at the
+bottom represents a tiny fraction of the initial economic value, giving it the shape of a funnel
+(see Figure 2.1).
+
+2.2 The Constraints of the Classic Sales and Marketing Funnel
+Once the revenue acquisition system is understood, we can identify the constraints within the
+classic sales and marketing funnel. With a clear understanding of the challenges we need to
+address, we can design a new system—known as the bowtie—that overcomes these limitations
+and aligns better with the goals of modern revenue growth. Here are some of the key
+constraints, which we will explore in more detail:
+●​ Constraint 1: The funnel stops where Recurring Revenue begins.
+●​ Constraint 2: The funnel is seller-centric.
+●​ Constraint 3: Lack of Accountability for the Revenue Acquisition Process as a Whole
+●​ Constraint 4: Operators run the business in the wrong way
+Let’s dive deeper into each of these.
+
+Constraint 1: The Funnel Stops Where Recurring Revenue Begins
+To state the obvious, two out of three revenue growth engines (retention and expansion)
+occur outside the funnel's purview. Recurring revenue, growth, and profits all take place
+beyond the marketing and sales funnel. This means the classic funnel, which has served
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 9 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+the industry for over 100 years, ends exactly where Recurring Revenue begins. It fails to
+properly model subscription- and consumption-based business models.
+
+Figure 2.2 Recurring Revenue takes place outside the purview of the marketing and sales funnel.
+
+Constraint 2: The Funnel is Seller-Centric
+A seller-centric funnel primarily focuses on closing deals by emphasizing the solution’s
+value from the seller’s perspective. However, Recurring Revenue models focus on the
+value the product delivers to the customer—what we refer to as impact. If the customer
+does not experience the desired impact, the seller will not achieve recurring revenue.
+This seller-centric approach is common in organizations where the sales process is
+designed to fulfill the seller's goals rather than helping the customer achieve theirs. A
+typical example is how sales stages are structured, dedicating most of the stages to
+closing the deal (See Figure 2.4).
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 10 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+This focus on closing deals, while effective in early growth stages, often leads to an
+insatiable demand for more leads. While necessary in the early stages (up to $10M),
+leaving this unchecked will make scaling significantly more difficult. Overcoming this
+challenge often requires a hard reset, such as a leadership change.
+
+Figure 2.3 A disproportionate amount of time is spent on the final stages of closing the deal. This
+seller-centric focus reflects growth challenges, as the sales process becomes more about
+forecasting deal flow rather than addressing customer needs, which ultimately drives long-term
+value.
+
+Constraint 3: Lack of Accountability for the Revenue Acquisition Process as a Whole
+A major challenge organizations face is the absence of clear ownership over the entire
+revenue acquisition process. While each individual stage may have its own processes
+and responsibilities, no one is accountable for ensuring the overall system works
+cohesively. This lack of centralized ownership leads to inefficiencies, missed
+opportunities for optimization, and poor alignment across teams, ultimately hindering
+growth and scalability.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 11 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 2.4 The marketing and sales funnel models revenue acquisition
+
+Constraint 4. Operators run the business in the wrong way
+The sales and marketing funnel was designed for sales cycles that could span years,
+and it has two major issues that reflect this outdated approach:
+1.​ One-Directional Flow: The funnel is one-directional—prospects enter at the top
+and flow downward until they exit at the bottom. This model is flawed because
+customers don’t always follow a linear path; they often switch between functions,
+leading to incorrect modeling of processes and data.
+2.​ Linear Growth Assumption: When faced with the need to double revenue,
+revenue leaders often respond by demanding twice as many resources—such as
+twice as many leads—assuming that the funnel operates along a linear path. This
+is untrue. In most cases, people-based organizations experience diminishing
+returns as they scale.
+These four constraints amplify each other, reinforcing the wrong behaviors. As a result, many
+companies struggle daily with issues caused by the boundaries imposed by the funnel and the
+bad habits developed over nearly 15 years of a "Growth-At-All-Costs" mentality.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 12 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+3. The Data Model for Recurring Revenue
+The rise of subscription-based businesses in the early 2000s, followed by the increasing
+emphasis on Recurring Revenue models after 2008, marked a dramatic shift in how revenue
+recognition was handled. In the coming years, we expect another shift—from traditional
+Recurring Revenue models like SaaS to re-occurring revenue models, such as usage-based,
+consumption-based, and outcome-based models.
+This is in stark contrast to the ownership-based revenue model, where revenue is recognized
+upon shipment of equipment or delivery of a software license, often within 30 days of receiving
+the purchase order. The subscription model, however, operates differently. In this model, only a
+small portion of the fees is recognized when the deal is closed, and the full revenue typically
+takes years to materialize.
+
+3.1 The Additional Stages that Form the Bowtie
+This change in revenue recognition—and how it materializes long after the deal closes—renders
+the classic Sales and Marketing funnel inadequate. Enter the Bowtie model, which extends the
+funnel with additional stages to capture growth from retention, expansion, and acquisition.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 13 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 3.1 The seven stages capture the customer journey from Awareness to Expansion, while the GTM
+System (#8) ensures alignment across all stages.
+
+Stage 4: Mutual Commit
+"Closing a deal" is not the end; it marks the beginning of a multi-year relationship. Both
+parties commit to working together: one to continue delivering the promised impact
+and the other to continue paying for the product’s usage to achieve that impact. This
+stage is, therefore, referred to as Mutual Commit or simply Commit. During this stage,
+the company establishes a customer entity in its CRM systems and ensures the
+customer is appropriately set up to use its products or services.
+
+Stage 5: Onboarding
+Onboarding, also known as Activation in PLG, is designed to quickly guide customers
+toward experiencing their initial impact with your product. Whether it takes weeks due
+to complex integrations or mere seconds through a browser plugin, the goal is to
+ensure customers quickly experience the product's effect or impact.
+
+Stage 6: Retention & Adoption
+During Adoption, customers integrate the product into their daily routines. Providers
+must offer training, support, and updates to optimize product usage and impact.
+Effective Adoption naturally leads to contract renewal.
+
+Stage 7: Expansion
+This stage focuses on growing the business with the customer. Expansion may involve
+adding additional licenses, upgrading to higher-tier plans, or unlocking additional
+modules and features.
+The classic sales and marketing funnel's acquisition system has been replaced by a new system
+covering the entire customer journey. This new system, comprising the stages and the GTM
+System (#8), creates an end-to-end approach that integrates customer acquisition, retention,
+and expansion, driving sustainable growth.
+
+#8. The GTM System
+The GTM system encompasses all the sub-systems that make the Recurring Revenue model
+function as a cohesive whole. Even when individual sub-systems perform effectively, the GTM
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 14 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+system can face challenges. For example, a batch of bad deals can result in high churn,
+highlighting issues raised by the "grow-at-all-costs" approach.
+To understand the importance of the GTM system as a whole, consider this analogy:​
+Think of an orchestra. Each section—such as percussion, brass, and strings—represents a
+sub-system. Each has its role and sheet music, but the orchestra has unique characteristics. If
+one section falls out of sync, the overall performance suffers, regardless of the musicians' skill
+levels. The conductor ensures the orchestra works as a cohesive unit, bringing harmony to the
+performance.
+Similarly, even if every function across the customer journey operates well individually, the
+overall system can only improve if these functions are harmonized. This is especially critical in a
+Recurring Revenue business. A minor shift in lead volume or a slight dip in retention can
+dramatically affect overall performance, much like small changes in rhythm or tempo can
+disrupt a band's performance.
+
+Who owns GTM?
+Owning the GTM System requires reallocating budgets and resources across the company.
+Currently, the CEO, with the assistance of the CFO, is the only authority who can (re)allocate
+these resources. However, most CEOs, especially in large organizations, lack the in-depth insight
+needed to make fully informed decisions regarding GTM. This creates a gap in ownership that
+remains unresolved and warrants further exploration in the coming years. What is clear,
+however, is this:
+●​ Team Approach: Since GTM operates across multiple functions, it requires a
+collaborative, team-based approach. Organizations should consider creating an “Office
+of the CEO.”
+●​ Executive Understanding: All executives must fully understand how the GTM System
+works as a whole. This understanding will require training on Revenue Architecture, and
+in the future, certification may be necessary before executives can be put in charge of
+GTM-related decisions.
+●​ Data Alignment: A successful GTM System requires data alignment, signaling the need
+for an accurate and comprehensive data model.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 15 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+●​ Key Functions: Several functions play a critical role in the success of the GTM System.
+RevOps, which often reports to the CRO, and the FP&A team, which reports to the CFO,
+are key contributors to ensuring the system functions smoothly and aligns with overall
+business goals.
+
+3.2. Value vs. Impact
+Up to this point, we have learned that the classic marketing and sales funnel ends where
+Recurring Revenue begins. Therefore, we extended the funnel into a Bowtie. We will explore why
+this model is customer-centric and how it facilitates a shift to impact-based thinking. This shift
+is crucial for operationalizing customer-centric thinking in real-world scenarios.
+
+The Balance Between Value and Impact
+The seller's objectives differ based on whether the buyer pays upfront or opts for a subscription
+or consumption-based payment. To clarify these differences, let's categorize the concepts of
+Value and Impact:
+●​
+
+Value represents a promise of future Impact.
+Value refers to the perceived benefits or value customers expect from purchasing a
+product. Companies typically present a value proposition, promising specific results or
+benefits. For instance, a company selling cloud-based project management software
+might promise enhanced efficiency, streamlined communication, and improved project
+tracking.
+
+●​
+
+Impact is the fulfillment of the promised Value.
+Impact signifies the fulfillment of that promise about the tangible, measurable results or
+benefits the product delivers during actual use. Using the previous example, if a small
+business purchases this software and subsequently experiences a 30% reduction in
+project completion time, better team collaboration, and fewer missed deadlines, these
+are measurable impacts of the product.
+
+With this categorization, Value and Impact can be aligned with different monetization strategies.
+Value corresponds to an ownership monetization strategy, where sellers promise value, but
+customers realize the impact of the product they purchase. In contrast, Impact is associated
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 16 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+with the consumption model, where customers pay based on usage or even for the impact
+itself. With that said, a subscription business aligns with the Impact aspect as well, where
+ongoing customer payments are made only if the customer achieves impact over and over
+again. Therefore, both subscription and consumption-based monetization strategies hinge on
+the delivery of continuous, measurable impact.
+For instance, SaaS services regularly enhance their software to ensure sustained benefits for
+users. Furthermore, SaaS platforms often provide robust analytics, enabling customers to
+measure the software's impact on their business. This commitment to delivering continuous,
+measurable outcomes aligns with the First Principle of recurring revenue, which prioritizes
+delivering Impact rather than merely promising Value. This approach is a hallmark of
+subscription or consumption-based models.
+
+Figure 3.2 The Bowtie as a Data Model reflects the balance shift from Value to Impact as the revenue model
+changes from ownership through subscription to consumption.
+
+The Bowtie model isn't just a conceptual tool; it's a custom-designed system for recurring
+revenue, built on everything we love from the Classic Sales and Marketing Funnel.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 17 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Operationalizing Customer-Centricity
+Customer centricity is about more than just placing the customer at the forefront; it’s about
+ensuring they achieve the desired impact from your product. This requires a shift from a
+Value-based perspective to an Impact-based perspective, focusing on delivering the promised
+Impact to the customer. The Bowtie model illustrates this by framing each stage from the
+customer’s perspective. Awareness, for example, is not just about recognizing your product's
+excellence or your company’s reputation. It's about the customer realizing they have a problem
+that needs solving, marking the beginning of their solution-seeking journey.
+To operationalize customer-centricity, it’s critical to accurately define the Impact upfront. During
+the Prioritization and Selection stages of the sales process, the seller must work closely with
+the prospect to identify and confirm the specific Impact they seek. This ensures that the sales
+process focuses on delivering the desired Impact rather than simply selling on value. Once the
+Impact is identified and confirmed, it becomes the benchmark against which the solution is
+sold, allowing for more focused delivery. This also makes it easier to deliver the initial Impact
+without introducing unnecessary features or capabilities that could confuse or alarm the
+prospect, making the Impact more nebulous.
+In a Recurring Revenue business, delivering Impact aligns directly with increasing revenue, as
+this process supports customer retention and expansion. Growth is driven by retaining your best
+customers. Retention is built on consistently delivering measurable Impact, and the more
+Impact is provided, the more likely the customer will expand their business. This, in turn,
+increases Customer Lifetime Value (CLTV) and drives long-term revenue growth.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 18 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 3.3 The Bowtie as Customer Impact Journey
+
+Now that we have established that delivering recurring impact for a customer unlocks recurring
+revenue, the steps to achieve that become clearer: is the customer using the product? In other
+words, are you achieving adoption? If not, you have to put efforts in place to achieve that. If we
+go further upstream, we can now ask, “Were you able to attain the first Impact in the first place?”
+As we go further upstream, it now leads us to ask, "What Impact did we commit during the
+close, and by when?" The journey mapped back from what the customer wants to achieve
+suddenly aligns all the company's resources. This applies equally to a business that sells
+products and services under a $1M annual SaaS contract as well as a $10/month subscription.
+
+Operationalizing Closed Loops
+The pinnacle of a subscription business is realized when it functions as a closed-loop system. In
+this setting, the system evolves by learning from its actions and feeding outcomes, such as
+customer feedback, back into it in real-time.
+For a long time, people believed that a customer would only provide feedback and act as a
+referral once they were a happy customer, but this is not the case. Customers will likely mention
+your product or brand much earlier than expected. They're not necessarily giving a glowing
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 19 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+recommendation yet, but they're putting your name out there. They might ask their community if
+they've heard of you or if they're considering your product, too.
+This behavior highlights the interconnected nature of customer decision-making. These
+interactions form feedback loops that can impact your business long before a customer
+becomes fully satisfied. Understanding this changes how we think about customer engagement
+and the customer journey. It's not just about waiting for happy customers to spread the
+word–it's about recognizing that conversations about your product happen much earlier in the
+process."
+For example:
+1.​ Renewals: The most apparent closed loop is when customers renew and expand their
+business with you, contributing to compound growth.
+2.​ Risk Sharing: During onboarding, a customer might mention another team that could
+benefit from your solution, thereby reducing their own risk. Savvy companies make this
+query part of the onboarding process.
+3.​ Advocacy: Another common closed-loop process involves satisfied customers
+spontaneously becoming advocates on social media or through formal channels like a
+customer advisory board.
+4.​ Ideal Customer Profile: As B2B SaaS sales have become increasingly
+challenging—especially with economic slowdowns—there's a tendency to
+overcompensate by pushing more resources into TOFU, hoping to generate more
+pipelines. However, simply adding more leads is not the answer.
+Updating your acquisition strategy based on insights from your best customers creates
+a powerful feedback loop that can (re)model your ICP with precision. This shifts the
+focus from acquiring new leads to targeting those most likely to generate sustainable,
+long-term growth.
+5.​ Referrals: Even during the sales process, customers often discuss your solution with
+peers, potentially pulling them away from competitors. For example, anybody using the
+PLG as a GTM motion knows they need to encourage existing users to invite their peers
+to join.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 20 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+6.​ Nurturing: Some customers who are interested but not ready to buy can become “talking
+leaflets” as they stay updated on your offerings. Various nurturing levels exist, from
+monthly newsletters to press releases and social media updates.
+Closed loops are powerful as they are highly effective and efficient ways of achieving growth. To
+make a closed loop work in your organization, however, you need to do something.
+
+Figure 3.4 Across the Bowtie, numerous closed loops accelerate growth, generate new leads, or create new
+opportunities.
+
+The key to unlocking the full potential of closed loops is having a shared goal across all
+customer-facing roles. This calls for an integrated GTM approach that fosters collaboration and
+knowledge sharing. Contrast this with a siloed organization, where various functions operate in
+isolation, each pursuing its own objectives. It's crucial to understand that achieving hypergrowth
+is about identifying and leveraging a company's closed loops. We must establish proven
+processes to harness these loops' potential, especially those involving human effort.
+
+Case In Point: PLG Is A Closed Loop System
+Historically, business-to-business GTM motions were primarily based on human-led
+growth (HLG). Deals were forged through in-person meetings and many emails and
+phone calls facilitated by sales representatives. However, recent years have ushered in
+a paradigm shift: the advent of PLG. PLG is not just another marketing lead generation
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 21 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+campaign or an innovative sales strategy but a comprehensive approach that touches
+every aspect of customer interaction. Its defining feature? A closed-loop system. PLG
+centers the product as the catalyst for growth. Through the nuanced use of customer
+product feedback and observing behavioral trends, it continuously refines both the
+product and its promotional strategies, setting into motion a relentless cycle of
+improvement.
+The PLG framework establishes deep bonds between a company and its customers.
+These lasting relationships promote sustained growth within existing accounts, with
+continuous engagement bolstering them further. The ongoing interactions provide
+crucial insights that help blueprint new customer acquisition and improved
+engagement. The result? A system that stands resilient and is in sync with evolving
+customer preferences.
+As we watch the business world evolve around AI, a fresh concept emerges: AI-led
+growth or AILG. AiLG, much like PLG, leverages a systems approach. In the 1990s, the
+early adopters of the Internet were among the first to succeed. In the 2000s, it was
+those who embraced software. In the 2010s, the pioneers of cloud technology led the
+way. Now, in the 2020s, those who embrace AI are poised to be the big winners.
+Embracing AI involves adhering to systems and processes, particularly closed-loop
+systems. The success of PLG has demonstrated this.
+
+4. The Data Structure for Recurring Revenue
+Now that we’ve established a data model encompassing the full customer journey, including the
+point at which Recurring Revenue is achieved, we can overlay a structure with the following
+elements:
+●​ Volume metrics, VM[n]
+●​ Conversion metrics, CR[n]
+●​ Velocity/Time metrics, Δt[n]
+The structure of the data is straightforward. We look at every system or sub-system as a
+function with an input and an output. Each input and output is considered a volume metric, such
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 22 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+as the number of leads. Dividing the output by the input provides a conversion metric. The time
+it takes for the input to convert into output is a time metric.
+
+Figure 4.1 A simplified view of the Data Structure.
+
+As simple as this data structure is, it solves many of the daily problems created when
+organizations are dealing with a standard metric such as win rate. In this case, sales is a
+sub-system of the acquisition process. It has an output called "Commits" and an input called
+"Qualified Opportunities." This means that the conversion rate, called the win rate, is the number
+of commits divided by the total number of qualified opportunities. Simple right? It establishes
+clarity around where to measure the sales cycle; per the standardized data structure, it is the
+time it takes to convert a qualified opportunity into a commitment.
+
+4.1 Volume Metrics
+Volume metrics measure quantity at any given point in the data model. Common volume
+metrics are the number of leads, amount of revenue, number of daily active users, etc.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 23 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 4.2 The Data Structure: Volume Metrics measured across the customer journey.
+
+The Importance of Prioritization
+Between the Education and Selection stages, we introduce a vital phase called Prioritization.
+This stage focuses on ensuring that both parties—the buyer and the seller— align their efforts
+and mutually commit to the desired impact that needs to be achieved.
+This intervention is timely, as the selection process is where companies typically allocate their
+most expensive resources, namely people. In Enterprise sales, this phase may include an
+on-prem product demo and access to sales engineers. In PLG, this may provide free access to
+the product for weeks. Thus, the Prioritization stage acts as a strategic checkpoint, ensuring
+that the objectives of both the seller and the buyer are in alignment.
+
+Table 4.1 Definition of the Volume Metrics in the Standardized Data Model mapped to different GTM
+motions
+METRIC DESCRIPTION
+
+PLG
+
+AiLG
+
+HLG
+
+VM1
+
+Target the Situation, Pain, and Impact potential
+
+Prospect
+
+Prospect
+
+Prospect
+
+VM2
+
+Expressed interest and provided contact information
+
+Handraise
+
+MQL
+
+Lead
+
+VM3
+
+Considering taking action
+
+PQL
+
+SQL
+
+Opportunity
+
+VM4
+
+Verified that this is a priority
+
+PQA
+
+SAL
+
+Qualified
+
+VM5
+
+Number of Mutual Commitments
+
+SignUps
+
+Wins
+
+Wins
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 24 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+VM6
+
+Amount of revenue committed
+
+Active User
+
+MRRcommitt
+
+MRRcommitt
+
+VM7
+
+Amount of revenue committed minus the Onboarding churn
+
+MRRstart
+
+MRRstart
+
+MRRstart
+
+VM8
+
+Monthly or Annual Recurring Revenue
+
+MRR
+
+MRR
+
+MRR
+
+VM9
+
+The total amount of revenue generated over the entire lifetime
+
+LTV
+
+LTV
+
+LTV
+
+You will notice that the metrics on the left side of the Bowtie (VM1 to VM5) are commonly
+measured in numbers, such as the number of leads, opportunities, discovery calls, seats sold,
+etc. In contrast, the metrics on the right side of the Bowtie (VM6 to VM9) are commonly
+measured in revenue.
+The transition from the left side of the Bowtie (numbers) to the right side of the Bowtie
+(revenue) is caused by multiplying the number of the Mutual Commitments (VM5) by the
+average contract value, or ACV, to give users the amount committed (VM6).
+
+4.2 Conversion Metrics
+Conversion metrics are key indicators that measure efficiency across the customer journey.
+Essentially, they quantify the output in relation to the input. For instance, if you're in sales, you're
+likely familiar with conversion metrics like win rate and discount. In marketing, you might be
+accustomed to metrics such as lead to opportunity (L2O) and opportunity to close (OTC), and in
+Customer Success, you are familiar with Retention (or its inverse churn).
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 25 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 4.3 The historical data model (L2O, OTC, and churn) mapped to a standardized data structure.
+
+However, it's important to note that traditional metrics like L2O and OTC lack the granularity
+needed for high-velocity GTM motions, such as product-led growth (PLG). Therefore, as
+illustrated in the accompanying diagram, both L2O, which equals multiplying CR1 and CR2, and
+OTC, which equals multiplying CR3 and CR4, have been further refined to offer more detailed
+insights, enabling you to optimize more effectively.
+
+Table 4.2 Definition of the volume metrics with an example of a GTM motion.
+METRIC
+
+STAGE
+
+CR 1
+
+AWARENESS
+
+The efficiency of lead gen marketing campaigns in attracting attention, such as the number
+of signups as a percentage of the total visitors.
+
+CR 2
+
+EDUCATION
+
+The effectiveness of outreach campaigns in developing leads, such as the number of
+people who want to enter the sales process.
+
+CR 3
+
+PRIORITIZATION
+
+Qualify the lead based on the priority of the impact. It will result in a qualified opportunity. A
+common way to do this is through a discovery call.
+
+CR 4
+
+SELLING
+
+The “win rate” measures the number of qualified opportunities to obtain one commitment.
+
+CR 5
+
+COMMIT
+
+Multiplying the number of deals committed by the list price (minus any discounts) provides
+us with the revenue committed.
+
+CR 6
+
+ONBOARDING
+
+The Bowtie Standard
+
+​
+
+DESCRIPTION (Example of an HLG motion)
+
+​
+
+The percentage of committed clients in the cohort who were successfully Onboarded is
+represented as a retention number (1 minus churn).
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 26 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+CR 7
+
+RETENTION
+
+Gross revenue retention (GRR) is the percentage of Recurring Revenue retained from
+existing customers, including downgrades and cancellations.
+
+CR 8
+
+EXPANSION
+
+New ARR was added to the cohort through upsells or expansions during the first year and
+measured as a percentage of the ARR of the cohort post-churn.
+
+CR 9
+
+CLOSED LOOP
+
+For future use in closed loops.
+
+A Note on Expansion (CR8)
+Expansion is a crucial growth component for any company using a Recurring Revenue model. It
+reflects the ability to drive revenue growth from existing accounts, increasing the customer’s
+Lifetime Value (LTV). By continuously delivering impact and expanding the usage of the SaaS
+solution within the customer base, you can achieve sustainable revenue growth and enhance
+customer success. When done correctly, growth from expansion comes at a much lower cost
+compared to growth from acquisition. Expansion can take four forms:
+
+●​
+
+Upselling
+Upselling involves selling additional products, features, or higher-tier plans to existing
+customers. This can include offering add-ons, premium features, increased usage limits,
+or more advanced functionality that aligns with the customer's evolving needs. Upselling
+aims to increase the customer's investment and the value they derive from the SaaS
+solution. Upselling may also include geographical expansion or annual price increases.
+
+●​
+
+Cross-selling
+Cross-selling refers to selling complementary or related products or services to a
+different set of stakeholders within an existing customer. This can involve targeting
+other teams, departments, or business units within the customer's organization. For
+example, ESPN, Disney Parks, and ABC Television are three different groups within The
+Walt Disney Company.
+
+●​
+
+Renewal and Extension
+Successful renewal of contracts and extending the subscription period with existing
+customers contribute to expansion. This involves maintaining customer satisfaction,
+delivering ongoing value, and ensuring a smooth renewal process. Contract extensions
+may include adjustments to the subscription's terms, duration, or scope to
+accommodate the customer's changing needs. Renewals typically occur automatically
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 27 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+on or right before the anniversary of the contract. Factors that increase the chances of
+renewals include effective onboarding, expediting time to first impact, delivering
+recurring impact, a smooth renewal process, a fantastic user interface, intuitive
+navigation, responsive functionality, and customer satisfaction, in particular, the speed
+with which issues are being addressed.
+
+●​
+
+Reselling
+Reselling is often overlooked, yet it holds both the most significant threat and the most
+tremendous potential. Reselling occurs when the current Champion, alpha user or
+decision-maker leaves their role, say, to accept a job elsewhere. This creates a
+significant threat as the new person in the position may be tasked with reducing
+operational expenses and may not have an emotional connection to your product.
+Therefore, you need to "resell" this person immediately. Don’t overlook the opportunity
+for your Champion to become a great advocate in gaining the new account.
+
+Two variables influence the growth of a customer's business: a) the impact of the SaaS solution
+and b) the person or team who benefits from that impact, known as a benefactor.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 28 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 4.4 Four growth areas, each with a different opportunity.
+
+An excited benefactor increases the impact, for example, by buying more seats, upgrading to a
+more premium version of your software, or buying new products. This is considered an upsell.
+CSMs may be capable of doing this reactively. Still, if you want to reach out proactively, you will
+likely need an acquisition-focused salesforce, often referred to as Account Managers or, as you
+may have picked up, AMs. When a new benefactor in an existing account needs to be won over,
+this is referred to as a cross-sell. A cross-sell should never be handled by a CSM, as this is the
+most complicated sale. You may even need to uproot an existing competitor chosen by another
+Champion.
+One of the most overlooked opportunities is the resell. When your Champion leaves their
+position, perhaps via promotion, it creates a vacuum for a new Champion to fill. Your team must
+immediately resell the new person on the benefits of the offering or face an instant increased
+risk of churning. An exciting part of the reselling opportunity is that if it involves your Champion
+leaving to join another company, this creates an opportunity to win a new deal.
+
+4.3 Time (Velocity) Metrics
+Time metrics are used to measure the duration it takes to transform one variable into another.
+However, what sets the time metrics apart in the GTM motion is their focus. They are not
+determined by the actual duration of an activity but rather by the waiting time between various
+actions. To illustrate, writing an email invite for an event takes only a few minutes, but receiving
+a response takes several days. Therefore, in this context, the time metric is reflective of the
+response time rather than the action time.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 29 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 4.5 The data structure: Time metrics measured across the customer journey.
+
+There are two key ways to approach time in sales, Go Fast or Go Long. Let’s explain: Sellers
+typically aim to go fast to shorten the sales cycle during acquisition, while during expansion,
+they focus on extending the customer’s lifetime or going long. Time has a disproportionate
+impact on profit—extending a customer’s lifetime can significantly increase profitability. This
+dynamic varies based on who engages with the customer: an Account Manager focuses on
+maximizing long-term revenue, while a traditional sales rep seeks to close deals quickly.
+
+Table 4.3 Definitions of the time metrics.
+METRIC
+
+STAGE
+
+Δt1
+
+AWARENESS
+
+Prospect conversion time: the time it takes to develop a conversation with a
+customer.
+
+Δt2
+
+EDUCATION
+
+Education time is needed before a customer is interested in starting the buying
+process.
+
+Δt3
+
+PRIORITIZATION
+
+Δt4
+
+SELLING
+
+The length of the sales cycle.
+
+Δt5
+
+COMMIT
+
+The time it takes to set up an instance in the internal systems and processes.
+
+Δt6
+
+ONBOARDING
+
+The Bowtie Standard
+
+​
+
+DESCRIPTION (Example of an HLG motion)
+
+​
+
+The time it takes to qualify for the opportunity is based on priority (Budget and ROI
+play a secondary role in Recurring Revenue models).
+
+The time from when a customer buys to when the first Impact is achieved.
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 30 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Δt7
+
+RETENTION
+
+The length of the contract is often monthly or annually.
+
+Δt8
+
+EXPANSION
+
+The lifetime of the customer is often measured in years.
+
+Δt9
+
+CLOSED LOOP
+
+For future use in closed loops.
+
+The Bowtie Standard
+
+4.4 Benchmark Data
+Having a standardized data model allows companies to compare their metrics against one
+another. BenchSight has launched a public benchmark, providing data from over 600 companies
+from various industries since early 2024. Companies can register to compare their metrics at
+www.benchsights.com/wbd
+
+Figure 4.6 Benchsights Real-Time Bowtie Metrics
+
+4.5 Trendline
+While an industry benchmark offers a general understanding of performance, it lacks the
+accuracy required to operate a Lean Revenue Factory. A more effective method is
+self-benchmarking using trendlines based on your data, such as analyzing performance over the
+last 12 months (LTM).
+Trendlines are straightforward and aid in understanding, analyzing and communicating
+performance trends. This process enables informed decisions, practical goal-setting, and
+enhanced performance management.
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 31 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 4.7 Example trendline of lead development and win rate.
+
+4.6 Growth Metrics
+Not all metrics are created equal; there exists a hierarchy with distinct layers, each focused on
+different aspects of the business.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 32 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 4.6 This illustration demonstrates the causal and temporal relationships among various data layers,
+each tailored to specific use cases and anchored on a fundamentally different data model
+(bowtie) that encompasses the entire customer journey.
+
+The layers are structured as follows:
+●​ Layer 0: Data Model
+The Data Model defines what is being measured, shifting from a model that focuses
+solely on acquisition (Funnel) to one that includes retention and expansion (Bowtie).
+●​ Layer 1: Data Structure
+The Data Structure standardizes metrics, defines what is measured, and establishes a
+consistent naming convention that can be applied across different GTM motions.
+●​ Layer 2: Operator Metrics
+Operator metrics focus on improving business performance by managing inputs,
+throughputs, and outputs, refining processes, and ensuring efficiency.
+●​ Layer 3: Strategic/Financial Metrics:
+Metrics such as CAC, NRR, and LTV help the finance team manage the business’s
+financial health, focusing on
+●​ Layer 4: Executive/Investor Metrics:
+Ratios like CAC: LTV provide insights for stakeholders to make informed investment
+decisions and guide operational strategies.
+The structured layer of metrics highlights that investor metrics are not the same as operator
+metrics. Investor metrics are designed to inform investment decisions that influence company
+valuation but are not intended to guide day-to-day operational choices. For decisions that
+involve accelerating growth by investing in a particular GTM motion, operators need metrics that
+are closely aligned with daily business activities and operational performance.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 33 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+5. Applications
+This chapter will apply the Data Model and Data Structure across different GTM motions. The beauty of
+the Data Structure we’ve provided is its uniformity—regardless of the GTM motion, the underlying
+structure remains consistent. The only adjustment needed is a change in the naming convention to align
+with the specific GTM motion in use. For simplification, we will focus on three distinct GTM motions,
+though hybrids can be created from these core types:
+
+●​ High Touch, Human-Led Growth (HLG) for large, high-value deals.
+●​ Low Touch, AI-Led Growth (AiLG) for high-velocity, mid-market deals.
+●​ No Touch, Product-Led Growth (PLG) for a high volume of smaller deals.
+By applying the standardized Data Structure across different GTM motions, businesses can operate
+multiple motions in parallel, compare the metrics of each, and more easily analyze and optimize the
+performance of systems and processes.
+
+5.1 Application of a High Touch (HLG) GTM Motion
+Building on this approach, we can map the Data Model to the High Touch GTM (HLG) motion as follows:
+
+●​ VM1 represents Targets
+●​ VM2 represents Marketing Qualified Accounts (MQAs)
+●​ VM3 represents Opportunities
+●​ VM4 represents Qualified Opportunities
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 34 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 5.1 Mapping a High Touch GTM motion on top of the Data Model/Structure.
+
+Here are some unique characteristics of the High Touch GTM motion:
+●​ Targeting: Given the substantial resource investment required over a long sales cycle, it
+is essential for sellers to carefully select the accounts they wish to pursue.
+●​ Proof of Concept (POC): In a High-Touch GTM motion, the sales cycle can take over a
+year. During this time, the seller must prove that their solution is compatible with the
+buyer’s existing systems, which requires a significant upfront investment in resources
+(subject matter experts).
+●​ Executive Referrals: Lead generation heavily relies on existing customers who refer and
+advocate for the solution to potential buyers. This process can be supported by
+mechanisms like a Customer Advisory Board (CAB).
+●​ Deal Expansion: While initial deals can be large, they often generate limited profit due to
+the high resources required to deliver. Real growth and profitability stem from expanding
+the business over the following years.
+This approach creates a customer journey within the Data Model that aligns with the distinctive
+characteristics of the High Touch GTM motion.
+
+5.2 The Medium Touch (AiLG) GTM Motion
+The Medium Touch GTM Motion operates seamlessly within the same data model as the High
+Touch GTM Motion. In this model, systems are leveraged to optimize performance, with AI tools
+and automation playing a significant role in lead development (inbound) and, to some extent,
+lead generation (outbound). After that, the AI system hands off the qualified deal to a sales
+manager, who then guides the customer through the sales process. The Medium Touch GTM
+motion maps to the Data Model as follows:
+●​ VM1 represents Prospects
+●​ VM2 represents Marketing Qualified Leads (MQL)—prospects who’ve provided their
+contact information
+●​ VM3 represents Sales Qualified Leads (SQL)—leads who have expressed interest in a
+solution
+●​ VM4 relates to Sales Accepted Leads (SAL)—leads that the sales rep has qualified
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 35 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+The Medium Touch GTM motion is commonly used in SMB sales and operates alongside the
+High Touch GTM motion, typically employed for Enterprise sales. The following figure (Figure
+5.2) illustrates the customer journey and highlights the characteristics of the Medium Touch
+GTM motion.
+
+Figure 5.2 Applying the Medium Touch GTM Motion to the Data Model/Structure.
+
+Unique Characteristics of the Medium Touch GTM Motion:
+●​ Thought Leadership: Given the high volume of deals, there is a constant demand for
+more leads. Thought leadership is used to generate leads at scale. A prime example is
+HubSpot, which excels in inbound marketing to drive lead generation.
+●​ AI Processing: Deals move at a relatively high velocity, and while companies have
+historically used email automation tools for outreach and follow-up, they are expected to
+deploy AI systems that process inbound leads 24/7 at a higher conversion rate.
+●​ Churn Prevention: This GTM motion's high velocity makes it particularly sensitive to
+churn. As a result, there is a strong focus on churn prevention, though this sometimes
+comes at the cost of prioritizing the achievement of recurring impact.
+●​ Renewal: Given the model's reliance on a large customer base, renewals are crucial for
+sustaining growth. The business thrives on high renewal rates, with customers often
+staying for 5+ years.
+Notably, due to the emphasis on high volume, the Medium Touch GTM Motion has historically
+focused more on driving growth through customer acquisition (leads), lacking a feedback loop
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 36 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+from Customer Retention and Expansion back to Customer Acquisition. The lack of nurturing in
+this closed loop has historically limited Medium Touch’s growth potential and represents an
+opportunity for AI.
+
+5.3 The No Touch GTM (PLG) Motion
+The No Touch GTM motion, commonly called Product-Led Growth (PLG), has gained popularity
+in recent years. PLG is neither a lead generation tool nor a sales methodology; it is intrinsically
+linked to the product. In this model, customers create their own journey across the various
+Bowtie stages, commonly driven by the product's ease of use. This GTM motion has its own
+naming convention and acronyms, as outlined below (see Figure 5.3):
+●​ VM1 represents Prospects
+●​ VM2 represents those who raised their hands to request access to the product.
+●​ VM3 represents PQL (Product Qualified Lead), indicating a user whose engagement with
+the product signals readiness to convert.
+●​ VM4 aligns with PQA (Product Qualified Account), identifying an account with multiple
+users that presents an opportunity for selling a team license.
+●​ VM5 is associated with sign-ups/activations, referring to users who create an account to
+evaluate the product and its impact.
+●​ VM8 denotes Monthly Active Users (MAU), measuring the unique users interacting with
+the software each month.
+The No Touch GTM motion is commonly used in direct-to-pro-user sales, particularly for
+products where buyers, such as developers, prefer the product to do the talking rather than
+engaging with salespeople.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 37 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Figure 5.3 Applying the No Touch GTM Motion to the Data Model/Structure.
+
+The No Touch GTM (PLG) Motion has the following characteristics:
+●​ Dependency on a Spectacular Product: PLG relies on leveraging the product as a
+marketing tool, often through beta-user programs, to generate leads.
+●​ Viral Spread: Passionate users can drive the product’s popularity, creating a viral effect
+where the product acts as its own marketing and sales force. With high-demand
+products, this viral spread can occur well before the product is launched.
+●​ Sign-Up Focus: Unlike other GTM motions that focus on acquiring customers (logos), the
+PLG motion uniquely emphasizes getting actual product users to sign up and engage
+with the product.
+●​ Usage: Sustaining product usage is a primary challenge in most PLG GTM motions and
+an early indicator of churn. Success metrics, such as MAU (Monthly Active Users), along
+with Active Users) and DAU (Daily Active Users) are crucial indicators of engagement
+and retention.
+The No Touch GTM motion applies to application sales, where individual users sign up, and
+platform sales, where the product serves as a fully functional sandbox account for the initial
+user.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 38 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+6. Conclusion
+At the heart of Recurring Revenue is the concept that it stems from ongoing impact, which lies
+beyond the classic marketing and sales funnel. In fact, the journey of Recurring Revenue starts
+where the classic funnel ends. The standardized Data Model we've adopted extends this funnel
+into a Bowtie shape, integrating post-commitment activities. This model is bifurcated: the left
+side targets customer acquisition, while the right side focuses on nurturing long-term customer
+relationships. To create the Data Model, we overlay a standardized Data Structure that utilizes
+three metrics: Volume Metrics (VM), Conversion Metrics (CR), and Time Metrics (t). This forms
+a Data Structure (The Bowtie Metrics) that is layered on top of the Data Model (The Bowtie).
+
+Figure 6.1 The Bowtie: The standardized data model for recurring revenue.
+
+The classic marketing and sales funnel, having been in use for over a century, stands not as an
+outdated relic but as a testament to its immense value and enduring relevance. It's imperative to
+preserve the rich knowledge and infrastructure built upon this funnel as a model. In doing this,
+we do not just honor its historical significance but, more importantly, ensure that its
+foundational principles are adapted to guide modern marketing, sales, and customer success
+strategies. This is particularly relevant in the realm of recurring revenue.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 39 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+The Data Model for the Lean Revenue Factory evolves the funnel into a Bowtie shape, using it as
+a platform to transition toward a GTM approach. This evolution pays homage to the legacy of
+the classic marketing and sales funnel, leveraging its timeless wisdom to enhance a Recurring
+Revenue business.
+​
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 40 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Abbreviations
+ABM – Account-Based Marketing
+ACV – Average Contract Value
+AiLG – Ai Led Growth
+ARR – Annual Recurring Revenue
+CAB – Customer Advisory Board
+CAC – Customer Acquisition Cost
+CR – Conversion Rate (e.g., CR1, CR2)
+CSM – Customer Success Manager
+DAU – Daily Active Users
+GRR – Gross Revenue Retention
+LTV – Lifetime Value
+MAU – Monthly Active Users
+MRR – Monthly Recurring Revenue
+NRR – Net Revenue Retention
+PLG – Product-Led Growth
+PQA – Product Qualified Account
+PQL – Product Qualified Lead
+POC – Proof of Concept
+ROI – Return on Investment
+SAL – Sales Accepted Lead
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 41 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+SDR – Sales Development Representative
+SEO – Search Engine Optimization
+SMB – Small and Medium-sized Business
+SQL – Sales Qualified Lead
+TOFU – Top of the Funnel
+VM – Volume Metric (e.g., VM1, VM2)
+WAU – Weekly Active Users
+Δt – Time/Velocity Metric (e.g., Δt1, Δt2)
+​
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 42 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Bibliography
+Beaubien, R., & Parrish, S. (2019). The Great Mental Models series.
+Boyce, D. (2023). Product that Sells Itself: An Executive-level Primer on Product-led Growth.
+Cespedes, F. V. (2014). Aligning Strategy and Sales: The Choices, Systems, and Behaviors that Drive
+Effective Selling. Harvard Business Review Press.
+Cespedes, F. V., & van der Kooij, J.J. (2016). Hiring Star Sales People Isn't the Best Way To Grow. Harvard
+Business Review.
+Cespedes, F. V., & van der Kooij, J.J. (2023). The Rebirth of Software as a Service. Harvard Business
+Review.
+Izosimov A.V., (2008). Managing Hypergrowth. Harvard Business Review.
+Kajanus, S. (2020). Types of Growth and How to Show Them.
+Khalsa, M., & Illig, R. (2008). Let's Get Real or Let's Not Play: Transforming the Buyer/Seller Relationship.
+Lewis, M. (2003). Moneyball: The Art of Winning an Unfair Game. W. W. Norton & Company.
+Millard, S. (2023). From $1 to $100m Revenue: Scaling VC Backed SaaS with Notion Capital. Notion
+Capital.
+Nahm, T. H., & Tinker, B. (2018). Survival to Thrival: Building the Enterprise Startup. April 16, 2018. Mascot
+Books.
+Page, S. E. (2018). The Model Thinker: What You Need to Know to Make Data Work for You—Basic Books.
+Parrish, S. (2022). Chesterton's Fence: A Lesson in Second Order Thinking. Farnham Street Blog.
+Reason, J. (2000). Human Error: Models and Management. National Institute of Health.
+Roberge, M. The Sales Acceleration Formula: Using Data, Technology, and Inbound Selling to Go from $0
+to $100 Million. Gildan Media.
+Taylor, F. W. (1910). The Principles of Scientific Management. Harper & Brothers.
+The Farnam Street. (2019). The Great Mental Models Volume 1: General Thinking Concepts. Latticework
+Publishing Inc.
+The Farnam Street. (2021). The Great Mental Models Volume 3: Systems and Mathematics. Latticework
+Publishing Inc.
+Van der Kooij, J. J. (2016). Blueprints for a SaaS Sales Organization: How to Design, Build, and Scale a
+Customer-Centric Sales Organization. Winning by Design.
+Van der Kooij, J. J. (2018). The SaaS Sales Method: Sales as a Science. Winning by Design.
+Van der Kooij, J. J. (2023). Revenue Architecture
+Woodlock, D. (2009). Intro to System Dynamics [YouTube series]. December 18, 2009. Youtube.
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 43 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The Bowtie Standard
+
+Annex A: Standard Bowtie Specifications
+
+BOWTIE WIDTH
+
+STAGE WIDTH
+
+10.5 Commit squares​
+
+1.5 Commit squares​
+
+(1050% width scale)
+
+(150% width scale)
+
+BOWTIE HEIGHT
+
+BETWEEN STAGE WIDTH
+
+3 Commit squares​
+
+1/12 Commit squares​
+
+(300% height scale)
+
+(8.33% width/height scale)
+
+Correct depictions of the bowtie, with and without prioritization.
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+​
+
+Page 44 of 46
+
+Winning by Design​ ​
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+The Bowtie Standard
+
+​
+
+Page 45 of 46
+
+Winning by Design​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Proprietary & Confidential - Do Not Distribute​
+
+The Bowtie Standard
+
+Peer Reviewers
+Ahmed Yousef
+André Bessel
+Charlie Moss
+Charlie Wood
+Claire Cooper
+Douglas van Oijen
+Gregory Dirick
+Ian Cohen
+Mitchell Fanning
+Niahm Fahy
+Richard McGuiness
+Sandeep Sing
+Yasmin de Aranda
+
+The Bowtie Standard
+
+​
+
+​
+
+​
+
+Page 46 of 46
+
+

@@ -1,0 +1,523 @@
+BLUEPRINT.
+
+The SaaS Sales Method
+
+Awareness
+
+Education
+
+Selection
+
+Onboard
+
+Use
+
+Expand
+
+Aargh. I have a
+problem!
+
+Aha! There are
+solutions.
+
+Wow! Great sales
+experience.
+
+Yeehaw! This is
+what we needed.
+
+Awesome!
+Working great.
+
+OMG! More people
+need
+to know.
+
+SOLUTION
+
+VALUE SELLING
+STRATEGIC SELLING
+THE SAAS SALES METHOD
+
+Prospect
+
+MQL
+
+SQL
+
+Commit
+
+1st Value
+
+MRR
+
+LTV
+
+Figure 1. Visualization of different selling methodologies
+
+The SaaS Sales Method involves the cumulative application of fundamental
+skills and processes by all customer-facing employees. It emphasizes the
+importance of discovering, communicating, and delivering business impact
+consistently across the entire customer journey.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+1
+
+Consultative Selling
+Consultative selling involves selling solutions for known problems,
+optimized around the highest price at a high win rate. One of the
+earmarks of consultative selling is avoiding (or inﬂuencing) the
+RFP/RFQ process. This methodology includes a hierarchical buying
+process in which sellers focus their efforts on identifying and
+inﬂuencing a decision-maker.
+
+Strategic Selling
+Strategic selling involves selling innovative solutions to speciﬁc
+accounts — even if they do not experience a problem. One of the
+earmarks of strategic selling is an on-site “workshop” with executives
+from the prospect’s team who are motivated to optimize or overhaul
+their business. This methodology often requires organizational selling
+— when executives from the seller reach out to the executives from
+the buyer.
+
+The SaaS Sales Method
+The SaaS Sales Method commonly involves selling disruptive solutions.
+It is optimized around lifetime value and requires selling based on
+priority. SaaS sales typically operate at a high velocity and use online
+selling techniques. This method is focused on a consensus-driven
+decision process in which the executive is not enforcing a decision but
+a buying process.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+2
+
+From Qualiﬁcation to Impact
+Awareness
+
+Education
+
+Selection
+
+Onboard
+
+Use
+
+Expand
+
+IMPACT.
+
+QUALIFICATION
+Figure 2. The difference in qualiﬁcation criteria based on budget (one-time) vs. priority (anytime).
+
+Marketing and sales have traditionally operated in silos, which
+resulted in hand-off points where qualiﬁcation criteria were used.
+For example, the Sales Qualiﬁed Lead (SQL) often uses a version of
+BANT for qualiﬁcation.
+Qualiﬁcation Driven (BANT)
+
+Impact Driven
+
+Buyer has a budget. The salesperson must
+ﬁnd the budget owner and assist in
+allocating the budget (buyer buys one or two
+software solutions a year, priced in the
+millions).
+
+Priority of the project is the most important
+criteria (the prospect buys dozens of projects
+a year, and needs to prioritize; budget is not
+an issue).
+
+Hierarchical decision process: you must ﬁnd
+the senior decision-maker who has the
+authority to overrule the decision of lower
+levels if needed.
+
+Consensus-driven sales process: a single user
+can overrule the decision, so you must make
+sure everyone is happy.
+Uses impact as the basis of need (see Fig. 3)
+
+Uses value as the basis of need.
+
+Achieves impact in weeks to months.
+
+Achieves value in a speciﬁed time — such as
+quarters or years.
+
+In SaaS selling, there is a focus on achieving
+impact at any point in time.
+
+In consultative selling, BANT is used as a
+gating function between Lead and
+Opportunity.
+Table 1. BANT Qualiﬁcation vs. Uncovering Impact
+
+Proprietary And Conﬁdential | Winning By Design™
+
+3
+
+Key Moments that Matter
+Awareness
+
+Education
+
+Selection
+
+Onboard
+
+Use
+
+Expand
+
+Focus on
+business
+results NOT ﬁt
+
+Conversation
+NOT
+Qualiﬁcation
+
+Diagnose
+NOT
+Pitch
+
+Orchestrate
+NOT
+Onboard
+
+Results
+NOT
+Usage
+
+Grow
+NOT
+Upsell
+
+M1
+
+M2
+
+M6
+
+M7
+
+M3
+
+M4
+
+IMPACT. M5
+
+Trade
+NOT
+Negotiate
+
+Figure 3. The seven Key Moments that Matter.
+
+Focus on business results, not ﬁt
+
+M1
+
+Before talking to a single customer, before sending any emails, and
+before displaying any advertising, the sales leader, team, and each
+individual salesperson must develop an understanding of the
+customer’s pain points and how their solution can deliver real
+business results to alleviate those pains. In the SaaS Sales Method,
+the concept of “ﬁt” is reframed by impact.
+
+EXAMPLE
+A car salesman must understand that he is not selling a car — he is
+selling his customers the ability to get to work and provide for their
+family. In fact, Uber actually realized that impact could be unbundled
+from the car itself. Uber now sells pure impact — the ability to get
+around — to its customers.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+4
+
+Conversation, not qualiﬁcation
+
+M2
+
+Depending on your team’s size and structure, you may have SDRs
+who determine whether a prospect is “qualiﬁed” for your solution.
+Instead of qualiﬁcation, we recommend focusing on the fundamental
+skill of conversation. Conversation is a more natural, more human
+activity. It helps you connect with the prospect on an emotional level
+and further uncovers their real, pressing pain points.
+After this key moment, your SDR should have a clear idea of whether,
+when, and how your solution can have an impact on the prospect’s
+business. More importantly, they should have managed the
+conversation in a way that pushed the prospect to verbalize the
+problem themselves and envision a potential solution.
+
+Diagnosing, not pitching
+
+M3
+
+We’re not the ﬁrst to say “prescription without diagnosis is
+malpractice,” but it is still very true. During the education process,
+the prospect already realizes they have a problem, and the
+conversation they had with your SDR helped crystallize that fact.
+This is not the time for a hard sell — nor is it ever, anymore.
+The more a salesperson can do to understand the customer’s pain
+and the potential business impacts they’d like to achieve, the better
+the salesperson can recommend a solution that actually beneﬁts the
+customer and their business.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+5
+
+Trading, not negotiating
+
+M4
+
+This single change in wording and emphasis can have one of the
+greatest effects on your cumulative sales. When salespeople sit down
+to negotiate, they tend to think in terms of dollars and percentages
+increasing or decreasing. They often give away discounts far more
+than they should — and often for little or nothing in return. Our
+experience shows that most deals that reach the negotiation stage
+seldom turn on price.
+We recommend that salespeople think of negotiation as “trading.” With
+trading, both parties give up something of value in order to beneﬁt.
+There are any number of things a customer can do for you that could
+signiﬁcantly beneﬁt your business. References, case studies, social
+media mentions, PR quotes, and other items should be included on
+your menu of trading options at different discount levels.
+This also helps put a price on discounts. When we pay attention to the
+price of something, a market is created and its value becomes clear.
+For example, when a customer isn’t willing to do a PR mention and
+turns down the discount, the discount rate goes down. This single
+change may cause the average discount to drop — say, from 20% to
+10%.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+6
+
+Orchestrating, not onboarding
+
+M5
+
+The term “onboarding” has lost its meaning through overuse. While the
+technical setup of the solution might be both the buyer’s and seller’s
+immediate concern, it does not cover the larger missed opportunity
+that this ﬁrst big customer interaction after having made a commitment
+represents.
+Rather than just onboarding the customer onto the solution, consider
+this engagement as an opportunity to orchestrate the entire business
+relationship going forward. During Orchestration, while the customer is
+still sold on the solution, you should guide how the relationship will
+develop, set the milestones at which the customer judges success, and
+ultimately ensure the relationship has a real impact on their business.
+
+Results, not usage
+
+M6
+
+Many customer success software platforms track product usage.
+Whether measured in terms of percentage of seats used, number of
+logins, or number of features used, product usage is often a proxy for
+success. This is a bit ironic, because the software doesn’t measure the
+success of the customer, but rather the success of the product itself.
+A more impact-focused approach would be to explore whether the
+customer is getting the results they need from the product. After all,
+from the customer’s standpoint, what could be better than solving their
+pains with the minimum amount of usage possible? We recommend
+that Customer Success Managers (CSMs) and Account Managers (AMs)
+focus on the fact that the customer is buying impact, not usage.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+7
+
+Growing, not upselling
+
+M7
+
+“Land and expand” is a buzzword and, while useful, it’s a metaphor
+rooted in conﬂict — it implies that the customer is like a territory that
+should be mapped, ﬂanked, and conquered. And it is reasonable to
+assume that this is not how the customer views your relationship.
+Instead, we recommend that expansion teams (usually Account
+Managers) think about growing the customer relationship and growing
+the customer’s business by expanding the positive impact your solution
+provides. Whether that impact is lower cost, higher revenue, or
+improved customer experience, it is the impact that matters to the
+customer. The more impact that’s delivered, the more the customer will
+want to use (and buy!) the solution.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+8
+
+EXERCISE.
+1
+
+Create a simple table with metrics for each of your teams. See an example below:
+
+ACV: $12,000
+
+Prospects CR1
+
+MQLs
+
+CR2
+
+SQLs
+
+WR
+
+WINs
+
+Disc.
+
+ARR
+
+Team -2
+
+1,000
+
+28%
+
+280
+
+18%
+
+50
+
+17%
+
+8
+
+20%
+
+$921,600
+
+Team -1
+
+1,000
+
+29%
+
+290
+
+19%
+
+55
+
+18%
+
+10
+
+15%
+
+$1,224,000
+
+Average team
+
+1,000
+
+30%
+
+300
+
+20%
+
+60
+
+20%
+
+12
+
+10%
+
+$1,555,200
+
+Team +1
+
+1,000
+
+31%
+
+310
+
+21%
+
+65
+
+22%
+
+14
+
+5%
+
+$1,915,200
+
+Team +2
+
+1,000
+
+32%
+
+320
+
+22%
+
+70
+
+25%
+
+18
+
+0%
+
+$2,592,000
+
+2
+
+Try varying each Conversion Rate (CR1, CR2, WR, and Discount) by a few points.
+Can you calculate which one of the Conversion Rates by itself has the most
+impact on ARR?
+
+3
+
+Calculate the impact on ARR if all of your Teams improve at the same time.
+Compare Team -1 against Team +1. What happens to the ARR?
+
+4
+
+Using the Key Moments discussed above, come up with a plan to improve
+each moment by 1-2%.
+
+Conclusion
+The compound impact of each department making a small improvement
+is hard to imagine, but it’s an exercise that every executive team should
+perform—it often gets everyone on the same page. Come up with a plan
+for how your teams can improve each of these conversion rates with a
+few basic actions.
+- JACCO VAN DER KOOIJ
+
+Proprietary And Conﬁdential | Winning By Design™
+
+9
+
+ADDITIONAL RESOURCES FROM
+
+Videos available on
+the WbD YouTube Channel
+
+Proprietary And Conﬁdential | Winning By Design™
+
+Additional open source
+templates can be accessed at
+www.thescienceofrevenue.com
+
+10
+
+

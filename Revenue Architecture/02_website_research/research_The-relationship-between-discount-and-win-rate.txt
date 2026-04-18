@@ -1,0 +1,895 @@
+The Relationship
+between Discount
+and Win Rate
+An examination of the true relationship between discount and win rate,
+and a more complete quantiﬁed view of the ultimate impacts of
+discounting on revenue.
+
+Jacco J. van der Kooij
+Winning by Design
+November 17, 2022
+
+of 7
+
+Abstract
+The invention of SaaS and in particular the Recurring Revenue model, reduced what once required
+upfront investments of up to millions of dollars into a $1,000 to $50,000 monthly payment. As SaaS
+services became popular, the Recurring Revenue Model itself essentially was the discount! However,
+neither the buyer nor the seller fully understood the model's impact, and the buying and sales
+behavior stayed the same: they continued to extend the same discount strategy and execute the
+same processes without knowing or understanding the implications of doing so.
+Fast forward to today, in November 2022, where we anticipate that the SaaS industry will experience
+the largest revenue churn event in its history. We are entering a time when discounts will be used to
+force a decision.
+Discounting is based on the assumption that the increase in discount will be compensated by the
+increase in win rate, thus increasing bookings and, subsequently, revenue.
+Thought #1: Will a discount actually increase the win rate?
+Thought #2: What is the true relationship between discount and win rate?
+In the analysis below, we present answers to these questions.
+
+Research via Scenario Analysis
+To run scenarios, we use a baseline Growth Formula based on the Winning by Design Bowtie
+Data model. The Data Model is published at www.TheScienceofRevenue.com.
+
+VM1
+
+Scenario
+
+Prospects
+
+Baseline
+
+500
+
+CR1
+
+VM2
+
+CR2
+
+MQLs
+10%
+
+50
+
+VM3
+
+CR3
+
+SQLs
+20%
+
+10
+
+80%
+
+VM4
+
+CR4
+
+VM5
+
+CR5
+
+VM6
+
+SALs
+
+Win
+Rate
+
+Wins
+
+Discount
+
+ARR(new)
+
+8.0
+
+20%
+
+1.60
+
+0%
+
+$32,000
+
+Table 1. Baseline Growth Formula
+
+The baseline of this Growth Formula says that it
+
+into 1.6 wins. This generates $32,000 in ARR(new)
+
+takes 500 prospects per month to generate eight
+
+from 500 leads. The table below shows the
+
+opportunities each month. We will refer to these
+
+impact of a discount on revenue. Unsurprisingly,
+
+opportunities as Sales Accepted Leads (SALs),
+
+it depicts how a 5% incremental discount results
+
+also known as Qualiﬁed Opportunities. The
+
+in a 5% reduction in ARR.
+
+product is sold at a list price of $20,000. These 8
+SALs in this example convert at a win rate of 20%
+
+The Relationship between Discount and Win Rate
+
+1 of 7
+
+VM4
+
+CR4
+
+VM5
+
+CR5
+
+VM6
+
+SALs
+
+Win rate
+
+Wins
+
+Discount
+
+ARR(new)
+
+0.0
+
+20.00%
+
+0.00
+
+0.0%
+
+$32,000
+
+8.0
+
+20.00%
+
+1.60
+
+5.0%
+
+$30,400
+
+8.0
+
+20.00%
+
+1.60
+
+10.0%
+
+$28,800
+
+8.0
+
+20.00%
+
+1.60
+
+15.0%
+
+$27,200
+
+8.0
+
+20.00%
+
+1.60
+
+20.0%
+
+$25,600
+
+8.0
+
+20.00%
+
+1.60
+
+25.0%
+
+$24,000
+
+8.0
+
+20.00%
+
+1.60
+
+30.0%
+
+$22,400
+
+8.0
+
+20.00%
+
+1.60
+
+35.0%
+
+$20,800
+
+Table 2. Impact of discount on revenue (establishing a baseline)
+
+How much would we need to increase the win
+
+rate? To examine this, we manually tweak the win
+
+rate to compensate for the revenue loss? In other
+
+rate until the ARR is getting close to $32,000; that
+
+words, with $32,000 being the baseline, how
+
+is, we increase the win rate to the point that it
+
+much would be required to improve the win
+
+compensates for the loss in revenue.
+
+VM4
+
+CR4
+
+VM5
+
+CR5
+
+VM6
+
+SALs
+
+Win rate
+
+Wins
+
+Discount
+
+ARR(new)
+
+8.0
+
+20.00%
+
+1.60
+
+0.0%
+
+$32,000
+
+8.0
+
+21.10%
+
+1.69
+
+5.0%
+
+$32,072
+
+8.0
+
+22.23%
+
+1.78
+
+10.0%
+
+$32,011
+
+8.0
+
+23.47%
+
+1.88
+
+15.0%
+
+$31,919
+
+8.0
+
+25.00%
+
+2.00
+
+20.0%
+
+$32,000
+
+8.0
+
+26.65%
+
+2.13
+
+25.0%
+
+$31,980
+
+8.0
+
+28.60%
+
+2.29
+
+30.0%
+
+$32,032
+
+8.0
+
+30.80%
+
+2.46
+
+35.0%
+
+$32,032
+
+Table 3. Improving the win rate manually to compensate for the loss of revenue due to discounting.
+
+The Relationship between Discount and Win Rate
+
+2 of 7
+
+In the example, you will notice that when a 20%
+discount is given, we need to increase the win
+rate from 1-in-5 to 1-in-4. At a 35% discount, you
+
+EXAMPLE
+A platform sale with an ACV of $24,000/year.
+
+need to improve to a win rate of 1-in-3 to
+
+Ten sellers sell ﬁve deals a month each, on
+
+compensate for the loss in revenue.
+
+average.
+
+It is an incredible feat to make such
+
+They are across the board extending (extra) a
+
+improvements in win rate (typically, after an
+
+10% discount/deal.
+
+extensive training program and diligent
+implementation, an organization can improve the
+
+Ten sellers * 5 deals/mo * 10% * $24,000 are
+
+win rate by 10%, e.g., from 20% to 22%). This tells
+
+giving away $120,000 in ARR/mo.
+
+us that the increase in discounts can NOT cover
+the revenue gap created, as the win rate
+generally stays the same. In other words,
+organizations are just giving away money.
+
+Figure 1. Visual example of the relationship between discount and win rate.
+
+This model allows us to get an idea of the
+
+signiﬁcant increase in the use and size of
+
+relationship between discount and win rate,
+
+discounts over the next 60 days, we do not have
+
+through which we learn that for an increase in
+
+any evidence that we can expect an increase in
+
+discount of 10%, you must improve the win rate
+
+win rate.
+
+from 20% to 22%, or an average win rate
+improvement of 10%. This sounds logical, right?
+But here's the rub: although we anticipate a
+
+The Relationship between Discount and Win Rate
+
+3 of 7
+
+The JOLT Effect
+Recent work from the DCMi research team, based
+on the analysis of thousands of sales calls, shows
+that using a critical event, such as a discount, is
+
+Increasing the discount to create a
+critical event causes a lower win rate.
+When combined, they accelerate the
+decline in revenue precipitously.
+
+more likely to decrease the win rate. In other
+words, discounting actually hurts the win rate.
+
+In this example, providing the client with a
+
+We know that ARR(new) results from multiplying
+
+20% discount results in a 10% decrease in win
+
+multiple times using the Growth Formula. When
+
+rate, resulting in a 28% decrease in revenue (from
+
+you multiply a multiplication, the mathematical
+
+$32,000 to $23,040). For more information on the
+
+nature turns from a linear relationship to an
+
+adverse impact of discounts on win rate, we refer
+
+exponential relationship. An exponential
+
+to the research presented in the book “The JOLT
+
+relationship indicates a disproportionate impact,
+in which several small changes cause a signiﬁcant
+
+Effect”.
+
+impact. The effect of this is demonstrated in table
+4.
+VM4
+
+CR4
+
+VM5
+
+CR5
+
+VM6
+
+SALs
+
+Win rate
+
+Wins
+
+Discount
+
+ARR(new)
+
+8.0
+
+20.00%
+
+1.60
+
+0.0%
+
+$32,000
+
+8.0
+
+19.50%
+
+1.56
+
+5.0%
+
+$29,640
+
+8.0
+
+19.00%
+
+1.52
+
+10.0%
+
+$27,360
+
+8.0
+
+18.50%
+
+1.48
+
+15.0%
+
+$25,160
+
+8.0
+
+18.00%
+
+1.44
+
+20.0%
+
+$23,040
+
+8.0
+
+17.50%
+
+1.40
+
+25.0%
+
+$21,000
+
+8.0
+
+17.00%
+
+1.36
+
+30.0%
+
+$19,040
+
+8.0
+
+16.50%
+
+1.32
+
+35.0%
+
+$17,160
+
+Table 4. The JOLT Effect shows how discounting actually hurts the win rate.
+
+Insights from Ted McKenna, co-author of “The JOLT Effect”
+Discounts are a common tactic for combatting perceived indecision. In other words, discounts will rise not just
+because customer budgets are shrinking. Discounts make the deal cheaper, but reps misinterpret buyers using
+budget objections as indecision. Buyers say they want the discount, but more likely, they are stuck and
+posturing. Thus, the sales rep will mistake indecision as something that spreading Fear, Uncertainty, and
+Doubt will solve - represented by a discount. If the discount does work in closing a deal, when used in moderate
+to high indecision moments, the evidence shows an increased risk of post-decision regret from the buyer. For
+example, "I was still unsure about this, but took a chance on it because of the discount." Those situations create
+signiﬁcant churn risk, initiating a separate set of costs for the organization.
+
+The Relationship between Discount and Win Rate
+
+4 of 7
+
+A Simple Test
+Ask your Finance department to provide you with
+the number of wins over the past month/quarter,
+the average selling price, and the discount applied
+to each deal. An example is at right (Table 5).
+What you see is that the discounts given are high
+and rounded numbers, with an average discount
+of 20.8%. This is indicative of an untrained or
+undisciplined sales organization. Compare this to
+a more disciplined organization (Table 6).
+
+Deal
+
+ACV
+
+Discount
+
+ACME Corp
+
+$19,600
+
+20%
+
+Amazing BIz
+
+$21,600
+
+10%
+
+Awesomeness LLC
+
+$39,200
+
+25%
+
+DeppSter Co
+
+$72,000
+
+30%
+
+MakeItHappen
+
+$19,600
+
+20%
+
+SaaSMaze
+
+$19,600
+
+20%
+
+$191,600
+
+What you will notice in a more disciplined
+
+Table 5. Overview of discount given per
+deal by an undisciplined organization.
+
+organization is:
+● Lower discount levels, often measured in
+single (not double) digits.
+● Discounts are aligned to the size of the deal;
+smaller deals get less discount.
+● The company got something tangible in
+
+Deal
+
+ACV
+
+Discount
+
+ACME Corp
+
+$24,000
+
+0%
+
+Amazing BIz
+
+$22,800
+
+5%
+
+of 4.5% discount was given, which equates to
+
+Awesomeness LLC
+
+$45,000
+
+6.25%
+
+$39,331.
+
+DeppSter Co
+
+$92,571
+
+10%
+
+MakeItHappen
+
+$23,040
+
+4%
+
+SaaSMaze
+
+$23,520
+
+2%
+
+return for the discount.
+In the example above, across six deals, an average
+
+$230,931
+Table 6. Overview of discount given per
+deal by a disciplined organization.
+
+The Relationship between Discount and Win Rate
+
+5 of 7
+
+Discount
+
+Trade
+
+Impact on Seller
+
+2%
+
+Payment terms N45 -> N15
+
+Reduce DSO
+
+3%
+
+Commit by date x
+
+Focus on other deals
+
+4%
+
+10 Reference Calls
+
+Improve win-rate/reduce discount
+
+4%
+
+LinkedIn Post on Best Practices
+
+Lead Generation
+
+5%
+
+Multi-year contract
+
+Reduce churn
+
+Table 7. Example of a Discount/Trade menu
+
+Trade, not Negotiate
+
+different price adjustment levels (refer to
+Table 7).
+
+We encourage sellers to think of negotiation as
+
+Trading puts a price on discounts. Everyone
+
+trading and to think of discounts as price
+
+knows what happens when we pay attention
+
+adjustments, thus making these price adjustments
+
+to the price of something — its value becomes
+
+small. In trading, both parties give up something
+
+apparent. So, when a customer isn’t willing to
+
+of value to be better off. By deﬁnition, trading is
+
+make a PR mention and turns down the discount,
+
+win-win. What do they trade for? There are many
+
+the average discount rate across all sellers
+
+things a customer can do or say that will
+
+goes down.
+
+signiﬁcantly help a business. References, case
+studies, social media mentions, PR quotes, and
+other items can form a menu of trading options at
+
+6
+
+5
+
+Engagement
+
+4
+
+CONFIRM THE DM
+
+Repeat
+what you
+heard
+
+Run the numbers – does this
+deal still make sense? If not,
+propose another trade. If so,
+move to ﬁnalize.
+
+Listen to the
+ask before
+you counter
+
+7
+3
+
+1
+
+These are different
+offers proposed by
+the customer
+
+LISTEN
+
+Qualify the decision
+maker; reschedule if not
+available
+
+Get all the negotiation
+items out on the table;
+avoid negotiating on one
+item at a time
+
+TRADE
+
+PRIORITIZE
+
+ASK FOR THE DEAL
+
+8
+
+GET ALL ITEMS ON TABLE
+
+AGREE
+
+Agree to an expiration
+date and consequences.
+Ask, “Does that sound
+fair?”
+
+CLOSE
+AGENDA
+ACE
+
+2
+
+REPEAT/ CLARIFY
+Repeat, clarify
+what you heard
+
+Immediately send an
+email/contract with the
+agreed terms, followed
+by a proposal
+
+CONFIRM
+
+HAVE A PLAN
+
+Figure 2. Blueprint: How to trade items of value.
+The Relationship between Discount and Win Rate
+
+Time
+
+6 of 7
+
+Conclusion
+Unless your team is trained on when and how to
+use discounts, it is very unlikely that the win rate
+will compensate for the loss in revenue. In fact,
+discounting ends up causing additional issues for
+the business down the road (e.g., churn) that have
+a negative impact far greater than just the initial
+loss in revenue from the discount.
+
+Suggested Actions
+1. Measure the average discount per quarter
+across your team, in order to understand the
+true impact of discounting on your revenue.
+2. Train your sales team on the proper use of
+discounts via trading, and when to apply
+them.
+3. Investigate and apply best practices from “The
+JOLT Effect” as a means of overcoming
+customer indecision, rather than using
+discounting as the solution.
+
+About Winning by Design
+Winning by Design (WbD) is a global B2B revenue consulting and training company that enables recurring
+revenue teams to architect sustainable growth. Leveraging its experience with high-growth companies,
+WbD applies scientiﬁc frameworks and proven models to help sales, marketing, and customer success
+teams at B2B companies and global enterprises maximize their impact. WbD has reinvented the traditional
+sales funnel with disruptive customer-centric frameworks and methodologies, including the Bowtie Data
+Model and the SPICED Methodology, all of which can be accessed open source. Founded in 2012, WbD is a
+fully remote company, serving 600+ leading organizations around the world. To learn more about Winning
+by Design visit winningbydesign.com.
+
+The Relationship between Discount and Win Rate
+
+7 of 7
+
+Produced by Winning by Design Research, a division of
+
+of 7
+
+

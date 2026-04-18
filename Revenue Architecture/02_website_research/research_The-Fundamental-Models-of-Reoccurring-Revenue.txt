@@ -1,0 +1,1686 @@
+The Operating Model
+for Recurring Revenue
+The open standards outlined here can be applied to any recurring revenue business
+in order to drive sustainable growth, using scientiﬁc frameworks and data-derived
+models. Think of these frameworks as the formulas that help your Revenue teams
+move away from working as siloed functions of Marketing, Sales, and Customer
+Success, and instead become one Revenue team --- all using the same operating
+model, the same frameworks, the same language.
+
+Jacco J. van der Kooij
+Founder, Winning by Design
+June 2022
+
+Summary Points
+●
+
+The growth patterns of modern-day recurring revenue business models are unique from
+traditional business models; the typical 'sales funnel' framework does not apply to the unique
+needs of recurring revenue businesses.
+
+●
+
+To achieve recurring revenue, companies must deliver recurring impact to their customers. A
+common operating system across Sales, Marketing, and Customer Success is needed to drive
+sustainable growth.
+
+●
+
+The majority of the customer lifetime value comes after the initial sale, yet many leadership
+teams overlook the importance of CS motions in recurring revenue to successfully onboard,
+renew, and grow their existing customer base.
+
+●
+
+Success in optimizing revenue and increasing productivity includes the alignment of all GTM
+teams to a common methodology, framework, metrics, and language, in order to deliver the best
+possible customer experience.
+
+The Scientiﬁc Models that Govern Recurring Revenue
+MODEL 1
+
+MODEL 2
+
+MODEL 3
+
+Business Model
+
+Data Model
+
+Mathematical Model
+
+yy
+
+X
+MODEL 4
+
+MODEL 5
+
+MODEL 6
+
+Go To Market Model
+
+Growth Model
+
+Operating Model
+
+The Operating Model for Recurring Revenue
+
+1 of 16
+
+MODEL 1
+
+The Business Model
+SaaS
+
+Subscription
+rter
+ly
+
+on
+th
+
+ly
+
+Qua
+
+ar
+
+ti-ye
+
+Annual
+
+Mul
+
+M
+
+e
+ar
+
+al
+
+tu
+
+ftw
+
+pe
+
+r
+Pe
+
+So
+
+ear
+3-y
+r
+ea
+4-y
+
+Ownership
+
+Har
+dw
+
+h s are
+u
+con pport
+trac
+ts
+
+wit
+
+kly
+ee
+W
+ily
+Da rly
+u
+Ho
+
+ge
+
+Usa
+
+Consumption
+On-Premise
+
+Hardware
+
+$
+
+Pay Upfront
+
+Freemium
+
+Impact
+No cure. No pay
+
+Business Model
+
+Recurring revenue businesses can have a range of
+
+●
+
+Ownership: The most extreme example in
+
+different business models, operating on an arc
+
+this category is where a company is
+
+between two extremes: the ‘pay upfront’ model
+
+selling on-premise hardware, where the
+
+on the far left side, to consumption-based
+
+buyer pays upfront (e.g., perpetual
+
+business models on the far right side. Each model
+
+software license).
+
+along this arc has distinct implications for the
+
+●
+
+Subscription: Most typical SaaS
+
+sales cycle, win rate, level of risk, and go to
+
+businesses fall in this category, often with
+
+market model.
+
+monthly, quarterly, or annual contracts
+
+Business Models on a
+
+paid upfront.
+●
+
+forms of usage-based pricing; an example
+
+Continuum
+
+of this is pay-as-you-go cloud computing
+
+With the term ‘recurring revenue’, most people
+typically think of software sold on monthly,
+quarterly, or annual contracts, yet recurring
+revenue models actually exist across a much
+wider continuum. There are three types of
+models along this continuum:
+
+Consumption: This includes various
+
+resources. (Footnote 1)
+●
+
+Businesses can move from left to right, as
+well as from right to left, along this arc;
+doing so changes how the business
+should price their product, as well as how
+they sell it. It is crucial to be aware of
+these necessary changes, and the impact
+they have on the company's revenue
+operation.
+
+The Operating Model for Recurring Revenue
+
+2 of 16
+
+Key Impacts of the Selected
+
+and consumption models, the seller instead
+
+Business Model
+
+has made a large investment in developing the
+
+Moving along the arc of this Business Model
+continuum from left to right results in the
+following key impacts:
+●
+
+The sales cycle has accelerated. The
+length of the sales cycle tends to shorten
+
+software, while there is very little risk to the
+customer for changing their mind.
+
+Trends in Business Model
+Transitions
+
+as we move from a value-based proposal
+
+Some growing trends of how businesses are
+
+with an upfront payment, to
+
+shifting their business models are:
+
+impact-based performance with payment
+at the time of consumption. A
+conventional B2B software sales cycle for
+perpetual software license is typically
+9-18 months, while the sales cycle of a
+SaaS contract with an annual contract
+value of around $50,000 is typically
+around 20-90 days. With consumption
+models, the sales cycle is practically
+
+●
+
+carries the majority of the risk: their company
+
+(i) Launching a SaaS product
+A common trend among enterprises with a pay
+upfront model is to launch a new SaaS service
+that is aimed at capturing more market share and
+a more predictable stream. This often happens in
+the SMB segment, but may also happen in an
+enterprise business; one example is a hardware
+business that begins to sell a recurring support
+
+instantaneous, with accounts often
+
+contract for the ﬁrst time.
+
+charged shortly after usage occurs.
+
+(ii) Selling to the Enterprise
+
+Win rates have fallen. Win rates for
+upfront contracts are typically quite high,
+as the buyer has generally already
+secured the budget internally; therefore,
+the win rate is about 1:3. With shorter
+SaaS contracts, the win rate is more often
+1:5 or 1:6, because companies can usually
+test the product with minimal
+commitment required. Finally, in a
+freemium business model, the win rate is
+
+In this scenario, an existing SaaS company that
+sells platform software to SMB and mid-market
+size companies will shift to selling multi-year
+contracts. This is typically due to the fact that
+their customer acquisition and retention costs
+are taking longer to recoup, and therefore a shift
+to longer-term customer commitments is
+necessary. This scenario typically occurs in large
+enterprises and educational institutions.
+
+more like 1:8 or even less, because the
+commitment required from the buyer is
+even less, resulting in more unqualiﬁed
+buyers and higher churn.
+The seller bears more of the risk. In a pay upfront
+
+SaaS is not the only type of
+recurring revenue model;
+virtually any business can be
+a recurring revenue business.
+
+model, the buyer bears the majority of the risk, as
+it's much harder for them to return the product
+and realign their organization around a new
+solution. As we move further toward subscription
+
+The Operating Model for Recurring Revenue
+
+3 of 16
+
+Key Findings
+
+usage model, the risk for the seller continues to
+
+FINDING 1.
+
+and less.
+
+increase, and the risk for the buyer becomes less
+
+In addition to driving retention, CS drives
+Recurring revenue is not exclusive to SaaS
+companies. The principles of recurring revenue
+apply to any business where they do not make a
+proﬁt on the customer's ﬁrst purchase, and
+therefore need to continue to sell and provide
+recurring impact to the customer over time.
+FINDING 2.
+
+Businesses can successfully utilize multiple
+business models at the same time. Businesses
+typically are successful when they rely on one
+model until around $10-20M in revenue, at which
+point they often expand and deploy additional
+business models to drive additional revenue
+streams.
+FINDING 3.
+
+The chosen business model has an effect on the
+sales cycle. As you move from perpetual to
+subscription to consumption, the sales cycle
+typically decreases from years (as in perpetual
+hardware contracts) to merely hours (customers
+paying as they go for cloud compute resources).
+FINDING 4.
+
+The chosen business model has an effect on the
+win rate. The win rate of qualiﬁed leads
+decreases moving from left to right in the
+business model. This is a result of the level of
+commitment that the customer needs to make in
+each scenario. This makes leads for a freemium
+business model the hardest to convert, because
+the customer needs to make very low level of
+commitment in order to engage with you.
+FINDING 5.
+
+The chosen business model has an effect on the
+level of risk. There are radical implications for the
+level of risk borne by the seller versus the buyer
+as you move across the spectrum of recurring
+revenue business models. As we move toward a
+
+The Operating Model for Recurring Revenue
+
+4 of 16
+
+MODEL 2
+
+The Data Model
+Awareness
+
+Education
+
+Selection
+
+Commit
+
+Onboard
+
+Achieve
+Impact
+
+Growth
+
+V
+
+The modern Data Model for recurring revenue is
+
+won), onboarded, ARR, and LTV. The exact
+
+represented as a bowtie, aligning all Revenue
+
+metrics used will vary based on stage of the
+
+capabilities with a consistent set of metrics.
+
+company (e.g., product-led growth companies
+
+This contrasts with the typical 'sales funnel' or
+'marketing funnel' that many Revenue teams
+historically have used to measure their
+performance across a sales process; that funnel
+
+with smaller contracts may be using monthly
+contracts, in which case they will focus on MRR
+rather than ARR). [Footnote 1].
+
+(ii) Time metrics
+
+has distinct shortcomings for enabling a
+The Time metric most often used by Revenue
+
+recurring revenue model.
+
+teams is the length of the sales cycle. Others
+
+The Metrics
+
+often measured are time to go-live and average
+length of contract. For a more sophisticated,
+
+The Data Model for recurring revenue is
+
+granular view that can help pinpoint where issues
+
+comprised of three types of metrics:
+
+are happening in the sales cycle, revenue teams
+should be measuring the average time between
+
+(i) Volume metrics
+
+each sales stages, rather than the length of the
+entire sales cycle, so that they can determine
+
+Volume metrics are typically what revenue teams
+
+which parts of the sales cycle need further
+
+are most familiar with. These metrics often
+
+improvement.
+
+include measuring the following (or similar):
+prospects, MQLs, SQLs, SALs, commit (closed
+
+The Operating Model for Recurring Revenue
+
+5 of 16
+
+(iii) Conversion metrics
+
+the customer makes their selection, that is not
+the end of the customer journey; it’s actually the
+
+Conversion metrics examine how many leads or
+opportunities move from one stage to the next.
+There are a few classic metrics used by many
+Revenue teams, such as Lead-to-Opportunity
+and Opportunity-to-Close. But similar to the case
+with volume and time metrics, Revenue leaders
+should be examining these at a more granular
+level in order to diagnose where improvements
+should be made. After the customer
+commitment, teams typically look at overall
+churn level, but they should examine this more
+closely, instead looking at onboarding churn and
+usage churn, which will typically have very
+different rates. Similarly, in the area of customer
+upsell, CS leaders should be looking at this on a
+more granular level as well, by measuring renewal
+
+very beginning.
+In this way, recurring revenue teams typically
+make the mistake of focusing primarily on their
+own sales process to get to the commitment from
+the customer, ignoring the rest of the customer
+journey where the customer is focused on
+achieving their desired impact. The sales process
+for a SaaS product may take just a few months,
+while the length of a successful relationship with
+that customer may last many years. Therefore,
+rather than a narrowing 'funnel' that ends with
+the customer commitment, the proper process
+and model for recurring revenue is far better
+represented by a bowtie, with the customer
+commitment in the middle.
+
+rate (to the same decision makers), resell rate (to
+new decision makers), upsell rate, and cross-sell
+rate.
+
+Recurring revenue is the
+result of recurring impact.
+
+An important note that becomes clear when
+Revenue leaders start to visualize and apply the
+Data Model is that there is a strong emphasis on
+detailed Customer Success (post-sale) metrics,
+
+Closed Loop
+
+beyond what most companies measure. The
+
+The modern Data Model, when properly applied,
+
+reason for this is that improvements in the
+
+operates as a closed loop system, which means
+
+customer success stages of a recurring revenue
+
+that there is a loop that feeds back into the
+
+have a compound impact on revenue. For more
+
+beginning of the model in order to inform it and
+
+information on compound impact, see here.
+
+improve it over time. In this case, a classic
+example of the closed loop is determining who
+
+The Principles
+
+your best customers are in the later stages of the
+bowtie, and then feeding that information into
+
+Full Funnel
+
+the beginning of the bowtie, where your
+
+The typical buyer’s journey that a B2B customer
+
+customers and try to go ﬁnd more prospective
+
+goes through is often thought of as the general
+
+customers that are similar.
+
+Marketing team can be informed of these
+
+phases of awareness, education, and then
+selection of the right solution for their business.
+Similarly, the typical sales process that B2B
+Revenue teams use to work with their customers
+often focuses on those three phases. But once
+
+Customer Centric
+There is a fundamental rule that drives
+sustainable growth for successful recurring
+
+The Operating Model for Recurring Revenue
+
+6 of 16
+
+revenue businesses: recurring revenue is the
+result of recurring impact. Examining the idea of
+impact further, there are two kinds of impact:
+emotional impact (e.g., making a report easier to
+build, or giving a manager more visibility into the
+activities of their team) and rational impact (e.g.,
+increase revenue or decreasing costs). Revenue
+teams must think in these customer-centric
+terms, truly understanding what impact their
+customers are trying to achieve. [Footnote 2]
+This way of thinking should be reﬂected in the
+sales process as well. Many companies think in
+terms of prospects, MQLs, qualiﬁed
+
+after the customer has made a commitment.
+FINDING 4.
+
+Most revenue organizations have plenty of data
+at their ﬁngertips, but are getting lost when it
+comes to how to interpret it. This results in the
+incorrect identiﬁcation of the problems, and
+therefore the wrong actions being taken to
+remediate the issues.
+FINDING 5.
+
+Recurring revenue models can be optimized as
+follows:
+a)
+
+In the ﬁrst half of the Bowtie, drive
+
+opportunities. Instead, the sales process should
+
+exponential growth by making small
+
+be thought of in terms of the customer:
+
+improvements at each of the key
+
+expressing interest, engaged with us, committed
+
+moments in the customer acquisition
+
+to a solution, ready to activate, achieving
+recurring impact, and growing further to
+
+process
+b)
+
+In the second half of the Bowtie, drive
+
+achieving maximum impact. When we start to
+
+compound growth by making small
+
+use this customer-centric mindset and
+
+improvements at each of the key
+
+terminology, we start to act in the best interest of
+
+moments in the customer success
+
+our customers, helping them achieve recurring
+
+process (such as renewal, cross-sell, and
+
+impact, in turn yielding recurring revenue over
+
+upsell)
+
+time.
+
+Key Findings
+FINDING 1.
+
+The typical 'sales funnel' or 'marketing funnel'
+does not serve the needs of recurring revenue
+business models.
+FINDING 2.
+
+The Bowtie is a more accurate way to model the
+inner workings of a recurring revenue engine and
+reﬂect the principles that deﬁne it.
+FINDING 3.
+
+Companies are placing an outsized emphasis on
+the ﬁrst half of the Bowtie, leading to a heavy
+focus on winning more deals; most companies
+have a great opportunity for growth by more
+closely examining and measuring their metrics
+
+The Operating Model for Recurring Revenue
+
+7 of 16
+
+MODEL 3
+
+The Math Model
+
+The Mathematical Model shows that growth in a
+
+and if no, the sales cycle ends there. In order to
+
+recurring revenue business is based not on linear
+
+get to a win, each meeting has its own conversion
+
+mathematical principles, but on exponential
+
+rate; if a meeting 'converts', then the next
+
+arithmetic.
+
+meeting occurs. It then follows that the win rate
+
+Reexamining the win rate
+The win rate is typically determined as the
+number of wins compared to the number of
+opportunities. This is a linear function, and it
+implies that you need twice the number of
+opportunities in order to achieve twice the
+number of wins. However, this way of looking at
+win rate glosses over what actually happens
+during a sales cycle, and how those moments in
+the sales cycle can be improved to achieve the
+highly desired exponential rather than linear
+growth.
+
+becomes the aggregate of all of the individual
+meeting conversion rates. Continuing along these
+lines, the sales cycle becomes the aggregate of
+the time between all meetings.
+The sales cycle can therefore be thought of as a
+simple mathematical formula, where the win rate
+equals the multiplication of each of the individual
+meeting conversion rates. Similarly, the win rate
+formula can also be thought of as the average
+conversion rate per meeting, raised to the power
+of the number of meetings --- which is an
+exponential relationship.
+By thinking about the sales cycle in terms of the
+
+When we break the sales cycle down in terms of
+activities, we see the the sales cycle is comprised
+of a series of meetings. At each meeting, the
+customer determines if they are still interested in
+the product; if yes, a subsequent meeting occurs,
+
+conversion from meeting to meeting, we then can
+start to see how small improvements can have a
+disproportionate impact on results. According to
+this mathematical formula, the two key ways to
+drive exponential results are (1)
+
+The Operating Model for Recurring Revenue
+
+8 of 16
+
+decrease the number of meetings in the average
+
+that can be provided to all stakeholders, as
+
+sales cycle, and (2) increase the average success
+
+opposed to needing multiple meetings to get all
+
+rate for each meeting. [Footnote 1]
+
+stakeholders aligned.
+
+Growth in a recurring revenue
+business is based not on linear
+mathematical principles, but
+on exponential arithmetic.
+
+FINDING 4.
+
+Companies can deploy asynchronous selling
+techniques in order to accelerate sales cycles and
+increase win rates, in addition to realizing other
+beneﬁts such as decreasing customer acquisition
+costs.
+
+The true growth engine
+It is a common misconception that the most
+important fuel for growth is new leads,
+opportunities, and closed deals; many
+organizations place a maniacal focus on these
+elements, while ignoring a much more powerful
+and efﬁcient growth engine. Instead, the majority
+of the growth in a properly functioning recurring
+revenue business comes from the compound
+impact of existing customers, during their
+lifetime in their customer journeys as they go
+through the key moments of renewal, cross-sell,
+and up-sell.
+
+Key Findings
+FINDING 1.
+
+Recurring revenue models are built to take
+advantage of exponential and compound growth;
+organizations need to build their revenue
+functions with these principles in mind in order
+to maximize their growth potential.
+FINDING 2.
+
+Disproportionate impact comes from the
+compound growth of existing customers.
+FINDING 3.
+
+In practice, the number of meetings in the sales
+cycle can be reduced using asynchronous tactics,
+such as sending a proposal with a recorded video
+
+The Operating Model for Recurring Revenue
+
+9 of 16
+
+MODEL 4
+
+The Go-to-Market Model
+VOLUME
+
+SPEED
+
+EFFICIENCY
+
+EFFECTIVE
+
+SELECTIVE
+
+ALL-to-ALL
+
+1-to-ALL
+
+1-to-MANY
+
+1-to-FEW
+
+1-to-1
+
+Number of Deals per year
+
+100,000’s
+10,000’s
+
+PLG
+
+INBOUND
+
+COMMUNITY
+
+1-STAGE
+PROSPECT
+
+HELPDESK
+1,000’s
+
+2-STAGE
+ABM
+
+VOLUME
+
+FIELD SALES
+
+100’s
+
+TARGET
+
+SEGMENTED
+
+MARKETING GTM
+
+NAMED ACCTS
+
+10’s
+
+SALES GTM
+
+ACCOUNTS
+$5,000
+
+$15,000
+
+$50,000
+
+$150,000
+
+CS GTM
+
+$500,000
+
+Annual Contract Value
+
+GTM models of Marketing, Sales, and Customer
+
+●
+
+Success are aligned based on number of deals per
+year and ACV, in order to deliver the best
+
+acts as the marketing and sales function
+●
+
+customer experience at the right cost to serve.
+
+Aligning GTMs across
+
+through to close/commitment
+●
+
+2-stage sales organization: Two roles
+manage the sales process (e.g., an SDR
+qualiﬁes and hands off a lead to an AE)
+[Footnote 1]
+
+●
+
+accounts. They may be aligned by
+
+of Marketing, Sales, and Customer Success can
+
+geography or vertical.
+
+be matched and aligned, based on two key
+factors: 1) the number of deals sold per year, and
+
+●
+
+Named accounts: Enterprise reps work on
+a short list of large enterprise accounts
+
+2) the annual contract value (in the ﬁrst year of
+the customer's contract).
+
+Field sales: Reps are located in region,
+and typically hold a few hundred
+
+The GTM Model shows how the speciﬁc motions
+
+Marketing GTMs:
+
+The GTMs must be matched in order to achieve
+maximum efﬁciency and growth.
+
+●
+
+Inbound: Typically content, SEO, events,
+communities. These marketing materials
+
+Sales GTMs: These range from 'no-touch' to 'high
+touch'.
+
+1-stage: Entire sales process is handled by
+one inside rep, from discovery all the way
+
+Marketing, Sales & Customer
+Success
+
+Product-led growth: The product itself
+
+and content are not highly targeted (i.e.,
+1:everyone)
+
+The Operating Model for Recurring Revenue
+
+10 of 16
+
+●
+
+Prospecting: Sending tailored messages
+
+deliver the best possible customer experience,
+
+to segments of customers or personas,
+
+while spending an appropriate amount of money
+
+based on ﬁrmographics and/or persona
+
+to acquire that customer.
+
+characteristics (i.e., 1:many)
+●
+
+Account Based: Targeting fewer accounts,
+but addressing more people inside that
+
+●
+
+Key Findings
+
+account (i.e., 1:few)
+
+FINDING 1.
+
+Targeting: Contacting a very speciﬁc list
+
+Companies often have mismatched GTMs (e.g.,
+
+of people with highly targeted messages
+
+using a two-stage sales process while relying
+
+that refer to each person's unique
+
+entirely on inbound content); there is a need for
+
+situation and pain points (i.e., 1:1)
+
+companies to examine what their current GTMs
+are for each of the three functions, and to align
+
+Customer Success GTMs: These range from
+
+them accordingly under one coherent strategy.
+
+do-it-yourself to highly supported.
+FINDING 2.
+
+●
+
+●
+
+●
+
+Community: This is typically in the form
+
+Multiple GTM strategies deployed too early on in
+
+of online forums where customers ﬁnd
+
+the growth cycle of a company results in
+
+support and answers for themselves.
+
+spreading resources too thin. Companies will
+
+Help desk: Often a combination of bots
+
+often start to build out a second and third
+
+and human support who are available to
+
+strategy (e.g., selling into SMB and jumping to sell
+
+answer questions via a ticketing system.
+
+into the enterprise), before having solidiﬁed their
+
+Volume: Accounts handled by CSMs, with
+
+revenue stream in the original strategy, which
+
+each CSM handling hundreds of small
+
+can quickly lead to resource constraints.
+
+accounts.
+●
+
+Segment: Accounts handled by CSMs,
+with each CSM handling a particular
+segment of accounts (e.g., mid-market
+accounts, healthcare accounts)
+
+●
+
+Accounts: Accounts handled by CSMs,
+with each CSM handling a very small
+number of large enterprise accounts
+
+When we map the GTMs of Marketing, Sales, and
+Customer Success to the axes of number of deals
+sold and annual contract value, we can then see
+how the customer acquisition cost and the
+service the company delivers are being matched
+together. As an example, in product led growth,
+the customer wants a low-priced product
+delivered to them quickly; with named accounts,
+they are buying a high price point product, and
+likely expecting high-touch, custom service.
+By applying GTMs in this way, companies can
+
+FINDING 3.
+
+It is common for companies to move up- or
+down-market in order to grow; these movements
+typically take far longer than anticipated to fully
+execute. This is because the growth engines
+across GTMs are based on different foundations
+(e.g., the growth engine for enterprise accounts is
+expertise-based relationships and brand, while
+for mid-market accounts it is typically coming
+from events, content, and thought leadership; the
+growth engine for SMB is typically reliant on
+reputation, user base, and product ease of use).
+FINDING 4.
+
+The DNA of selling a product is very different
+from selling a service. At a lower ACV, customers
+typically expect to buy the product, but expect
+the service to be free (e.g., paying for premium
+24/7 enterprise support for a software product).
+At a higher ACV, the customer typically buys the
+service, while they expect the product to be free.
+
+The Operating Model for Recurring Revenue
+
+11 of 16
+
+MODEL 5
+
+The Growth Model
+sustainable
+
+IPO
+
+unsustainable
+
+E
+
+sc
+
+al
+ab
+le
+
+Recurring Revenue
+
+$100M
+
+D
+unscalable
+
+$10M
+
+C
+B
+
+$1M
+
+A
+Unrepeatable
+process
+
+t0
+
+S
+
+t1
+
+Repeatable
+process
+
+t2
+
+t3
+
+t4
+
+Time
+
+t5
+
+PMF
+
+Go To Market Fit
+
+ScaleUp Fit
+
+Grown-Up Fit
+
+Price your product
+based on the proven
+impact it provides.
+
+Find a repeatable process for a Go To
+Market motion(s) that grows revenue
+consistently.
+
+Focus on scaling Growth by doing more of
+what works, and stop doing what doesn’t
+work. Multiple GTM motions.
+
+Shift of focus to proﬁt.
+Growth comes from
+existing customers.
+
+t(n)
+
+This model is used to develop an understanding
+
+venture-backed companies raise a series
+
+of what stage a business is in, and at what point it
+
+A round of funding, in order to ﬁnd Go to
+
+should move to the next stage to accelerate
+
+Market Fit as soon as possible.
+
+growth and scale.
+
+●
+
+Go to Market Fit: In this stage, the
+company is now learning to sell its
+
+The Stages
+
+product in an efﬁcient and effective way.
+Toward the end of this stage is typically
+
+As growing companies move along the journey
+
+when venture-backed companies raise a
+
+from starting up to scaling their growth, they go
+
+series B round of funding, in order to
+
+through a few key stages:
+
+facilitate scaling going forward.
+●
+
+●
+
+Scale Up: In this stage, the company is
+
+Product-Market Fit: In this stage, the
+
+learning how to grow and scale the
+
+company is ﬁnding its ﬁt with the market
+
+business, applying what has been learned
+
+(e.g., determining the right price for the
+
+in the previous stage in order to
+
+product they have built, for the market
+
+accelerate growth.
+
+they are serving). The company has a high
+customer acquisition cost, as they learn
+
+Fundamental changes occur at all levels and
+
+more about their customers - what they
+
+facets of the company as it moves through these
+
+are willing to pay, what impacts they are
+
+three growth stages. In particular, many founders
+
+looking for - and adjust the product based
+
+make the mistake of thinking that the team and
+
+on those learnings. Toward the end of this
+
+skillsets used in pre-revenue stages will be the
+
+stage is typically when
+
+same team and skillsets needed when the
+The Operating Model for Recurring Revenue
+
+12 of 16
+
+company reaches the point of scaling.
+This does not imply that a different team is
+needed at each phase. Team members can evolve
+and grow with the company, but founders must
+think about how to plan and recruit for current
+and future phases in order to supplement that
+evolution from the existing team.
+
+frequent reason that companies fail as they
+progress through these stages is that they have
+not achieved enough consistency in the GTM Fit
+stage before raising more funding and starting to
+scale; they are scaling inconsistent results, and
+therefore the company is scaling failure along
+with success. Essentially, the company delayed
+reaching their true GTM ﬁt and started scaling
+before that point was truly reached. This can
+
+The most common problem for
+Series B companies: 'Scaling
+failure' happens when not
+enough consistency in
+performance has been reached.
+
+often result in a 12-18 month delay in reaching
+the expectations that have been set by investors,
+as the rate of growth and efﬁciency needed
+cannot be sustained. A common outcome during
+this turn of events is that Revenue leaders are
+replaced, or that new levels of executives with
+experience at later stage companies are brought
+
+Generalized at a high level to illustrate this, the
+following skills and traits will be crucial and
+
+●
+
+Launching a new GTM requires the company to
+
+Product-Market Fit: Self starters and
+
+reenter PMF and GTMF. The launch of a new
+
+proven superstars with reliable
+
+product, entry into a new region, or selling into a
+
+performance. May dislike process and
+
+new segment requires that a company, even
+
+structure. Will help to set the tone of the
+
+brieﬂy, reenters the product development cycle
+
+culture that the fonder is looking to
+
+to establish product, price positioning, and GTM
+
+establish.
+
+Fit. Another common failure point is launching a
+
+Go to Market Fit: Creators and builders
+
+new enterprise product in the Scale Up phase in
+
+who love to create a process and
+
+order to scale and grow revenue, without
+
+document what they are building. Able to
+
+reentering that product development cycle.
+
+listen and learn from what goes on
+around them, enjoying working with and
+learning from small teams.
+●
+
+back on the right path.
+FINDING 2.
+
+typical in each phase:
+●
+
+in with the intent of helping set the company
+
+Scale Up: Dependable team performers
+who love to execute process. May need
+guidance and structure for creating new
+process, preferring structure that is
+already built.
+
+FINDING 3.
+
+Multiple GTMs deployed too soon will spread
+resources too thin. Company management will
+often have a tendency to deploy several GTM
+models before each one has matured and is
+scalable, with the goal of growing quickly and
+capturing as much of the market as possible. This
+error results in damaging the company's ability to
+scale, as resources are now spread too thin
+
+Key Findings
+
+across multiple GTMs, products, and teams.
+
+FINDING 1.
+
+Scaling failure happens when not enough
+consistency in performance has been reached. A
+The Operating Model for Recurring Revenue
+
+13 of 16
+
+MODEL 6
+
+The Operating Model
+Provocative: As an
+expert, you are telling the
+customer what to do
+
+CUSTOMER ENGAGEMENT .
+
+When do you
+need this by?
+
+Ask if you
+got it right
+
+SUMMARIZE
+Share a
+customer story
+
+H
+TC
+PI
+
+Perform
+research
+and talk in context
+
+You heard what you wanted
+to hear...You are excited and
+move on too soon.
+
+EMPATHIZE
+
+P AIN
+
+SETUP
+
+What happens
+if you miss that
+date?
+
+Ask how this
+impacts their
+business
+
+If prospect starts
+venting, ask to
+prioritize
+
+ACE, Agenda
+
+D ECISION
+CRITERIA
+
+I MPACT
+
+Consultative: Asking questions
+to understand what the customer
+wants you to do, share use-cases.
+
+Max of
+2-3 closed
+questions
+
+C RITICAL
+EVENT
+
+Resets
+the convo
+
+S ITUATION
+
+P AIN
+
+A solution pitch
+often results in
+disengagement
+
+S ITUATION
+
+S ITUATION
+
+TIME .
+
+The Operating Model is a diagnostic framework
+
+before they were passed by SDRs to AEs.
+
+for successful conversations and opportunities.
+
+At the same time, several other
+methodologies are often used to help give
+
+Issues with Sales
+
+structure later on in the discovery
+process. Revenue teams have ended up
+
+Methodologies
+
+using several methodologies at once, but
+without being able to integrate these
+
+Many sales methodologies have been developed
+
+methodologies together. The result is a
+
+and put into the market over the years, and they
+
+very inconsistent sales process that
+
+are very effective in bringing clarity and
+
+causes confusion between the functions
+
+consistency to the sales process. However, there
+
+of sales, marketing, and customer
+
+are a few common issues that occur with sales
+
+success, and a less than ideal experience
+
+methodologies, which have become quite
+
+for the customer.
+
+pervasive across Revenue teams:
+1.
+
+Too many methodologies at once.
+Companies are employing multiple sales
+methodologies for different parts of the
+sales process. For example, BANT (budget,
+authority, need, timing) became quite
+popular in the Prospecting stage of the
+sales cycle in order to qualify leads
+
+2.
+
+Solution, consultative, or provocative
+selling? These are often taught as
+mutually exclusive, and teams will adopt
+one of the three based on what they feel
+is most complementary with the product
+they sell. A problem arises in actual
+conversations with customers, where
+salespeople often need to employ all
+
+The Operating Model for Recurring Revenue
+
+14 of 16
+
+three of these methodologies in the same
+conversation --- pitching them on their
+solution (solution), diagnosing by asking
+questions (consultative), or provoking
+them with another viewpoint
+
+Revenue teams end up misaligned
+across stages because
+methodologies were not built to
+integrate with each other.
+
+(provocative). Furthermore, these
+methodologies provide guidance on what
+needs to be accomplished, but without
+providing the step-by-step directions on
+how salespeople should go about it.
+3. Methodologies do not integrate. Despite
+the fact that multiple sales methodologies
+are often used in the same sales process,
+Revenue teams end up misaligned across
+stages because methodologies were not
+built to integrate with each other. Each
+one has a slightly different focus, with
+different terminology, and different
+guidance on how to execute.
+4.
+
+Helping forecast versus helping to sell.
+Most methodologies end up being utilized
+by sales managers in order to help them
+forecast, far more than they are used by
+individual salespeople to help them sell.
+
+5.
+
+The SPICED Framework
+By standardizing on customer impact, companies
+can overcome these challenges and align their
+teams to become customer-centric.
+SPICED (Situation, Pain, Impact, Critical Event,
+Decision)is a diagnostic framework that provides
+the guidance for keeping the customer's desired
+impact as the ultimate goal, at the forefront of all
+conversations that occur during the sales cycle.
+It allows for both a consultative and provocative
+conversation, where the seller asks questions to
+understand what the customer wants
+(consultative), and encourages the customer to
+think differently or see a different perspective
+(provocative).
+●
+
+relevant to the customer that determine
+
+Methodologies focus on volume-based
+
+whether the customer falls within your
+
+performance management.
+
+ideal customer proﬁle and what is
+
+Methodologies tend to focus on helping
+
+happening in their world. Such as size of
+
+reps win more deals (a focus on volume),
+
+company, number of employees, software
+
+rather than focus on helping reps with
+
+they use, hiring needs, security needs, or
+
+what they should do in their customer
+
+revenue goals.
+
+interactions (a focus on skills). Without
+that type of guidance, sales reps are
+
+Situation. Facts or circumstances
+
+●
+
+Pain. The problems the customer has
+purchased your product or solution to
+
+forced to ﬁgure it out on their own and
+
+help solve. This could include the need to
+
+form their own habits, which may or may
+
+conduct training or recruit, support a
+
+not be effective.
+
+global team, pass a security audit or stop
+errors to happen in a process.
+●
+
+Impact. The results produced by solving
+pain. These are the outcomes the
+customer is trying to achieve by
+purchasing your solution. Impact can be
+
+The Operating Model for Recurring Revenue
+
+15 of 16
+
+both emotional, for individuals, and
+rational, for companies.
+●
+
+Critical Event. Any particular deadline by
+which to the customer must achieve the
+desired impact or suffer negative
+consequences. Critical Events drive the
+customer’s timeline for a purchase. This is
+distinctly different from a compelling
+event, which does not have a speciﬁc
+deadline associated with it.
+
+●
+
+Decision. The people involved in the
+decision, the process they will follow to
+reach that decision, and the criteria they
+will use to evaluate the right solution
+
+Key Findings
+FINDING 1.
+
+More than one sales methodology is often
+applied at different points in the sales process;
+however, different methodologies do not
+integrate with each other, leading to confusion
+and inefﬁciencies across the sales process.
+FINDING 2.
+
+Methodologies are often confused with
+forecasting, and end up being applied so that
+managers have an easier time forecasting, rather
+than being applied to help clarify and guide the
+seller along the sales process.
+FINDING 3.
+
+Aligning all Revenue capabilities and the full
+revenue process is crucial for sustainable growth
+in recurring revenue; the unifying thread for this
+alignment is customer impact.
+
+The Operating Model for Recurring Revenue
+
+16 of 16
+
+
