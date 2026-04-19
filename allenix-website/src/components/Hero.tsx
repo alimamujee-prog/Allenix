@@ -45,7 +45,7 @@ export default function Hero() {
           marginBottom: '32px',
           textAlign: 'center',
         }}>
-          We slingshot your firm into the{' '}
+          We slingshot your company into the{' '}
           <em style={{ color: 'var(--col-accent)', fontStyle: 'italic' }}>new AI era.</em>
         </h1>
 
