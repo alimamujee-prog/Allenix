@@ -1,15 +1,39 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useRef, useEffect } from 'react'
 
-export default function ShareButton() {
+interface ShareButtonProps {
+  ariaLabel?: string
+}
+
+export default function ShareButton({ ariaLabel = 'Copy link to this page' }: ShareButtonProps) {
   const [copied, setCopied] = useState(false)
+  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
-  function handleCopy() {
-    navigator.clipboard.writeText(window.location.href).then(() => {
-      setCopied(true)
-      setTimeout(() => setCopied(false), 2000)
-    })
+  useEffect(() => {
+    return () => {
+      if (timerRef.current) clearTimeout(timerRef.current)
+    }
+  }, [])
+
+  async function handleCopy() {
+    if (copied) return
+    try {
+      await navigator.clipboard.writeText(window.location.href)
+    } catch {
+      const el = document.createElement('textarea')
+      el.value = window.location.href
+      el.setAttribute('readonly', '')
+      el.style.position = 'absolute'
+      el.style.left = '-9999px'
+      document.body.appendChild(el)
+      el.select()
+      document.execCommand('copy')
+      document.body.removeChild(el)
+    }
+    if (timerRef.current) clearTimeout(timerRef.current)
+    setCopied(true)
+    timerRef.current = setTimeout(() => setCopied(false), 2000)
   }
 
   return (
@@ -21,7 +45,7 @@ export default function ShareButton() {
         alignItems: 'center',
         gap: '6px',
         padding: '6px 14px',
-        fontSize: '11px',
+        fontSize: '12px',
         fontWeight: 500,
         letterSpacing: '1.5px',
         textTransform: 'uppercase',
@@ -30,11 +54,11 @@ export default function ShareButton() {
         borderColor: copied ? 'var(--col-accent)' : 'var(--col-border)',
         borderRadius: '3px',
         background: 'transparent',
-        cursor: 'pointer',
+        cursor: copied ? 'default' : 'pointer',
         transition: 'color 150ms ease-out, border-color 150ms ease-out',
         whiteSpace: 'nowrap',
       }}
-      aria-label="Copy link to manifesto"
+      aria-label={ariaLabel}
     >
       <svg
         width="12" height="12" viewBox="0 0 24 24"
