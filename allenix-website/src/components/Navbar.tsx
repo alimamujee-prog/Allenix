@@ -5,6 +5,7 @@ import Image from 'next/image'
 import { usePathname } from 'next/navigation'
 import { useEffect, useRef, useState } from 'react'
 import { motion } from 'framer-motion'
+import { ShinyButton } from '@/components/ui/ShinyButton'
 
 const NAV_LINKS = [
   { href: '/', label: 'Home' },
@@ -44,12 +45,6 @@ function SlidingNav({ pathname }: { pathname: string }) {
           {label}
         </NavTab>
       ))}
-
-      {/* Divider before CTA */}
-      <li aria-hidden style={{ width: '1px', height: '16px', background: 'var(--col-border)', margin: '0 4px', flexShrink: 0 }} />
-
-      {/* CTA as final pill item */}
-      <CtaTab setPosition={setCursor} />
 
       {/* Sliding teal pill */}
       <motion.li
@@ -109,54 +104,11 @@ function NavTab({
           transition: 'color 150ms ease-out',
           whiteSpace: 'nowrap',
         }}
-        onMouseEnter={e => {
-          if (!active) e.currentTarget.style.color = 'var(--col-text-1)'
-        }}
-        onMouseLeave={e => {
-          e.currentTarget.style.color = active ? 'var(--col-accent)' : 'var(--col-text-2)'
-        }}
+        onMouseEnter={e => { if (!active) e.currentTarget.style.color = 'var(--col-text-1)' }}
+        onMouseLeave={e => { e.currentTarget.style.color = active ? 'var(--col-accent)' : 'var(--col-text-2)' }}
       >
         {children}
       </Link>
-    </li>
-  )
-}
-
-function CtaTab({ setPosition }: { setPosition: React.Dispatch<React.SetStateAction<CursorPos>> }) {
-  const ref = useRef<HTMLLIElement>(null)
-
-  return (
-    <li
-      ref={ref}
-      onMouseEnter={() => {
-        if (!ref.current) return
-        const { width } = ref.current.getBoundingClientRect()
-        setPosition({ width, opacity: 1, left: ref.current.offsetLeft })
-      }}
-      style={{ position: 'relative', zIndex: 1, listStyle: 'none' }}
-    >
-      <a
-        href={CTA_HREF}
-        target="_blank"
-        rel="noopener noreferrer"
-        style={{
-          display: 'block',
-          fontFamily: 'var(--font-mono)',
-          fontSize: '13px',
-          fontWeight: 500,
-          letterSpacing: '2px',
-          textTransform: 'uppercase',
-          textDecoration: 'none',
-          padding: '10px 20px',
-          color: 'var(--col-accent)',
-          transition: 'color 150ms ease-out',
-          whiteSpace: 'nowrap',
-        }}
-        onMouseEnter={e => { e.currentTarget.style.color = 'var(--col-text-1)' }}
-        onMouseLeave={e => { e.currentTarget.style.color = 'var(--col-accent)' }}
-      >
-        Book a Strategy Call
-      </a>
     </li>
   )
 }
@@ -206,10 +158,15 @@ export default function Navbar() {
           />
         </Link>
 
-        {/* Desktop sliding nav (includes CTA) — hidden on mobile */}
-        <nav className="mob-hide">
-          <SlidingNav pathname={pathname} />
-        </nav>
+        {/* Desktop: sliding nav + shiny CTA — hidden on mobile */}
+        <div className="mob-hide" style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
+          <nav>
+            <SlidingNav pathname={pathname} />
+          </nav>
+          <ShinyButton href={CTA_HREF} target="_blank" rel="noopener noreferrer" className="shiny-cta-sm">
+            Book a Strategy Call
+          </ShinyButton>
+        </div>
 
         {/* Hamburger — mobile only */}
         <button
@@ -278,16 +235,11 @@ export default function Navbar() {
             </Link>
           ))}
 
-          <a
-            href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="btn-primary"
-            onClick={() => setMenuOpen(false)}
-            style={{ marginTop: '48px', fontSize: '13px', padding: '16px 48px' }}
-          >
-            Book a Strategy Call
-          </a>
+          <div style={{ marginTop: '48px' }} onClick={() => setMenuOpen(false)}>
+            <ShinyButton href={CTA_HREF} target="_blank" rel="noopener noreferrer" className="shiny-cta-lg">
+              Book a Strategy Call
+            </ShinyButton>
+          </div>
 
           <div style={{
             position: 'absolute',

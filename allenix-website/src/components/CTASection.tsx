@@ -1,3 +1,5 @@
+import { ShinyButton } from '@/components/ui/ShinyButton'
+
 export default function CTASection() {
   return (
     <section style={{
@@ -67,7 +69,7 @@ export default function CTASection() {
         </p>
 
         <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
-          <a href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer" className="btn-primary">Book a Strategy Call</a>
+          <ShinyButton href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer">Book a Strategy Call</ShinyButton>
         </div>
       </div>
     </section>

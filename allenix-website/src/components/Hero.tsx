@@ -1,6 +1,7 @@
 'use client'
 
 import HeroWave from '@/components/ui/HeroWave'
+import { ShinyButton } from '@/components/ui/ShinyButton'
 
 export default function Hero() {
 
@@ -37,11 +38,11 @@ export default function Hero() {
         <h1 style={{
           fontFamily: 'var(--font-display)',
           fontWeight: 900,
-          fontSize: 'clamp(41px, 6.4vw, 82px)',
-          lineHeight: 1.04,
+          fontSize: 'clamp(36px, 5.2vw, 68px)',
+          lineHeight: 1.08,
           letterSpacing: '-0.5px',
           color: 'var(--col-text-1)',
-          maxWidth: '960px',
+          maxWidth: '820px',
           marginBottom: '32px',
           textAlign: 'center',
         }}>
@@ -65,9 +66,9 @@ export default function Hero() {
 
         {/* CTAs */}
         <div style={{ display: 'flex', gap: '16px', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'center' }}>
-          <a href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer" className="btn-primary">
+          <ShinyButton href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer">
             Book a Strategy Call
-          </a>
+          </ShinyButton>
           <a href="#how-it-works" className="btn-ghost">
             See How It Works
           </a>
