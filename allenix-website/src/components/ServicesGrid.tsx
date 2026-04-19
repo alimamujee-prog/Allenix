@@ -74,7 +74,7 @@ export default function ServicesGrid() {
         </div>
 
         {/* Grid */}
-        <div style={{
+        <div className="mob-grid-1" style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(2, 1fr)',
           borderTop: '1px solid var(--col-border)',
@@ -91,7 +91,7 @@ export default function ServicesGrid() {
 
 function ServiceCard({ num, name, desc }: { num: string; name: string; desc: string }) {
   return (
-    <div style={{
+    <div className="mob-pad-card" style={{
       borderRight: '1px solid var(--col-border)',
       borderBottom: '1px solid var(--col-border)',
       padding: '36px 40px',
@@ -111,7 +111,7 @@ function ServiceCard({ num, name, desc }: { num: string; name: string; desc: str
     >
       <div style={{
         fontFamily: 'var(--font-mono)',
-        fontSize: '16px',
+        fontSize: '20px',
         fontWeight: 500,
         color: 'var(--col-accent)',
         marginBottom: '14px',
@@ -121,17 +121,17 @@ function ServiceCard({ num, name, desc }: { num: string; name: string; desc: str
       </div>
       <div style={{
         fontFamily: 'var(--font-display)',
-        fontWeight: 600,
-        fontSize: '20px',
+        fontWeight: 900,
+        fontSize: '24px',
         color: 'var(--col-text-1)',
-        marginBottom: '10px',
-        letterSpacing: '-0.3px',
+        marginBottom: '12px',
+        letterSpacing: '-0.5px',
       }}>
         {name}
       </div>
       <div style={{
         fontFamily: 'var(--font-body)',
-        fontSize: '14px',
+        fontSize: '16px',
         lineHeight: 1.75,
         color: 'var(--col-text-2)',
       }}>

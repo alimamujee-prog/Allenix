@@ -1,29 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
-
-const carouselPhrases = [
-  'Generate more qualified pipeline',
-  'Cut proposal time from hours to minutes',
-  'Run leaner with fewer hires',
-  'Win deals your competitors cannot explain',
-  'AI-powered. Operator-built. Results-backed.',
-]
-
 export default function Hero() {
-  const [index, setIndex] = useState(0)
-  const [visible, setVisible] = useState(true)
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setVisible(false)
-      setTimeout(() => {
-        setIndex(i => (i + 1) % carouselPhrases.length)
-        setVisible(true)
-      }, 300)
-    }, 6000)
-    return () => clearInterval(interval)
-  }, [])
 
   return (
     <section style={{
@@ -60,24 +37,6 @@ export default function Hero() {
         WebkitMaskImage: 'radial-gradient(ellipse 80% 70% at 50% 50%, black 40%, transparent 100%)',
       }} />
 
-      {/* Eyebrow */}
-      <div style={{
-        fontFamily: 'var(--font-mono)',
-        fontSize: '14px',
-        fontWeight: 500,
-        letterSpacing: '3px',
-        textTransform: 'uppercase',
-        color: 'var(--col-accent)',
-        marginBottom: '44px',
-        display: 'flex',
-        alignItems: 'center',
-        gap: '14px',
-      }}>
-        <span style={{ width: '28px', height: '1px', background: 'var(--col-accent)', display: 'inline-block', opacity: 0.4 }} />
-        AI Operating Partner · Houston, TX
-        <span style={{ width: '28px', height: '1px', background: 'var(--col-accent)', display: 'inline-block', opacity: 0.4 }} />
-      </div>
-
       {/* Headline */}
       <h1 style={{
         fontFamily: 'var(--font-display)',
@@ -103,45 +62,17 @@ export default function Hero() {
         maxWidth: '600px',
         marginBottom: '60px',
       }}>
-        Allenix maps your workflows, builds your agents, and runs the system
-        until it works.
+        Allenix maps your workflows, builds your agents, trains your team, and runs the system until it works.
       </p>
 
       {/* CTAs */}
       <div style={{ display: 'flex', gap: '16px', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'center' }}>
         <a href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer" className="btn-primary">
-          Book a 30-Minute Call
+          Free Strategy Call
         </a>
         <a href="#how-it-works" className="btn-ghost">
           See How It Works
         </a>
-      </div>
-
-      {/* Rotating tagline carousel */}
-      <div style={{
-        marginTop: '56px',
-        height: '28px',
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        gap: '16px',
-      }}>
-        <span style={{ width: '20px', height: '1px', background: 'var(--col-accent)', opacity: 0.35, display: 'inline-block' }} />
-        <span style={{
-          fontFamily: 'var(--font-mono)',
-          fontSize: '16px',
-          fontWeight: 500,
-          letterSpacing: '2px',
-          textTransform: 'uppercase',
-          color: 'var(--col-accent)',
-          opacity: visible ? 1 : 0,
-          transform: visible ? 'translateY(0)' : 'translateY(6px)',
-          transition: 'opacity 300ms ease-out, transform 300ms ease-out',
-          whiteSpace: 'nowrap',
-        }}>
-          {carouselPhrases[index]}
-        </span>
-        <span style={{ width: '20px', height: '1px', background: 'var(--col-accent)', opacity: 0.35, display: 'inline-block' }} />
       </div>
 
       {/* Scroll indicator */}

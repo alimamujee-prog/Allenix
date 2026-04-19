@@ -1,5 +1,4 @@
 import Hero from '@/components/Hero'
-import StudiosSection from '@/components/StudiosSection'
 import ServicesGrid from '@/components/ServicesGrid'
 import UnitExplorer from '@/components/UnitExplorer'
 import CaseStudies from '@/components/CaseStudies'
@@ -13,7 +12,6 @@ export default function Home() {
   return (
     <main style={{ background: 'var(--col-bg)', color: 'var(--col-text-2)' }}>
       <Hero />
-      <StudiosSection />
       <ServicesGrid />
       <UnitExplorer />
       <CaseStudies />

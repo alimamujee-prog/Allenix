@@ -49,7 +49,7 @@ export default function CTASection() {
           color: 'var(--col-text-1)',
           marginBottom: '28px',
         }}>
-          If you took three weeks off tomorrow, what breaks first?
+          If you took four weeks off tomorrow, what breaks first?
         </h2>
 
         <p style={{
@@ -63,11 +63,11 @@ export default function CTASection() {
         }}>
           That question has one answer for most founders at your stage.
           It is also where Allenix starts.
-          Book 30 minutes. No pitch. No deck.
+          Book a strategy call. No pitch. No deck.
         </p>
 
         <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
-          <a href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer" className="btn-primary">Book a 30-Minute Call</a>
+          <a href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer" className="btn-primary">Book a Strategy Call</a>
           <a href="mailto:hello@allenix.com" className="btn-ghost">hello@allenix.com</a>
         </div>
       </div>
