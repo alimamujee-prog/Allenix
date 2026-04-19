@@ -1,6 +1,7 @@
 'use client'
 
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Footer() {
   return (
@@ -18,18 +19,17 @@ export default function Footer() {
         flexWrap: 'wrap',
         gap: '40px',
       }}>
-        {/* Wordmark + tagline */}
+        {/* Logo */}
         <div>
-          <div style={{
-            fontFamily: 'var(--font-display)',
-            fontWeight: 900,
-            fontSize: '20px',
-            letterSpacing: '-0.3px',
-            color: 'var(--col-text-1)',
-            marginBottom: '10px',
-          }}>
-            Allenix
-          </div>
+          <Link href="/" style={{ display: 'inline-block', lineHeight: 0 }}>
+            <Image
+              src="/logo.png"
+              alt="Allenix"
+              width={120}
+              height={72}
+              style={{ objectFit: 'contain', objectPosition: 'left center' }}
+            />
+          </Link>
         </div>
 
         {/* Nav */}
