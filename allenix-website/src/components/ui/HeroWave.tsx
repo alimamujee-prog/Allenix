@@ -114,6 +114,7 @@ export default function HeroWave() {
         height: '100%',
         imageRendering: 'auto',
         pointerEvents: 'none',
+        zIndex: 0,
       }}
     />
   )

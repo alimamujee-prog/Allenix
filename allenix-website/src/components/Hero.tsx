@@ -26,46 +26,52 @@ export default function Hero() {
         backgroundImage: 'linear-gradient(rgba(255,255,255,0.015) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.015) 1px, transparent 1px)',
         backgroundSize: '64px 64px',
         pointerEvents: 'none',
+        zIndex: 1,
         maskImage: 'radial-gradient(ellipse 80% 70% at 50% 50%, black 40%, transparent 100%)',
         WebkitMaskImage: 'radial-gradient(ellipse 80% 70% at 50% 50%, black 40%, transparent 100%)',
       }} />
 
-      {/* Headline */}
-      <h1 style={{
-        fontFamily: 'var(--font-display)',
-        fontWeight: 900,
-        fontSize: 'clamp(41px, 6.4vw, 82px)',
-        lineHeight: 1.04,
-        letterSpacing: '-2.5px',
-        color: 'var(--col-text-1)',
-        maxWidth: '960px',
-        marginBottom: '32px',
-      }}>
-        We slingshot your firm into the{' '}
-        <em style={{ color: 'var(--col-accent)', fontStyle: 'italic' }}>new AI era.</em>
-      </h1>
+      {/* Content — above canvas and grid */}
+      <div style={{ position: 'relative', zIndex: 2, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+        {/* Headline */}
+        <h1 style={{
+          fontFamily: 'var(--font-display)',
+          fontWeight: 900,
+          fontSize: 'clamp(41px, 6.4vw, 82px)',
+          lineHeight: 1.04,
+          letterSpacing: '-2.5px',
+          color: 'var(--col-text-1)',
+          maxWidth: '960px',
+          marginBottom: '32px',
+          textAlign: 'center',
+        }}>
+          We slingshot your firm into the{' '}
+          <em style={{ color: 'var(--col-accent)', fontStyle: 'italic' }}>new AI era.</em>
+        </h1>
 
-      {/* Subheadline */}
-      <p style={{
-        fontFamily: 'var(--font-display)',
-        fontWeight: 600,
-        fontSize: 'clamp(20px, 2.3vw, 24px)',
-        lineHeight: 1.65,
-        color: 'var(--col-text-2)',
-        maxWidth: '600px',
-        marginBottom: '60px',
-      }}>
-        Allenix maps your workflows, builds your agents, trains your team, and runs the system until it works.
-      </p>
+        {/* Subheadline */}
+        <p style={{
+          fontFamily: 'var(--font-display)',
+          fontWeight: 600,
+          fontSize: 'clamp(20px, 2.3vw, 24px)',
+          lineHeight: 1.65,
+          color: 'var(--col-text-2)',
+          maxWidth: '600px',
+          marginBottom: '60px',
+          textAlign: 'center',
+        }}>
+          Allenix maps your workflows, builds your agents, trains your team, and runs the system until it works.
+        </p>
 
-      {/* CTAs */}
-      <div style={{ display: 'flex', gap: '16px', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'center' }}>
-        <a href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer" className="btn-primary">
-          Book a Strategy Call
-        </a>
-        <a href="#how-it-works" className="btn-ghost">
-          See How It Works
-        </a>
+        {/* CTAs */}
+        <div style={{ display: 'flex', gap: '16px', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'center' }}>
+          <a href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer" className="btn-primary">
+            Book a Strategy Call
+          </a>
+          <a href="#how-it-works" className="btn-ghost">
+            See How It Works
+          </a>
+        </div>
       </div>
 
       {/* Scroll indicator */}
