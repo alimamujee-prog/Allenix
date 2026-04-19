@@ -25,6 +25,10 @@ const mono = IBM_Plex_Mono({
 export const metadata: Metadata = {
   title: 'Allenix — We slingshot your firm into the new AI era',
   description: 'Allenix maps your workflows, builds your agents, and runs the system until it works. Done for you. Not delegated to you.',
+  icons: {
+    icon: { url: '/favicon.png', type: 'image/png' },
+    apple: { url: '/favicon.png', type: 'image/png' },
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
