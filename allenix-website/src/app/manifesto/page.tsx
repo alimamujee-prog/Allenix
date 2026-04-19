@@ -1,4 +1,11 @@
 import Link from 'next/link'
+import ShareButton from '@/components/ShareButton'
+
+export const metadata = {
+  title: 'The Allenix Manifesto',
+  description:
+    'Allenix is a Houston-built firm installing agentic operating systems inside $5M–$50M professional services businesses. This document explains why it was built here, what we are building toward, and the ten-year bet behind it.',
+}
 
 export default function ManifestoPage() {
   return (
@@ -12,23 +19,41 @@ export default function ManifestoPage() {
 
           {/* ── Title block ── */}
           <div style={{ marginBottom: '16px' }}>
-            <h1 className="font-display" style={{
-              fontWeight: 900,
-              fontSize: '96px', lineHeight: 1, letterSpacing: '-4px',
-              color: 'var(--col-text-1)',
-              marginBottom: '16px',
-            }}>
-              1836
-            </h1>
+            <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', gap: '16px', marginBottom: '16px' }}>
+              <h1 className="font-display" style={{
+                fontWeight: 900,
+                fontSize: 'clamp(52px, 10vw, 96px)', lineHeight: 1, letterSpacing: '-4px',
+                color: 'var(--col-text-1)',
+                margin: 0,
+              }}>
+                The Allenix Manifesto
+              </h1>
+              <div style={{ flexShrink: 0, paddingBottom: '4px' }}>
+                <ShareButton ariaLabel="Copy link to the Allenix Manifesto" />
+              </div>
+            </div>
             <div className="font-display" style={{
               fontWeight: 600, fontStyle: 'italic',
               fontSize: '24px', color: 'var(--col-text-3)', letterSpacing: '-0.3px', marginBottom: '14px',
             }}>
               A manifesto for Houston
             </div>
-            <div className="font-mono" style={{ fontSize: '11px', fontWeight: 700, letterSpacing: '2.5px', textTransform: 'uppercase', color: 'var(--col-text-3)' }}>
+            <div className="font-mono" style={{ fontSize: '12px', fontWeight: 700, letterSpacing: '2.5px', textTransform: 'uppercase', color: 'var(--col-text-3)', marginBottom: '20px' }}>
               By Ali Mamujee
             </div>
+            {/* Reader summary */}
+            <p className="font-body" style={{
+              fontSize: '15px',
+              color: 'var(--col-text-3)',
+              lineHeight: 1.75,
+              fontStyle: 'italic',
+              margin: '0',
+            }}>
+              Allenix is a Houston-built firm installing agentic operating systems inside
+              $5M&ndash;$50M professional services businesses. This document explains why it was built
+              here, what we are building toward, and the ten-year bet behind it. Written for the
+              people who might want to build it with us.
+            </p>
           </div>
 
           {/* Divider */}
@@ -181,10 +206,10 @@ export default function ManifestoPage() {
               padding: '32px',
               margin: '36px 0',
             }}>
-              <div className="font-display" style={{ fontWeight: 900, fontSize: '13px', letterSpacing: '0.5px', color: 'var(--col-text-1)', textAlign: 'center', marginBottom: '4px' }}>
+              <div className="font-display" style={{ fontWeight: 900, fontSize: '14px', letterSpacing: '0.5px', color: 'var(--col-text-1)', textAlign: 'center', marginBottom: '4px' }}>
                 Allenix in 2036
               </div>
-              <div className="font-mono" style={{ fontSize: '10px', fontWeight: 700, letterSpacing: '2px', textTransform: 'uppercase', color: 'var(--col-text-3)', textAlign: 'center', marginBottom: '28px' }}>
+              <div className="font-mono" style={{ fontSize: '12px', fontWeight: 700, letterSpacing: '2px', textTransform: 'uppercase', color: 'var(--col-text-3)', textAlign: 'center', marginBottom: '28px' }}>
                 Three units. One brand. Built in Houston.
               </div>
 
@@ -210,11 +235,11 @@ export default function ManifestoPage() {
                     <div className="font-display" style={{ fontWeight: 900, fontSize: '14px', color: 'var(--col-text-1)', marginBottom: '3px' }}>
                       {unit.name}
                     </div>
-                    <div className="font-mono" style={{ fontSize: '9px', fontWeight: 700, letterSpacing: '1.5px', textTransform: 'uppercase', color: 'var(--col-accent)', marginBottom: '14px' }}>
+                    <div className="font-mono" style={{ fontSize: '12px', fontWeight: 700, letterSpacing: '1.5px', textTransform: 'uppercase', color: 'var(--col-accent)', marginBottom: '14px' }}>
                       {unit.role}
                     </div>
                     {unit.lines.map(line => (
-                      <div key={line} className="font-body" style={{ fontSize: '12px', color: 'var(--col-text-3)', lineHeight: 1.65 }}>
+                      <div key={line} className="font-body" style={{ fontSize: '13px', color: 'var(--col-text-3)', lineHeight: 1.65 }}>
                         {line}
                       </div>
                     ))}
@@ -223,7 +248,7 @@ export default function ManifestoPage() {
               </div>
 
               <div style={{ marginTop: '20px', paddingTop: '20px', borderTop: '1px solid var(--col-border)', textAlign: 'center' }}>
-                <div className="font-mono" style={{ fontSize: '10px', fontWeight: 700, letterSpacing: '2px', textTransform: 'uppercase', color: 'var(--col-text-3)', marginBottom: '5px' }}>
+                <div className="font-mono" style={{ fontSize: '12px', fontWeight: 700, letterSpacing: '2px', textTransform: 'uppercase', color: 'var(--col-text-3)', marginBottom: '5px' }}>
                   The outcome
                 </div>
                 <div className="font-body" style={{ fontSize: '13px', color: 'var(--col-text-2)', lineHeight: 1.6 }}>
