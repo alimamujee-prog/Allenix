@@ -50,7 +50,7 @@ export default function ManifestoPage() {
               margin: '0',
             }}>
               Allenix is a Houston-built firm installing agentic operating systems inside
-              $5M&ndash;$50M professional services businesses. This document explains why it was built
+              $5M–$50M professional services businesses. This document explains why it was built
               here, what we are building toward, and the ten-year bet behind it. Written for the
               people who might want to build it with us.
             </p>
