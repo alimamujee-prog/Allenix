@@ -1,10 +1,12 @@
 'use client'
 
-import HeroWave from '@/components/ui/HeroWave'
+import ShaderBackground from '@/components/ui/ShaderBackground'
 import { ShinyButton } from '@/components/ui/ShinyButton'
 
-export default function Hero() {
+const ANIM = (delay: string) =>
+  `heroFadeUp 0.9s cubic-bezier(0.22, 1, 0.36, 1) ${delay} both`
 
+export default function Hero() {
   return (
     <section style={{
       minHeight: '100vh',
@@ -16,37 +18,51 @@ export default function Hero() {
       padding: '140px 5% 100px',
       position: 'relative',
       overflow: 'hidden',
+      background: 'var(--col-bg)',
     }}>
-      {/* Animated teal wave canvas — behind everything */}
-      <HeroWave />
+      {/* WebGL shader background */}
+      <ShaderBackground />
 
-      {/* Grid overlay */}
+      {/* Dark vignette — ensures text stays high-contrast over the shader */}
       <div style={{
         position: 'absolute',
         inset: 0,
-        backgroundImage: 'linear-gradient(rgba(255,255,255,0.015) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.015) 1px, transparent 1px)',
-        backgroundSize: '64px 64px',
+        background: 'radial-gradient(ellipse 90% 90% at 50% 50%, rgba(6,8,10,0.38) 0%, rgba(6,8,10,0.82) 100%)',
         pointerEvents: 'none',
         zIndex: 1,
+      }} />
+
+      {/* Subtle grid overlay */}
+      <div style={{
+        position: 'absolute',
+        inset: 0,
+        backgroundImage: 'linear-gradient(rgba(255,255,255,0.012) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.012) 1px, transparent 1px)',
+        backgroundSize: '64px 64px',
+        pointerEvents: 'none',
+        zIndex: 2,
         maskImage: 'radial-gradient(ellipse 80% 70% at 50% 50%, black 40%, transparent 100%)',
         WebkitMaskImage: 'radial-gradient(ellipse 80% 70% at 50% 50%, black 40%, transparent 100%)',
       }} />
 
-      {/* Content — above canvas and grid */}
-      <div style={{ position: 'relative', zIndex: 2, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+      {/* Content */}
+      <div style={{ position: 'relative', zIndex: 3, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+
         {/* Headline */}
         <h1 style={{
           fontFamily: 'var(--font-display)',
           fontWeight: 900,
-          fontSize: 'clamp(36px, 5.2vw, 68px)',
+          fontSize: 'clamp(36px, 6.2vw, 76px)',
           lineHeight: 1.08,
           letterSpacing: '-0.5px',
           color: 'var(--col-text-1)',
-          maxWidth: '820px',
-          marginBottom: '32px',
+          maxWidth: '900px',
+          marginBottom: '28px',
           textAlign: 'center',
+          textShadow: '0 2px 32px rgba(6,8,10,0.95)',
+          animation: ANIM('0.1s'),
         }}>
-          We slingshot your company into the{' '}
+          We slingshot your company<br />
+          into the{' '}
           <em style={{ color: 'var(--col-accent)', fontStyle: 'italic' }}>new AI era.</em>
         </h1>
 
@@ -54,18 +70,27 @@ export default function Hero() {
         <p style={{
           fontFamily: 'var(--font-display)',
           fontWeight: 600,
-          fontSize: 'clamp(20px, 2.3vw, 24px)',
+          fontSize: 'clamp(17px, 2vw, 22px)',
           lineHeight: 1.65,
           color: 'var(--col-text-2)',
-          maxWidth: '600px',
-          marginBottom: '60px',
+          maxWidth: '560px',
+          marginBottom: '56px',
           textAlign: 'center',
+          textShadow: '0 2px 16px rgba(6,8,10,0.9)',
+          animation: ANIM('0.28s'),
         }}>
           Allenix maps your workflows, builds your agents, trains your team, and runs the system until it works.
         </p>
 
         {/* CTAs */}
-        <div style={{ display: 'flex', gap: '16px', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'center' }}>
+        <div style={{
+          display: 'flex',
+          gap: '16px',
+          alignItems: 'center',
+          flexWrap: 'wrap',
+          justifyContent: 'center',
+          animation: ANIM('0.44s'),
+        }}>
           <ShinyButton href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer">
             Book a Strategy Call
           </ShinyButton>
@@ -85,7 +110,9 @@ export default function Hero() {
         flexDirection: 'column',
         alignItems: 'center',
         gap: '8px',
-        opacity: 0.6,
+        opacity: 0.5,
+        zIndex: 3,
+        animation: ANIM('0.7s'),
       }}>
         <div style={{
           fontFamily: 'var(--font-mono)',
@@ -103,13 +130,14 @@ export default function Hero() {
         </svg>
       </div>
 
-      {/* Bottom fade */}
+      {/* Bottom fade to next section */}
       <div style={{
         position: 'absolute',
         bottom: 0, left: 0, right: 0,
-        height: '120px',
+        height: '140px',
         background: 'linear-gradient(0deg, var(--col-bg) 0%, transparent 100%)',
         pointerEvents: 'none',
+        zIndex: 4,
       }} />
     </section>
   )
