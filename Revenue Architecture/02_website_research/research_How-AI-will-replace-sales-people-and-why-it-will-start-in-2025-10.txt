@@ -1,0 +1,783 @@
+W I N N I N G B Y
+
+D E S I G N
+
+|
+
+R E S E A R C H
+
+P A P E R
+
+IN 2025, AI WON'T JUST ASSIST
+PEOPLE—IT WILL REPLACE THEM.
+By Jacco J. van der Kooij, Founder of Winning by Design.
+
+Starting in 2025, market leaders will leverage AI to replace 70% of
+their GTM efforts, and this shift will happen faster than expected.
+This transition will create a zero-day exploit for first movers, giving
+them an unprecedented advantage—one that will widen the gap so
+significantly and so fast that others won’t be able to catch up. GTM
+teams that lay the foundation for AI in 2025 will emerge as
+
+dominant market leaders in 2026.
+1. First Principle: The Buyer-Seller Asymmetry Flipped
+Over the past 100 years, sellers have had the upper hand in the buyer-seller relationship.
+Unsurprisingly, buyers have relied on them for knowledge and expertise, given their deep product
+knowledge, customer insights, and market understanding. It was only logical that sellers
+educate buyers on their challenges and market trends and offer solutions, giving them
+significant leverage throughout the sales cycle.
+Today, that power has flipped. With AI providing buyers with insights, they better understand
+their challenges and can independently identify the right solutions. This complete reversal in the
+knowledge gap has put buyers in control of the buying journey, rendering traditional seller-driven
+interactions across GTM motions increasingly irrelevant.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 1 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Figure 1. AI has caused the asymmetry of knowledge between buyer and seller to flip, favoring the buyer.
+
+The flip in knowledge asymmetry has made traditional seller-driven
+GTM strategies obsolete, creating a need for a new approach.
+
+Case in point: The Shift in the Doctor-Patient Relationship
+For decades, patients relied almost entirely on doctors for medical information,
+diagnoses, and treatment options. Today, thanks to the internet and accessible
+medical research, patients often arrive at appointments having already researched
+their symptoms and potential treatments. This shift has altered the dynamics, as
+doctors now engage with patients who are better informed about their conditions and
+treatment possibilities.
+Similarly, in the business world, buyers today engage with sellers with AI-powered
+insights, allowing them to deeply understand their needs and potential solutions
+before making contact. It flips the traditional knowledge imbalance between buyer
+and seller, shifting the seller's role.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 2 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+2. The Consequence: GTM Inefficiency
+Since the crash in 2022, growth has declined to about half, and the cost of growth has nearly
+doubled. GTM efficiency—the cost of acquiring one dollar of net new ARR—has spiraled out of
+control, leaving many with no immediate recourse.
+
+The underlying cause is that human sellers are too expensive, lack the knowledge to provide
+value in buyer-seller interaction, and cannot keep up with ever-changing needs. AI can solve this.
+
+Figure 2. GTM Efficiency rate over the past five quarters for public SaaS companies ( via Benchsights)
+
+In a recurring revenue business such as SaaS, GTM efficiency is often discussed in terms of two
+main challenges:
+●
+
+Scalability refers to situations with plenty of prospects (inputs), but businesses struggle
+because they rely on people to engage with those prospects and convert them into
+opportunities. Historically, this required hiring, onboarding, and training, which can take
+years, making human capacity the limiting factor. In this case, AI systems offer
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 3 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+near-instant, near-infinite scalability, allowing businesses to handle far more input without
+increasing human resource demands.
+●
+
+Sustainability: For most public companies, scalability alone is not the main issue—they
+already have tens of thousands of customers. However, they face uncontrollably high
+costs to retain and expand their business with these customers and win new ones. While
+scalability is limited by the time required to grow, sustainability is constrained by the high
+costs. Here, AI systems offer a significant advantage by operating at a fraction of the cost
+of human-driven processes while becoming more cost-effective as technology advances.
+
+AI can solve GTM inefficiency by instantly scaling processes and
+reducing costs, making growth both scalable and sustainable.
+
+3. Use of Systems to Scale Processes
+Like any other production system, revenue production can be divided into three core
+components: Process, Systems, and People—in that order. The key to solving GTM efficiency
+issues is to focus on refining the Process and integrating Systems (AI) to enhance both
+scalability (effectiveness) and sustainability (efficiency). Historically, B2B has become overly
+reliant on people (SDRs and AEs) to execute inefficient processes (GAAC), which has limited
+scalability. As demand for People grew, the finite supply of quality talent created a
+supply-and-demand problem. This drove up costs and contributed to ongoing GTM inefficiency,
+resulting in unsustainable growth.
+The solution, therefore, is simple: Don’t use AI systems to train people—for example, with
+co-pilots—because sales training shows that adoption takes too long due to ingrained habits,
+resulting in only marginal and linear gains. In a world that demands disproportionate growth,
+this approach falls short. Instead, the solution must focus on systems that deliver
+disproportionate gains to support and drive the disproportionate growth required for success.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 4 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Figure 3. The best use of AI is not to improve people's performance through co-pilots but to create
+disproportionate improvement by using AI to optimize the process entirely and replace the seller.
+
+Businesses can scale faster and sustainably by shifting focus to AI-driven processes that
+replace people entirely. This approach isn’t new. Revenue growth operates like a factory, and just
+as factories in the 1960s integrated robotics into their manufacturing processes, we leverage AI
+today to enhance and streamline GTM processes.
+
+AI can do more than assist people—it can replace people.
+
+4. Linear Systems Can’t Meet Exponential Growth Expectations
+Startups and scaleups aim for exponential growth, but many rely on a linear growth strategy
+centered around hiring more people. This approach creates scalability and sustainability
+challenges, as it cannot meet the demands of hypergrowth. Linear growth is constrained by the
+time it takes to recruit, onboard, and train employees—often up to 12 months—causing delays in
+capitalizing on market opportunities.
+In contrast, AI-based systems are inherently exponential. They can instantly scale capacity and
+enable businesses to respond in real-time to market demands. Companies adopting AI invest in
+systems that support scalability and sustainability, unlocking exponential growth without the
+limitations imposed by human resource constraints.
+Today’s market demands agility, with opportunities emerging and dissipating rapidly. Traditional
+linear approaches—relying on prolonged hiring and training cycles—risk missing these fleeting
+chances. The market landscape will shift when new personnel are fully operational. AI systems,
+on the other hand, can scale rapidly, allowing businesses to respond in real-time.
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 5 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Figure 4. The startup growth challenge has historically been the reliance on a linear, people-based
+approach in GTM roles to achieve exponential revenue growth. This reliance has significantly contributed
+to GTM inefficiency. In contrast, AI offers an exponential, system-based approach better suited to driving
+exponential revenue growth, with real-time feedback loops ensuring continuous market alignment.
+
+You can’t achieve exponential growth with a linear, people-based
+approach. The key to exponential growth lies in leveraging
+exponential systems powered by AI.
+Integrating AI into business operations unlocks exponential growth potential and provides the
+agility needed to thrive in today’s fast-moving markets.
+
+PLG wasn’t a fluke: It was an early Indicator.
+Product-led growth (PLG) wasn’t a fluke or a fad—it was an early glimpse into how
+hypergrowth could be achieved by prioritizing scalable processes and systems over
+traditional people-centric methods. PLG-driven companies, like Slack and Zoom,
+grew rapidly not by expanding sales teams but by optimizing the product
+experience to attract, convert, and retain users directly within the product. This
+approach shifted the focus from high-touch sales to a streamlined, low-friction
+customer journey that encouraged self-service and virality.
+PLG demonstrated that when processes and systems are engineered to align with
+customer behavior, growth can be achieved at a pace and scale that Outstrips
+traditional, human-reliant methods. PLG’s success hinted at a new paradigm:
+sustainable, scalable growth is possible when companies use data-driven insights
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 6 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+and automation to create seamless customer experiences. By systematizing the
+acquisition and retention processes within the product itself, PLG companies
+bypassed many of the limitations associated with people-dependent growth, laying
+the groundwork for AI-led growth (AILG).
+
+PLG proved that optimized processes and systems can
+drive hypergrowth. With AI processes and systems, we
+can reignite hypergrowth across every GTM motion.
+
+5. Understanding what AI can and cannot do
+The value proposition of AI in GTM can be divided into three categories akin to aspects of road
+construction. Think of it this way:
+●
+
+AI can do Simple tasks, like fixing potholes and putting up road signs.
+
+●
+
+AI can do Intermediate tasks, like building roads, consistently and at scale.
+
+●
+
+AI can do Complex tasks, like building bridges, which require technical expertise
+
+Now, combine this analogy with the three core benefits AI offers: it can do this cheaper, at higher
+volume, and help do this at a higher quality. This results in the following:
+1. Do it cheaper (Sustainability) – Build Roads.
+We currently pay many humans to perform basic tasks at a premium. AI can handle most
+of these tasks more cost-effectively.
+2. Do more (Scalability) – Fix Potholes.
+AI enables companies to handle more volume, such as road crews fixing potholes en
+masse. It also applies to support tasks like appointment setting, lead follow-up, and
+proposal generation, where AI can manage a higher workload without additional human
+resources. Thus, it allows businesses to scale rapidly without bottlenecks in support or
+enablement functions.
+3. Do it better (Durability) – Build Bridges.
+Just as building bridges requires skilled expertise, AI can augment human performance
+for more complex, specialized tasks like sales engineering or deliver personalized
+solutions to optimize customer engagement, such as strategic account management.
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 7 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+The Human-in-the-loop (HITL) Curve
+In AI, skill levels can often be treated equally due to the system's ability to execute tasks
+precisely, meaning the distinction between skill levels tends to dissipate. However, skill level
+often correlates with accountability and the impact of failure. For instance, failing to fix a
+pothole might cause an accident for a single car, but a bridge collapse could lead to massive
+economic damage and loss of life. This highlights that, in AI, we must shift focus from skill
+compensation toward accountability and the impact of failure.
+
+Figure 5. The Human-in-the-Loop Curve replaces the Skill/Compensation curve in a world where AI
+can manage many low-complexity tasks with minimal oversight (1:100), but higher-risk, complex
+tasks require full human oversight (1:1).
+
+The human-in-the-loop (HITL) concept explains this shift by emphasizing that the greater the
+potential consequences of failure, the more essential human oversight becomes. HITL ensures
+that humans are integrated into AI-driven processes when the risk of failure is high. In low-risk
+situations, AI can operate autonomously, but for high-stakes tasks, humans must intervene,
+review, and take responsibility where the cost of failure is significant. The HITL Curve balances
+the precision of AI with the necessity of human judgment based on the impact of potential
+failures.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 8 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Even the most advanced AI will require human oversight
+when the cost of failure is too great.
+
+Case in point: Taum Sauk Dam Failure
+The 2005 Taum Sauk Dam Failure highlights the need for human oversight in high-risk
+automated systems such as AI. The dam's sensors failed to control water levels, causing
+a catastrophic breach that released over a billion gallons of water.
+
+The incident underscores the importance of a high human oversight ratio for systems
+with catastrophic failure potential. While lower-risk tasks, like fixing potholes, may
+operate at a 1:100 oversight ratio, high-stakes infrastructure, such as dam operations,
+requires constant human monitoring. The faulty sensor could have been caught with
+proper human oversight, and the disaster could have been avoided. The HITL Curve
+illustrates that as the risk and impact of failure increase, so too must the level of
+human oversight.
+
+6. All Roads to Success Lead Through Systems & Processes
+The approach must combine AI System innovation with proven GTM Processes. Many
+companies use the Growth At All Cost (GAAC) approach. In effect, they either lack process, use
+the wrong process, or have the right process but execute it poorly. Adding AI Systems to any of
+these will likely worsen the situation.
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 9 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Figure 6. The Winning by Design GTM Diagnostic process and its outputs redirect from People Training to AI Training
+
+There are three steps to achieve an AI GTM approach:
+Step 1. GTMD-AI: Diagnose the AI readiness of the GTM team:
+●
+
+●
+
+Where across the customer journey can AI make an impact (which role):
+○
+
+Scalability, e.g., increased growth rate,
+
+○
+
+Sustainability, e.g., lower cost, or
+
+○
+
+Durability, e.g., improve quality.
+
+Based on this, what would be the priority of xxx
+
+Step 2: Train the AI. Establish the ICPs, customer journey, process, insights, key actions,
+etc., for any buyer segment and train the LLM.
+Step 3: Implement and Tune the AI. Deploy and fine-tune AI—measure leading indicators of
+success vs. a pre-sprint baseline. Evaluate results. Lean into specific moments where AI
+drove positive results and deploy these more broadly across the organization.
+The combination of proven GTM processes and AI systems will fix inefficiencies, enabling
+companies to scale sustainably and dominate future markets.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 10 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Figure 7. Determining the proper GTM process is no longer solely based on the product's price or revenue,
+which traditionally influences a company's investment in GTM efficiency. Instead, it is now driven by the
+preferred customer experience. This shift emphasizes that a successful GTM strategy prioritizes
+alignment with customer expectations, ensuring that financial success, scalability, and sustainability
+become natural outcomes.
+
+7. AI Lead Growth, or AiLG
+Now that we understand how we arrived here, the question becomes: Can we use AI to
+accelerate growth—and, if so, how? The answer lies in two key benefits: growing at a lower cost,
+freeing up resources to reinvest in expansion—what we call "do more, better"—and growing more
+intelligently, or "do better, better."
+Today, AI is almost exclusively applied to "doing more, better." AI is used to write more spam
+emails, send more impersonal LinkedIn invitations, engage in superficial conversations, and
+flood the industry with clickbait content. These are merely applications of outdated GAAC
+processes executed at a lower cost without meaningful innovation. This approach falls short of
+using AI to generate growth, or AiLG, as Amanda Kahlow from 1Mind coined.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 11 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+So, what do we mean by AiLG? We’re referring to "doing better, better." It means targeting the
+right customers, having meaningful conversations, and arriving prepared with insights about the
+people, the company, and their unique challenges. But it doesn’t stop there—it also involves
+responding faster, being available instantly, diagnosing needs more accurately, and offering
+consistent, transparent pricing.
+
+AiLG is about elevating the quality of every customer interaction, setting a
+new standard in customer engagement, and causing sustainable growth.
+To understand the full power of AI, we will separate it into two parts:
+●
+
+Part 1. AI-led Cost Reductions. and
+
+●
+
+Part 2. AI-led Growth
+
+Let’s start by learning more about AI-led cost reductions.
+
+Part 1. AI-led Cost Reductions
+The cost-benefit analysis is straightforward, based on two primary factors:
+●
+
+Lower Hourly Cost: In GTM and other knowledge-based roles, human-hour costs range
+from $30 to $300, leading to annual salaries between $60,000 and $600,000. In contrast,
+AI operates on a usage-based model at $2 to $20 per hour, representing just 6-7% of the
+cost of a human hour.
+
+●
+
+Higher Efficiency Rate: In knowledge-based work, humans typically operate with an
+efficiency rate of about 3:1, meaning it often takes 3 hours to deliver 1 hour of actual
+output. This starkly contrasts with simpler tasks, such as fruit-picking (almost 1:1) or
+construction (3:2). However, AI systems often achieve closer to a 1:1 efficiency rate,
+producing direct output per hour worked.
+
+Therefore, an accurate cost comparison should account for both hourly wages and efficiency
+rates. For human labor, this results in the effective cost per hour of output being multiplied by
+the efficiency rate (3).
+Note: AI excels in knowledge work that involves standardized, high-volume tasks where
+creativity relies on pattern matching. In comparison, processes requiring creativity, emotional
+intelligence, or out-of-context problem-solving—essentially, non-pattern-based tasks—will still
+require human involvement. AI will achieve a much lower efficiency in these areas.
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 12 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Table 1. The application of AI is particularly strong in low creativity roles, where its pattern recognition
+and matching capabilities excel. In SaaS sales, the buying and selling processes involved in GTM
+increasingly consist of low-creativity, high-volume tasks—conditions well-suited for AI. In contrast, more
+creative tasks, especially those required in deep enterprise sales, remain challenging for AI to perform
+effectively due to the need for nuanced judgment, customization, and complex relationship-building.
+
+High Physical Effort
+
+Low Physical Effort
+
+High
+
+Craftmanship (Dedicated Touch)
+
+Artist (High Touch)
+
+Creativity
+
+Creative work requires manual skill and
+physical labor, such as sculpting, culinary
+arts, and traditional craftsmanship.
+
+Tasks focused on creativity, originality,
+and emotional expression are often seen
+in art, design, music, and writing. The
+effort is cognitive rather than physical.
+
+Low
+
+Manual Labor (Medium Touch)
+
+Knowledge work (No/Low Touch)
+
+Creativity
+
+Physical skill and repetitive tasks but with
+minimal creativity. Think of Construction,
+manufacturing, and agricultural work.
+
+Intellectual skills, analysis, and technical
+expertise, but without physical effort.
+Think of data analysis, engineering, and
+accounting.
+
+Conclusion: The cost per hour of output generated by a human worker is effectively tripled to
+account for efficiency, resulting in $90 to $900, compared to $2 to $20 for an AI worker. As of
+2025, the cost of producing one hour of output in knowledge work through AI effort is
+approximately 2%—or 1/50th—of the cost of human effort.
+
+Growth Rate Is Valued at a Premium Over Cost-Efficiency
+While cost efficiency is essential for large SaaS companies with substantial recurring revenue,
+most pre-IPO SaaS businesses are primarily valued based on their growth rate. In venture-driven
+markets, particularly for companies with $1M to $1B in ARR, the growth rate often outweighs
+cost considerations by a factor of three to one. The growth rate reflects the startup’s
+momentum, customer demand, and scalability—acknowledging that cost-efficiency can be
+optimized later. However, due to increased market saturation over the past three years, growth
+rates have slowed by about half, intensifying the demand for rapid growth.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 13 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Table 2: Hypergrowth businesses, such as SaaS, mature through four stages of growth. The demand for
+AiLG to drive growth is most prominent in the Scalable and Sustainable maturity phases, whereas the need
+for AiLG to lower cost is more prominent in the Durable Growth stage.
+
+Cost-Efficient
+Growth
+
+Growth
+comes at a
+High Cost
+
+Volume-Based
+
+Relationship-Based
+
+More likely to result in high acquisition.
+
+More likely to result in high retention.
+
+MATURITY PHASE 3: $10M to $1B.
+
+MATURITY PHASE 4: Over $1B.
+
+Sustainable Growth
+
+Durable Growth
+
+Growth optimized for cost efficiency through
+scalable methods. It relies on a solid customer
+base and repeatable revenue streams, though it
+may not always expand consistently. This
+model emphasizes maintaining low costs while
+acquiring new customers steadily.
+
+Long-term, consistent growth is fueled by a
+loyal, returning customer base. This model
+relies on delivering a high-quality product with
+recurring impact. Durable growth is built on
+proven processes that enable growth without
+sacrificing quality.
+
+MATURITY PHASE 2: $1-10M.
+
+MATURITY PHASE 1: Up to $1M.
+
+Scalable Growth
+
+Founder-led Growth
+
+Achieves rapid, high-growth acquisition by
+investing heavily in acquiring new customers.
+Requires a high volume of leads and a strong
+conversion rate. With substantial resources,
+this model can lead to hypergrowth, though it
+comes at a higher cost.
+
+Growth driven by one-off deals or projects that
+often come at high costs and rely on the
+founder's unique expertise and relationships.
+This model can generate impactful short-term
+gains but is unsustainable in the long run, as it
+depends on specialized, non-repeatable efforts,
+making it challenging to scale without their
+involvement.
+
+Part 2. Ai Lead Growth
+AI-Led Growth, or AiLG, refers to the use of artificial intelligence to enhance both the efficiency
+(“doing more, better”) and effectiveness (“doing better, better”) of growth-related activities, such
+as sales and customer engagement. AiLG leverages AI to progressively optimize and automate
+complex tasks traditionally performed by humans.
+In sales, AiLG can be understood by breaking down the process into six core actions, each
+consisting of a number of micro-actions. As AI technology advances, AiLG goes through
+iterative improvements, referred to as Generations of AiLG (denoted as AI(n)), where each new
+generation achieves higher levels of autonomy and sophistication.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 14 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Figure 8. Progression of Six Actions performed by either Human Intelligence (HI), assisted by artificial
+intelligence (HI/AI), or entirely replaced by it (AI). Each action consists of micro-actions. It is these
+micro-actions where AI makes such a significant impact on performance.
+
+In 2022, human effort primarily drove sales processes (Human Intelligence, or HI). Over time, the
+integration of AI in sales has followed a progression: First, AI assists human efforts (HI/AI); in
+this case, AI supports but doesn’t replace human work. Think of summarizing the meeting. Next,
+we can see AI replacing human efforts (AI); it is here where AI autonomously performs tasks
+previously handled by humans.
+
+As AiLG matures, each generation of AI improves; it refines
+its capabilities, driving growth with increasing precision
+and autonomy; this causes a widening gap for first movers.
+This generational evolution represents continuous advancements in AI’s ability to lead and scale
+growth independently. As outlined in Stable 3, AiLG improves itself across both dimensions of
+Scalability and Sustainability. This points back to the maturity phases outlined in Table 2, which
+tells us that seeing marginal improvements from an AI-based sales system is very realistic.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 15 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Table 3. Dimensions of Scalability and Sustainability in AI-Led Growth (AiLG). Each represents a specific
+advantage of AI that contributes to either rapid expansion or long-term efficiency and resilience.
+
+Scalability of AiLG
+
+Sustainability of AiLG
+
+Speed: AI can make near-instantaneous progress
+and replicate improvements seamlessly across
+all AI agents.
+
+Cost Efficiency: AI operates at a lower cost.
+
+Capacity: AI can deploy unlimited capacity within
+seconds, handling extensive workloads without
+human constraints.
+Consistency: AI reliably reproduces processes
+accurately and efficiently, reducing variability and
+minimizing errors.
+Scale: Unlike human intelligence, which relies on
+exceptional individuals, AI scales based on
+improving the process.
+
+Resource Optimization: AI manages and
+allocates resources based on demand, reducing
+waste and maximizing utilization.
+Quality Control: AI maintains high standards of
+accuracy, minimizing rework and waste, leading
+to reliable, long-term quality.
+Continuous Learning: AI models are designed to
+learn and adapt over time, becoming smarter and
+more efficient with each iteration, reducing the
+need for frequent updates or manual
+intervention.
+
+Simplified Performance Calculations for AI-Led Growth (AiLG)
+The following metrics illustrate the incremental improvements in conversion rates at each stage
+of AiLG. These calculations are designed to reflect the general behavior of AiLG rather than to
+provide precise conversion rates for each action.
+1. Step 1: Human Intelligence (HI)
+○
+
+The initial conversion rate for a human action is set at 0.8 (80%). For example,
+the chance of a customer wanting to proceed after a discovery call is 80%.
+
+2. Step 2: Human + AI Assistance (HI/AI)
+○
+
+With AI assisting humans—such as preparing insights for a discovery call—the
+conversion rate improves slightly to 0.82 (82%).
+
+3. Step 3: AI Generation 1 (AI(1))
+○
+
+As AI becomes more integrated, leveraging scalability and consistency, the
+conversion rate increases to 0.84 (84%).
+
+4. Step 4: AI Generation 2 (AI(2))
+○
+
+Further refinement in AI capabilities boosts the conversion rate to 0.86 (86%).
+
+5. Step 5: AI Generation 3 (AI(3))
+○
+
+The conversion rate improves once again, reaching 0.87 (87%).
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 16 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+Through these stages, the performance of an AiLG-based system demonstrates incremental
+gains in conversion rates, highlighting the compounding effect of AI’s scalability and
+sustainability factors over time.
+
+Table 4. When we apply the marginal gains of AI to Human Intelligence (HI), we observe that the
+compounding nature of the acquisition process produces disproportionate results. For instance, an
+improvement from a 0.82 to 0.84 conversion rate represents a 2.44% increase. In an AiLG-powered system
+addressing 1,000 prospects against a product with a first-year revenue/customer of $20,000, the
+compounding effect could result in approximately $7,173,813 in revenue by 2026 compared to $5,373,952
+in 2022, marking a 33.49% increase.
+
+This analysis shows how AI-led growth (AiLG) can reignite
+growth at a fraction of the cost.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 17 of 18
+
+Research Paper
+
+In 2025, Ai Won't Just Assist People—It Will Replace Them
+
+October 2024
+
+8. To Jump Higher, You Have to Jump Over Backwards
+Early adopters of AI-led growth (AiLG) are poised to figure it out faster and gain momentum
+more quickly, creating a "zero-day exploit" that builds a widening competitive edge. We’re
+familiar with the understanding that AI evolves in successive cycles—GPT-3 to GPT-4 and
+beyond—each building on prior advancements. This means first movers streamline processes
+faster, establishing a significant advantage that catching up may be impossible for others.
+However, this path doesn’t come without risk; the shift to AiLG will undoubtedly be
+second-guessed and even ridiculed. At conferences, speakers will debate whether AiLG is like
+the first bird catching the worm or more like the second mouse who gets the cheese. Let me
+add this: In 1968, Dick Fosbury won Olympic gold by pioneering a new approach in the high
+jump: Jumping over backward. How did he know it would work? As a civil engineering student,
+Fosbury understood that the center of gravity, guided by principles of physics, would give him an
+edge over conventional techniques.
+
+Figure 9. The Fosbury Flop technique lowers the center of gravity compared to the traditional
+scissor jump, allowing for greater height in the high jump.
+
+What do the Bird, the Mouse, and the Fosbury Flop teach us? They show that those who adhere
+to scientific principles earn the reward. Similarly, early adopters of AiLG, harnessing the power of
+scientific insights, will create an advantage that compounds over time. These pioneers aren’t
+just winning—they’re setting a new standard that will reshape the playing field for years.
+
+To jump higher, we have to jump over backward.
+
+Winning by Design
+
+Experts in GTM for Recurring Revenue Busineses
+
+Page 18 of 18
+
+

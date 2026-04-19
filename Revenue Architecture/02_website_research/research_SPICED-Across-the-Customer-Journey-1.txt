@@ -1,0 +1,240 @@
+BLUEPRINT.
+
+SPICED Across the Customer Journey
+
+AM
+S P I CE D
+
+is used to ensure a
+smooth transition
+process for the customer
+when completing an
+internal handoff
+
+CSM
+
+AE
+
+SDR
+
+Without
+proper handoffs, the
+customer could fall
+through the cracks
+
+Figure 1: How to use SPICED as a bridge across the customer journey to maintain a consistent experience
+
+Customers interact with multiple teams and individuals throughout their
+journey with your company. Any time a customer transitions from one contact
+at your business to the next, there’s a risk: will your customer have the same
+wonderful experience with those new individuals that they’ve had so far? Or
+will they fall through the cracks? Having a smooth internal transition process
+between your teams can act as a bridge to ensure that customers have a
+seamless and consistent experience, regardless of who they’re talking to.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+1
+
+The impact of a strong internal transition versus a weaker one can be immense.
+When internal transitions are done poorly, the customer may feel like they’re
+wasting their time and money with a disorganized company, planting the seeds
+for buyer’s remorse and even churn down the road.
+When internal transitions are done well and consistently, they set the stage for a
+deep and long-lasting relationship with the customer, leading to growth from
+renewals, expansion, and also referrals. Customers who have a great experience
+with you not only want to continue working with you, but they also tend to tell
+their friends and colleagues about your solution. As a result, those people may
+become your customers too.
+Having a consistent structure for sharing information across your organization is
+the best way to transition accounts between teams and team members. Every
+SDR/AE/CSM/AM relationship is different, but having a consistent language
+and style of capturing information across teams will avoid miscommunication
+and save time. Best of all, it creates that bridge to ensure that customers have a
+great experience with your company.
+
+I CE D Framework for Handoffs
+The S P
+SPICED
+
+S
+
+P
+
+I
+
+CE
+
+D
+
+SITUATION
+
+PAIN
+
+IMPACT
+
+CRITICAL EVENT
+
+DECISION
+
+Situation: Efﬁcient context-setting in less than 30 seconds
+The ﬁrst step in any successful transition is to break down customer information
+into separate components. Whether you’re on the giving or receiving end of the
+customer handoff, capturing information in a logical order will help anyone in
+your company understand the customer’s situation in just a few seconds.
+Standardize this process so that everyone on your internal teams uses the same
+terminology and structure.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+2
+
+Examples of Situation questions to cover:
+● What’s the situation you uncovered about the customer?
+● What’s happening in their world that led them to your solution?
+● What industry are they in? What do they sell?
+● Who are their customers?
+● How many employees do they have?
+● What is their average contract value?
+● What is their revenue?
+
+Pain: Why they care
+Research and prospecting fulﬁll a critical role in identifying and understanding
+the pain a customer is experiencing. We ﬁnd pain by listening to what the
+customer verbalizes and then asking questions to uncover what’s beneath what
+they’re saying — and why they’re saying it now. Capturing what you learn about
+their pain allows everyone who works with this customer to align on what the
+customer wants to improve.
+Prioritize this pain in the notes, so your team knows where to start the
+conversation without asking the customer to repeat what they’ve already told
+you or another team member.
+This is critical: there is nothing worse from a customer’s perspective than feeling
+like they've already completed an explanation of their pain, only to be asked the
+same diagnosis questions again. Whenever customers hear something generic,
+especially after they’ve explained their speciﬁc pain and goals, they get
+frustrated because it gives them the impression that their last call was a waste
+of time.
+Before speaking with a customer, summarize what you know and add context or
+research to your questions instead of asking generic questions that force them
+to rehash known information. Have a clear idea of what the customer said and
+focused on previously so you start off looking like a rockstar!
+
+No context, low-quality question
+“I heard a lot of information from Jon, but I’d love to hear it from
+you. What are some of the top things you’re struggling with?”
+
+Proprietary And Conﬁdential | Winning By Design™
+
+Question with context to show you’ve done
+the transition internally
+“Jon mentioned to me that the top pain you’re looking to solve is
+consolidating your information into one dashboard so your team has
+the ability to prioritize your top customers. Is that right?”
+
+3
+
+Impact: What they want to get out of partnering with you
+Success in recurring revenue businesses depends on helping your customers
+reach their desired impact. During transitions, impact is the crux of why you’re
+partnering with your customer. The impact is the desired outcome they’re
+looking to achieve, and this can be a combination of rational and emotional
+impacts. Rational impact typically occurs at the company or functional level; it
+often involves revenue growth or other ﬁnancial impacts, such as cost savings.
+Emotional impact is usually felt at the personal level; it may include things like
+getting a promotion or being seen as a leader in the company.
+You may not get the chance to uncover impact during every call, but you can
+listen for cues in every conversation. For example, when a customer tells you, “If
+we’re able to solve this, it would help us achieve…” this is golden information that
+everyone on your team should be aware of. Remember, you don’t always have to
+uncover new impact in every conversation, but you must be attentive and listen
+to hear if it’s there.
+
+Critical Event: Their timeline
+A critical event is the timing that drives everything the customer cares about.
+Think of it as a deadline that has consequences if missed. Identify critical events
+by asking questions and listening for what happens if the customer does not
+achieve their desired impact on time. You can ask, “What would happen if you
+don’t achieve X by a certain date?”
+If they answer, “It’s no big deal. We’ve been like this for ﬁve years…” then it’s not a
+critical event. A true critical event might sound something like, “If I don’t do it by
+September 1st, my job is on the line, my team's job is on the line, and we might have
+to go through layoffs.”
+Be opportunistic when you hear your customer mention anything about time.
+When a customer mentions they’re looking to achieve something by a certain
+date, mirror their language and ask why that’s important.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+4
+
+As you continue a partnership with customers year after year, both impact goals
+and critical event timelines should be updated to align with any new executive
+priorities or changes in the direction your customer is heading. Make sure to
+keep in touch with multiple executive stakeholders to learn how your
+partnership aligns with new business goals. If you become complacent, your
+competitors may use this as a way to replace you by becoming better aligned
+with the customer’s changing impact goals and critical events.
+When you uncover new opportunities or changes in priorities, ensure this
+information is documented in a central place for all team members working with
+the customer to access. Of course, if you discover business-critical or
+time-sensitive information, be proactive and share it with the relevant internal
+stakeholders directly, in addition to documenting.
+
+Decision: How to earn commitment
+To help the customer make a decision, it’s essential to verify the steps and
+people involved in making that decision. This may change year over year as your
+customer’s company scales or your partnership reaches a certain commitment
+level (e.g., above $10K ARR). Knowing these steps and sharing them with your
+team will help you deliver against them faster and more effectively.
+For more complex deals, be sure to outline not just the steps but the decision
+criteria your customer is using to evaluate whether or not to go with your
+solution, a competitor, or the status quo. If you have a high-velocity deal,
+documenting the decision process is usually sufﬁcient.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+5
+
+Completing the Internal Handoff
+Now that you have your notes in the SPICED framework, how do you use them
+to perform an easy and effective transition?
+If you’re taking over a new customer — whether a net-new customer from Sales
+or an existing customer from a CSM or AM — ﬁrst review the SPICED notes that
+are stored centrally for all to access. Second, meet with the person transitioning
+off of the account to ask questions and discuss any nuances, including the
+customer’s sentiment, expectations, unique or unusual use cases, and any
+potential surprises that may arise.
+This meeting can be synchronous or asynchronous; if scheduling a live meeting
+is a challenge, try communicating by sending short videos back and forth.
+Hold internal meetings before every important customer meeting. This is a
+powerful way to create an aligned, professional experience for the customer that
+sets you up for success. This meeting can be as short as 90 seconds for a
+straightforward transition or as long as 30 minutes if you need to go through the
+history and strategy of the customer or other complex information.
+Give your team concise notes in the SPICED structure. They'll know exactly
+what to look for, and in 90 seconds they can read and highlight the most
+important details. You can even record a video on your phone discussing these
+notes and send it in a quick message to your colleague.
+Most importantly, keep in mind that successful transitions are all about
+consistency, accountability, and a customer-centric mindset. Hold your team
+accountable for sharing and leveraging each other's notes. Your colleagues will
+love you for it, and all your hard work will turn customers into raving fans.
+
+Proprietary And Conﬁdential | Winning By Design™
+
+6
+
+ADDITIONAL RESOURCES FROM
+
+Videos available on
+the WbD YouTube Channel
+
+Proprietary And Conﬁdential | Winning By Design™
+
+Additional open source
+templates can be accessed at
+www.thescienceofrevenue.com
+
+7
+
+

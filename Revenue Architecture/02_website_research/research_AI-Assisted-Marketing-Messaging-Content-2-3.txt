@@ -1,0 +1,706 @@
+RESEARCH BRIEF
+
+AI-ASSISTED MARKETING:
+MESSAGING & CONTENT
+By Jim Hopkins, Revenue Architect at Winning by Design
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+AI-Assisted Marketing: Messaging & Content
+By Jim Hopkins, Revenue Architect at Winning by Design
+
+Research conducted Q2 2025
+
+Research Abstract
+This research dives into the current and future state of AI-assisted marketing, with a
+speciﬁc focus on messaging and content development. We outline AI’s capabilities
+with regard to content development, why that matters in the context of growth, how
+to implement AI into your marketing approach, and what vendors to consider as
+partners in this journey.
+For those looking to implement these approaches, the full version includes a
+feature-level vendor comparison and a ready-to-use RFP template, available to Winning
+by Design Advisory Access subscribers.
+
+CEO Take
+The pipeline creation playbook most marketing teams have been deploying since
+the 2010s no longer works. It has become stale, ineffective, and too expensive to
+sustain. We see this in cost-per-lead and cost-per-ARR-dollar ﬁgures that have been
+consistently climbing since 2022.
+AI can reduce the cost and time required to execute existing programs. But the real
+promise is increasing reach and volume via new, AI-led initiatives. We’ve seen
+examples of orchestrated and automated implementations that conﬁrm the
+potential for AI to completely revolutionize the marketing and pipegen playbook,
+turbo-boosting growth to new levels.
+With the growth-at-all-cost era decidedly over, and marketing historically being one
+of the largest budgets in GTM, companies that don’t take advantage of AI in
+marketing will continue to spend more heavily and grow more slowly than their
+competition. And as AI-assisted marketing solutions get closer to the promise of
+true marketing automation - delivering the right message, at the right time, on the
+right channel, to the right person - companies who haven’t built the initial processes
+and infrastructure will be left too far behind to recover.
+
+May 1, 2025
+
+1
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+Strategic Insights
+Given marketing’s range of responsibilities, it’s wise to focus initial AI investments on
+speciﬁc tasks or programs that provide the most tangible and highest-priority impact
+for the business - awareness and pipeline. In general terms, marketing teams focus
+awareness and pipeline efforts in three areas:
+1. Paid channels - advertising, events, sponsorships, etc.
+2. Owned channels - website, organic social, email, etc.
+3. Earned channels - public relations, search (SEO), analysts, review sites, peer
+communities, etc.
+The foundational element across all three channels is messaging and content. AI
+Marketing platforms have clearly noted the importance of messaging and content
+and made it a priority for their initial offerings. Accordingly, this brief is focused on the
+use of AI to assist marketing teams in creating and delivering messaging and content
+across channels.
+Messaging and content includes the work done by product marketers, brand
+managers, communications teams, and content marketers to translate company
+values, vision, and strategy into formats that draw attention from ideal customers
+(ICPs, or ideal customer proﬁles). Effective messaging and content helps marketing,
+and the rest of the GTM team, signal to ICPs that:
+1. The company understands the pains they’re dealing with, and
+2. The company has solutions that can help them solve their pains and achieve the
+impact they seek.
+Traditionally, messaging and content work would require teams to invest time and
+resources in a process similar to the one outlined in Figure 1 below.
+
+May 1, 2025
+
+2
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+MESSAGING & CONTENT PROCESS
+
+Inputs
+
+Writing/Creating
+
+Activation
+
+MARKETING TEAM
+
+Product Marketer (PMM), Content
+Marketer, Comms/PR, Ops
+
+Writer, PMM, Content Marketer,
+Comms/PR, Subject Matter Expert
+
+Marketing/Program Lead
+
+EXTERNAL
+
+Agencies, Data Sources, Vendors
+
+Agency, Freelancers
+
+Technologies, Channels
+
+PLAYERS
+
+Days-to-Weeks
+
+One-off (App) or Programmatic
+(API)
+
+AI TOOLS
+
+Integrations
+
+Minutes
+Figure 1. Legacy messaging & content development processes take days-to-weeks. AI promises to
+reduce portions of that process to minutes.
+
+Most AI marketing solutions available today have started by focusing on the
+“Writing/Creating” step of this process. AI ﬁlls the role that a writer, freelancer, or
+agency would normally play in this step. AI produces a draft piece of messaging and
+content in a matter of seconds vs. the days or weeks it might take for humans to do
+similar work. Vendors in this space have developed apps, workﬂows, or wizards that
+make it easier to prompt AI for speciﬁc writing tasks by format - blog, whitepaper,
+social post, product description, etc.
+
+AI is able to produce a draft piece of
+messaging and content in a matter of
+seconds vs. days or weeks.
+
+May 1, 2025
+
+3
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+Judging the quality of messaging and content can be subjective. Most agree though,
+that inputs and instructions play a signiﬁcant role in output quality - both with
+humans and AI. For this reason, AI marketing platforms include capabilities to
+establish these inputs and instructions up front, speeding up the creative process,
+and simultaneously ensuring quality:
+● Brand voice parameters–including style, format and key words or phrases
+● Persona templates–format and process for developing ICP and persona
+descriptions that serve as input to messaging creation
+● Research process–standard process for independently conducting research on
+the target market for incorporation into content
+● Content templates–standard approaches to creating various asset types,
+including internal documents (e.g. conversation cards, positioning documents,
+creative briefs) and externally facing assets (e.g. blog posts, customer stories,
+product descriptions)
+In all of this there are three levels of execution where marketing teams could take AI
+messaging and content solutions:
+1. Assistive: Making individual contributors - PMMs, Content Marketers, et al - more
+productive by taking their inputs and acting as the writer, producing the content
+and messaging that they can then reﬁne and activate on speciﬁc channels for
+individual programs. This level is estimated to deliver 3-5x more productivity
+(more content, programs → pipeline), while reducing costs.
+2. Orchestrated: Supercharging entire programs or channels by creating an
+integrated ﬂow that allows for messaging and content production at scale.One
+common use case is an email/nurture program that takes inputs from large
+datasets, uses them to produce personalized and relevant messages, and
+delivers them to target audiences. Another is analyzing and recommending an
+SEO strategy, setting up an ongoing content creation schedule, then
+writing/producing content that gets prepped and published via integration. This
+type of use case gets us to more exponential gains, with reports showing 5-10x
+productivity/pipeline, and even more reduction in costs.
+
+May 1, 2025
+
+4
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+3. Autonomous (Real Marketing Automation): AI solutions take on more of the
+complete process of messaging and content, including more tools for developing
+inputs, and then more automatically activating/delivering it. This is the fulﬁllment of
+the visions of “Marketing Automation” from many years ago. Unlike traditional tools
+limited to lead databases and email campaigns, AI-powered marketing automation
+will organize signals, analyze them, and autonomously decide which messages to
+send, when, and through which channels — all with minimal human intervention. This
+use case is still in vision/roadmap status, but it holds the promise of transformation
+that delivers logarithmic productivity and savings.
+Most vendors analyzed for this research offer apps/platforms, and even free trials, that
+deliver “Assistive” beneﬁts. These apps allow marketers to use a workﬂow to provide
+inputs and prompt the AI to write something, usually focused on a speciﬁed format or
+channel. While several vendors told stories of customers taking advantage of
+“orchestrated” beneﬁts, this still requires a non-trivial amount of human-in-the-loop
+setup, conﬁguration, and integration with other solutions. In most cases, the AI solution
+is being used purely as the “writing” mechanism in the ﬂow, with inputs coming from a
+data source, system, or the like, and activation happening via integration with an email
+platform, marketing automation tool, or website/content management system.
+Industry averages for marketing spend put content marketing at around 25% of the total
+budget, with writing or agency fees ranging from $5-50k/month depending on size and
+volume. With an AI solution in the hands of a core group of strategic marketers, we
+estimate immediate cost savings of 90-95%. When calculating time savings, we should
+factor in not only creation time, but also waiting time. With quicker turnarounds, for
+content creation and review, our research indicates that AI-assisted programs could
+easily double the number of assets produced and/or campaigns run (2x). Other research
+and customer stories highlight improvements in quality of engagement and conversion
+rates through the increased ability to be more targeted and personalized with messaging
+and content at scale, meaning more pipeline at a lower cost. Taking this into
+consideration, we estimate conversion rates can improve at an average of 40% when
+leveraging more targeted and personalized AI-assisted messaging and content.
+
+May 1, 2025
+
+5
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+As AI-assisted marketing matures, other areas of the marketing function could be
+impacted. While this report focuses on one facet of marketing – messaging & content several vendors offer solutions that dabble in other marketing tasks. AI has the
+potential to support more marketing use cases including:
+● Strategy - prioritization, targeting, goal setting, budgeting and performance
+measurement
+● Demand Creation - campaign planning, media planning, creative optimization,
+automated interactions/engagement
+● Demand Capture - form replacement, lead database management, scoring, routing
+● Enablement - training, certiﬁcation, feedback, voice-of-customer,
+resource/document management
+Some B2B marketing teams may be responsible for the prospecting function, and so
+may be involved in employing AI agents for inbound and outbound lead development
+(see AI SDR Agents Research here »). This could likely involve transitioning demand
+capture mechanisms, setting up the digital presence, and adjusting lead ﬂow to support
+the use of AI agents. The future could see more agentic presence on digital channels
+owned by Marketing - a digital concierge replacing a more traditional “brochure” website
+or content repository. For now, Marketing’s AI maturity is at stage 2 (see ﬁgure above),
+mostly replacing the roles that might currently be done by agencies, consultants, and
+freelancers.
+
+Practical Insights: Implementation
+Identifying Opportunities
+Within an initial focus on the marketing sub-discipline of messaging & content, there
+are a variety of possibilities for testing and implementing AI. Start by working with your
+messaging & content leaders to assess the current state of programs and assets. Are
+there gaps - areas where we have outdated or missing messaging, or channels/formats
+where we’re lacking content? Are we underperforming in some area - a particular
+channel with low engagement, an ICP that’s not converting well, etc.?
+
+May 1, 2025
+
+6
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+Are there desired methods or levels of personalization the team has not been able to try
+because of limitations in bandwidth or budget? Test one or more of the AI solutions’
+content analysis/recommendation features to see if it can adequately identify
+opportunities based on competitors, keywords, traﬃc patterns, SEO, style, etc. You may
+even do some internal research, surveying or interviewing team members to ﬁnd out if
+there are messaging and content gaps or opportunities you haven’t seen.
+Below are several examples of where AI could make an impact for speciﬁc messaging
+and content jobs-to-be-done:
+
+Category
+
+Before AI
+
+After AI
+
+Foundational
+Messaging
+(One-Off)
+
+Manual brand workshops,
+stakeholder interviews, iterative
+reviews to deﬁne positioning,
+tone, voice
+
+AI-assisted synthesis of stakeholder
+input, instant tone/voice modeling,
+dynamic brand guide generation
+
+Limited by expertise, bandwidth unable to cover all segments, ICPs.
+
+Product
+Messaging &
+Documentation
+
+Demand Gen
+Content
+
+Campaign
+Creative
+
+May 1, 2025
+
+Produce several options and iterate
+quickly.
+Cover all segments thoroughly.
+
+PMs or marketers write copy
+with SME reviews, often delayed
+or incomplete.
+
+AI trained on product materials
+generates clear messaging and
+user-facing docs with SME prompts.
+
+Manual tracking and organizing to
+update with new releases,
+launches, etc.
+
+Fit into tight product launch
+timelines.
+
+Content strategists and writers
+draft blogs, eBooks, and webinars
+manually, often limited by
+bandwidth, budget, and timelines.
+
+Quick turnaround of ideas, outlines,
+and drafts at signiﬁcantly lower
+cost.
+
+Brainstorming sessions, creative
+briefs to agencies, lengthy review
+cycles for copy and creative
+concepts.
+
+AI suggests campaign themes,
+headlines, visuals, and variations in
+minutes, enabling faster testing.
+
+Cover more product areas with
+fewer resources.
+
+Any number of versions by segment,
+industry, persona, region, etc.
+
+No agency necessary.
+
+7
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+Category
+
+Before AI
+
+After AI
+
+SEO & Website
+Content
+
+Keyword research, slow drafting
+of optimized content, manual
+A/B testing for performance.
+
+AI auto-generates SEO content from
+key terms and audience intent; tests
+variations and adapts dynamically.
+
+Maintain/keep up with production
+calendar to see best results.
+
+Schedule ahead of time and spend
+time on reﬁnement/strategy.
+
+Long cycles for drafting, approval,
+testing; performance-driven by
+experience.
+
+AI crafts copy for nurture,
+promotions, and triggers using
+customer behavior patterns and
+performance data
+
+Email
+Programs
+
+Limited by bandwidth to large
+segments and blasts,
+token-based customization.
+
+Can deliver 1:1 personalization at
+scale and improve
+engagement/response (limited only
+by audiences/targets)
+
+Organic
+Social
+
+Content calendars created
+manually; limited team capacity
+for timely or reactive posts.
+
+AI schedules and writes social
+content - with multiple variations across platforms, adjusting tone per
+audience.
+
+PR & Thought
+Leadership
+
+Execs or ghostwriters spend hours
+crafting op-eds or interviews,
+making it hard to scale.
+
+AI helps generate outlines and drafts
+in authentic voice from bullet points
+or past writing.
+
+Fire-drills to quickly draft and
+reﬁne content on tight timelines.
+
+Organize and schedule content in
+well in advance.
+
+Outreach
+Messaging
+
+SDR teams or marketers manually
+write scripts and follow-ups, with
+limited A/B testing cycles.
+
+AI tailors outreach for segments or
+individuals based on ﬁrmographic
+and behavioral data; can auto-test
+variants.
+
+Sales /
+Enablement
+Content
+
+Reps rely on slide decks,
+one-pagers created by marketing
+with long update cycles.
+
+AI dynamically generates updated,
+segment or persona-speciﬁc
+collateral and resources based on
+needs and/or data inputs.
+
+Table 1. Messaging and content jobs-to-be-done before and after AI
+
+Once you identify an opportunity, you can begin to plan how to apply an AI
+solution to address it.
+
+May 1, 2025
+
+8
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+People
+Product Marketing and/or Content Marketing are often the key roles responsible for
+messaging and content, with some involvement of Brand/Communications/PR.
+Leaders of these teams should be tasked with piloting AI solutions to aid their work,
+and collaborate with Marketing Leadership, Operations, and other peers to set up more
+orchestrated or automated workﬂows, measure performance, and explore more
+transformational use cases.
+For “Assistive” use cases, AI solutions will serve as aides or copilots. Your team will
+need to gather and/or connect inputs in the role of strategist, editor, or creative director.
+AI will be able to help synthesize and organize those inputs and offer recommendations
+or guidance, then ﬁll the role of writer and creator. In this scenario, solutions like those
+reviewed for this research offer workﬂows or apps that are speciﬁc to a content format
+or channel, suggesting the info the user might provide as inputs to get an ideal result.
+If you’ve invested in writing capabilities as part of your team, those roles can be shifted
+into more editor/creative director roles. AI will enable team members with messaging
+and content skills to think more strategically and focus on higher value tasks, while
+increasing productivity.
+In “orchestrated” use cases, AI solutions will be used as a link in the chain, likely
+connected to other systems and tools to serve a complete program. In this scenario,
+you’ll likely need a small group of marketing team members that includes Ops,
+PMM/Content, and Demand Generation to help with setup and ongoing monitoring and
+optimization of the program.
+As AI solutions for marketers proliferate, we see teams becoming more productive and
+therefore leaner. Marketers will no longer need to have advanced writing skills, or a
+portfolio. The marketer who is adept at conducting and orchestrating strategic
+programs will be able to build and execute the programs herself, without an army of
+specialists to wrangle. This may mean that there will be fewer opportunities for the
+marketing specialist with skills that overlap with AI capabilities. Those who embrace
+these solutions, and their potential for transformation vs. kung-fu gripping the old
+playbooks, will be better equipped to thrive in an AI-powered future.
+
+May 1, 2025
+
+9
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+Process
+Using AI as a writer/creator in the messaging and content use cases listed above is the ﬁrst
+and most obvious deployment. Considering the full messaging and content development
+process (ﬁgure 1), there may be additional offerings and strengths the AI solutions has,
+including:
+● Helping gather, parse through and summarize inputs like large amounts of data,
+research, or other content to inform messaging and content — especially in an
+orchestrated scenario
+● Creating and reﬁning briefs, instructions, outlines, or prompts for creating the content sometimes for use with other AI or creative solutions
+● Reviewing and reﬁning for style adherence, with editing suggestions
+● Preparing content for publishing, adding production-ready elements, or leveraging
+integrations or workﬂows for “going live”
+Some solutions may be able to self-optimize or learn, requiring the most human involvement
+in initial setup and conﬁguration then reducing over time. Getting to the Goldilocks point
+where you can trust the AI to produce messaging and content that is “just right” will take
+testing, reﬁnement, and hands-on editing. Successful teams use a pilot project or test
+campaign with heavy human oversight to gauge the following for their selected solution:
+● How much effort of input does the solution require - upfront for set up, and ongoing?
+● Is the output quality satisfactory? Is it able to improve with additional direction? How
+much human review is required to get the outputs to an approved state?
+Compare the results of the test campaign to your legacy, non-AI messaging and content
+process. A positive signal would be that you are able to achieve a comparable output
+(measured in engagement or conversions) for a similar or lower level of human effort, while
+reducing costs and time in the writing/creation steps. The assumption then, is that
+optimizations and scale will offer even better eﬃciencies and cost savings. A test could look
+something like below, taking the example of a single blog post:
+
+May 1, 2025
+
+10
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+Metric
+
+Legacy/Non-AI
+
+AI Solution X
+
+Content Creation Time
+
+4 hours (2 days wait/edit)
+
+30 minutes
+
+Engagement
+
+100 views/mo
+
+100 views/mo
+
+Conversions
+
+5
+
+10
+
+Marketing time per converted
+lead
+
+48 min (plus wait time)
+
+3 min
+→ 93% savings
+
+Table 2. Sample calculation comparing legacy content creation methods to an AI solution
+
+Systems
+It’s important to design pilot programs and evaluate solutions based on the answers to
+some of the following questions about solution capabilities and features:
+Foundation/Setup:
+● How do we incorporate or develop guardrails around our brand guidelines (voice, tone,
+style, etc.), strategy, and goals?
+● What inputs are required for generating messaging and content and how are they
+collected - is it a guided wizard/ﬂow, templates for prompts, free form/text prompts, or
+some other mechanism?
+● What assessment, audit, analysis, or recommendation tools are available?
+● Which LLMs (Large Language Models) does the solution leverage? What are the
+strengths and weaknesses of the model(s)?
+● How will you check, measure, and ensure quality? What editing, approval, and
+collaboration capabilities will we need?
+● What orchestration capabilities does the solution have - automated content production?
+● What can be done via integration (inputs and outputs)?
+● How much human involvement will be required to publish or put content into
+production?
+
+May 1, 2025
+
+11
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+Formats
+Are the messaging and content formats you need covered?
+❏ Product Messaging
+
+❏ Long Form Content (eBook, Whitepaper,
+Thought Leadership, etc.)
+
+❏ Presentations & Slides
+❏ Advertising Concepts
+
+❏ Press Releases
+
+❏ Advertising Copy
+
+❏ Email (one-off/blast)
+
+❏ Advertising Creative
+
+❏ Email Programs/Sequences
+
+(Text vs. Image vs. Video)
+❏ Social Media Posts
+
+❏ Multi-Channel Sequences (lead dev/prospecting)
+❏ Website/Landing Pages
+(concept vs. copy vs. design)
+
+❏ SEO Content (keyword-based)
+❏ Blog Posts (types: listicle, how-to,
+problem-solution…)
+
+❏ Video Concepts/Scripts
+❏ Video Production/Clips
+❏ Other?
+
+Vendor Selection
+● What resources would be available to you as a customer?
+● Do roadmap capabilities match the vision for your marketing strategy?
+● Where in the roadmap are they adding orchestrated/automated content
+program capabilities?
+● Is the roadmap pointed toward AI-marketing automation - more
+autonomous marketing campaigns?
+● What have other peers or similar customers been able to achieve that
+would be impactful to your business too?
+
+May 1, 2025
+
+12
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+Final Word: The AI Marketing Revolution Is No Longer Optional
+The hype around AI is intense, but marketing teams cannot wait until 2026, when it will
+be too late, with competitors on the next wave of evolution. Marketers who take
+advantage of AI to enhance messaging and content development are experiencing
+unprecedented eﬃciencies—reducing production timelines from weeks to hours while
+simultaneously seeing improved quality, unprecedented levels of personalization, and
+new audience reach. As marketing budgets face increasing scrutiny in a
+post-growth-at-all-cost era, the productivity gains and cost savings associated with AI
+implementation will soon shift from advantage to necessity. Using the rapidly maturing
+solutions in messaging and content as a center of gravity, teams that learn and evolve
+with these technologies and partner with vendors will be able to more effectively
+expand to other typical marketing uses, then evolved playbooks, and on to currently
+unimagined methods.
+
+Want to make this happen?
+Book Time with an Advisor
+
+May 1, 2025
+
+13
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+SUPPLEMENTARY MATERIALS
+The following supplementary materials are available in the full version
+of this report, available to subscribers in the reference library. For more
+information on subscribing, see winningbydesign.com/access-pass.
+
+01 Vendor Descriptions
+02 Vendor Comparison
+03 RFP Template
+04 Content for Multiple Touches
+
+May 1, 2025
+
+14
+
+AI-Assisted Marketing
+
+Winning by Design Proprietary
+
+READ OUR OTHER AI AGENT RESEARCH REPORTS
+
+AI AGENTS: RESEARCH ACROSS THE BOWTIE
+
+Like what you read?
+Send to a Colleague
+
+May 1, 2025
+
+15
+
+

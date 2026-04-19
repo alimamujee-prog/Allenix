@@ -1,0 +1,692 @@
+RESEARCH BRIEF
+YOUR NEXT SOLUTION ENGINEER MAY
+BE AI - AND THAT’S A GOOD THING
+HOW AI IS MASTERING TECHNICAL
+ASPECTS OF SELLING
+By John Grispon, Revenue Architect at Winning by Design
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Your Next Solution Engineer May Be AI and That's a Good Thing: How AI is
+Mastering Technical Aspects of Selling
+By John Grispon, Revenue Architect at Winning by Design
+Research conducted Q2 2025
+
+Research Abstract
+As complex B2B sales demand faster and more scalable technical support, AI is
+stepping in to bridge the gap. This report uncovers how AI-driven presales solution
+engineering tools are both augmenting and replacing human teams.
+
+CEO Take
+Sales reps don’t need to be solution engineers (SEs), but now every rep can operate
+like they have a technical expert in the room. That’s the promise of AI presales SEs.
+Whereas GTM teams have typically been staffed with only one SE for every four
+Account Executives (AE), this limitation is lifting with the advent of AI. Today’s AI
+presales SE solutions are viewed as assistants rather than replacements for human
+SEs, but as AI solutions become more capable, they will take over more routine
+tasks. This allows AEs and SEs to redirect their energy toward multithreading,
+solution design, stakeholder management, and relationship-building.
+Today’s AI SEs can assist human SEs with ﬁlling out RFPs, answering technical
+questions, and designing draft solutions for complex problems. This allows a single
+SE to do the work of many. And in the very near future, AI SEs will perform tasks
+independently–in direct support of AEs–enabling sellers to avoid the painful “can I
+get back to you on that?” delay.
+AI presales SE solutions are ready to deploy across enterprise and mid-market
+segments spanning most industries. SaaS, technology, and IT Services are the most
+prevalent adopters today, while early adoption in regulated industries like healthcare
+and ﬁnancial services is increasing. If you are a CEO of a SaaS company between
+$20M and $500M in revenue, we recommend an immediate initial launch of AI
+within your SE group. This will leverage your current motion, allowing SEs to
+support more deals with greater accuracy. It will also set you up to take advantage
+of advances as they develop. We expect AI Solution Engineering to be one of the
+most aggressive frontiers for agentic go-to-market over the next two years.
+
+May 1, 2025
+
+1
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Strategic Insights
+AI Presales SEs: Catalysts for Scalable Growth
+Go-to-market (GTM) leaders are embracing AI presales SE technology not simply for
+eﬃciency, but also for growth. Adding technical expertise to more sales cycles increases
+win rates, and responding more quickly to technical inquiries speeds up sales cycles.
+Each of these levers—higher win rates and faster sales cycles—contributes substantially
+to overall growth, both in new customer acquisition as well as expansion opportunities.1
+
+Scaling Technical Expertise Across More Deals
+In enterprise and mid-market SaaS companies, presales teams are inundated with
+technical inquiries, solution design work, and administrative follow-ups. AI SEs augment
+human teams by taking on repeatable, time-consuming tasks—auto-answering product
+questions or drafting the initial solution design—allowing human SEs to focus on
+strategic engagement and complex solutioning. This unlocks the ability to support more
+opportunities without compromising quality.
+Studies show presales engineers spend a signiﬁcant portion of their time on manual
+activities.2 AI solutions help SEs reclaim that time, multiplying capacity and enabling
+broader deal coverage without requiring linear team expansion.3
+
+Accelerating Every Stage of the Sales Cycle
+AI SEs reduce friction in presales workﬂows—whether in technical discovery, validation,
+or proposal development. By automating key moments and surfacing data-driven
+recommendations, they enable teams to move faster and more decisively. Customers
+integrating AI into presales are seeing meaningful gains in both pipeline velocity and
+conversion rates.4
+
+May 1, 2025
+
+1
+
+Internal industry interviews and vendor product documentation on AI SE automation
+use cases, Vivun, State of PreSales Benchmark Report
+
+2
+
+McKinsey & Company, “The State of AI in 2023,” which notes over 50% of SE time spent on repeatable tasks
+
+3
+
+Vivun, The State of PreSales Benchmark Report
+
+4
+
+Vendor provided data (Docket, Vivun, HeySam)
+
+2
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Data from multiple sources support this trend, with AI adopters in presales reporting
+15–30% reductions in average sales cycle time.5 One survey found 86% of presales
+teams now integrating AI (45% using it daily) to drive gains. Speed-to-ﬁrst-impact is
+quickly becoming a new competitive norm.6
+Small gains in presales productivity compound across the sales process. AI SEs reduce
+time spent on achieving the “technical win,” enabling faster deal cycles and giving SEs
+time back for more strategic efforts.
+
+May 1, 2025
+
+5
+
+Consensus, Docket, Vivun
+
+6
+
+The State of PreSales 2024 Report: AI Edition
+
+3
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Improve Win Rates Through Precision and Alignment
+AI SEs empower sales teams to deliver more precise and aligned solutions by
+generating deeper discovery insights and producing prospect-speciﬁc
+recommendations. This leads to better solution ﬁt, stronger impact delivery, and
+greater buyer conﬁdence7—key contributors to improved win rates. In the long run, a
+1
+
+stronger ﬁt will boost retention rates.
+Early adopters have reported faster solution design cycles (reduced by up to 40%) and
+enhanced technical alignment with key stakeholders, resulting in measurable deal
+velocity gains.8
+
+Ensure Consistency at Scale
+One of the most signiﬁcant advantages of AI SEs is their ability to deliver consistent,
+high-quality outputs across every engagement. Whether generating ROI analyses,
+technical summaries, or demo narratives, AI SEs maintain accuracy and compliance
+standards—ensuring every customer interaction meets the bar for professionalism
+and relevance.
+Today’s leading AI SE vendor solutions can meaningfully automate 40–60% of
+presales workﬂows — especially in repetitive tasks, structured documentation, and
+discovery support — while preserving trust, precision, and human oversight where it
+matters most.9
+
+Empower Agility and Innovation
+With routine tasks oﬄoaded, SEs and sellers gain time and bandwidth to be more
+agile, creative, and consultative. This ﬂexibility is essential in complex sales
+environments, where quick changes, tailored solutions, and internal collaboration
+often deﬁne success. AI SEs serve as a force multiplier, enabling the human side of
+sales to thrive where it matters most.
+
+May 1, 2025
+
+8
+
+Vendor provided benchmarks from early adopters (Storylane, Reprise, Vivun SiftHub)
+
+9
+
+Estimate based on interviews and research performed with 1mind, Docket, HeySam, SiftHub, Storylane, and Vivun.
+
+4
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Category
+
+Before AI SE Adoption
+
+After AI SE Adoption
+
+Technical
+Coverage
+
+Limited by SE headcount;
+many deals underserved
+
+Expanded coverage across more
+deals with fewer bottlenecks
+
+Sales Cycle
+Duration
+
+Slower cycles due to manual
+discovery and validation
+
+20-30% faster cycles via
+automation of core presales tasks
+
+Win Rate
+Performance
+
+Inconsistent win rates tied to
+SE availability and experience
+
+Higher win rates due to faster,
+better-aligned solutioning
+
+Quality of
+Deliverables
+
+Variable quality; dependent
+on individual SE output
+
+Consistently high-quality
+content generated by AI tools
+
+SE Productivity
+
+SEs overloaded with repetitive
+tasks and admin work
+
+SEs focused on strategic work,
+improving impact per deal
+
+Consistency
+Across Deals
+
+Diﬃcult to maintain
+standardization at scale
+
+Standardized proposals, ROI
+models, and messaging
+
+Scalability of
+Presales Effort
+
+Linear scaling tied to
+human resource growth
+
+Scalable infrastructure
+supporting nonlinear growth
+
+Key Drivers: Scarcity & Cost
+Solutions have emerged because the SE role is essential to complex selling but
+remains expensive and scarce. The average SE salary in the US today ranges
+between $150K - $230K.10 Sales and presales teams grapple with a number of
+related challenges:
+
+10
+
+Glassdoor. Salary estimate is for large SaaS/cloud platform companies . OTE can be $220K - $450K (base +
+commission/bonus + equity).
+
+May 1, 2025
+
+5
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+● Typical AE-to-SE ratios average around 4:1, putting SEs in high demand, often causing
+delays and longer sales cycles. Ratios are even higher in mid-market segments, or where
+resources are scarce.11
+● Managing numerous opportunities makes it challenging for SEs to stay current on deal
+stages and technical criteria.
+● SEs spend signiﬁcant time on meeting preparation, follow-up, and repetitive tasks like
+demos, RFPs, and answering common technical questions.
+● Measuring SE impact on key metrics—such as win rates and revenue—can be diﬃcult.
+● SEs must stay up-to-date on product changes and industry trends.They often contribute
+to product development and sales enablement.
+
+AI Presales SE Spectrum: From Tools to Teammates
+The landscape of AI Presales SE solutions can be understood along a spectrum that reﬂects
+their depth of impact on the sales motion. Rather than ranking individual vendors, this model
+illustrates four categories of solutions, each delivering value in different ways depending on a
+team's needs, complexity, and sales process maturity.
+Task-Speciﬁc Tools: These are narrow, purpose-built solutions that solve a speciﬁc
+pain point—like technical demo creation. They typically serve as plug-ins to existing
+workﬂows, leverage AI, but don’t inﬂuence the broader sales motion or reasoning.
+Best For: Teams with a discrete pain point with minimal change management.
+Content Assistants: These tools go a step further by generating presales content (i.e.
+RFPs, proposal response, technical discovery questions) using AI trained on company
+knowledge. While helpful, these outputs are typically static and require human review
+or workﬂow placement.
+Best For: GTM teams that want to free up bandwidth for AEs and SEs by reducing
+content-heavy tasks.
+
+11
+
+May 1, 2025
+
+Consensus — 2024 Sales Engineering Compensation & Workload Report
+
+6
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Workﬂow Enablers: These platforms are integrated into the presales process
+and automate multi-step tasks like technical discovery, validation responses,
+and proposal workﬂows. They are dynamic, process-integrated functions for
+collaboration and consistency across deals.
+Example:
+1 Automatically generating a ﬁrst-draft solution design or architecture
+diagram based on notes from a technical workshop.
+Best For: Organizations with growing deal volume and a need to scale technical
+coverage without expanding headcount linearly.
+Strategic Teammates: These are the most mature solutions—AI agents that act
+as always-on SEs. They reason like a presales expert, navigate complex
+decision ﬂows, and often tap into knowledge graphs or structured logic to drive
+personalized and accurate outputs across the entire sales motion.
+Best For: GTM teams seeking to fundamentally transform presales operations,
+reduce technical friction, and equip every AE with SE-grade guidance.
+
+AI Presales SE Spectrum
+Task-Speciﬁc
+Tools
+
+Content
+Assistants
+
+Workﬂow
+Enablers
+
+Reactive Utility
+Execution
+
+May 1, 2025
+
+Strategic
+Teammates
+
+Proactive Intelligence
+
+SE Effort Shift
+
+Orchestration
+
+7
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+The key difference between categories often lies not in what the AI does—but how and where
+it ﬁts into your revenue architecture. Technical discovery questions can be generated by any
+tier, but only some tools can deliver them in real-time, customized, and tied to account
+context.
+Note: For each category, vendor solutions can be internally facing, externally facing
+prospects, or both.
+
+Diverse AI Presales SE Capabilities
+Today’s AI presales SE solutions promise a wide range of capabilities that solve
+many presales team frustrations. Common use cases include:
+● Prep Assist: Tools to suggest custom discovery questions or talking points
+before a technical discovery call
+● Custom Demo: Automation that tailors demo scripts, presentations, product
+demos, or environments on-the-ﬂy
+● Answer Bot: Technical Q&A bots that deliver instant, precise answers from a
+company’s knowledge base
+● Call Insights: Conversation intelligence that transcribes and analyzes technical
+calls for insights and follow-ups
+● Live Avatar: Interactive avatar in a live call with a prospect to answer technical questions
+● Proposal Builder: Automated proposal document generation based on client
+requirements
+● Handoff Generator: Auto-generated handoff docs summarizing customer
+requirements for post-sales
+● RFP Assistant: RFP and security questionnaire assistants that draft responses
+● Design Development: Preliminary solution designs or architectures based on
+workshop meeting notes
+● Proof-of-Concept (PoC) Manager: Current solutions focus on the project management
+aspect of PoCs with AI that summarizes and surfaces signals like delays, sentiment,
+and risk factors.
+
+May 1, 2025
+
+8
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Because these tools are designed for presales workﬂows, teams can target speciﬁc friction
+points—like repetitive technical Q&A, time-consuming proposal creation, or complex demo
+setup—and remove them from the critical path of the sales cycle.12
+
+AI SEs and Human SEs – Collaboration vs. Replacement
+Today’s AI presales SE solutions are viewed as assistants rather than replacements for
+human SEs – at least for now. They excel at quick data retrieval, document drafting, and
+pattern analysis, but they lack the nuanced judgment, relationship-building, and creativity of
+a seasoned human SE. In fact, many solutions position themselves as “technical co-pilots” to
+augment human sellers.
+Presales leaders are embracing AI to increase capacity without sacriﬁcing quality, often by
+having AI handle low-level tasks while humans focus on complex solutioning and customer
+interaction. Still, there is some anxiety in the ﬁeld: in one benchmark report, 38% of SEs
+believed AI could eventually replace their role.13
+Our view is that AI will evolve the SE role rather than eliminate it – shifting presales SEs
+toward oversight, strategy, and creative consulting, with AI SEs doing the heavy lifting of
+repetitive tasks and providing data-driven insights. This synergy reduces burnout, improves
+eﬃciency, and expands presales coverage. Early evidence supports a collaborative future. In
+one case, an AI SE became the repository of “tribal knowledge” so effectively that when a top
+human SE left the company, the team still ran smoothly using the AI’s retained expertise.14
+This kind of human-AI synergy is likely the model going forward.
+
+12
+
+Infosys. (2023). AI in Presales: Shaping the Future of Sales Enablement.
+Consensus. (2024). Presales Solutions – Demo Automation for Presales and Sales Teams.
+CDK Global. (2024). How AI Can Remove Friction from Your Sales Process.
+Destination CRM. (2023). AI Can Help Eliminate Friction in the Customer Buying Journey.
+Vivun. (2024). Ava: The World's First AI Sales Engineer.
+
+May 1, 2025
+
+13
+
+State of Presales Benchmark Report
+
+14
+
+HeySam
+
+9
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Practical Insights
+When deploying new GTM strategies, WbD uses a process-ﬁrst framework. Similarly, when
+implementing an AI-driven presales solution, we recommend the team develop initial
+processes in order to align teams and form a stable foundation, follow with systems that
+reinforce the processes, and train your people to leverage the systems and the process to
+deliver maximum impact.
+The below diagram illustrates how a typical startup begins with individual, high performers
+at the base of its culture, which can become unstable as it grows. Alternatively, building a
+robust set of processes as a base creates lasting cultural stability. This recommended
+approach holds true as we deploy automated GTM solutions like AI SEs.
+
+Destabilizes as it grows
+
+Stabilizes as it grows
+
+SYSTEMS & PROCESSES
+PEOPLE
+TECHNOLOGY
+
+PHASE
+SHIFT
+
+TECHNOLOGY
+
+PEOPLE
+SYSTEMS & PROCESSES
+
+Based on best practices from Winning By Design and thorough interviews with leading
+vendors, we recommend the following approach as teams evaluate, design, and deploy AI SE
+solutions.
+
+May 1, 2025
+
+10
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Process
+1. Document Existing Workﬂows & Validation Steps
+● Clearly outline your current sales and technical-validation workﬂows (who approves
+what, how handoffs happen, etc.).
+● Decide where AI can alleviate bottlenecks (automating RFPs, generating discovery
+questions) without disrupting proven best practices.
+2. Embed Feedback Loops
+
+● Ensure there’s a structured approach for human experts (SEs, managers) to review AI
+outputs, provide corrections, and continuously improve accuracy.
+● Regularly test for consistency in technical answers and verify that content is
+up-to-date.
+3. Deﬁne Success Metrics
+
+● Align on key metrics and track each to measure impact. Deﬁne what success looks
+like (i.e. reduced SE hours per deal, faster response times, shorter sales cycles)
+before launching. This focuses the AI SE solution on delivering tangible results.
+● Track usage, like which reps or SEs use the tool most and which content is used the
+most. Celebrate positive trends (signals buy-in) and ﬁll gaps where needed with
+additional training where questions are most prevalent.
+
+Systems
+1. Reinforce Processes with Technology
+● Select an AI SE platform that naturally aligns with your processes (example:
+automates a known RFP process rather than introducing entirely new steps).
+● Incorporate vendor best practices for AI SE “training”, personalization, and
+performance evaluation tools.
+
+May 1, 2025
+
+11
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+2. Data Integration & Access
+● Provide the AI SE solution with access to all relevant data sources (CRM, cloud
+storage, LMS, call recordings, etc.) so it can learn quickly and generate accurate
+responses.
+● Maintain data governance (encryption, role-based access) to protect sensitive
+information.
+3. Scalable Architecture
+● Choose systems that won’t break as usage grows—look for secure APIs, proven
+vendor partnerships, and robust conﬁgurations.
+● Continuously reﬁne capabilities (i.e. advanced analytics, additional language support)
+only after the foundational processes are stable.
+
+People
+1. Train & Involve SEs from the Start
+●
+
+Position the AI as a “teammate,” not a replacement. Engage top SEs to validate
+responses and share domain expertise.
+
+●
+
+Encourage user feedback so the AI “learns” from real customer scenarios, building
+trust and buy-in.
+
+●
+
+Take care to avoid over-burdening the human SE team. Don't assume the presence
+of AI SE deployments will immediately allow for greater AE to SE ratios right
+away.15
+
+2. Enable High Performers
+● To encourage ownership, leverage the SE team to contribute and potentially own
+core process design, training, and systems decisions, as part of the deployment.
+● Incorporate skilled SEs in early phased deployment that can push the solution’s
+capabilities further and offer sophisticated feedback and insights.
+● Leverage human SE account-speciﬁc knowledge to validate customized content for
+speciﬁc accounts or use cases, ensuring nuanced details aren’t lost in AI SE
+automation.
+
+May 1, 2025
+
+12
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+● Get your best AEs involved to see which use cases are best suited for their personal
+adoption as well as where and when the new teammate can help the SEs that
+support them. Their opinions and support are necessary for broad adoption.
+3. Ongoing Change Management
+● Set realistic expectations: the AI SE won’t be perfect initially. Provide training intervals
+and highlight wins (i.e. faster response times) to sustain momentum.
+● Align rewards and recognition so that sharing knowledge with the AI SE solution
+becomes part of the team’s success metrics and culture.
+By focusing ﬁrst on an aligned set of processes, deploying systems that reinforce those
+processes, and ﬁnally activating your best people to guide and reﬁne the AI SE, GTM teams
+can create a stable, repeatable model of AI-driven presales excellence. This approach helps
+teams avoid the pitfalls of simply layering technology onto “rockstar” individuals and ensures
+long-term scalability.
+
+More On Managing Change
+Introducing AI into presales' efforts is as much about change management as technology.
+Executive leadership should clearly communicate to the sales and presales org why you’re
+doing this – e.g., “We want to free you from low-value tasks so you can spend more time
+with customers and on complex problems.” Address the “will this replace us?” question
+honestly – show that the intent is to augment the team, not replace.
+We recommend managers be trained prior to the individual contributors (ICs), as they will be
+encouraging sellers and SEs on when and where to use and will be inspecting for proper
+usage throughout the process.
+When IC training sessions begin, highlight time saved or frustrations eliminated (like
+“remember when you had to dig through a 50-page PDF for an answer? Now just ask the AI
+SE!”). As previously stated, remind ICs that the AI SE won’t be perfect. Encourage the team to
+treat it like a junior team member that needs onboarding – their involvement to correct and
+improve it is key to long-term success. By positioning it as a collaborative helper and
+involving the team in its evolution, you’ll foster a culture of humans and AI working
+hand-in-hand.
+
+May 1, 2025
+
+13
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Leading Vendor Offerings
+Below is an overview of each notable vendor that contributed to this research brief. Each is
+focused on enterprise and mid-market customers today.
+● 1mind (1mind.com), Bay Area, CA: AI-powered “Superhuman” avatars that act as virtual
+Sales Engineers, capable of handling complex product questions, qualifying prospects,
+and engaging with multiple buyers simultaneously.
+● Docket (docketai.com), Palo Alto, CA: AI-powered Sales Engineer platform that delivers
+instant sales answers, automates RFP responses, provides real-time in-meeting
+knowledge support, and uniﬁes sales knowledge to enhance presales productivity.
+● HeySam (heysam.ai), San Mateo, CA: AI-powered sales copilot that assists AEs and SEs
+by providing real-time support during live calls, answering technical questions, and
+automating RFP responses.
+● SiftHub (sifthub.io), San Francisco, CA: AI-powered sales engineer platform that
+enables sales and presales teams by automating response generation for RFPs and
+security questionnaires, streamlining project collaboration, personalizing client
+narratives, and centralizing knowledge access.
+● Storylane (storylane.io), San Francisco, CA: AI-powered demo automation platform that
+now includes presales intelligence to streamline sales processes and enhance customer
+engagement.
+● Vivun (vivun.com), Oakland, CA: AI Sales Agent that empowers sales teams by
+proactively generating contextually aware assets, work products and insights that
+accelerate sales cycles through the mid-funnel.
+
+May 1, 2025
+
+14
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+Future Trajectory
+We’re approaching a future where AI agents will become embedded across both SE and AE
+roles—replacing routine tasks and acting as highly-leveraged extensions of the team. As the
+technology matures, we won’t just see automation of independent tasks, but true
+augmentation of how presales and sales work together to qualify, design, and deliver
+solutions.
+● More Autonomy: Agents will handle entire segments of the presales process.
+● Tighter Integrations: Deeper CRM integration, advanced analytics, expanded global
+language support, and product telemetry to surface common feature gaps.
+● Further Personalization: Tailored responses and dynamic demos that adjust in real-time
+based on conversation cues.
+● Multimodal: next-gen systems will integrate multimodal capabilities. For example,
+generating solution diagrams or interactive prototypes on the ﬂy to illustrate a proposed
+architecture.
+● Low-Touch Deployment: As AI SE tech improves, expect AI SE functionality to support
+most mid-market and SMB sellers at scale, becoming an “always available SE” in live
+calls where there has been little to no technical support available.
+
+Final Word: The Time to Act Is Now
+AI presales SEs aren’t a future consideration—they’re a present-day advantage. The
+companies winning today are not the ones asking if they should deploy AI in
+presales—they’re deciding where it will create the most immediate impact. Those who lead
+will equip every seller with instant technical muscle, shorten cycles, and scale expertise
+across the funnel. Those who wait will struggle to keep up in a world where speed, precision,
+and consistency are the new standard. Start small, align around proven processes, and let AI
+shoulder the routine so your teams can focus on what matters most: winning deals and
+building trust. As we’ve seen time and again—those who adopt early don’t just move faster.
+They change the game.
+
+Want to make this happen?
+Book Time with an Advisor
+May 1, 2025
+
+16
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+SUPPLEMENTARY MATERIALS
+The following supplementary materials are available in the full version
+of this report, available to subscribers in the reference library. For more
+information on subscribing, see winningbydesign.com/access-pass.
+
+01 Vendor Descriptions
+02 Vendor Comparison
+03 RFP Template
+04 Systems and Processes
+05 The Sales Process
+
+May 1, 2025
+
+17
+
+Your Next Solution Engineer May Be AI
+
+Winning by Design Proprietary
+
+READ OUR OTHER AI AGENT RESEARCH REPORTS
+
+AI AGENTS: RESEARCH ACROSS THE BOWTIE
+
+Like what you read?
+Send to a Colleague
+
+May 1, 2025
+
+18
+
+

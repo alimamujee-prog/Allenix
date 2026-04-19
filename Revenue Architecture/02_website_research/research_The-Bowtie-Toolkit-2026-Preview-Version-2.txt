@@ -1,0 +1,568 @@
+GTM Alignment Toolkit for Predictable Recurring Revenue
+THE BOWTIE TOOLKIT
+
+01	Bowtie Data Model	Overview, Template
+02	Customer Journey	Overview, Current State Template, Ideal State Template
+03	Metrics	Reference, Overview, Template
+04	KPI Dashboard	Overview, Example, Template
+05	RACI	Overview, Template
+06	AI Adoption	Overview, Example, Template
+Available to Growth Institute Members Only
+TABLE OF CONTENTS
+07	Operating Model	Overview, Example, Template
+08	Stakeholder Map	Overview, Template
+09	Data Model Mapped to GTM Motions	Overview, Template
+10	Tech Stack	Overview, Template
+11	Growth Loops	Overview, Template
+
+About the Model:
+The Bowtie Data Model provides a complete framework for measuring and optimizing the customer journey—from first touch through expansion revenue.
+The Data Model covers every stage of customer engagement: initial awareness, consideration, purchase, implementation, and full value realization.
+The Data Structure establishes a measurement standard that allows you to compare GTM motions against each other and track performance over time.
+The Benchmark enables comparison against industry peers and best practices, helping you identify gaps and prioritize improvements.
+How to Use This Worksheet:
+Define your stages — Confirm that the stage labels (Prospects → Leads → Opportunities → Wins → Live → Customers → Growth) match your GTM motion.
+Enter time metrics (Δt) — Record the average time between each stage transition. This reveals where deals stall.
+Enter conversion rates (CR) — Input the percentage of records that advance from each stage to the next. Low conversions indicate process breakdowns.
+Enter volume metrics (VM) — Track the count of records at each stage (leads, ARR, etc.) to understand pipeline health.
+Compare and iterate — Use the benchmark data to identify your biggest gaps, then focus improvement efforts there.
+01 OVERVIEW
+BOWTIE DATA MODEL
+
+01 TEMPLATE
+BOWTIE DATA MODEL
+Sales Cycle
+Δt: Time
+Win rate, NRR
+CR: Conversion Rates
+Leads, ARR
+VM: Volume Metrics
+[Enter Δt1]
+Δt1
+[Enter CR1]
+CR1
+[Enter VM1]
+VM1
+[Enter Δt2]
+Δt2
+[Enter CR2]
+CR2
+[Enter VM2]
+VM2
+[Enter Δt3]
+Δt3
+[Enter Δt4]
+Δt4
+[Enter CR3]
+CR3
+[Enter CR4]
+CR4
+[Enter VM3]
+VM3
+[Enter VM4]
+VM4
+[Enter VM5]
+VM5
+[Enter Δt5]
+Δt5
+[Enter CR5]
+CR5
+[Enter VM6]
+VM6
+[Enter Δt6]
+Δt6
+[Enter CR6]
+CR6
+[Enter VM7]
+VM7
+[Enter Δt7]
+Δt7
+[Enter CR7]
+CR7
+[Enter VM8]
+VM8
+[Enter Δt8]
+Δt8
+[Enter CR8]
+CR8
+[Enter VM9]
+VM9
+LEADGEN
+Prospects
+LEADDEV
+Leads
+SELLING
+Opportunities
+ACTIVATE
+Wins
+ONBOARD
+Live
+RETAIN
+Customers
+EXPAND
+Growth
+
+About the Customer Journey:
+The Customer Journey maps the complete set of experiences and interactions a customer goes through when engaging with your company. It encompasses stages from initial awareness through consideration, purchasing, implementation, and full value realization.
+The Bowtie model extends the classic Sales and Marketing funnel to cover the entire customer journey. While traditional funnels end at acquisition, the Bowtie provides equal emphasis on stages leading to Retention and Expansion.
+This customer-centric approach shifts focus from value-based selling (acquisition) to impact-based thinking (retention and expansion), recognizing that in subscription businesses, what happens after the deal closes is what secures revenue and growth.
+How to Use This Worksheet:
+Understand the Bowtie — The full recurring revenue lifecycle—pre-sale motion narrowing to the win, then expanding through customer success.
+Fill in each stage — List the plays, handoffs, and metrics that move customers from one phase to the next.
+Current State = your reality — How your GTM teams actually operate today, gaps included.
+Ideal State = your blueprint — The customer-centric experience you'd build with proper Revenue Architecture.
+The gap is your roadmap — Prioritize where the delta is greatest and impact on recurring revenue is highest.
+02 OVERVIEW
+CUSTOMER JOURNEY
+
+02 TEMPLATE
+CUSTOMER JOURNEY
+LEADGEN
+Prospects
+LEADDEV
+Leads
+SELLING
+Opportunities
+ACTIVATE
+Wins
+ONBOARD
+Live
+RETAIN
+Customers
+EXPAND
+Growth
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+CURRENT STATE
+
+02 TEMPLATE
+CUSTOMER JOURNEY
+LEADGEN
+Prospects
+LEADDEV
+Leads
+SELLING
+Opportunities
+ACTIVATE
+Wins
+ONBOARD
+Live
+RETAIN
+Customers
+EXPAND
+Growth
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+TBD
+IDEAL STATE
+
+About the Model:
+The Metrics vs Benchmarks template enables comparison of your conversion rates against industry standards. It overlays the Data Structure on the Bowtie model, measuring Volume Metrics (VM), Conversion Rates (CR), and Time Metrics at each stage.
+The Data Structure provides a standardized framework: Volume metrics measure quantity (leads, revenue, active users), Conversion metrics measure efficiency (output divided by input), and Time metrics track conversion duration.
+Benchmarking against industry peers helps identify gaps and prioritize improvements. The 20% baseline represents a typical conversion rate; deviations reveal process strengths or areas needing attention across your GTM motion.
+How to Use This Worksheet:
+Track your Conversion Rates (CRs) — Each CR measures the transition between stages—from Prospect→MQL through to Growth. These are the leading indicators of your revenue engine.
+Enter your actual rates — Replace "Your CR: NA" with your real conversion percentages at each stage.
+Compare against benchmarks — The 20% benchmark is a baseline. Note where you're above, at, or below to identify strengths and leaks.
+Use notes to capture context — Document what's driving performance—process gaps, resource constraints, or plays that are working.
+Prioritize the biggest gaps — Low CRs reveal where deals or customers are lost. Focus GTM improvements where conversion lifts will compound across the funnel.
+03 OVERVIEW
+METRICS VS BENCHMARKS
+
+03 REFERENCE
+LEADGEN
+Prospects
+LEADDEV
+Leads
+SELLING
+Opportunities
+ACTIVATE
+Wins
+ONBOARD
+Live
+RETAIN
+Customers
+EXPAND
+Growth
+METRICS DEFINITIONS
+
+03 TEMPLATE
+LEADGEN
+Prospects
+LEADDEV
+Leads
+SELLING
+Opportunities
+ACTIVATE
+Wins
+ONBOARD
+Live
+RETAIN
+Customers
+EXPAND
+Growth
+CR1
+CR2
+CR3 / CR4
+CR5
+CR6
+CR7
+CR8
+METRICS VS BENCHMARKS
+
+About the Model:
+The KPI Dashboard maps measurable Key Results across every stage of the Bowtie, from lead generation through expansion revenue. Each stage requires both Leading Indicators (activity metrics predicting future outcomes) and Lagging Indicators (result metrics confirming what happened).
+Leading indicators like demos completed, onboarding tasks finished, and feature adoption percentage enable early course correction. Lagging indicators like win rate, new ARR, NRR, and time to value confirm whether plays are working.
+This dashboard creates visibility across Marketing, Sales, and Customer Success, unifying the revenue team around shared metrics that span the complete customer journey.
+How to Use This Worksheet:
+Map metrics across the Bowtie — Each stage needs measurable Key Results—from MQL generation through expansion revenue.
+Leading Indicators = activity metrics — These predict future outcomes. Examples: demos completed, onboarding tasks finished, feature adoption %.
+Lagging Indicators = result metrics — These confirm what happened. Examples: win rate, new ARR, NRR, time to value.
+Use both to run your GTM motion — Leading indicators let you course-correct early; lagging indicators tell you if your plays are working.
+Align your team around shared KPIs — This dashboard creates visibility across Marketing, Sales, and Customer Success—one revenue team, one set of metrics.
+04 TEMPLATE
+KPI DASHBOARD
+
+04 EXAMPLE
+KPI DASHBOARD
+Website Visitors/Traffic from target accounts
+Campaign Metrics - Total Responses, Qualified Responses
+Digital Campaign Metrics: Reach, CTR, Engagement, Lift, New Accounts On Site, CVR
+Form Fills - New Leads
+Account/Contact Status Change
+Connects/Response Rates
+Activities - Emails/Dials
+Opptys - Stage 1+
+Stage Durations, Deal Cycle Time
+Stage Conv. Rates
+Touches/Meetings
+Contact Roles/Key Personas Involved
+Win Rate
+Avg. Deal Size
+Time to Account Team assignment
+Time to Internal Handoff (from Close)
+Time to Kickoff (SLA Met)
+Time to Go-Live (TTL)
+% Value Roadmaps Completed
+% Value Roadmaps in use
+Adoption metrics
+# integrations
+DB Academy metrics
+Customer Health Score
+Business Reviews executed
+Customer Engagement
+Support Tickets
+CSM Perspective
+Advocacy rate
+Customer Engagement
+Account Plans completed
+Expansion opportunities created
+CSQL volume
+Multi-threaded Key Stakeholders
+QR - MQL
+MQL - SQL
+SQL - Pipeline
+Pipeline - CW
+Conversion Rates by Channel
+SQL -> Disco Conversion Rate
+Pipeline
+Deals, Conversion Rates by Stage
+Closed/Won -> Live Conversion Rate
+Churn
+Expansion
+CSAT/NPS
+% Training Completed
+First Value Achieved
+% Onboarding completed
+Post-Onboarding Survey
+NPS/CSAT, CES
+GRR ($$ and # Logos)
+NRR ($$ and # Logos)
+Expansion ($ and # logos)
+Churn ($ and # logos)
+NPS, CSAT, CES
+CSQL Conversion rate
+Key Result:
+Lagging Indicators
+Key Result:
+Leading Indicators
+Aware/Interested Accounts & Leads (MQL)
+SQL - Meetings Set
+Closed/Won Opptys
+Live Customers
+Renewals
+Closed/Won Expansion Opptys
+
+04 TEMPLATE
+KPI DASHBOARD
+Type here (e.g., Website visits, content downloads, ad impressions)
+Type here (e.g., Outreach attempts, response rate, qualified lead velocity)
+Type here (e.g., Proposals sent, demos completed, pipeline coverage ratio)
+Type here (e.g., Onboarding tasks completed, logins per week, support tickets)
+Type here (e.g., NPS score, product usage rate, health score)
+Type here (e.g., Feature adoption %, upsell conversations, cross-sell qualified)
+Type here (e.g., # of MQLs, cost per MQL, MQL-to-SQL rate)
+Type here (e.g., # meetings booked, show rate, SQL-to-opp rate)
+Type here (e.g., # deals closed, win rate, new ARR, sales cycle length)
+Type here (e.g., # active customers, time to value, activation rate)
+Type here (e.g., Renewal rate, logo churn, revenue retention (GRR)
+Type here (e.g., Expansion ARR, NRR, upsell win rate)
+Key Result:
+Lagging Indicators
+Key Result:
+Leading Indicators
+Aware/Interested Accounts & Leads (MQL)
+SQL - Meetings Set
+Closed/Won Opptys
+Live Customers
+Renewals
+Closed/Won Expansion Opptys
+
+About the Model:
+The RACI framework clarifies role ownership across Bowtie stages. R (Responsible) does the work, A (Accountable) owns the outcome, C (Consulted) provides input, and I (Informed) stays in the loop.
+Clear ownership prevents dropped handoffs and duplicated effort. The Bowtie has natural transition points where responsibility shifts between teams. RACI makes explicit who's handing off and who's picking up.
+One "R" per stage, per activity is the rule. If everyone's responsible, no one is. Role clarity breaks down as teams grow, so revisit this framework when adding headcount or changing your GTM motion.
+How to Use This Worksheet:
+List your GTM roles — Replace Role #1–4 with actual titles—SDR, AE, CSM, AM, etc. Add rows as needed for your team structure.
+Assign one letter per cell — R (Responsible) does the work, A (Accountable) owns the outcome, C (Consulted) provides input, I (Informed) stays in the loop.
+One "R" per stage, per activity — If everyone's responsible, no one is. Clear ownership prevents dropped handoffs and duplicated effort.
+Use this to clarify handoffs — The Bowtie has natural transition points. RACI makes explicit who's handing off and who's picking up.
+Revisit as you scale — Role clarity breaks down as teams grow. Update this when you add headcount or change your GTM motion.
+05 OVERVIEW
+RACI
+
+05 TEMPLATE
+LEADGEN
+Prospects
+LEADDEV
+Leads
+SELLING
+Opportunities
+ACTIVATE
+Wins
+ONBOARD
+Live
+RETAIN
+Customers
+EXPAND
+Growth
+RACI
+R
+A
+C
+I
+Responsible
+Accountable
+Consulted
+Informed
+ROLE #1
+ROLE #2
+ROLE #3
+ROLE #4
+R
+A
+C
+I
+
+About the Model:
+This AI Adoption framework gives GTM leaders a practical way to plan and prioritize AI investments across the full bowtie—from Awareness through Expansion—by anchoring every initiative to recurring impact, not isolated efficiency gains. It helps teams sequence AI projects intentionally, starting with assistive use cases that scale productivity, then progressing toward agentic capabilities that drive durable outcomes across revenue, adoption, and retention. By mapping AI use cases to each stage of the customer journey, organizations can align Sales, Marketing, Onboarding, and Customer Success around a shared roadmap, focus resources where AI creates compounding value, and ensure adoption translates into measurable, repeatable growth.
+How to Use This Worksheet:
+Define the Job to Be DoneClearly articulate what problem each AI use case is solving, who it serves, and which outcome it is meant to improve. Anchor every initiative to a single primary KPI to ensure AI adoption drives measurable GTM impact—not activity.
+Score and Prioritize Use CasesEvaluate each AI initiative using simple, consistent criteria—impact, confidence, effort, and risk—to create an objective priority order. This prevents “shiny object” decisions and focuses investment on the highest-return opportunities.
+Pilot by Bowtie StageTest AI initiatives with a focused team or segment at each stage of the bowtie. Short pilots create fast learning loops and reduce the cost of failure.
+06 OVERVIEW
+AI ADOPTION
+
+Adoption
+Expansion
+Awareness
+Education
+Selection
+Implementation
+Commit
+Recurring Revenue is the result of recurring impact
+06 EXAMPLE
+AI ADOPTION
+
+Adoption
+Expansion
+Awareness
+Education
+Selection
+Implementation
+Commit
+Recurring Revenue is the result of recurring impact
+06 TEMPLATE
+AI ADOPTION
+
+About the Model:
+The Operating Model ensures different customer-facing functions work together efficiently as a cohesive system. It is built upon three core elements: (1) A standardized Data Model (the Bowtie), (2) A common language across all GTM roles focused on customer impact, and (3) A uniform methodology creating seamless communication throughout the customer journey.
+The Operating Model fosters seamless interaction both within individual GTM motions and across multiple motions. This becomes paramount for Scaleups required to swiftly adapt to market changes.
+Success in recurring revenue relies on various roles working together, ensuring the overall system functions in harmony rather than individual functions operating in silos.
+How to Use This Worksheet:
+Map your plays by stage: — Document the specific activities that move customers through each phase—from Awareness through Expansion.
+Use the example as your guide — The filled template shows how plays flow vertically within each stage, with clear handoff points (MQL, SQL, WIN, First Impact, etc.).
+Assign ownership at the bottom — Each stage belongs to a role or team—Marketing, SDR/BDR, AE, CSM, AM. Define who runs each play.
+Connect the milestones — The diamonds represent key transitions. Your plays should ladder up to these moments that matter.
+Design for repeatability — This isn't a one-off deal map—it's your scalable operating model. If a play can't be repeated consistently, rethink it.
+07 OVERVIEW
+OPERATING MODEL OVERVIEW
+
+Marketing
+SDR/BDR OR ISR
+AE + CSM
+CSM + AM
+AE
+CSM + AM
+07 TEMPLATE
+OPERATING MODEL OVERVIEW
+Unlock this slide by joining the Winning by Design Growth Institute
+
+About the Model:
+The Stakeholder Map identifies key personas at each stage of the Bowtie. Different stakeholders drive momentum at different points: Drivers for prospecting, Champions for internal advocacy, Economic Buyers for closing, Users for adoption, and Champions again for renewal.
+Pre-sale stakeholders (Champion, Economic Buyer) often differ from post-sale stakeholders (User, Champion for renewal). Planning for this handoff is critical for recurring revenue success.
+Multi-threading across stakeholders reduces deal fragility. This map ensures you're engaging the right people at the right moments, and keeps relationships current as they evolve through Retain and Expand stages.
+How to Use This Worksheet:
+Identify the key persona at each stage — Different stakeholders drive momentum at different points—Driver for prospecting, Economic Buyer for closing, User for adoption.
+Add name and title for each — Move beyond generic personas. Map the actual people involved in your deals and accounts.
+Note the shift at the Win — Pre-sale stakeholders (Champion, Economic Buyer) often differ from post-sale (User, Champion for renewal). Plan for this handoff.
+Use this to multi-thread — Single-threaded deals are fragile. This map ensures you're engaging the right people at the right moments.
+Update as relationships evolve — Stakeholders change—especially in Retain and Expand. Keep this current to protect and grow revenue.
+08 OVERVIEW
+STAKEHOLDER MAP
+
+08 TEMPLATE
+STAKEHOLDER MAP
+Unlock this slide by joining the Winning by Design Growth Institute
+
+About the Model:
+This template maps how different GTM motions deploy roles across the Bowtie stages. A GTM motion refers to a company's structured set of activities spanning the entire customer journey, from finding prospects to creating satisfied customers.
+Different account values require different motions: 1-Stage (high-volume, low-touch) for accounts under $15k, 2-Stage (balanced efficiency and personalization) for mid-market, and Field (high-touch, custom campaigns) for enterprise accounts over $50k.
+The boxes show which roles own which stages. Lower-value accounts get scalable, tech-touch motions (Pooled CS, Self-Serve); higher-value accounts get dedicated resources (CSM 1:Few, Growth AE).
+How to Use This Worksheet:
+Segment by account value — Each row represents a different GTM motion—1-Stage for low-touch, 2-Stage for mid-market, Field for enterprise. Define your thresholds.
+Map role coverage across the Bowtie — The boxes show which roles own which stages. Adjust the span to reflect where each role starts and ends in your motion.
+Match investment to opportunity — Lower-value accounts get scalable, tech-touch motions (Pooled CS, Self-Serve). Higher-value accounts get dedicated resources (CSM 1:Few, Growth AE).
+Customize the roles— Replace the labels with your actual titles. The framework flexes to your org structure—what matters is clear ownership across the journey.
+Design for unit economics — Your GTM motion should align cost-to-serve with potential revenue. If your CAC doesn't support the motion, redesign it.
+09 OVERVIEW
+DATA MODEL MAPPED
+TO GTM MOTIONS
+
+09 TEMPLATE
+DATA MODEL MAPPED
+TO GTM MOTIONS
+Unlock this slide by joining the Winning by Design Growth Institute
+
+About the Model:
+The Tech Stack template maps applications, integrated applications, and platforms across the GTM Bowtie stages. Technology enables more affordable task execution and supports the scalable, repeatable processes required for sustainable GTM motions.
+Applications serve specific stages (e.g., LinkedIn for prospecting), Integrated Applications span multiple stages (e.g., Google Ads/SEO for awareness through selection), and Platforms like Salesforce/CRM serve as the foundation spanning the entire journey.
+Mapping technology to the Bowtie ensures tools support seamless handoffs between stages and functions, reducing disconnects that fragment the customer experience.
+How to Use This Worksheet:
+Current tech Stack Enter the tech stack design at each stage.
+Proposed Additions/Substractions- Color code to highlight proposed changes to your strategy.
+10 OVERVIEW
+TECH STACK
+
+10 OVERVIEW
+TECH STACK
+Unlock this slide by joining the Winning by Design Growth Institute
+
+About the Model:
+Growth Loops model how existing customers drive new customer acquisition. The most effective and sustainable growth stems from self-perpetuating loops: referrals from existing customers, renewals, and expansion of existing relationships.
+Key variables: n (# of customers), upn (users per customer), k1 (% becoming advocates), k2 (opportunities per advocate), glo (growth loop opportunities), wr (win rate), glc (new customers from loop), and the Growth Loop Impact formula glc/n shows what percentage of growth comes from the loop itself.
+Strong growth loops reduce reliance on top-of-funnel spend. If k1 or k2 are low, focus on customer impact and advocacy programs to unlock compounding, customer-led growth.
+How to Use This Worksheet:
+Start with your customer base — Enter n (# of customers) and upn (users per customer) to calculate your total user count. This is the foundation of your loop.
+Define your advocacy multipliers — k1 is the % of users who become advocates; k2 is how many opportunities each advocate generates. These drive your growth loop opps (glo).
+Apply your win rate — Multiply glo × wr to get glc—the number of new customers your growth loop generates. This closes the loop back into the Bowtie.
+Calculate Growth Loop Impact — The formula glc/n shows what percentage of customer growth comes from the loop itself—your measure of compounding, customer-led growth.
+Use this to prioritize investment — A strong growth loop reduces reliance on top-of-funnel spend. If k1 or k2 are low, focus on customer impact and advocacy programs.
+11 OVERVIEW
+GROWTH LOOPS
+
+11 TEMPLATE
+GROWTH LOOPS
+Unlock this slide by joining the Winning by Design Growth Institute
+
+END
+THE BOWTIE TOOLKIT

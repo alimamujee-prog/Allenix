@@ -1,0 +1,1442 @@
+WORKING PAPER
+
+Foundations of Compounding Growth
+How growth systems accelerate, stabilize, compound, and why they stall
+Growth Systems Working Group: Jacco van der Kooij, Kevin
+Brown, Christopher Delegge, David Ellin, and Aaron Hill.
+This working paper reflects the collective thinking of the
+Growth Systems Working Group and will continue to evolve
+as the framework is tested and refined.
+Version 1.0, February 18, 2026
+
+Abstract: This working paper introduces growth loops as the fundamental building blocks of
+scalable growth systems. It models growth as the interaction of recurring feedback loops
+rather than a linear sequence of actions, explaining how loops behave, how they interact, why
+their sequencing determines whether growth compounds or stalls, and where AI has leverage
+as a recursive amplifier. The paper provides a shared systems language for diagnosing growth
+behavior, understanding structural failure modes for companies with $100-300M in ARR, and
+defining Takeoff as a phase transition from effort-driven growth to self-reinforcing systems.
+This working paper is intended for executives, operators, and investors responsible for
+designing, governing, or evaluating growth systems. It is not a playbook of tactics, but a
+systems framework for understanding why growth accelerates, stalls, or compounds over time.
+Keywords: Growth Systems, Growth Loops, Endogenous Reinforcement, Exogenous Inputs, Product-Led Growth (PLG),
+Human-Led Growth (HLG), Recursive Growth, AI Recursive Amplifier, Protective Loops, Accelerative Loops, Air-Gapped
+Loops, Direct-Connection Loops, Takeoff, Irreversible Time-Dominance, Word-of-Mouth (WoM), User Advocacy,
+Retention Loop, Expansion Loop, Education & Community Loops.
+
+Table of Contents:
+1.​ Growth Loop Characteristics: Definitions and the Four Layers of the Stack.
+2.​ Growth Modes: PLG, HLG, and the Role of Recursive AI.
+3.​ First-Order Loops: The Five Fundamental Builders of Scale.
+4.​ The Operating Loop: The Determinant of System Coherence.
+5.​ System Behavior: The Invariant Sequence and The Wall companies hit.
+6.​ Takeoff: Achieving Irreversible Time-Dominance.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 1 of 40
+
+Working Paper | February 2026
+
+Chapter 1. Growth Loop Definition and Structure
+We define a growth loop as a self-reinforcing system in which outputs from growth activity feed
+back as inputs that create or influence future growth, without requiring proportional external
+input. A mechanism qualifies as a growth loop if it meets all three of the following conditions:
+1.​ Feedback Closure: The output of the activity materially influences future inputs to the
+system. Growth produced in one cycle alters the conditions under which the next cycle
+operates.
+2.​ System-Level Impact: Changes in the loop measurably alter overall growth
+behavior—such as growth rate, stability, or future capacity—rather than only improving
+local efficiency.
+3.​ Endogenous Reinforcement Potential: Once activated, the loop can sustain or amplify
+itself through its own outputs, even if exogenous input is required to initiate it.
+In contrast, activities that repeat without feeding back into future growth, such as campaigns, do
+not constitute growth loops. They are inputs to the system, not self-reinforcing structures within
+it. Across diagnostics, we consistently observe that when such activities stop, their effect on
+growth also stops.
+With this definition in place, growth loops can be analyzed by their underlying characteristics:
+what powers them, how feedback propagates through the system, what they amplify, and what
+outcomes emerge over time. In the sections that follow, we use this definition as an analytic
+lens rather than as a claim about any specific tactic or company.
+
+Figure 1. Growth loops operate by transforming system inputs into outputs that feed back
+into the system. Inputs may take many forms—such as usage, engagement, demand
+signals, or advocacy, depending on the growth motion and loop type.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 2 of 40
+
+Working Paper | February 2026
+
+1.1 Characteristics of Growth Loops
+Underlying characteristics govern the behavior of a growth loop. These characteristics are
+hierarchical, organized into layers. each describing a distinct system property and answering a
+different diagnostic question. In practice, leaders diagnose growth loops top-down, from
+outcomes to foundations, but design and improve them bottom-up, from foundations to
+outcomes.
+●​ Foundational Layer: What powers growth
+●​ Systemic Layer: What does it amplify
+●​ Physical Layer: How does it work
+●​ Outcome Layer: What does it deliver
+Together, they form a stack that defines the operating structure and physics of any growth loop.
+
+1.1.1 Foundational Layer: What Powers Growth
+Every growth loop needs power. That power can come from outside the system or from inside it.
+
+Externally powered loops (Exogenous)
+●​ The need for constant effort
+●​ Growth stops when the effort stops
+Externally powered loops only work when someone keeps pushing them. If you stop spending
+time, money, or energy, the growth slows down or stops. For example, sending emails or running
+ads only works as long as you continue investing; when you stop, the results stop too. Externally
+powered (exogenous) loops are often necessary early to create momentum, but they are not
+sufficient for durable compounding without endogenous reinforcement.
+
+Internally powered loops (Endogenous)
+●​ Can keep going on their own
+●​ Use their own results as fuel
+Internally powered loops generate their own energy once they start. What comes out of the
+system helps power the next round of growth. For example, when people enjoy an application,
+they tell their peers about it, increasing the likelihood that their peers will sign up as well. The
+growth keeps going even without extra effort.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 3 of 40
+
+Working Paper | February 2026
+
+1.1.2 Systemic Layer: What Does It Amplify?
+This layer explains how the system uses the growth it receives. Some loops help you protect the
+growth you already have. Other loops help you accelerate growth.
+
+Protective loops
+●​ Prevent decay
+●​ Preserve accumulated impact
+Protective loops don’t make growth faster, but they stop it from falling apart. They help the
+system retain what it has already built. An example of a protective loop is retention, measured
+as Gross Revenue Retention (GRR). When emphasized too early, protective loops suppress
+acceleration—allocating energy toward preserving a base that hasn't yet been built.
+A common example of “too early” occurs when churn reduction is emphasized before the
+system has converged on a clear ideal customer profile (ICP) and the impact those customers
+seek. At this stage, churn is more a signal of misfit than of failure. Optimizing retention
+prematurely allocates energy toward preserving heterogeneous customers, suppressing the
+system’s ability to learn which users experience durable value and which should naturally fall
+out. In such cases, protective loops preserve ambiguity rather than stability.
+
+Accelerative loops
+●​ Increase growth velocity
+●​ Steepen the growth curve
+Accelerative loops make growth speed up. When something works, it helps the next round work
+even better. An example of an accelerative loop is expansion; its impact, combined with
+retention, is reflected in Net Revenue Retention (NRR).
+
+1.1.3 Physical Layer: How Does It Work?
+The Physical Layer describes how outputs become inputs, or how the feedback signal travels
+through the system.
+
+Direct-connection loops
+●​ Cause and effect are easy to see
+●​ The system can read the signal
+In direct-connection loops, the system sees exactly what happened. When someone does
+something, the system records it right away. This makes it easy to count, measure, and react
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 4 of 40
+
+Working Paper | February 2026
+
+quickly. For example, when someone opens an email and a tracking pixel records it, the system
+knows exactly what happened and when.
+
+Air-gapped loops
+●​ Cause and result are harder to see
+●​ People pass the signal, not the system
+In air-gapped loops, the system does not directly see what happened. The signal moves through
+people, not computers.
+What happened is real, but the system has to guess or learn about it later. For example, two
+people talking over dinner may share a recommendation. That conversation matters, but the
+system cannot track it or measure it directly. Air-gapped does not mean unmeasurable; it means
+the signal is indirect, delayed, and must be inferred rather than directly observed. In practice,
+such inference often relies on secondary indicators—such as self-reported referral sources, peer
+mentions surfaced in sales conversations, changes in inbound demand following exposure, or
+correlations between community activity and downstream conversion.
+
+1.1.4 Outcome Layer: What Emerges Over Time
+The Outcome Layer describes what can be observed over time when a growth loop operates
+within a system. These outcomes are not design choices or intentions; they emerge from the
+interaction of the loop’s driving force, systemic role, and physical realization. This layer explains
+what you can see happening after a growth loop runs for a while. These results are not planned
+in a step-by-step manner. They happen because of how the system is set up and how it runs.
+
+Supportive outcomes
+●​ Make things easier
+●​ Help things move more smoothly
+Supportive outcomes remove small problems that slow things down. They help more people get
+through the system, but they do not create growth on their own. They make other growth loops
+work better, without changing how fast the system grows. For example, better instructions can
+help more people use a product correctly, but they don’t bring in new customers on their own.
+
+Stabilizing outcomes
+●​ Stop things from getting worse
+●​ Keep what you already have
+Stabilizing outcomes helps a system maintain its progress. They don’t make growth faster, but
+they stop it from shrinking. It allows the system to keep going without losing what it has already
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 5 of 40
+
+Working Paper | February 2026
+
+built. For example, if customers stay longer, the business doesn’t lose money even if fewer new
+customers arrive.
+
+Accelerative outcomes
+●​ Make growth faster
+●​ Help success repeat itself
+Accelerative outcomes increase growth velocity by improving the efficiency of an existing loop.
+When something works, it keeps working, each time a little faster. For example, improving
+conversion rates or shortening sales cycles increases growth without changing the system’s
+underlying capacity.
+
+Compounding outcomes
+●​ Make future growth easier
+●​ Let growth build on itself
+Compounding outcomes occur when growth changes the system in ways that increase its
+future capacity. Each round expands the system's capacity, making subsequent growth easier
+with less incremental effort. For example, when existing customers spend more over time, the
+revenue base and product footprint grow, creating more surface area for future expansion
+without relying solely on acquiring new customers.
+
+Accelerative outcomes change the rate of growth; compounding
+outcomes change the state of the system, increasing future growth
+capacity.
+A useful distinction is whether removing a growth driver causes the system to return to its prior
+baseline (accelerative) or whether the system remains larger and easier to grow than before
+(compounding).
+These differences in outcomes are not incidental; they reflect the distinct functional roles that
+growth loops play within the system.
+
+1.2 Functional Roles of Growth Loops
+Growth loops do not all produce the same kind of change. At the system level, loops differ in
+what they change, not in how they are implemented. Broadly, growth loops fall into three
+functional roles:
+
+Transition loops
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 6 of 40
+
+Working Paper | February 2026
+
+Reposition actors or signals within the system. They change readiness, credibility, or decision
+context, enabling progression that was previously not possible. Their effect is not increased
+volume, but movement into a different behavioral regime or re-entry into the system at an earlier
+structural point with different properties.
+
+Acceleration loops
+Increase flow or velocity within an existing state. They amplify throughput by increasing
+awareness, inflow, or speed, but do not alter readiness or system structure. Acceleration makes
+what is already possible happen faster, without unlocking new system behavior.
+
+Capacity loops
+Change what the system can sustain or compound over time. They alter durability and future
+potential by reducing leakage, stabilizing what has been built, or increasing the system’s ability
+to generate future growth from existing structure. Capacity determines whether growth remains
+fragile, becomes durable, or compounds.
+
+Growth stalls when loops are misapplied across roles, when acceleration is used to
+compensate for missing transitions, or when compounding is attempted before sufficient
+capacity exists. Correct sequencing requires understanding not just how loops operate, but
+also what kinds of changes they can produce.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 7 of 40
+
+Working Paper | February 2026
+
+Chapter 2. Growth Modes
+Growth modes describe how a growth system operates when certain loop characteristics
+dominate. In practice, growth modes emerge from how feedback travels through the
+system—whether signals are captured directly by software or carried indirectly through people.
+Modern growth architectures therefore operate in two primary modes: Product-Led Growth
+(PLG) and Human-Led Growth (HLG). These modes are governed by different physics,
+measurement approaches, and amplification strategies, yet are designed to reinforce one
+another within the same system.
+
+2.1 Product-Led Growth (PLG)
+PLG primarily operates through direct connection loops. User actions, such as clicks, usage,
+invitations, or upgrades, are captured directly by the product and immediately fed back into the
+system. Because cause and effect are tightly coupled, signals are observable in real time and
+can be measured precisely. This makes PLG fast to tune, mechanically optimizable, and
+well-suited for automation, experimentation, and AI-driven optimization.
+
+In PLG systems, adaptation occurs quickly because the system can
+see what works as it happens.
+2.2 Human-Led Growth (HLG)
+HLG operates primarily through air-gapped loops. Signals travel through people rather than
+systems—via conversations, recommendations, reputation, and trust. There is no direct signal
+linking advocacy to new demand. The loop only closes when someone asks a peer about their
+experience, and that experience influences a decision. As a result, outcomes are probabilistic,
+delayed, and inferred rather than directly observed.
+The air gap should not be seen as a weakness, but rather a loop with different characteristics. In
+this case, the signal carries much more weight, more credibility. But it scales differently and
+operates at a very different velocity. HLG is indirectly shaped by creating conditions that foster
+authentic advocacy.
+
+When leaders demand real-time attribution from air-gapped loops,
+they can degrade signal quality by incentivizing performative
+behavior over authentic advocacy.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 8 of 40
+
+Working Paper | February 2026
+
+2.3 Recursive Growth
+To understand recursive growth, it helps to start with a real-world example.
+A company may have tens of thousands of users across thousands of customers.
+This user base forms an advocacy basin. Over time, a small fraction of these users
+are asked a simple question: “What are you using?” When they answer, they
+advocate for a solution based on their own experience.
+The system then observes which of these advocacy moments leads to an inbound
+request. It learns which users and contexts correlate with demand and adjusts
+which users are activated, when, and how through targeted campaigns. As a result,
+engagement becomes more selective and precise with each cycle.
+What’s important is that this interaction passes across an air gap that cannot be directly
+observed or measured. This HLG loop appears in many forms: conversations at events, LinkedIn
+posts, peer recommendations, and community interactions.
+
+Recursion amplifies what a system already is.
+This is where recursive growth comes in. It begins by observing the outcomes of these
+interactions and working backward.
+In practice, this recursion shows up in places like product analytics informing
+onboarding flows, customer success signals reshaping expansion plays, marketing
+models refining audience selection, and sales prioritization adjusting based on
+which conversations convert into qualified demand. In each case, downstream
+outcomes reshape upstream decisions.
+The system looks for patterns that consistently correlate with downstream demand, such as
+role, tenure, product usage depth, language used, network position, timing, and context. Over
+time, the system learns:
+●​ Who becomes a credible advocate
+●​ When advocacy converts into inquiry
+●​ Under what conditions does the air gap close?
+These insights are fed back into the system to increase probability, not to force behavior.
+Campaigns, education, and prompts are selectively applied to high-signal users, while broader
+market activity increases awareness among audiences most likely to ask.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 9 of 40
+
+Working Paper | February 2026
+
+Nothing is hard-wired. No user is instructed to broadcast. Instead, the system adapts so that the
+right people are present, prepared, and visible at the right moments, increasing the likelihood
+that advocacy and inquiry intersect. That is recursive growth: not creating demand directly, but
+systematically increasing the odds that demand and advocacy meet, at scale, over time.
+
+2.4 PLG vs HLG Under Recursion
+Recursive growth operates as a second-order adaptive process. It observes outcomes, identifies
+which signals matter, and adjusts the system to amplify those signals in future cycles. Under
+recursion, the inherent characteristics of PLG and HLG are not neutralized or averaged; they are
+amplified. In PLG systems, recursion accelerates what already moves quickly, compressing
+feedback cycles and increasing velocity. In HLG systems, recursion deepens what already
+creates credibility, increasing signal quality and trust over time.
+
+PLG under recursion
+Because PLG is defined by direct-connection loops, recursion amplifies signals with four
+properties: measurability, velocity, repeatability, and applicability.
+●​ Measurable signals are captured directly by the system. User actions such as clicks,
+usage patterns, and feature adoption generate explicit, machine-readable signals. In a
+recursive system, these signals are continuously reinforced.
+●​ Velocity signals compress the time between action, insight, and adjustment. Short
+feedback cycles become even shorter, accelerating what already moves quickly.
+●​ Repeatable signals produce consistent outcomes under similar conditions. Successful
+paths, flows, and behaviors are reinforced while inconsistent ones are discarded,
+causing the system to converge on high-performing patterns.
+●​ Applicable signals can be translated directly into system changes. Insights are acted on
+through product design, onboarding, pricing, or distribution mechanics, allowing learning
+to convert rapidly into execution.
+As a result, recursion amplifies velocity, local optimization, automation leverage, and
+winner-take-all dynamics in PLG systems.
+
+HLG under recursion
+Because HLG is defined by air-gapped loops, recursion amplifies signals that are credible,
+contextual, and selective.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 10 of 40
+
+Working Paper | February 2026
+
+●​ Credible signals are trusted because they come from lived experience rather than
+repetition. A recommendation matters because the person giving it has real context, no
+obvious incentive, and something at stake in being right.
+●​ Contextual signals derive their power from timing, setting, and relevance. The same
+recommendation can be decisive in the right moment and meaningless in another.
+●​ Selective signals retain their impact by being limited in scope. Overuse destroys trust.
+Selectivity preserves signal strength by concentrating amplification among people
+whose voices carry weight.
+As a result, recursion amplifies the quality of advocates, narrative precision, trust accumulation,
+and selective amplification in HLG systems.
+
+2.5 AI as a Recursive Amplifier
+AI does not introduce a new growth mode, and it does not replace PLG or HLG. Its role is to
+accelerate recursion—shortening the distance between outcomes and learning.
+●​ In PLG systems, AI accelerates recursion by shortening feedback cycles. It detects
+usage patterns, optimizes flows, and automates experimentation. Fast systems become
+faster and more precise as outcomes are observed, learned from, and reintegrated into
+the system.
+●​ In HLG systems, AI helps surface high-quality signals from noisy, air-gapped
+environments. It identifies which experiences, narratives, and contexts are most likely to
+lead to credible advocacy, improving signal quality without forcing scale. Surfacing
+signals, however, do not close the air gap. The advocacy itself still occurs outside the
+system, through human judgment, trust, and context, and cannot be directly
+instrumented or controlled.
+AI improves inference around air-gapped outcomes, not execution. It learns from downstream
+results and works backward to refine who is activated, when, and how, while the point of action
+remains human-mediated. In this way, the air gap is narrowed rather than eliminated.
+AI does not eliminate the air gap, nor replace human judgment at the point of advocacy. It
+operates above the feedback layer, strengthening both direct and air-gapped loops by
+accelerating learning and adaptation.
+
+AI has its highest leverage in the recursive layer.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 11 of 40
+
+Working Paper | February 2026
+
+It amplifies the health of existing loops, but cannot compensate for missing, broken, or
+mis-sequenced ones. As a force multiplier, it synthesizes signals across the system to
+continuously reallocate finite resources toward higher-yield paths.
+It can detect when previously reliable proxies, such as firmographic qualification, no longer
+correlate with long-term expansion and instead drive higher cost-to-serve.
+By identifying these shifts, the system can recommend structural adjustments—excluding
+certain leads, refining prioritization, and redirecting effort toward customers with greater
+expansion potential. Applied continuously, this recursive optimization compounds the impact of
+finite resources by reducing waste and improving alignment over time.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 12 of 40
+
+Working Paper | February 2026
+
+Chapter 3. First- and Second-Order Growth Loops
+Growth systems consist of multiple feedback loops, but not all are equally important. We
+distinguish between first-order and second-order growth loops.
+●​ First-order growth loops are the fundamental, system-level loops that directly determine
+how growth is created, sustained, and compounded. They define core growth behaviors
+such as generating new demand, converting usage into opportunity, retaining customers,
+and expanding customer impact. These loops shape the overall trajectory of the growth
+system.
+●​ Second-order growth loops are derivative mechanisms that extend, express, or optimize
+first-order loops. They can influence performance locally and matter operationally, but
+they do not alter the underlying growth physics of the system. Examples include partner
+programs, SEO, marketplaces, ecosystems, or sales-efficiency initiatives. These
+mechanisms leverage first-order loops rather than replacing or redefining them.
+The set of growth loops described in this chapter is intentionally selective. The goal is not to
+catalog every possible growth tactic or channel, but to define the foundational building blocks
+that govern system-level growth behavior. Many commonly discussed “growth loops” are
+second-order expressions of these first-order loops.
+
+First-order loops define how growth works. Second-order loops
+determine how effectively those mechanics are applied.
+For executives, this distinction is critical: sustainable growth does not come from discovering
+the next growth hack, but from strengthening the health and sequencing of first-order loops.
+
+3.1 First Order Growth Loops
+Growth is modeled using five dominant, first-order growth loops that capture the system-level
+behavior of a GTM engine.
+●​ Word-of-Mouth (WoM): accelerates growth by generating new demand
+●​ Education: enables progression by reducing friction and uncertainty
+●​ User Advocacy (Referral): accelerates growth through usage-driven signals
+●​ Retention: protects growth by preventing decay
+●​ Expansion: compounds growth by increasing the impact customers achieve
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 13 of 40
+
+Working Paper | February 2026
+
+While both Word-of-Mouth and User Advocacy originate with users, they serve different
+system functions: Word-of-Mouth creates new demand. At the same time, Advocacy
+improves the quality and credibility of demand through usage-derived signals.
+Each loop contributes to growth in a distinct way, depending on its role in the system and its
+underlying characteristics, such as whether it is accelerative or protective, and whether it is
+powered exogenously or endogenously.
+
+Figure 3.1. Structural representation of the Bowtie growth system and first-order growth
+loops (conceptual model).
+
+3.1.1 Word-of-Mouth Loop
+The Word of Mouth loop describes how growth is generated when existing users, observers, or
+participants trigger interest among new prospects.
+●​ Virality describes the rate at which this happens
+●​ Word-of-Mouth describes the mechanism itself.
+This loop operates primarily among prospects or a broader audience that may not yet have
+direct experience with the product. As a result, it is driven more by popularity and social signals
+than by established credibility. People share what is visible, trending, or widely discussed—even
+when firsthand experience is limited.
+Word-of-Mouth produces the fastest acceleration in early and mid growth stages. It is powerful
+but often fragile and short-lived. Without reinforcement from education, advocacy, retention, or
+expansion loops, Word-of-Mouth decays quickly and fails to convert awareness into durable
+growth.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 14 of 40
+
+Working Paper | February 2026
+
+3.1.2 Education Loop
+The Education loop enables progression by reducing uncertainty wherever actors move toward
+a commitment or action. In this loop, the customer is in learning mode, and the system’s role is
+to help them understand what the product is, whether it is relevant, how it works, and whether it
+will succeed in their specific context.
+The primary output of the Education loop is readiness for action—measured as buying readiness
+among prospects and adoption progress among existing users. When education is effective,
+interest turns into informed confidence, making it easier for prospects to move into the next
+stage and make a decision.
+The Education loop can operate through different mechanisms, Nurture and Community, and
+closes through learning signals that allow the system to improve its approach to reducing
+uncertainty over time.
+
+Nurture (Exogenous Education Mechanism)
+Nurture is an exogenous education mechanism within the Education loop. It reduces uncertainty
+and friction by providing structured inputs such as content, programs, workshops, demos, and
+human guidance.
+
+Nurture does not self-propel as a mechanism.
+Its outputs do not reinforce the Nurture system itself, and it requires continuous external input
+to operate. When that input stops, the mechanism decays. For this reason, Nurture is not a
+self-closing growth loop, but an exogenous mechanism within the Education loop.
+However, nurture reliably changes the human state. Educated individuals often share what they
+have learned, triggering other first-order loops, such as Word of Mouth or Advocacy. In these
+cases, propagation occurs through human agency, not through the Nurture mechanism itself. In
+this way, Nurture supports the Education loop by improving progression efficiency and seeding
+downstream loops, without functioning as a self-closing loop.
+
+Community (Endogenous Education Loop)
+Unlike Nurture, which is a linear mechanism that decays without continuous external input,
+Community represents the endogenization of education.
+
+When participants become the teachers, education compounds.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 15 of 40
+
+Working Paper | February 2026
+
+In a Community loop, individuals learn by observing, sharing, questioning, and validating each
+other’s experiences. Knowledge spreads through peer reinforcement, context, and credibility,
+allowing education to continue even when direct company input declines.
+The Community loop closes when participation generates more participation. As individuals
+learn and contribute, the shared knowledge base strengthens, attracting more engagement and
+improving the relevance and usefulness of future interactions. In this way, education becomes
+self-reinforcing.
+Community changes the company's role from primary educator to facilitator. The system’s task
+is not to provide every answer, but to create the conditions under which learning compounds
+through interaction.
+When healthy, the Community loop reduces dependence on exogenous Nurture, improves the
+efficiency of progression, and increases the durability of the Education loop by allowing learning
+to scale through people rather than programs.
+
+3.1.3 Advocacy Loop
+The Advocacy loop is an endogenous accelerative loop that grows by converting product usage
+into credible demand signals. In this loop, satisfied users share their firsthand experience,
+producing usage-derived signals that generate new pipeline or demand and feed back into
+growth.
+Unlike Word-of-Mouth, which is driven by popularity and visibility among prospects, Advocacy is
+driven by credibility that emerges from real usage. It operates among existing users who have
+direct experience with the product. Because the signal is grounded in lived experience, it carries
+higher trust and is more likely to convert.
+Once activated, the Advocacy loop produces durable acceleration. Usage creates usage-derived
+signals; those signals establish credibility and trust; trust generates new demand; and that
+demand creates more users. Growth feeds directly back into growth. This loop is often a
+defining engine of AI-native and product-led companies, where real usage becomes the primary
+source of trusted demand.
+
+Advocacy converts usage into trust, and trust into growth.
+3.1.4 Retention Loop
+The Retention loop is an endogenous loop that protects growth by preserving the impact that
+has already been created. In this loop, existing customers continue to use and renew the
+product, preventing the growth previously generated from decaying.
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 16 of 40
+
+Working Paper | February 2026
+
+Retention does not create new growth, but it prevents negative compounding. Without retention,
+all other growth loops leak. Gross Revenue Retention (GRR) never exceeds 100%, yet it stabilizes
+the system by preventing past growth from being lost.
+This loop operates among customers who have already adopted the product. Its role is to
+maintain engagement, satisfaction, and the continuity of impact, ensuring the system remains
+intact over time.
+By reducing churn and preserving the installed base, the Retention loop turns growth from
+fragile into durable. It creates the stable foundation on which accelerative and compounding
+loops can operate effectively.
+
+Retention does not make growth faster; it prevents growth from
+disappearing.
+3.1.5 Expansion Loop
+The Expansion loop is endogenous and accelerative. It compounds growth by increasing the
+impact existing customers achieve over time. In this loop, customers deepen their usage, add
+users, adopt additional use cases, or expand their investment, turning the installed base into a
+source of ongoing growth.
+Expansion does not merely add revenue; it funds future growth capacity. Because impact
+increases within the existing customer base, expansion reduces reliance on constant new
+acquisition. Net Revenue Retention (NRR) can exceed 100% when expansion outpaces churn,
+reflecting the combined effect of retention and expansion—but NRR is an outcome, not the loop
+itself.
+The expansion loop operates among customers who have already adopted the product and are
+achieving impact. Its role is to translate that impact into deeper engagement and higher lifetime
+contribution.
+The Expansion loop is the primary engine of long-term compounding and is essential for scaling
+durable growth, particularly as companies move from roughly $100M toward $1B and beyond.
+By allowing growth to build on itself, expansion turns scale into an advantage.
+
+3.2 The Operating Loop - The Human Closure Loop
+While First-order loops generate growth, the Operating Loop determines whether that growth
+can be sustained as organizations scale. It counteracts entropy by ensuring that learning travels
+across functions rather than remaining trapped in silos.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 17 of 40
+
+Working Paper | February 2026
+
+We propose the Operating Loop as the coordinating mechanism that translates customer
+signals into system-level adaptation across acquisition, retention, and expansion. In practice,
+organizations lacking such a loop exhibit delayed feedback, local optimization, and eventual
+throughput collapse as scale increases.
+When learning does not flow across functions—when customer success insights fail to inform
+marketing, or marketing optimizes volume while sales struggles with qualification—the
+Operating Loop remains open and growth leaks. Growth may still occur, but it does not
+compound.
+
+Figure 3.2 The Operating Loop as a System Multiplier. Analysis of 50+ GTM diagnostics showing
+the Operating Loop as the strongest determinant of system performance—ranking as the #1
+enabler when aligned and the #1 inhibitor when absent.
+
+When the Operating Loop is closed, execution insights travel across teams through shared
+language, cadence, and operating norms. The organization behaves as a single system rather
+than a collection of functions, allowing improvements in one area to reinforce progress
+elsewhere rather than being undone by friction.
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 18 of 40
+
+Working Paper | February 2026
+
+Every system drifts toward entropy; sustained growth requires humans to
+close feedback loops actively.
+Across 50+ SaaS-native GTM diagnostics, the Operating Loop emerged as the single strongest
+determinant of system performance. When aligned, it acts as a powerful enabler of
+compounding growth; when misaligned, it becomes the strongest inhibitor. This binary effect
+reflects operating coherence: learning either reinforces the system or friction negates progress.
+Closing the Operating Loop requires three non-negotiable standards across the customer
+journey:
+●​ Uniform Methodology: executing the same playbook to ensure consistent inputs
+●​ Common Language: using shared terminology to reduce friction and speed decisions
+●​ Standardized Data: measuring success against a single source of truth
+These are not cultural preferences or management styles. They are the structural requirements
+for sustaining compounding growth.
+
+3.3 Second-Order Growth Loops
+First-order loops generate energy in the system. Second-order loops provide leverage. They do
+not create growth. They amplify it. Second-order loops sit on top of a first-order loop and
+increase its reach, speed, or efficiency. Think of them as mechanical advantages applied to an
+already-moving system. To control growth, leadership must treat these mechanisms as
+multipliers, not generators.
+●​ First-Order Loops (Generators): Create force in the system, e.g., a user advocating for
+the product.
+●​ Second-Order Loops (Amplifiers) Reduce friction or increase torque on that force, e.g., a
+partner program that scales advocacy.
+This distinction matters because most “growth hacks” aren’t growth at all. They’re second-order
+optimizations bolted onto an existing loop, quietly assuming that the loop underneath is already
+working. Here are a few examples and what they actually amplify.
+●​ Partner Ecosystems → Amplifies Advocacy​
+A partner program is not a standalone growth engine; it is a lever for the Advocacy Loop.
+If the product does not generate delight and advocacy on its own, partners will not risk
+their reputation to sell it. The partner program simply scales the existing advocacy.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 19 of 40
+
+Working Paper | February 2026
+
+●​ SEO & Content Strategy → Amplifies Education​
+SEO is a distribution lever for the Education Loop. It increases the number of prospects
+entering the loop, but if the underlying mechanics of education (Nurture/Community) are
+broken, ranking #1 on Google only wastes effort.
+●​ Pricing & Packaging → Amplifies Expansion​
+Packaging is a lever for the Expansion Loop. Tiered pricing reduces the friction of
+upselling, but it cannot create the value that drives the upsell.
+This distinction leads to a non-negotiable mathematical truth: You cannot amplify zero.
+Executives often try to bolt on second-order loops to fix stalled growth. This fails because
+amplifiers multiply the output of first-order loops; they do not replace them.
+●​ Exponential Growth = Strong Core × Second-Order Loops
+●​ Accelerated Failure = Broken Core × Second-Order Loops
+
+First-order loops determine whether you grow. Second-order loops
+determine how fast and how efficiently that growth occurs.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 20 of 40
+
+Working Paper | February 2026
+
+Chapter 4. System-Level Growth Behavior
+Growth loops do not operate in isolation. They form systems. And the behavior of those
+systems over time depends not just on which loops are present, but on the order in which they
+become dominant.
+Growth loop behavior describes the effect a loop has on the system’s trajectory over time. A
+single loop may exhibit different behaviors depending on how feedback propagates and how it
+is embedded in the broader system. These behaviors are not properties of loops in isolation.
+They emerge from the interaction between loop design, feedback physics, and system context,
+and together determine whether growth merely continues, accelerates temporarily, or
+compounds durably.
+Some loops improve flow by reducing friction and smoothing conversion without creating
+momentum on their own. Other loops protect growth by preventing negative compounding and
+preserving the installed base. Accelerative loops increase growth velocity by tightening
+feedback cycles. Compounding loops increase future growth capacity by adding net new growth
+from existing customers, allowing each cycle to build on the last.
+
+4.1 The Invariant Direction of Growth Systems
+Across diagnostics, we observe a consistent ordering in how recurring-revenue growth systems
+evolve under scale pressure. We propose that this ordering, Acceleration, followed by Stability,
+followed by Compounding, is structurally invariant for systems in which growth is produced
+through coordinated acquisition, retention, and expansion.
+
+Acceleration → Stability → Compounding
+This sequence reflects structural constraints, not preference or strategy.
+●​ Accelerative loops create motion by increasing growth velocity through tighter feedback
+cycles and early momentum.
+●​ Protective loops establish stability by ensuring that what is being compounded is
+mechanically and economically sound, preventing product or business issues from being
+amplified.
+●​ Compounding loops expand capacity, accelerating growth over time as each cycle
+builds on a larger base.
+Companies may enter this sequence at different points depending on product architecture and
+market context. What does not change is the order in which constraints must be resolved. This
+order exists because growth systems obey simple structural limits:
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 21 of 40
+
+Working Paper | February 2026
+
+●​ You cannot compound what you cannot retain.
+●​ You cannot retain what users do not value.
+●​ You should not compound what has not been mechanically and economically stabilized.
+As a result, growth systems naturally evolve from motion to containment to amplification. When
+companies attempt to bypass this sequence by compounding before stabilization, or
+accelerating on a leaking or inefficient base, the probability of stalling increases sharply.
+
+What appears to be a market problem is often a sequencing problem.
+4.2 Growth Loop by Stage
+Growth loops do not contribute equally at every stage of a company’s evolution. As companies
+scale, the dominant growth loops shift in response to market saturation, customer behavior, and
+system constraints. Understanding which loops matter at each stage explains why growth
+accelerates, stalls, or becomes bought.
+At early stages, growth systems optimize for acceleration. At later stages, they must optimize
+for durability and compounding. Companies that fail to transition from one dominant loop set to
+the next consistently hit the same wall, regardless of market, product, or talent. Growth stalls
+not because loops stopped working, but because the right loops are applied at the wrong stage.
+Growth loops are often present long before they become dominant. A loop becomes dominant
+when it exerts the greatest influence on the system’s rate, stability, or capacity, meaning
+changes in that loop produce outsized effects on overall growth.
+
+The dominant loop is the one that, if weakened, immediately slows or
+reverses growth, even if all other loops remain intact.
+Loops that are merely present may function, but changes to them do not materially alter the
+growth trajectory.
+
+4.2.1 Early Stage Growth (<$10M)
+At an early stage, growth is driven primarily by accelerative acquisition loops.
+Dominant Loops: Word-of-Mouth and Education (Nurture Mechanism).
+System Behavior: Growth is exploratory and fragile. Word-of-Mouth creates rapid acceleration
+driven by novelty or social signal, while Nurture supports conversion by reducing friction.
+Retention and Expansion exist, but the small installed base limits their impact.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 22 of 40
+
+Working Paper | February 2026
+
+Risk: Growth depends heavily on external input and early momentum. Without reinforcement
+from deeper loops, this acceleration fades quickly as the novelty wears off.
+
+4.2.2 Scalable Growth ($10-100M)
+As the customer base grows, endogenous acceleration becomes possible.
+Dominant loops: User Advocacy, Word-of-Mouth, and Retention (emerging).
+System Behavior: Usage begins to generate demand. The shift from Word-of-Mouth (buzz) to
+User Advocacy (proof) stabilizes the acquisition engine. Retention begins to stabilize the base,
+allowing accelerative loops to compound more consistently. Growth can scale, but durability is
+not yet guaranteed.
+Risk: Over-reliance on acquisition loops masks weakening retention or advocacy signals.
+Companies often mistake high velocity for high durability.
+
+4.2.3 Durable Growth ($100M–$1B)
+At this stage, growth must shift from acceleration to durable compounding.
+Dominant loops: Retention, Expansion, and User Advocacy.
+System Behavior: Growth is sustained by stable feedback loops that resist decay at scale.
+Acquisition, retention, and expansion are mechanically sound, and negative feedback is
+detected early enough to prevent systemic failure. The organization can grow without
+collapsing, but compounding still depends on active human orchestration. Leaders, managers,
+and frontline teams continuously interpret signals, adjust priorities, and reinforce execution
+discipline through the Operating Loop.
+Observed Pattern: Many unicorns stall in this range ("The Wall") when accelerative loops
+weaken, and expansion or retention fail to take over.
+
+4.2.4 Autonomous Growth ($1B+)
+At this scale, growth depends on orchestrated, self-sustaining loops.
+Dominant Loops: Retention, Expansion, and User Advocacy.
+System Behavior: Growth is driven primarily by endogenous feedback loops that operate with
+minimal human intervention. Customer signals are captured, interpreted, and reinvested
+automatically through product behavior, data systems, and operational workflows, allowing
+expansion, advocacy, and retention to reinforce one another without proportional increases in
+coordination cost.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 23 of 40
+
+Working Paper | February 2026
+
+Observed Pattern: Customer actions, usage, expansion, advocacy, and renewal directly trigger
+subsequent growth activity through embedded system feedback. As a result, growth
+accelerates while organizational load remains relatively flat. ​
+
+Table 4.1 Dominating growth loops by growth stage (illustrative schematic).
+Growth Stage*
+
+What dominates
+
+Explanation
+
+<$10M
+Early Stage
+
+Word of Mouth,
+Education
+
+Viral Phase: Startups survive on buzz and founder-led
+evangelism. Growth is fast but fragile because it relies on
+external energy (Founders) or unstable social signals.
+
+$10-100M
+Scalable
+
+User Advocacy,
+Word of Mouth,​
+
+CAC Wall: Paid acquisition costs can get expensive. Companies
+that survive this phase successfully transition from "hype" to
+"proof." If they don't, CAC kills them.
+
+$100M-1B:
+Sustainable
+
+Retention,
+Expansion
+
+Unicorn Trap: This is where the "Wall" exists. Acquisition no
+longer outruns the churn of a large base. Survival depends on
+Retention + Expansion exceeding 100%.
+
+>$1B
+Durable
+
+Expansion,
+Advocacy
+
+Platform Phase: Growth comes from expansion, for example, by
+selling more to the same people. Acquisition becomes
+secondary to Portfolio value.
+
+The revenue ranges per growth stage* are indicative, not prescriptive. They reflect common points at which
+system constraints shift in SaaS and AI-natives, but the underlying transition is driven by loop dominance and
+economics, not absolute size.
+
+The Evolving Role of Education
+Education and Community loops are present across every stage, but they do not always
+function as dominant constraints. Their role shifts over time; early on, they support
+acceleration by removing friction (Nurture). Later, they endogenize learning to scale
+support (Community). Contrary to popular belief, while Education and Community remain
+vital for efficiency, it is Retention and Expansion that ultimately determine whether growth
+becomes durable and compoundable.
+
+4.3 Growth Loop Sequencing by GTM motion
+Growth loops do not activate in the same order across different go-to-market motions. Although
+the sequencing direction is invariant, each GTM motion enters the system through a different
+first endogenous loop. That entry point determines how growth initially accelerates, how
+stability is established, and how compounding eventually emerges.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 24 of 40
+
+Working Paper | February 2026
+
+Companies fail when they apply the right loops in the wrong sequence for their GTM motion,
+often importing patterns that work elsewhere but violate the system’s natural constraints.
+
+4.3.1 Pro-User / PLG Motion
+Natural entry point: Usage-driven acceleration
+Typical sequence: Word-of-Mouth → User Advocacy → Retention → Expansion
+Why this works: In PLG systems, distribution comes from usage rather than sales. Advocacy
+appears early because the user is also the buyer, allowing accelerative loops to activate quickly.
+Retention and Expansion only become dominant once sufficient user density and usage depth
+exist.
+Failure mode: Strong early acceleration without durability. Many PLG companies stall when
+Expansion never becomes dominant, and growth remains velocity-driven rather than
+compoundable.
+
+4.3.2 SMB / Mid Market Motion
+Natural entry point: Education-driven trust
+Typical sequence: Nurture → Word-of-Mouth → Retention → Expansion (limited)
+Why this works: SMB buyers require education and reassurance before committing. Volume
+compensates for limited expansion potential, making accelerative loops effective early.
+Retention matters for stability, but expansion ceilings are structurally lower.
+Failure mode: Growth remains input-dependent. Expansion never becomes strong enough to
+compound, forcing continued reliance on exogenous acceleration.
+
+4.3.3 Enterprise Motion
+Natural entry point: Economics-driven stability
+Typical sequence: Retention → Expansion → User Advocacy → Word-of-Mouth
+Why this works: Enterprise growth is driven by economics rather than volume. Expansion is
+structural—more users, teams, use cases, and value over time. Advocacy appears later, but with
+significantly higher intent and signal quality.
+Failure mode: Logos are acquired before expansion readiness exists. The result is high logo
+count, weak compounding, and a stall commonly observed in the $100–300M range.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 25 of 40
+
+Working Paper | February 2026
+
+4.4 The Wall: Structural Failure at $100M+
+Across diagnostics, we consistently observe a failure mode in which growth systems attempt to
+compound before stabilizing their underlying loops. We refer to this structural breakdown as
+The Wall.
+We notice many software companies hit the Wall between $100M and $300M. It appears to be
+structural. Companies hit the wall when they attempt to scale through Acceleration long after
+the system requires a transition to Compounding.
+The most common failure pattern is staying in motion too long. Systems optimized for
+acquisition delay the transition to stabilization and expansion, even as scale increases. But
+growth systems obey strict physical constraints: you cannot expand what you have not
+stabilized. When companies hit this wall, adding more salespeople or marketing spend
+(Exogenous input) yields diminishing returns. The system has stalled because it is optimized for
+the wrong physics.
+
+What appears to be a growth problem is, in reality, a sequencing problem.
+When these dynamics align: correct sequencing, dominant endogenous loops, and a closed
+Operating Loop, the system does not merely grow more efficiently. It undergoes a qualitative
+change in behavior. That transition is the subject of the next chapter.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 26 of 40
+
+Working Paper | February 2026
+
+Chapter 5. Takeoff: A Phase Transition of Growth Systems
+Today’s market is undergoing a structural shift that is altering the basis of competition. In
+growth systems, advantage is determined not by who starts first, but by whose system reaches
+self-reinforcement first. We refer to this as Takeoff.
+
+Takeoff is the system-level outcome of correctly sequencing growth
+loops.
+When accelerative loops create motion, protective loops stabilize what has been built, and
+compounding loops expand future capacity—in that order—feedback strength crosses a critical
+threshold. At this point, endogenous reinforcement begins to dominate, and reliance on
+exogenous inputs such as headcount, spend, or activity diminishes.
+This shift represents a phase transition in the growth system. Progress no longer scales linearly
+with effort. Instead, growth accelerates because prior outputs increasingly fuel future inputs.
+The system compounds its own results, allowing progress to increase without proportional
+increases in investment.
+
+Properties of Takeoff
+Systems in takeoff exhibit three defining properties that distinguish compounding advantage
+from linear growth.
+●​ Accelerative: Progress is no longer linear or effort-bound. Cycle times collapse, iteration
+speeds up, and outcomes improve faster with the same—or less—input.
+●​ Self-reinforcing: Outputs feed back into inputs. Each win improves the system’s ability to
+generate the next win—learning, distribution, and execution compound.
+●​ Time-dominant: Advantage accrues to those who manage their loops earlier because
+time in the system matters more than resources. Late entrants cannot catch up by
+spending more; they missed the compounding window. When time becomes the
+dominant variable, advantage becomes effectively irreversible.
+In system terms, takeoff typically occurs when an accelerative loop, such as advocacy, feeds
+directly into a compounding loop, such as expansion, removing reliance on exogenous sales or
+marketing friction.
+In linear business models, competitive advantage often depends on first-mover advantage—a
+temporary lead gained by starting earlier. In growth systems, that lead is fragile. The durable
+advantage accrues to the company that reaches Takeoff first, because late entrants cannot
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 27 of 40
+
+Working Paper | February 2026
+
+recover time spent compounding inside a self-reinforcing system through additional effort
+alone.
+
+Irreversible Time-Dominance vs. First-Mover Advantage
+First-mover advantage is when a company gains an initial edge by being the first to enter a
+market or introduce a product, often capturing early customers and attention. However, it is
+frequently temporary as others quickly catch up or leapfrog. The advantage of a feature, or even
+a product, is rarely enough to provide lasting dominance.
+Irreversible time-dominance, on the other hand, occurs when a company builds a self-reinforcing
+system that extends well beyond a product or feature. In our case, this can include
+compounding network effects or data loops. Each of these strengthens the time dominance
+itself over time. This makes it extremely hard for others to catch up because the system
+compounds its own advantage.
+First-mover advantage concerns the timing of a product, while irreversible time-dominance
+concerns sustained, systemic momentum that leads to an advance in timing. Time dominance
+emerges at takeoff; first-mover advantage is neither necessary nor sufficient.
+
+Figure 5.1. The Divergence of Dominance. First-mover advantage provides an early head
+start, but without growth loops, the trajectory quickly falls behind. Irreversible Time
+Dominance occurs when growth loops create a breakout velocity (solid line), making the
+gap mathematically impossible to close over time.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 28 of 40
+
+Working Paper | February 2026
+
+CASE STUDY
+The Pivot from Product Innovation to Platform Dominance
+Consider the emergence of the smartphone market. Apple’s initial entry provided a
+first-mover advantage through hardware innovation—specifically the touch-based
+interface. However, while hardware features are subject to rapid commoditization,
+Apple’s sustained time-to-market dominance resulted from shifting from a
+product-centric model to a systems model through iOS.
+While incumbents like Nokia and Ericsson continued to compete on hardware
+specifications and form factors, Apple established iOS as a two-sided marketplace,
+triggering a compounding network effect:
+●​ Demand Side Scale: Each additional iOS user expanded the addressable market,
+increasing the potential return on investment for third-party developers.
+●​ Supply Side Utility: This scale incentivized developers to prioritize the platform for
+high-quality, exclusive applications, thereby increasing the ecosystem's aggregate
+utility.
+●​ The Compounding Loop: Enhanced ecosystem utility improved user retention and
+organic acquisition, further expanding the developer's incentive and accelerating the
+cycle.
+This systemic lead forced incumbents to repeatedly reset their platforms—abandoning
+legacy operating systems to pursue new builds (e.g., Nokia’s transition to Symbian^3
+and subsequently to Windows Phone). These resets were structurally detrimental; they
+effectively nullified any compounding gains and forced incumbents to restart their
+network effects from a zero base.
+The market eventually converged not on a specific product, but on this systemic model.
+Android, managed by Google, secured its market position by adopting a similar
+two-sided marketplace strategy rather than competing solely on device features.
+Consequently, the global market reached an equilibrium dominated by the two entities
+that successfully established and scaled resilient compounding systems.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 29 of 40
+
+Working Paper | February 2026
+
+5.2 Leading Indicators of Takeoff
+Takeoff is observable. Growth systems entering the rapids exhibit a small number of leading
+indicators that signal strengthening feedback loops and a shift in dominance from effort to
+time. These indicators appear before the revenue curve visibly bends, which is why most teams
+only recognize takeoff in hindsight.
+●​ Decoupling of Inputs and Outputs: Growth increases without proportional increases in
+effort. Revenue continues to rise while customer acquisition cost (CAC) declines or
+remains flat, indicating that outputs are beginning to reinforce future inputs rather than
+relying on new spend.
+●​ Loop Velocity: Feedback cycles compress. The time it takes for a customer cohort to
+expand shortens materially—expansion revenue appears in month three instead of
+month twelve—signaling faster learning, adoption, and value realization across the
+system.
+●​ Organic Lift: Endogenous growth overtakes exogenous growth. The ratio of organic
+contribution (product-led usage, expansion, advocacy, community) to paid contribution is
+flipping, indicating that the system is increasingly generating its own demand.
+When these signals appear together, optimization yields diminishing returns. The system has
+entered the rapids. Timing now matters more than execution, and advantage compounds with
+time rather than effort.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 30 of 40
+
+Working Paper | February 2026
+
+Chapter 6. Conclusion
+Growth is best understood as the output of a go-to-market system. Sustainable, exponential
+growth does not emerge from isolated tactics or “growth hacks,” but from the deliberate design,
+sequencing, and reinforcement of growth loops that govern how demand is created, stabilized,
+and compounded over time.
+Growth systems evolve under structural constraints. Accelerative loops create motion, but
+without stability, they remain fragile. Protective loops preserve what has been built, but cannot
+substitute for learning. Compounding loops expand future capacity, but only after stability has
+been established. Attempts to bypass this sequence—by compounding before stabilizing, or
+protecting before learning—produce diminishing returns and the stall commonly experienced as
+The Wall.
+Whether growth compounds or leaks is determined not only by which loops exist, but by
+whether learning travels across the organization. The Operating Loop—the mechanism that
+closes the human feedback gap through shared language, methodology, and data—emerges as
+the single strongest determinant of system coherence. Without it, even well-designed loops fail
+to reinforce one another.
+When growth loops are sequenced correctly and the operating model remains coherent,
+feedback strength crosses a critical threshold. Endogenous reinforcement begins to dominate,
+reliance on exogenous input declines, and the system undergoes a phase transition. We refer to
+this transition as Takeoff—the point at which growth decouples from proportional effort and
+becomes time-dominant.
+From this framework, three system-level implications follow:
+1. Audit for Feedback Closure
+Verify whether your primary growth drivers are endogenous loops or merely exogenous
+inputs. A mechanism qualifies as a growth loop only if its outputs materially influence
+future inputs. If growth stops the moment time or money stops, you are running a
+campaign, not a growth system.
+2. Validate the Invariant Sequence
+Assess whether your system respects the invariant direction of growth:
+Acceleration → Stability → Compounding.
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 31 of 40
+
+Working Paper | February 2026
+
+Stability must be established before compounding is possible. Systems that attempt to
+scale through acceleration alone inevitably encounter leakage and stall at The Wall.
+3. Align the Operating Loop
+Ensure that learning flows across functions through a uniform methodology, a common
+language, and standardized data. The Operating Loop is not a management preference;
+it is a structural requirement. Without it, growth cannot compound.
+Growth does not compound because organizations try harder. It compounds when systems are
+designed to learn, reinforce, and are sequenced correctly over time.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 32 of 40
+
+Working Paper | February 2026
+
+APPENDIX
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 33 of 40
+
+Working Paper | February 2026
+
+METHODOLOGICAL POSTURE
+This paper is intentionally developed and released as a working paper. Its methodological aim is
+to explore, test, and refine a systems framework for understanding compounding growth
+through feedback loops. While grounded in empirical observation and established theory, the
+approach prioritizes sense-making, model formation, and shared language over presenting
+finalized, peer-validated conclusions. The framework is therefore expected to evolve through
+application, critique, and continued refinement across contexts.
+
+EMPIRICAL BASIS
+The framework is grounded in more than fifty structured Go-To-Market Diagnostics (GTMDs)
+conducted between 2018 and 2024. These diagnostics span companies from early-stage
+startups (~$4M ARR) to global enterprises exceeding $6B ARR across B2B SaaS, PLG,
+enterprise software, infrastructure, fintech, cybersecurity, marketplaces, and hybrid AI-native
+models.
+Each GTMD follows a consistent diagnostic structure—instrumenting acquisition, retention, and
+expansion mechanics; mapping conversion rates (CR1–CR8), velocity, and cost-to-serve; and
+identifying structural constraints across GTM motions. While qualitative in nature, the
+diagnostics are applied systematically and comparatively, enabling pattern recognition across
+scale, stage, and business model.
+
+LIMITATIONS AND BOUNDARY CONDITIONS
+This framework describes the structural behavior of recurring-revenue growth systems that
+generate growth through coordinated acquisition, retention, and expansion over time. Its
+predictive power is strongest once organizations have moved beyond founder-led execution into
+multi-role, multi-signal go-to-market systems. It is not intended to predict outcomes in the
+following contexts:
+●​ Pre-revenue or pre-product systems, where growth dynamics are dominated by
+exploration rather than reinforcement.
+●​ Pure B2C viral distribution without monetization, where usage can compound
+independently of revenue stability.
+●​ One-off or transactional business models, where value is realized at the point of sale and
+feedback loops do not materially reinvest into future growth.
+These boundary conditions do not represent exceptions to the framework; rather, they are
+contexts in which the underlying system has not yet met the criteria for compounding behavior
+to emerge. Once revenue becomes recurring and growth depends on retained value rather than
+repeated acquisition, the structural constraints described in this paper apply consistently.
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 34 of 40
+
+Working Paper | February 2026
+
+GLOSSARY OF TERMS (ALPHABETICAL)
+Accelerative Loop (p. 4): A growth loop designed to increase growth velocity by tightening
+feedback cycles and steepening the growth curve.
+AI Recursive Amplifier (p. 11): The application of AI to shorten feedback cycles and improve
+signal inference, particularly in air-gapped environments; AI accelerates learning and adaptation
+but does not replace human judgment at the point of action.
+Air-Gapped Loop (p. 5): A growth loop in which the feedback signal moves through people and
+trust rather than direct digital instrumentation, requiring inference rather than direct observation.
+Compounding Outcome (p. 6): A state change in which growth increases the system’s future
+capacity, making subsequent growth easier with less incremental effort.
+Direct-Connection Loop (p. 4): A growth loop in which cause and effect are easily observed and
+recorded directly by software (e.g., clicks, usage, invitations).
+Endogenous Reinforcement (p. 3): The ability of a growth loop to sustain or amplify itself
+through its own outputs once activated.
+Exogenous Inputs (p. 3): External energy—such as capital, headcount, or time—required to
+initiate a loop or maintain externally powered activities like ads or campaigns.
+Feedback Closure (p. 2): The condition in which a cycle’s output materially alters the conditions
+for the subsequent cycle, enabling self-reinforcement.
+First-Order Growth Loop (p. 13): A fundamental, system-level growth loop that directly
+determines how growth is created, stabilized, or compounded.
+Growth Loop (p. 2): A self-reinforcing system in which outputs from growth activity feed back as
+inputs for future growth without requiring proportional external input.
+Growth System (p. 2): The integrated set of feedback loops, actors, signals, and operating
+structures through which growth is produced, reinforced, or constrained over time.
+Human-Led Growth (HLG) (p. 8): A growth mode operating primarily through air-gapped loops,
+relying on conversations, reputation, and advocacy rather than direct digital instrumentation.
+Invariant Direction (p. 21): The necessary structural evolution of a growth system: Acceleration
+→ Stability → Compounding.
+Irreversible Time-Dominance (p. 27): A durable advantage gained by a system that reaches
+takeoff first, creating a compounding lead that cannot be closed by late entrants through capital
+alone.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 35 of 40
+
+Working Paper | February 2026
+
+Loop Capacity (p. 6): The amount of growth a system can sustain or compound without
+proportional increases in external input.
+Loop Dominance (p. 22): The condition in which a specific growth loop exerts the greatest
+influence on a system’s behavior, such that weakening it immediately slows or reverses growth.
+Loop Velocity (p. 30): The speed at which a growth loop completes a full feedback cycle from
+action to outcome, to learning, and back into the system.
+Operating Coherence (p. 19): The degree to which learning, signals, and decisions flow
+consistently across functions through shared language, methodology, and data.
+Operating Loop (Human Closure Loop) (p. 17): The coordinating loop that ensures learning
+travels across functional silos, enabling system-level adaptation and preventing local
+optimization.
+Product-Led Growth (PLG) (p. 8): A growth mode operating primarily through direct-connection
+loops, where user actions are immediately captured and fed back into the system.
+Protective Loop (p. 4): A growth loop that prevents decay and preserves accumulated impact,
+such as retention.
+Recursive Growth (p. 9): A second-order adaptive process that observes downstream outcomes
+to identify high-signal patterns and adjusts upstream decisions to amplify them.
+Second-Order Growth Loop (p. 19): A derivative mechanism that amplifies or optimizes a
+first-order loop without altering the underlying growth physics of the system.
+Takeoff (p. 27): The system-level phase transition where endogenous reinforcement dominates
+and growth decouples from proportional external effort.
+Wall, The (p. 26): A structural failure—often between $100M and $300M ARR—caused by
+attempting to scale through acceleration before the system has stabilized or transitioned to
+compounding.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 36 of 40
+
+Working Paper | February 2026
+
+INDEX OF TABLES AND FIGURES
+Figure 1. The Fundamental Growth Loop.
+Illustrates the transformation of system inputs into outputs that feed back into the
+system to influence future growth without proportional external effort.
+Figure 3.1. The Five First-Order Growth Loops mapped to the Customer Journey.
+A spatial mapping of Word-of-Mouth, Education, Advocacy, Retention, and Expansion
+across the bowtie customer journey.
+Figure 3.2. The Operating Loop as a System Multiplier.
+Empirical analysis of 50+ GTM diagnostics showing the Operating Loop as the #1
+determinant of performance (Enabler vs. Inhibitor).
+
+Table 4.1. Dominant Growth Loops by Growth Stage
+Illustrates which growth loops dominate at different stages of company scale, explaining
+why growth accelerates, stalls, or compounds as systems evolve.
+Figure 5.1. The Divergence of Dominance.
+Visualizes the "Takeoff" phase transition where growth loops create breakout velocity,
+leading to Irreversible Time-Dominance over linear models.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 37 of 40
+
+Working Paper | February 2026
+
+REFERENCES AND INTELLECTUAL LINEAGE
+The works listed below represent intellectual lineages and foundational traditions that inform
+the framework presented in this paper. They are cited as sources of conceptual influence rather
+than as objects of direct empirical extension or formal theoretical comparison.
+Ref 1.​ Agrawal, A., Gans, J., & Goldfarb, A. (2022). Prediction Machines: The Simple Economics
+of Artificial Intelligence (2nd ed.). Harvard Business Review Press.
+Ref 2.​ Agent-Based Computational Economics (ABCE) Literature. Research demonstrating how
+agent interactions and reinforcement processes produce emergent growth patterns in
+complex systems.
+Ref 3. ​ Auqui-Cáceres, M. V. (2023). "Revitalizing double-loop learning in organizational
+contexts." The Learning Organization.
+Ref 4. ​ Blank, S. (2013). The Four Steps to the Epiphany: Successful Strategies for Products that
+Win. K&S Ranch.
+Ref 5. ​ Christensen, C. M. (1997). The Innovator's Dilemma: When New Technologies Cause Great
+Firms to Fail. Harvard Business Review Press.
+Ref 6.​ Complexity Theory and Organizations Research. Studies describe organizations as
+complex adaptive systems characterized by ongoing feedback and non-linear dynamics.
+Ref 7. ​ Endogenous Growth Literature. Models suggesting "more ideas $\rightarrow$ more
+output $\rightarrow$ more ideas" drive accelerating growth through feedback loops.
+Ref 8. ​ Forrester, J. W. (1961). Industrial Dynamics. MIT Press.
+Ref 9. ​ Forrester, J. W. (1975). Collected Papers of Jay W. Forrester. Wright-Allen Press. (Includes
+research on system archetypes and organizational "attractiveness principles").
+Ref 10. Hoffman, R., & Yeh, C. (2018). Blitzscaling: The Lightning-Fast Path to Building Massively
+Valuable Companies. Currency.
+Ref 11. Iansiti, M., & Lakhani, K. R. (2020). Competing in the Age of AI. Harvard Business Review
+Press.
+Ref 12. Katsamakas, E., & Pavlov, O. (2020). "AI and Business Model Innovation: Leveraging the
+AI Feedback Loops." Journal of Business Models.
+Ref 13. Lee, K.-F. (2018). AI Superpowers: China, Silicon Valley, and the New World Order.
+Houghton Mifflin Harcourt.
+Ref 14. Meadows, D. H. (2008). Thinking in Systems: A Primer. Chelsea Green Publishing.
+Ref 15. Moore, G. A. (1991). Crossing the Chasm. Harper Business.
+Ref 16. Nunes, P., & Breene, T. (2011). Jumping the S-Curve. Harvard Business Review Press.
+Ref 17. OECD (2024). "The Impact of Artificial Intelligence on Productivity, Distribution and
+Growth." Policy research on self-improvement loops.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 38 of 40
+
+Working Paper | February 2026
+
+Ref 18. Pussinen, P. (2023). "Exploring digital platform growth through feedback loops." Systems
+Research and Behavioral Science.
+Ref 19. Ramaswamy, S. (2023). Organize for AI. (Focuses on operational structures required for
+AI feedback value).
+Ref 20. Ries, E. (2011). The Lean Startup. Crown Business.
+Ref 21. Ritala, P. (2024). "Developing industrial AI capabilities: An organizational learning
+perspective." Journal of Business Research.
+Ref 22. Senge, P. M. (1990). The Fifth Discipline. Doubleday.
+Ref 23. Sterman, J. D. (2000). Business Dynamics: Systems Thinking and Modeling for a Complex
+World. McGraw-Hill Education.
+Ref 24. Stroh, D. P. (2015). Systems Thinking for Social Change. Chelsea Green Publishing.
+Ref 25. Thomke, S. (2020). Experimentation Works. Harvard Business Review Press.
+Ref 26. van der Kooij, J. (2024). Revenue Architecture. Winning by Design.
+Ref 27. West, G. (2017). Scale: The Universal Laws of Growth. Penguin Press.
+Ref 28. White, K., et al. (2005). "A generative model for feedback networks." Physical Review E.
+Ref 29. Wilson, H. J., & Daugherty, P. R. (2018). Human + Machine. Harvard Business Review
+Press.​
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 39 of 40
+
+Working Paper | February 2026
+
+About the Winning by Design Growth Institute: The Growth Institute is the research and
+standards body of Winning by Design, focused on the applied study and synthesis of
+revenue architecture and growth systems. It integrates comparative field diagnostics with
+foundational systems theory to develop shared frameworks and language for designing,
+diagnosing, and governing compounding growth systems. Through its Working Paper
+series, the Institute serves as a think tank for revenue leaders navigating the transition
+from effort-driven growth to increasingly self-reinforcing systems.
+
+WbD Growth Institute​
+
+Foundations of Compounding Growth​
+
+Page 40 of 40
+
+

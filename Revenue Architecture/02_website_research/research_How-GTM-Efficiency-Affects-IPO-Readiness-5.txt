@@ -1,0 +1,905 @@
+How GTM Efficiency Affects IPO Readiness
+Lean Revenue Production in a Post-GAAC World
+By Dave Boyce and Jacco van der Kooij of Winning by Design
+with the data sourced by David Spitz of BenchSights
+If you are waiting for a SaaS recovery, prepare to wait a long time. No industry-wide recovery is coming
+soon. The SaaS industry is evolving and maturing, and current performance is bifurcated: 31 out of 72
+public SaaS companies are thriving, while the rest are struggling. The market that rewarded "Growth at
+All Cost" (GAAC) shifted dramatically in late 2021, impacting all SaaS companies. Those companies
+continuing to pursue GAAC strategies and tactics are seeing worsening results. Since January 2022,
+SaaS growth rates have halved, while acquisition costs of Incremental ARR1 have nearly doubled, as we
+reported earlier2. This trend is evident among the 72 public SaaS companies and most private
+companies with revenues over $50M in ARR–most notably for the dozens of companies preparing for
+IPO in the next 24 months.
+
+The #1 issue for CEOs today is the continued decline in GTM performance.
+
+1. GTM Performance
+To assess GTM performance, we analyzed 72 public SaaS companies using a simple factor called
+GTM Efficiency. It is calculated as the total sales and marketing spending ratio to Net New ARR.
+
+Simply put, a GTM Efficiency Factor of 100% means it takes $1 in marketing and sales costs to acquire
+$1 in incremental ARR. According to this measure, companies in the top 10% operate at a GTM
+Efficiency of less than 100%. Due to high gross margins, some companies can sustain a slightly higher
+GTM Efficiency Factor, but 100% is the benchmark. If a company experiences more than six quarters of
+GTM Efficiency exceeding 200%, and this trend continues to rise, management must recognize that
+their model has become unsustainable.
+
+1
+
+Incremental ARR includes all new sales and expansion sales, net of all downsells and attrition.
+
+2
+
+Has SaaS lost Go-To-Market Fit and what to do about it. February 2024, By Jacco vanderKooij and David Boyce
+
+Winning by Design
+
+1 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+Figure 1. GTM Efficiency for the Least Efficient SaaS Companies
+
+Companies at the bottom of our ranking have GTM Efficiency between 200% and 500%, putting
+several of them in definitive danger. For 31 of the 72 analyzed companies, GTM Efficiency is
+worsening as they continue to overpay for growth beyond the sustainability threshold. At the top of
+our rankings, ten successful SaaS companies have GTM Efficiency below 100%, with some trending
+even better, proving that efficient GTM can be accomplished.
+
+Figure 2. GTM Efficiency for the Most Efficient SaaS Companies
+
+Winning by Design
+
+2 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+This raises questions: What strategies are working for highly efficient companies, and what is failing
+for the least efficient ones? How can a high-performing SaaS company return to growth without
+spending $3, $4, or even $5 in Sales and Marketing for each $1 in Incremental ARR? To create GTM
+efficiency, we must look at how revenue is acquired, maintained, and expanded. In a post-GAAC
+world, revenue leaders should pay attention to each process, each ratio, and each metric. In this
+sense, revenue production begins to look like factory production.
+
+2. The Lean Revenue Factory
+We are introducing a simple concept: To operate a recurring revenue business as if it were a factory, a
+Lean Revenue Factory, and see each GTM motion as a revenue production line. This approach draws
+inspiration from the best practices of the Industrial Revolution, and it customizes them to suit to the
+distinctive needs of recurring revenue businesses (See Table 1).
+Table 1 The goals of a recurring revenue factory match those of a physical factory.
+
+Factory Goal
+
+Recurring Revenue Factory
+
+Operational Directive
+
+Maturity Phase
+
+Production
+
+Accelerate Growth
+
+Implement proven processes
+
+Scalability
+
+Efficiency
+
+Lower Cost
+
+Apply unit economics (cost)
+
+Sustainability
+
+Quality
+
+Deliver Recurring Impact
+
+Instill quality management
+
+Durability
+
+Through this lens, it becomes easy to analyze each line, measure the inputs, throughput, and output,
+and optimize the processes to achieve the desired results. The factory analogy works on several
+levels:
+●
+
+The process defines how work moves through a Lean Revenue Factory.
+
+●
+
+GTM motions operate much like production lines in a factory, with each motion
+incrementally improved based on metrics.
+
+●
+
+AI augments or replaces human skills in each production line, the same way robots
+do on physical factory floors.
+
+Any recurring revenue business with over $10M in ARR, a solid PMF, and a sufficiently large TAM can
+be analyzed and optimized using lean production as an analogy. To better understand the principles
+of lean revenue production, we take lessons from manufacturing, where lean processes changed the
+industry forever.
+
+Winning by Design
+
+3 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+Figure 3. In a Lean Revenue Factory, each GTM motion is treated like its own revenue production line
+
+We have established the problem: GTM Efficiency is declining for many SaaS companies. This
+decline threatens the success of many SaaS companies if they do not abandon GAAC's failed tactics.
+In the following sections, we draw parallels between physical manufacturing and revenue production,
+taking lessons from the lean revolution that apply directly to revenue. From there, we outline the core
+principles of lean revenue production and describe the steps in building a Lean Revenue Factory.
+
+3. From Craft to Mass to Lean Manufacturing
+There are three steps from Craft to Lean Manufacturing:
+●
+
+Step 1. Craft Manufacturing: The earliest assembly lines were run by artisans whose
+considerable skill and knowledge were invested in every finished good that came off the line.
+This one-at-a-time Craft Manufacturing approach was the only option until the development of
+Mass Manufacturing in the late 19th and early 20th century.
+
+●
+
+Step 2. Mass Manufacturing: Each part is produced to a standard specification and
+assembled according to a defined process. Workers followed the process and assembled
+parts with minimal customization. Mass Manufacturing improved predictability, lowered
+costs, and improved quality. Most factories in the 20th century operated according to Mass
+Manufacturing principles.
+
+●
+
+Step 3. Lean Manufacturing: Lean Manufacturing was developed in the mid-20th century as a
+formal alternative to mass manufacturing. It is not about maximizing throughput–it is about
+optimizing processes. Lean principles focus on precision and rely on data and closed-loop
+information to continuously improve processes.
+
+Winning by Design
+
+4 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+The five fundamental principles of Lean Manufacturing are:
+●
+
+Principle 1. Define Value: Only include features that deliver end-customer value. All other
+features are removed (e.g., favorite features of the designers or features that make
+manufacturing easier / cheaper).
+
+●
+
+Principle 2. Value Streams: Only include process steps that enhance end-customer value. All
+other steps are removed (e.g., process steps that serve the foreman or the manufacturing
+process but don’t produce end-customer value).
+
+●
+
+Principle 3. Create Flow: Production doesn’t stop and start – continuous flow is maintained.
+
+●
+
+Principle 4. Establish Pull: Rather than producing and stockpiling inventory, units are
+produced just in time to meet customer demand.
+
+●
+
+Principle 5. Pursue Perfection: The process is constantly reviewed for continuous
+improvement opportunities.
+
+Toyota was the poster example of Lean Manufacturing in the auto industry. Toyota’s techniques
+defined the conventional norms of Mass Manufacturing. Mass manufacturers had tooled and
+automated their factories for maximum throughput but sacrificed flexibility. In the 1990s, Ford Motor
+Company needed to re-tool a production line to produce a new model, which took six weeks. For
+Toyota, it took a few hours. Ford produced and pre-sold inventory through its dealer networks,
+resulting in sales and discounts to clear out models and make room for new ones. Toyota produced
+inventory just in time, according to customer demand.
+The Toyota Production System (TPS) was so effective that it forced the entire industry to reconsider
+its mass manufacturing approaches. Some producers followed quickly: Honda, Nissan, and GM, for
+example. Others took their time but eventually adapted: Ford and Chrysler. Still others never
+switched from Mass to Lean manufacturing and went out of business: AMC, Studebaker, DeLorean,
+and Hudson, to name a few.
+Today, we see a similar shift in revenue production: Sales was once the exclusive domain of skilled
+artisans. This evolved into mass revenue production, with processes and systems built to maximize
+throughput. In almost all cases, this led to GAAC. We now see the evolution of lean revenue
+production defining success in the post-GAAC era.
+
+Winning by Design
+
+5 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+4. Mass Revenue Production in the Golden Age of SaaS
+In the early years of SaaS, revenue leaders, and GTM software providers attempted to speed up the
+revenue generation. Since growth was the primary (and sometimes sole) objective, anything that
+could be done to accelerate growth (at any cost) was deemed a good thing. Leaders began applying
+principles of Mass Manufacturing to squeeze more results out of their operations:
+●
+
+Use of low-cost labor: SDRs increased the velocity of prospecting via outbound calls and emails.
+
+●
+
+Marketing automation tools: Tools such as Marketo, Eloqua, Pardot, and ExactTarget increased
+the throughput and velocity of marketing emails.
+
+●
+
+Power dialers and predictive dialers: Tools such as InsideSales, Genesys, and Five9 increased
+the velocity of outbound sales calls.
+
+●
+
+Cadence tools: Tools like Outreach, SalesLoft, and InsideSales customized sales emails and
+calls on a large scale.
+
+Entire methodologies were developed, and books were written that applied principles of mass
+manufacturing to sales. The book Predictable Revenue is a prime example of this line of thinking3.
+Most mass revenue generation methodologies relied on simple funnel math: more activity at the top
+of the funnel results in more opportunities and more closed-won business (see Figure 4).
+
+Figure 4.
+
+Mass Revenue Production relied on volume, calling for more top-of-funnel activity to produce more bottom-offunnel revenue. This is similar to Mass Manufacturing, which built heavy automation to increase throughput at
+the expense of flexibility.
+
+3
+
+Predictable Revenue by Aaron Ross and Marylou Tyler
+
+Winning by Design
+
+6 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+As companies looked to amplify prospecting efforts, the deployment of SDRs, BDRs, and ISRs
+became a popular way to widen the top of the funnel by increasing the volume of prospecting phone
+calls and emails at a reasonable cost. Tools like power dialers and cadence tools allowed one SDR to
+do the work of several, decreasing the cost-per-lead but increasing the amount of spam launched into
+the market. Aggregate efforts to increase throughput via mass production techniques produced what,
+in hindsight, is a logical result. The market was saturated, and buyers became “immune” to cold calls,
+cold emails, cadences, and even beautiful, customized emails generated by AI.
+Despite the promise of growing top-of-funnel volume to produce more bottom-of-funnel results, this
+“predictable revenue” began to fall off as the quality of leads declined and the conversion rates from
+calls to meetings to demos fell. Because investors during these years were more interested in growth
+rate than efficiency, we ended up in an ‘inefficiency spiral’ in which more leads (inputs) cost more
+money, and more leads converting at lower rates cost even more money.
+
+Figure 5.
+
+When growth is valued above all other considerations, declining conversion rates can put upward pressure on
+inputs and the cost of those inputs, creating an Inefficiency Spiral
+
+When GAAC was the order of the day, the human labor required to keep this spiral going was in high
+demand, and compensation packages for salespeople of all sorts—especially SDRs and BDRs—
+became astronomically high. Some markets began paying BDRs $100K when they only produced
+$1.5M of pipeline, which converted to less than $100K of closed-won business. When you combine the
+cost of BDRs with the cost of lead generation, salespeople, and sales management, it is easy to see
+how we began spending $3, $4, and even $5 for every $1 of incremental ARR. This trend continues
+today (see Figure 1). With it, mass manufacturing revenue became undeniably unsustainable.
+
+Winning by Design
+
+7 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+5. The Advantages of Lean Revenue Production
+Lean revenue production is not one-size-fits-all. It focuses on efficient, sustainable growth rather than
+pursuing growth at all costs. Just as Toyota tailors its production and processes to the needs of the
+customer segments it serves, lean revenue processes are designed and managed one segment at a
+time. Closed-loop data refines this approach, and the entire operation is managed like a factory.
+To understand the advantages of lean revenue production, we must examine how growth works in a
+recurring revenue world. Revenue growth for recurring revenue businesses follows a predictable
+pattern: Product-Market Fit (PMF) is the first objective, Go-To-Market Fit (GTMF) is the second, and
+efficient and repeatable scaling is the ultimate result of carefully building a revenue factory. Each of
+these stages requires iteration and continuous improvement.
+This iteration is unique to each GTM motion, as the processes for the SMB segment differ from those
+for the mid-market and Enterprise segments. Despite these differences, measurement can be
+consistent. Each GTM motion has its inputs (leads), throughput (conversion rates), and output (ARR).
+We can measure these processes for different GTMs using a standardized data model.
+
+Figure 6.
+
+Lean Revenue Production follows a predictable growth trajectory, marked by essential milestones (breakpoints)
+that enable progression to the next phase. The GAAC approach prioritized velocity at the expense of establishing
+these critical milestones.
+
+Winning by Design
+
+8 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+6. The Bowtie: A Standardized Data Model
+Imagine you report GTM results to shareholders, including revenue retention of 89%.
+“That’s terrible,” one shareholder says. “My other portfolio companies have over 95%
+retention.”
+“That’s incredible,” says another. “What are you doing to retain at such a high level?”
+As it turns out, both shareholders are right. 89% is just under where you would want to be if you
+served customers in the enterprise segment. Simultaneously, it is far above the benchmark for a
+self-service segment. So, whether 89% is good or bad depends on which segment is being measured.
+And if the “89% retention” represents an “average” across multiple segments, what can it tell us about
+what’s going well and what’s not in each segment?
+Furthermore, are we talking about usage retention, revenue retention, client retention, gross retention,
+or net retention? Monthly or annual? To ensure we speak the same language, we need a GTM Data
+Model that extends from initial customer awareness through renewal and expansion.
+
+Figure 7.
+
+A singular Data Model that spans all of GTM, from awareness through expansion, can measure the inputs,
+throughput, and outputs of each distinct GTM motion.
+
+With stages of the customer journey defined and conversion rates standardized from one stage to
+the next, we are ready to be specific about metrics. We can now measure one GTM independently of
+another, compare it to its appropriate peer set, and not get confused by “average” performance. For
+instance,
+Winning by Design
+
+9 of 21
+
+THE REVENUE FACTORY
+
+●
+
+LEAN REVENUE PRODUCTION
+
+When looking at Enterprise GTM, we may not be concerned about a customer acquisition cost
+(CAC) of over $50K. However, we are concerned about less than 80% gross revenue retention.
+
+●
+
+For a self-service GTM, the opposite would be true. We may need a CAC of <$100 and be
+perfectly happy with a gross revenue retention of 70%.
+
+The Data Model allows us to measure and monitor each GTM as its revenue production line.
+
+7. GTM Process
+How does a customer move from awareness to education to selection, renewal, and expansion?
+Facilitating this journey requires certain processes by marketing, sales, customer success, and
+account management teams. These processes need to be defined and documented in lean
+production.
+
+"If you can't describe what you are doing as a process, you
+don't know what you're doing.” - W. Edwards Deming.
+When a certain process delivers suboptimal results, we can adjust it to see if we can achieve better
+results. This iterative process defines the growth stage wherein we seek GTM Fit: the ScaleUp phase.
+
+Figure 8.
+
+The throughput for each customer journey stage results from processes defined and executed for that stage.
+
+Winning by Design
+
+10 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+Since each GTM is its own system, this iteration happens one GTM at a time. Improvements are
+made to individual processes and steps, with measurements taken for the results of that step and the
+system overall. Since GTMs operate as systems, each step can affect the others. Better leads in the
+front end have positive downstream consequences. Worse onboarding processes have negative
+downstream consequences. Measuring the results of each system component and the aggregate
+output allows us to aim for improvement efforts where they are needed.
+Each improvement is best approached as an experiment. If the proposed improvement to the process
+delivers favorable results, it can be rolled out in a more permanent way. If the results are undesirable,
+the experiment fails, and we look to the following process iteration for better results.
+
+Case Study:
+A firm serving the SMB segment has a process whereby inbound leads are directed to schedule
+an appointment for a customized product demo.
+The “schedule a demo” CTA (call to action) is not producing the desired results. What if we tried
+making an interactive demo available to prospects on a self-service basis?
+Building a self-service demo is expensive, so the company changed the CTA from “schedule a
+demo” to “see it in action” even before building a new, self-service demo. Since this is a GTM
+experiment, the company is willing to approximate the experience of the self-service demo (“hold
+it down”) and see if the conversion rates improve. When prospects click “see it in action,” they are
+directed to a live experience with a human who delivers a somewhat canned demonstration.
+Conversion rates are now much higher, but the company knows this may be a false positive.
+Given the positive movement, however, the company decided to record a video walk-through of
+the product (still not a self-service demo) and see if that experience performs better than
+“schedule a demo.” Only once the company is convinced that a self-service, interactive demo can
+deliver sufficiently improved results do they invest the time and expense to build an interactive
+demo (“bolt it down.”) In another version of this story, the company may find that the
+pre-recorded video walk-through performs so well that they don’t need an interactive demo.
+
+Winning by Design
+
+11 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+In the Lean Revenue Factory, each production line (GTM) is optimized via a series of experiments like
+the one described above:
+●
+
+What is the optimal qualification process?
+
+●
+
+What is the optimal discovery process?
+
+●
+
+What is the optimal negotiation process?
+
+●
+
+What is the optimal onboarding process?
+
+●
+
+And so on, and so forth
+
+Tuning a single production line (GTM motion) can take months, and the metrics demonstrating
+success are readily visible in the data model. Once a GTM works predictably, the company can
+move on to the ScaleUp phase, where more money and resources are poured into an
+already-defined-and-tuned GTM motion that delivers predictable results.
+
+8. Fixing Problems in a Lean Revenue Factory
+What happens if a portion of the production line begins to falter? This happens all the time in the
+Toyota Production System. Because lean manufacturing depends on continuous flow (see the
+principles of Lean Production above), you might think the team would be required to keep the
+production line running while they work on the problem. The opposite is true.
+In TPS, if a portion of the process begins to falter, then principle 5 (Perfection) trumps. When a failure
+is detected, the production line is stopped. Each worker in a TPS factory has a cord above their head
+called the “Andon Cord,” installed for just such an occasion. Pulling the cord stops the production line
+for everyone. If a worker spots a problem, she pulls the cord and stops the line. This gets everyone's
+attention on the factory floor. All focus is dedicated to the error, and its origin is pursued as far up the
+production line as necessary until the root cause is discovered and remedied. The theory is that if we
+have zero tolerance for imperfection, we will take the time to fix things as they occur, and defect rates
+will all but disappear.
+In manufacturing, this is how quality reaches “five 9s,” or 99.999% defect-free output. In GTM, we have
+a similar decision to make. When metrics deviate from target somewhere along the Bowtie, do we
+keep things running or “stop the presses” and address the issue?
+
+Winning by Design
+
+12 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+Case Study (continued)
+Continuing the hypothetical example from above, let’s consider the following scenario.
+The sales team is initially pleased with the results of the new self-service demo. Lead flow has
+never been so robust, and they are exceeding quota. Revenue Operations is also happy about the
+pipeline and close rate resulting from the new demo.
+Three months later, a concerning metric emerges. The percentage of new customers successfully
+onboarded is falling (CR6 in the Bowtie Data Model). The number of new customers successfully
+achieving First Impact is still growing, but the percentage (conversion rate) has fallen precipitously.
+Since revenue growth hasn’t slowed, the CRO did not notice this anomaly until the head of Rev Ops
+pointed it out. “I wonder what’s happening here?” she says. “Let’s investigate.”
+The investigation reveals that the total number of new customers has grown dramatically, but the
+size of those customers is much smaller. The current onboarding process does not serve smaller
+customers well, and many new customers who are not succeeding are on the small end of the
+distribution.
+“Why all the small customers all of a sudden?”
+“Oh! It’s because we let anyone experience the interactive demo. Salespeople are happy to sell to
+anyone, so now we have a larger flow of smaller customers and haven’t adjusted our onboarding
+accordingly.”
+
+In this scenario, the company could accept the higher volume of smaller companies as the “new
+reality” and wait to see what other systemic impacts this has. Management could explicitly
+decide not to adjust the current process, which produces more volume at a lower onboarding
+success rate. Or they could investigate how to adjust their processes. The adjustments could
+include a) tightening the qualification process and b) improving the onboarding process.
+If the company decides to ignore it, it may see a real revenue impact beginning 12 months from
+the launch of the interactive demo. Why? Customers who have never made an impact with the
+solution will churn. If, on the other hand, the company picks up these signals, treats them as
+leading indicators, and follows the principle of continuous improvement, it can avoid things like
+the “first birthday surprise” of a mass exodus 12 months after launching its new process.
+
+Winning by Design
+
+13 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+Using data to identify and remedy issues on an ongoing basis is a core underlying tenet of Lean
+Manufacturing. It’s popularly known as Continuous Improvement or Kaizen, and it can be just as
+effectively applied to lean revenue production.
+
+9. GTM Differentiation
+Each GTM motion requires its own unique processes to deliver expected results specific to the
+segment it serves. The processes that work well for a No-touch (PLG) motion would not work for a
+Dedicated-touch (ABS) motion, and vice versa.
+
+Figure 9.
+
+Each GTM serves a specific customer set, with a specific ACV, according to a specific set of processes that align
+with the customer's preferences and the company’s unit economics
+
+Once a company has optimized a single GTM motion via a series of iterations and experiments, it
+may make sense to launch a second GTM. Of course, this GTM will require a distinct set of
+processes and measurements, but it can be codified within the same data model.
+Assuming our first GTM was Medium-Touch Inbound (~$10,000+ ACV, according to the chart above),
+what happens if we want to go to Low-Touch PLS? In our case example, the first step was taken
+when we launched an interactive demo. PLS, or product-led sales, might take that a step further and
+offer a prospect the opportunity to create an account and begin using the product for free (not just a
+
+Winning by Design
+
+14 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+demo). Salespeople would then interact with specific customers deemed to have a high conversion
+probability, and we would measure the effectiveness of this motion.
+●
+
+Which customers warrant sales assistance?
+
+●
+
+Which customers could stay on the “self-service happy path” and monetize without
+assistance?
+
+●
+
+What is the sales playbook when engaging with a current user of the product rather
+than someone who has just seen a demo?
+
+We must answer these questions as we design, test, and iterate on GTM motion #2.
+In a lean revenue production world, each GTM is treated as its own production line. Each line is
+optimized to produce desirable outputs using repeatable processes. We measure and monitor input,
+throughput, and output and are careful to only make things permanent once we know what works.
+
+10. The role of AI in GTM
+In a world of Lean Revenue Production, what is AI's role? Will AI replace human labor? Can AI help
+improve our GTM efficiency and effectiveness? Will it be AI + humans in the future? A kind of
+“human-in-the-loop” AI situation? We believe AI can help GTM in 2 ways:
+●
+
+Prioritize work for humans
+
+●
+
+Automate repetitive or mundane tasks
+
+Functions of AI
+AI comes in various shapes and forms. Machine learning, computer vision, decision support systems,
+natural language processing, and robotics can all be considered forms of artificial intelligence. We
+invite you to consider two functions of artificial intelligence that are relevant to GTM:
+●
+
+Predictive AI: Uses machine learning to recognize patterns, learn from them, and apply that
+learning to predict future outcomes. Predictive AI can point to future probable outcomes or
+indicate actions that can be taken now to improve future performance. In GTM, Predictive AI
+is used to predict churn, qualify pipeline, recommend actions to a sales rep, and formulate
+forecasts.
+
+Winning by Design
+
+15 of 21
+
+THE REVENUE FACTORY
+
+●
+
+LEAN REVENUE PRODUCTION
+
+Automation: Used to do what a human would otherwise do. Think robot. Can AI fill in CRM
+fields? Take meeting notes? Build a task list? Write an email? Build a campaign? Launch a
+phone call? Guide an onboarding process? Teach a training cohort? Process a renewal? Of
+course, it can—and it should!
+
+In GTM, AI has two jobs:
+●
+
+Help reps focus on the right things using Predictive AI
+
+●
+
+Perform mundane tasks using automation
+
+Now that AI can predict the future, recommend actions that will improve the future, and then take
+those actions on its own, all our GTM problems are solved, right?
+Of course not.
+Why? Because process comes first.
+If you haven’t perfected your process, the most elegant robot–doing things faster or better–will not
+improve outcomes. All the testing and experimentation we deployed while iterating our way to GTMF
+was intended to perfect the process. We determined what steps, in what order, performed in what
+way would produce the best outcomes. First, we prototyped, then tested, and when we were
+confident we had something that worked, we committed it to a process we could repeat with
+predictable results.
+This process–the one that is optimized–may be eligible for optimization or automation via AI. If
+we are confident it is the right process, why not get a robot to do it for us? If the task lends itself to
+automation, that is the right thing to do. Now, we can do more efficiently what we already know
+works. The proven process is automated, and humans are freed up to work on higher-order tasks.
+Predictive AI can also help, but instead of automating steps in a process, it helps identify conditions
+that require attention and prioritize our efforts.
+●
+
+Which opportunities are most likely to close?
+
+●
+
+Which deals require immediate attention?
+
+●
+
+Which clients require immediate attention?
+
+●
+
+Which prospects are likely ready to take the next step?
+
+Winning by Design
+
+16 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+Adding AI to your Revenue Factory
+Below, we discuss the steps of building a Lean Revenue Factory. As we have seen, a Lean Revenue
+Factory relies on well-defined processes that deliver reliable results. It uses closed-loop feedback,
+delivered via a standardized data model, to make continuous updates and improvements.
+We must first build this factory to get the most out of AI. Once the factory is in place, AI can help
+prioritize and automate work. Before the factory is in place, deploying AI would be like introducing
+a robot to a Craft Manufacturing process. The robot wouldn’t know what to do, and the craftsman
+would not need it.
+
+Process first, AI second.4
+Heavy automation did not help Ford Motor Company beat Toyota in the 1990s. Ford had robots and
+automation, and they could crank lots of volume through their assembly plants. However, until Ford
+Motor Company applied the principles of lean manufacturing, this automation actually slowed them
+down and made them less responsive. Toyota, who deployed automation only when and where it
+made sense, outperformed Ford and every other mass manufacturer–until some adopted lean
+manufacturing principles.
+Today’s SaaS companies establishing the Lean Revenue Factory will discover areas where AI-driven
+prioritization (predictive AI) and automation (including generative AI) can help, not hurt. Prioritization
+will help improve conversion rates by directing human effort to the areas with the highest impact.
+Automation will free humans from mundane tasks, allowing them to focus on the highest and best
+return activities. Automation has the added advantage of trending the marginal cost of revenue
+acquisition, maintenance, and expansion toward zero, freeing up capital that can be invested in
+strategic priorities.
+
+4
+
+Back to the Future: Process First, AI Second, Jacco van der Kooij
+
+Winning by Design
+
+17 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+11. How to Build a Lean Revenue Factory
+The steps for turning your GTM operation into a Lean Revenue Factory are straightforward. Yes, they
+take time and effort–but the effort pays dividends at every step.
+Step 1: Install a data model across your entire GTM
+Step 2: Divide your business into distinct GTMs or production lines
+Step 3: Measure each GTM independently
+Step 4: Define your current-state processes for each GTM
+Step 5: Using industry benchmarks and unit economics as your guide, identify opportunities to
+improve results at various points in the process
+Step 6: Experiment with new approaches to problem areas until you find processes that work
+Step 7: Standardize these new processes–first via training and measurement and then (if
+possible) via automation
+Step 8: Monitor your system continuously for improvement opportunities
+At Winning by Design, we have worked on over 1,000 Revenue Factories. In some cases, that work
+has been defined as process improvement. Sometimes, we’ve worked with teams to execute specific
+steps reliably. Often, we work on installing a data model and visibility across the GTM system.
+Occasionally, we have had the privilege of building an entire Lean Revenue Factory, working
+shoulder-to-shoulder with an industry-leading team–often in preparation for an IPO.
+When optimizing a SaaS GTM operation, we have found it most helpful to visualize a factory and
+adopt lean manufacturing principles. The five principles of Lean Manufacturing are presented below,
+along with their SaaS translations (see Table 2).
+
+Winning by Design
+
+18 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+Table 2: Lean Manufacturing Principles Applied to the Lean Revenue Factory
+
+Lean Manufacturing
+
+Lean Revenue Factory
+
+Growth Stage
+
+Define Value: Only include features that
+
+Product Impact: Only include
+
+StartUp (PMF)
+
+deliver end-customer value. All other
+
+product features that deliver
+
+features are removed (e.g., favorite
+
+customer impact. All other
+
+features of the designers or features that
+
+features are removed.
+
+make manufacturing easier / cheaper).
+
+Value Streams: Only include process steps
+
+GTM Impact: All GTM
+
+that enhance end-customer value. All other
+
+motions enhance customer
+
+steps are removed (e.g., process steps that
+
+impact. Others are removed.
+
+ScaleUp (GTMF)
+
+serve the foreman or the manufacturing
+process but don’t produce end-customer
+value).
+
+Create Flow: Production doesn’t stop and
+
+GTM Process: Nothing is one-
+
+start – continuous flow is maintained.
+
+off; everything flows according
+
+ScaleUp (GTMF)
+
+to repeatable processes
+
+Establish Pull: Rather than producing and
+
+Customer Centricity: GTM helps
+
+stockpiling inventory, units are produced
+
+buyers buy what they need when
+
+just in time to meet customer demand.
+
+they need it, not sellers hit quota
+
+Pursue Perfection: The process is
+
+Data Driven: Closed-loop data is
+
+constantly reviewed for continuous
+
+used to improve GTM processes
+
+improvement opportunities.
+
+continuously
+
+ScaleUp (GTMF)
+
+GrownUp
+
+Product Impact is the north star as we pursue PMF during the Start-up phase. Moving from the
+Start-up phase (PMF) to the Scale-up phase (GTMF), we work on GTM Impact, GTM Process,
+Customer Centricity, and Data-driven continuous improvement. These are all aspects of a well-tuned
+GTM engine, and we apply them one GTM motion (production line) at a time, as outlined above.
+
+Winning by Design
+
+19 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+12. In Conclusion
+The SaaS industry is shifting away from the unsustainable "growth at all costs" model. Our
+research underscores the critical importance of GTM Efficiency in driving long-term success.
+By applying Lean Manufacturing principles to revenue production, SaaS companies can
+optimize operations, reduce costs, and improve customer satisfaction.
+Transitioning to a Lean Revenue Factory requires a cultural shift, a focus on data-driven
+decision-making, and a commitment to continuous improvement. While the journey may be
+challenging, the potential rewards—increased efficiency, profitability, and customer loyalty—
+are substantial. By embracing these principles, SaaS companies can survive and thrive in the
+evolving market landscape.
+The future belongs to those who prioritize Product Innovation and GTM Efficiency.
+
+Winning by Design
+
+20 of 21
+
+THE REVENUE FACTORY
+
+LEAN REVENUE PRODUCTION
+
+Consulting & Training Services for SaaS
+
+Benchmarking for SaaS
+
+Founded in 2012, Winning by Design is a global B2B
+
+BenchSights provides engaging benchmarking
+
+advisory firm that enables recurring revenue teams
+
+applications with a proprietary, purpose-built
+
+to design sustainable growth. Combining our
+
+software and data analytics platform. Clients such
+
+specialized skills as operators of high-growth
+
+as Winning by Design and Gainsight use
+
+companies, we apply scientific frameworks and
+
+BenchSights to provide real-time, finely-tuned
+
+proven models to help Sales, Marketing, and
+
+benchmarking intelligence to customers, prospects,
+
+Customer Success teams achieve growth:
+
+and partners, driving revenues, renewals and
+
+Book: Revenue Architecture, available on Amazon.
+
+upsells.
+
+YouTube: Watch hundreds of Videos.
+
+Benchmark your own Bowtie metris: Link.
+
+LinkedIn: Follow us on LinkedIn.
+
+Find out more: https://benchsights.com.
+
+Contact us: Contact@winningbydesign.com.
+
+Winning by Design
+
+21 of 21
+
+

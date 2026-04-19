@@ -1,0 +1,649 @@
+Growth Trends in
+an Economic
+Downturn
+Winning by Design conducted a study to understand the impact of an
+economic downturn on software-as-a-service (SaaS) businesses. We
+looked at various go-to-market factors, and measured key performance
+metrics such as sales cycle, deal size, lead conversion, and growth rate.
+
+Roelof Hengst and Jacco J. van der Kooij
+Winning by Design
+Updated: June 2022
+
+of 7
+
+Summary Points
+An increasing share of SaaS companies were able to achieve or maintain hyper-growth during the
+economic downturn. This was the result of an increased focus on customer expansion, as well as
+closing new deals at a higher price.
+The recommendations to sustain growth during an economic downturn are:
+a.
+
+Focus on expansion of existing clients.
+Action: Establish a playbook for customer expansion, train your CS team on sales skills, and
+train managers on coaching their CS team.
+
+b.
+
+Customer Success teams should inform clients of the impact achieved every month.
+Action: Hold a workshop with your CS team to identify the impact that your SaaS service
+offers, and to establish a cadence to keep the customer informed.
+
+c.
+
+Increase revenue from logo acquisition by increasing the price where appropriate. This should
+be combined with helping the sales team identify prospective customers early on, based on the
+need for Impact and establishing a Critical Event.
+Action: Hold a workshop with the Marketing and Sales teams to identify the impact your SaaS
+service offers; work with your Revenue executive team to identify areas for potential price
+increases.
+
+Introduction
+
+toward customer retention and expansion.
+
+The ﬁndings in this report cover research
+conducted by Winning by Design (WbD) over the
+period from March 2020 to July 2021.
+
+Further analysis shows that growth originated
+from three speciﬁc causes:
+1.
+
+of a price increase.
+
+Respondents observed that during this period, it
+was harder to generate new leads and win new
+deals. As a result, companies shifted focus to
+existing customer expansion and higher deal
+values for new business.
+
+Larger deal sizes, in some cases the result
+
+2.
+
+Fewer but higher quality leads driven by
+better market awareness.
+
+3.
+
+Higher conversion rates based on
+improved sales skills and execution.
+
+The impact of this shift is that a growing number
+of SaaS companies achieved growth during the
+economic downturn.
+
+It is because of this that Winning by Design
+recommends increasing the focus on customer
+retention and expansion during an economic
+
+This was the result of focusing the executive
+
+downturn.
+
+team’s attention and the company’s resources
+
+Growth During an Economic Downturn
+
+1 of 7
+
+This increase in focus requires companies to
+
+In comparison, reverting to a focus on customer
+
+understand what impact a product delivers to its
+
+acquisition, lead volume, and discounting creates
+
+customers, and then rally its resources around it.
+
+a negative spiral that has proven to lower
+customer retention and expansion rates. This in
+
+With a laser focus on impact, it becomes far
+
+turn leads growth rates to come down as more
+
+easier to retain and expand existing customer
+
+new business is required to ﬁll revenue gaps
+
+relationships, and to reduce the cost of sales (or
+
+created by higher churn, and the cost of sales
+
+rather, the cost of growth).
+
+goes up as more effort is needed to maintain the
+growth trajectory.
+
+In addition, strong customer relationships deliver
+positive brand perception and customer
+advocacy, which have a signiﬁcant impact on
+demand volume and new business win rates.
+
+How we Conducted the Survey
+We are thankful to the dozens of respondents
+
+represented included The Netherlands, Belgium,
+
+willing to share their stories and data via
+
+Germany, and the UK.
+
+individual video interviews. Their stories allowed
+
+The WbD Data Model (also known as “The
+
+us to capture both the data and the context
+
+Bowtie”) was used as a foundational construct for
+
+behind the numbers.
+
+respondent interviews and data gathering. We
+then applied the model to perform analysis and
+
+Respondents were primarily sales leaders (VP of
+
+comparisons of current customer results with
+
+Sales) and company Founders from companies
+
+past customer data.
+
+based in Europe with annual revenue between
+€10 million and €25 million. Countries
+
+Revenue Stages
+
+Awareness
+
+Education
+
+CR 1
+
+CR 2
+
+Selection
+
+Commit Onboard
+
+Achieve
+Impact
+
+Growth
+
+CR 5
+
+CR 6
+
+CR 7
+
+Conversion Rates
+CR 3
+
+CR 4
+
+Figure 1. The Data Model (“The Bowtie”) is used to examine the entire Customer Journey.
+
+Growth During an Economic Downturn
+
+2 of 7
+
+Research Findings: Improvements and Challenges
+Respondents experienced higher revenue growth, larger deal sizes, and shorter deal cycles, but were
+challenged by market awareness and onboarding existing customers.
+
+4. Most challenging stages.
+
+39%
+Awareness
+
+Education
+
+CR 1
+
+CR 2
+
+Selection
+
+CR 3
+
+5. Most improved stage
+22%
+
+17%
+
+Commit
+
+Onboard
+
+Achieve
+Impact
+
+Growth
+
+CR 5
+
+CR 6
+
+CR 7
+
+CR 4
+
+43%
+
+2. Average deal size increase
+10-25%
+3. 25%-100% reduction of
+sales cycle
+
+1. Revenue Increase 50%.
+
+Figure 2. Visual summary of research ﬁndings across the Bowtie.
+
+Finding 1 50% Growth Rate
+●
+
+Revenue growth: The majority of
+
+●
+
+Deal size: Companies typically increased
+
+respondents are in hyper-growth mode,
+
+average deal size by 10 to 25%. More than
+
+with revenue increases of more than 50% in
+
+half of respondents have a deal size between
+
+the last 15 months during the economic
+
+$10,000 and $100,000.
+
+downturn.
+●
+
+Finding 2 Deal Size Increased
+
+●
+
+Price increase: Against expectations, most
+
+Hiring growth: 44% of respondents expect
+
+of the companies had increased their price
+
+to expand their sales teams by more than
+
+to compensate for the lower volume of
+
+50% in the next 12 months.
+
+deals.
+
+Observation: In volatile conditions or downturns,
+
+Observation: During an economic downturn,
+
+it is common for SaaS companies to outperform
+
+companies focus more on existing customers out of
+
+the overall market in terms of revenue growth and
+
+necessity. Because existing customers want help to
+
+hiring demand, as we saw in 2008.
+
+achieve impact from your product, a common
+result is an improved product. When companies
+deliver more impact with a better product, both
+new and existing customers are willing to pay a
+higher price.
+
+Growth During an Economic Downturn
+
+3 of 7
+
+Finding 3 Shorter Sales Cycles
+●
+
+Faster decisions: Companies in the study saw
+their sales cycles shorten or stay the same;
+very few companies saw cycle times get
+
+Finding 4 New Challenges
+A series of challenges were experienced:
+●
+
+measure conversion rates. Respondents said
+
+longer. Sales cycles for respondents were
+
+in the last 15 months, their biggest
+
+typically 90 days or longer.
+●
+
+challenges were creating awareness (39%),
+
+Signiﬁcant time reductions: 70% of
+
+winning deals (22%), and onboarding new
+
+respondents encountered a reduction of the
+
+customers (17%).
+
+sales cycles beyond 26%.
+●
+
+Awareness: 91% of respondents said they
+
+●
+
+Sales stage improvement: Respondents said
+
+Further reduction potential: Respondents
+
+the expansion sales stage improved the most
+
+expect that optimizing sales team skills and
+
+by far (43%) (see Figure 1 for deﬁnition of
+
+deﬁning a better target account approach
+
+expansion stage).
+
+will be vital to shortening sales cycles even
+further.
+
+●
+
+Sales stage challenges: Respondents said
+that over the next 12 months, they will apply
+
+Observation: The key driver behind a commitment
+
+the most effort and resources to the
+
+(and therefore a shorter sales cycle) is to identify a
+
+awareness and education stages.
+
+Critical Event that requires a customer to make a
+decision. A Critical Event is the need to achieve a
+desired impact by a speciﬁc time or risk
+
+Observation: With the shift to focus on delivering
+customer impact, respondents saw their funnels
+naturally reset to a more productive level. Companies
+
+consequences. In 2020, the sense of urgency was
+
+that experience this are achieving a natural growth
+
+heightened by market challenges, creating a need
+
+state. For SaaS companies, this creates hyper-growth
+
+for immediate impact and faster decisions.
+
+because happy customers who achieve desired impact
+will naturally want to buy more.
+
+Research Findings: Perspective on Strategy Risks
+A disproportionate improvement in revenue can only come from the compound growth of existing
+customers. Reverting to pre-COVID tactics and shifting focus and resources away from helping
+customers achieve impact will slow down growth.
+
+Finding 5 Risks of Traditional
+Volume-Focused Growth
+Tactics
+
+any account, not just the right ones.
+
+Study ﬁndings show that companies are planning
+
+causes of this are explained in a storyboard found
+
+The consequence of winning the wrong deals is
+increased churn, which consumes valuable
+resources and slows down growth (note: root
+
+a return to pre-COVID growth tactics with
+
+in the Annex).
+
+increased focus on deal volume. Although deal
+
+WbD recommends that companies proceed with
+
+volume does impact growth and should be part of
+
+caution when considering the return to a more
+
+go-to-market strategies, it is winning the right
+
+traditional growth strategy with tactics focused
+
+accounts that delivers hyper growth. Often, deal
+
+primarily on lead volume and new customer
+
+volume means winning
+
+acquisition.
+
+Growth During an Economic Downturn
+
+4 of 7
+
+Finding 6 Advantages of
+Maintaining a Focus on
+Customer Impact
+Study respondents said circumstances in 2020
+caused a shift to focus on existing customers. The
+positive result they delivered was a stronger
+foundation for recurring revenue based on two
+factors:
+1.
+
+Focus on helping existing customers achieve
+a positive impact
+
+2.
+
+Finding 7 Performance Metrics
+The top 40 most successful SaaS companies have
+two metrics in common: it takes them on average
+21 months to recoup CAC, and their LTV to CAC
+ratio is 3:1 or better, meaning the long-term value
+of a customer is at least three times the cost of
+winning them.
+That means that to run a successful and
+sustainable SaaS operation, companies must hold
+on to a customer’s business for an average of 63
+months, or 5¼ years. Most companies cannot
+
+Ability to realize higher prices based on
+
+expect customer relationships to last this long, so
+
+positive customer impact
+
+they need to look for ways to reduce CAC and
+
+Our research found evidence of this based on
+
+increase LTV faster.
+
+revenue growth attainment and improvement of
+
+Paying attention to performance metric
+
+conversion metrics across pre- and post-sale
+
+improvements is the best way to optimize the
+
+stages from March 2020 to June 2021.
+
+recurring revenue engine for hyper-growth.
+
+Recommendations
+Recommended actions to help companies maintain Growth Rate
+
+Recommendation 1 Install a
+Standardized Data Model
+Companies cannot improve what they do not
+measure.
+Most revenue teams have plenty of data at their
+ﬁngertips, but get lost when interpreting it. The
+result is not identifying critical problems, and
+therefore not taking the right actions to
+remediate issues. Companies deﬁne their own set
+of data and metrics, which makes benchmarking
+against peers challenging.
+This challenge can be solved by applying the
+Recurring Revenue Operating Model, which
+deﬁnes a standard set of metrics across all stages
+of the customer journey and makes it easier to
+measure, interpret, and monitor improvement.
+
+Growth During an Economic Downturn
+
+5 of 7
+
+Recommendation 2
+Understand And Deliver
+Impact Across The Customer
+Journey
+
+winning more deals, but from a shift to winning the
+right deals and helping customers achieve their
+desired impact. The result is an increase in net
+retention and organic customer advocacy, which
+then fuels recurring revenue growth further.
+Companies should identify the rational and
+
+Recurring revenue is the result of recurring impact.
+
+emotional impacts that customers expect when
+
+Winning by Design’s work with more than 600
+
+they buy, then address gaps in their ability to
+
+SaaS companies shows that hyper-growth
+
+deliver impact, or the customers’ ability to realize
+
+originates not just from ﬁnding more leads and
+
+and measure it.
+
+4. Focus on expansion of existing clients
+
+Awareness
+
+Education
+
+CR 1
+
+CR 2
+
+Selection
+
+CR 3
+
+CR 4
+
+Commit
+
+Onboard
+
+Achieve
+Impact
+
+Growth
+
+CR 5
+
+CR 6
+
+CR 7
+
+1. Install a standardized data model
+2. Focus on customer impact across the complete customer journey
+3. Measure and manage compound impact
+
+Figure 3. Recurring Revenue Recommendations
+
+Recommendation 3 Focus on
+Expansion of Existing Clients
+
+growth from existing customers. By measuring and
+
+Balance resources and time across both sides of the
+
+retention and expansion potential. By balancing
+
+Bowtie.
+Companies typically place outsized emphasis on
+the ﬁrst half of the Bowtie, the buying cycle. This
+
+analyzing metrics from the right side of the Bowtie,
+companies can determine where they have
+investment across pre- and post-sale stages,
+companies will maintain the gains of the last 15
+months.
+
+and winning more new deals, all of which require
+
+Recommendation 4 Measure And Manage
+Compound Impact
+
+signiﬁcant budget investment and increase CAC.
+
+Ensuring that customers are happy is the best way to
+
+Instead of maintaining this old approach, most
+
+maximize sales, marketing, and CS results.
+
+leads to a heavy focus on awareness, education,
+
+companies have excellent opportunities for
+
+Growth During an Economic Downturn
+
+6 of 7
+
+Recurring revenue can be optimized through
+incremental improvements to critical conversion
+points across the customer journey. Exponential
+growth can come from the compound impact of
+retaining and expanding customers.
+A big reason for this is that happy customers
+become an extension of your marketing and sales
+teams. Companies lower CAC and increase LTV
+when customers stay longer, expand their spend
+on your services, and support greater brand
+awareness and positive perception. By knowing
+which Bowtie stages have experience gaps,
+Revenue teams can improve their ability to create
+these gains.
+
+Growth During an Economic Downturn
+
+7 of 7
+
+of 7
+
+

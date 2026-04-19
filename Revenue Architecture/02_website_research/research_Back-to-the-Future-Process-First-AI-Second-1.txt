@@ -1,0 +1,451 @@
+Back to the Future
+How process and not just AI will revolutionize revenue growth
+Jacco van der Kooij, Founder Winning by Design, June 10, 2024.
+Remember the good old days of manufacturing? Back in the 1960s, factories had a
+breakthrough—automation. Robots hit the scene, and everything changed. Well, SaaS GTM is
+having its own "automation moment" with the rise of AI. It is an absolute game-changer, but there
+is an important twist: AI is like a souped-up rocket engine, which can propel us to new heights, but
+any flaws in its design will cause it to crash faster.
+Just like automation relies on well-oiled factory processes, AI thrives on robust GTM processes.
+Unfortunately, many SaaS companies are still stuck in the past, clinging to two outdated growth
+principles:
+●
+
+Information Asymmetry: This refers to a situation in which sellers know more about the
+customer’s problem and solution than the buyer. AI has flipped this.
+
+●
+
+Acquisition Obsession: An approach that pursues winning new deals at all costs and
+ignores growth from existing customers.
+
+This seller-centric "Grow at All Costs" (GAAC) approach has been a recipe for disaster over recent
+years, contributing, if not causing, the 2021 SaaS Crash.
+You may recall the role of Marty McFly, portrayed by Michael J. Fox, in the movie Back to the
+Future. Marty had to go back in time and fix his past mistakes to ensure the future. The same deal
+applies here! Before unleashing AI's power, we have to fix the current GTM issues. Many
+companies are still running assembly-line-like operations. They first need to streamline their
+processes before throwing AI into the fold. In short, we must go "Back to the Future" and optimize
+those core GTM processes before AI can truly supercharge our growth strategies.
+
+Winning by Design
+
+1 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+1. Throwing AI at a broken process isn’t a solution
+SaaS companies, from scrappy startups to billion-dollar giants, face the same struggle: building
+sustainable growth. As they scale, their marketing and sales processes become unsustainable,
+requiring more and more resources to achieve growth. It's a vicious cycle.
+The temptation to throw AI at this problem is understandable. You think AI can automate tasks
+and optimize things. But here is the catch: AI is like a fancy new drill – it can be a powerful tool,
+but if we're drilling into rotten floorboards, we're just going to make bigger holes. AI can't fix
+underlying issues in the GTM processes. In fact, it might even amplify them.
+Have you seen Amy Webb's mind-blowing talk at SXSW this year? The one where she showed
+how AI models kept churning out images of white male CEOs, no matter the prompt? That's
+because AI is only as good as the data it's trained on. And guess what? A lot of data reflects our
+biased world. So, feeding a fancy new AI with a broken GTM process, and what do we get? A
+super-powered broken GTM process. Not the outcome we were hoping for.
+
+Figure 1. Results of Amy Webb's AI CEO to the prompt “Provide a photorealistic image of a CEO (of a tampon company.)”
+
+So, before investing in AI, we must optimize our GTM processes and then, only then, let AI
+supercharge the growth strategy to create scalable (effective) and sustainable (cost-efficient)
+growth.
+
+Winning by Design
+
+2 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+2. Unveiling the origins of hypergrowth
+There is a dark side to the gold rush mentality in SaaS: the relentless pursuit of hypergrowth. This
+creates a maniacal focus on winning new customers, often at any cost, which can come at the
+expense of keeping the customer we already have.
+To be clear, acquiring new customers is important, especially for startups. But it's not the only
+engine driving recurring revenue growth. Many companies fall victim to the misconception that
+customer acquisition is the only game in town, pouring endless resources into attracting new
+clients while neglecting the goldmine sitting right under their noses—their existing customer base.
+This flawed approach has its roots in traditional software sales, where a hefty upfront payment
+was the norm. Fast-forward to the world of SaaS subscriptions, and this strategy crumbles. It's no
+surprise that things get even messier when CEOs pluck sales leaders from giant, non-SaaS firms
+and parachute them into CRO roles. These new leaders, unfamiliar with the intricacies of the
+recurring revenue model, often champion the "win deals at all costs" mantra, further exacerbating
+the problem.
+
+Figure 2. Breaking down the total ARR into three components: Acquisition, Retention, and Expansion creates three
+distinct growth phases, each with a very different growth approach.
+
+Winning by Design
+
+3 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+So how should it work? Once a company cracks the $10 million ARR barrier and enters the
+scaleup phase (Phase II), it's time to diversify the growth strategy. Here's where Retention takes
+center stage. Think of Retention as Acquisition on steroids – boasting sky-high conversion rates
+(over 90%), predictable sales cycles (monthly or annual renewals), and predetermined pricing
+(often with built-in annual increases).
+The critical flaw? As the focus shifts towards Retention, resource allocation doesn't follow suit.
+Companies cling to their acquisition-heavy tactics, even when Retention becomes the lifeblood of
+their growth. Just look at any scaleup's marketing budget–spending is often heavily skewed in
+favor of Acquisition over Retention.
+As Acquisition growth naturally tapers off due to the "denominator effect" (a large and expanding
+customer base dilutes the impact of each new acquisition), the Expansion strategy should take
+over (Phase III). But if a company hasn't prioritized Retention, Expansion efforts will fall flat. Many
+organizations, even those built on PLG motions, fall victim to this trap. Blinded by a declining
+growth rate and pressured by investors' demand for an IPO exit, they now double down on
+Acquisition in a desperate attempt to recapture that initial hypergrowth. This short-sighted move
+comes at a critical juncture (Phase III) when a healthy SaaS company would naturally transition to
+prioritizing growth from Expansion.
+But here's the next misstep: GTM teams now venture to assign the Expansion challenge to the
+sales team responsible for growth from Acquisition. Expanding existing accounts not only
+requires a very different approach compared to acquiring new ones, but it also should come at a
+fraction of the cost. Assigning sales reps honed in the art of acquisition leads to an accelerated
+decline in growth from acquisition, but more so, the Expansion efforts now lead to ballooning
+costs, a recipe for unsustainable growth.
+Voila! French for "there you have it." We've arrived at the crux of the problem the SaaS industry
+faces. So, how do we fix this? The answer is simple: allocate resources proportionally to the
+areas driving growth at each stage.
+For example, success in Phase III depends on the organization treating Expansion as its own
+function, not as an afterthought of Acquisition. This means dedicating a specialized account
+management team to nurturing and growing existing accounts. This dedicated approach paves
+the way for sustainable growth.
+Winning by Design
+
+4 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+3. AI is causing buyers to have more knowledge than sellers.
+Remember the days when salespeople were the B2B rockstars? They waltzed in and closed deals
+left and right. Well, AI is flipping the script. Today, buyers are the ones with all the knowledge.
+They've got AI assistants whispering insights in their ears, helping them understand their
+problems and sniff out the perfect solutions. This is a major power shift, meaning sellers must
+ditch the old tactics and embrace a new way of doing things.
+
+Figure 3. AI has caused the asymmetry of knowledge between buyer and seller to flip, favoring the buyer. This changes
+the role of the GTM organization, and in particular, that of the seller (acquisition).
+
+This means that SaaS companies need to stop focusing on being product pushers and start
+becoming impact creators. Understanding buyer needs on a deeper level is now the name of the
+game. It's all about building genuine connections and helping folks solve problems, not just
+pushing features and functionalities.
+This means the entire GTM playbook needs an overhaul to address this new buyer-centric reality.
+Figure 3 illustrates this perfectly: AI has flipped the knowledge advantage from the seller to the
+buyer. It is time to rewrite the seller handbook!
+
+Winning by Design
+
+5 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+4. How AI is changing Buying and Selling
+The way buyers shop for B2B solutions has undergone a seismic shift. Forget the days of salespeople dictating the process. Today's buyers are self-service buyers, demanding lightning-fast
+responses and immediate follow-up; they want their sellers to be industry thought leaders armed
+with relevant real-life use-case stories. This shift boils down to the following three principles:
+1. Buyers Hate Being Pitched, They Love Buying: Stop the hard sell and focus on empowering
+their buying journey. Make it smooth, informative, responsive, and self-service friendly.
+2. Buyers Call the Shots: Adapt the sales approach to cater to real-time interactions. Gone are
+the days of scripted email sequences and pre-programmed discovery calls.
+3. AI Levels the Playing Field: Leverage AI to elevate the buyer experience. It's not about giving
+sellers an unfair advantage–it's about using AI to make things easier for buyers.
+This means sellers must understand how the buyer likes to buy, not just what they want to buy.
+On this topic, Josh Woodward gave a mind-blowing Notebook LM demo at Google IO 2024. He
+gave us a glimpse into the future of sales. Imagine a sales call where AI acts as a real-time
+co-pilot, seamlessly answering buyer questions, pulling up relevant materials, and sharing
+personalized use cases while flowing naturally with the conversation.
+
+Figure 4. Josh Woodward shows Gemini delivering the information in a conversational format. While the demo focused
+on a learning experience, it was easy to envision how it could be applied to create a dynamic sales experience.
+
+Winning by Design
+
+6 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+This interactive approach showcases the potential of AI for sales and customer success teams.
+Despite what sellers want to believe, it's no longer about trust and relationships. These were vital
+to the buyer back in the days when sellers held all the cards, and the million-dollar on-prem or
+perpetual software purchase would impact the buyer’s job security.
+Now, buyers have access to all the same information, and let’s not forget that SaaS purchases are
+much less risky than their perpetual counterparts. As a result, buyers are no longer afraid to
+disintermediate traditional marketing and sales tactics for a faster, more efficient experience.
+The solution is to have AI help navigate this new landscape and instead build trust by offering a
+frictionless buying experience and providing exceptional value along the customer’s journey.
+Undoubtedly, every SaaS company will have a “sales AI ” join discovery calls, much like notetakers
+do. This allows the participants to query the “sales AI” for price, features, use cases, etc. The only
+question is, will it take 6 or 18 months?
+
+5. History tends to repeat itself.
+Everyone's talking about sustainable growth, but you wouldn't know it by looking at most SaaS
+companies. They're still clinging to the same old "grow at all costs" mentality, even after the 2021
+SaaS Crash sent out a clear and loud clarion call1.
+
+Figure 5. The decline in success rates of private SaaS companies reaching $100M in ARR (2014-2023) following a
+funding round of $3M has consistently declined since 2018. Note that the cohort is lagging.
+
+1
+
+The Sweet Spot in the Eye of the Storm, by Jacco van der Kooij, December 22, 2022.
+
+Winning by Design
+
+7 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+Things haven't gotten any better since then. Growth rates for public SaaS companies have
+only gotten worse, from 36% to 18%. Meanwhile, the cost of acquiring $1 in net new ARR has
+increased from $1.52 to a whopping $2.61 per David Spitz of Benchsights, a firm that provides
+actionable benchmark data on the performance of SaaS companies.
+The harsh reality is this: countless startups and scaleups are struggling because they refuse
+to acknowledge the need to change their GTM strategy.
+The blame falls squarely on the shoulders of the C-suite—CEOs, CROs, and CFOs. These folks
+hold the purse strings, and they have a crucial responsibility to prioritize sustainable growth
+strategies. It's time to stop chasing Unicorn status and start focusing on building businesses
+designed to weather storms, not just the one we are in but future storms as well.
+Let’s call out the pink elephant in the room: this GTM inaction feels eerily similar to past market
+meltdowns, such as the dot-com bubble and the 2008 financial crisis. What we can learn from
+these events is that companies tend to bury their heads in the sand, ignoring the warning signs
+until it's too late. Let's not repeat history. It's time for SaaS companies to wake up, smell the
+unsustainable growth coffee, and adjust their GTM strategies before it's too late.
+
+6. What can 1960s factories teach us today?
+The SaaS world is facing a growth hangover, and it's time for a serious dose of reality. Remember
+back in the 1960s, when Edward Deming turned manufacturing on its head by focusing on
+process improvement? His data-driven approach, emphasizing continuous improvement and
+minimizing defects, paved the way for methodologies like Six Sigma. Soon after, manufacturing
+went from clunky to clockwork-precise. Deming's influence even touched software development
+with Agile Software Development with its iterative sprints, flexibility, and rapid feedback loops,
+which mirrors his focus on continuous improvement. But it does not stop there; even creative
+fields like design thinking, once deemed immune to process thinking, now owe a debt to Deming's
+user-centric approach.
+Today, we are reaping the rewards of the progress made on his and many others' work. As it
+relates to SaaS, we are used to seeing a 99.999% uptime for cloud infrastructure due to Deming’s
+work from 60 years ago.
+
+Winning by Design
+
+8 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+Here's the key takeaway: car factories didn't just throw robots at their problems. They honed their
+processes first, then used robots to minimize human error, setting the stage for scalable and
+sustainable growth.
+Just like robots transformed factories, AI has the potential to revolutionize SaaS GTM. However,
+the lesson from the factory floor remains: fix the processes before unleashing the AI automation
+machine.
+Many SaaS companies treat GTM strategies like the neglected stepchild. Traditionally viewed as a
+"people thing," GTM processes haven't gotten the scrutiny they deserve, especially in startups. But
+with AI poised to automate many GTM tasks, the risk of amplifying broken processes becomes a
+major vulnerability.
+That's where Winning by Design’s Lean Revenue Factory comes in. It is the blueprint for
+sustainable SaaS growth in a challenging market. Just like factories leverage robots for optimized
+production, the Lean Revenue Factory equips SaaS companies with the power of AI. But here's the
+twist: it focuses on streamlining and automating GTM processes for sustainable, controlled
+growth first—meaning it is not just a hyper-growth sugar rush. All while ensuring the delivery of a
+top-notch product—a recipe for long-term success.
+
+7. Building a Lean Revenue Factory
+Once a SaaS company cracks the $10 million ARR barrier, it's time to graduate from a scrappy
+startup to a full-blown revenue factory. These companies share the same goals as traditional
+factories: cranking out predictable revenue growth, controlling costs, and delivering a top-notch
+product that delivers recurring impact to the customer, thereby adhering to the First Principle of
+SaaS in that Recurring Revenue is the Result of Recurring Impact.
+The analogy goes even deeper. Like factories have specialized production lines for different
+products, SaaS companies can leverage different GTM motions to diversify their revenue streams.
+
+Winning by Design
+
+9 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+Figure 6. The Lean Revenue Factory visualizes GTM motions as production lines optimized to ensure consistent,
+recurring revenue growth
+
+The Lean Revenue Factory views each GTM motion as its own production line, undergoing a
+three-stage optimization process:
+Stage 1: Scale It Up! Here, the focus is on building well-oiled, scalable processes that
+ensure smooth execution and scalable growth.
+Stage 2: Sustainable Growth! Now, we dive into unit economics, making sure resources
+are allocated efficiently, and costs are under control.
+Stage 3: Durability is King! At this stage, it's all about delivering a top-notch experience
+that makes customers happy and drives organic growth through the existing base.
+This requires that organizations throw out the old-school departmental approach, where everyone
+operates in silos with their own metrics and processes. The Lean Revenue Factory champions an
+integrated GTM approach that spans the entire customer journey. It's all about cross-functional
+collaboration – different teams working in sync to drive consistent, recurring revenue. Think of it
+as a factory floor where everyone's working together to optimize production, a lean executing
+Revenue Factory.
+By adopting this model and optimizing their GTM motions, SaaS companies can unlock scalable
+growth, minimize costs, and build a solid foundation for long-term success—a recipe for a thriving
+SaaS business!
+
+Winning by Design
+
+10 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+8. How a GTM production line generates revenue.
+The Lean Revenue Factory is a new way of thinking about using GTM to achieve SaaS growth.
+Think of it as a giant machine that produces recurring revenue (ARR). It all starts with feeding
+leads into GTM's different GTM motions, which operate like revenue production lines. Each
+production line's growth formula is based on acquiring and growing a customer base unique to
+the targeted market, unique in that it maps to the buying experience of that specific market.
+In the Revenue Factory, all key metrics, like Win Rate (acquisition), Gross Recurring Retention Rate
+(GRR), and Net Retention Rate (NRR), are put together in a growth formula and tracked. The
+growth formula observes how efficient the different GTM motions (revenue production lines) are
+in converting leads into customers and keeping them happy. Retention and Expansion feed into
+each other, creating a virtuous cycle of customer satisfaction and growth. The insights we gained
+will help us fine-tune the GTM production lines for maximum performance.
+
+Figure 7. A simplified view of a recurring revenue system
+
+Here's the kicker: as revenue scales and surpasses $10 million in ARR, relying on a flood of
+random leads or continued outbound cold calling, in most cases, is deemed unscalable.
+Conversion rates eventually will start to sputter because, let's face it, not all leads are created
+equal. That's when it's time to shift from an "always do more" input-centric approach to a “do
+better” throughput-centric approach. This means focusing on optimizing those conversion rates,
+ensuring we help the customer succeed, and optimizing the output out of every single customer.
+There are three main ways to boost throughput performance:
+
+Winning by Design
+
+11 of 14
+
+PROCESS FIRST. AI SECOND
+
+●
+
+BACK TO THE FUTURE
+
+Improve the Process: This is all about having well-oiled, efficient processes running GTM
+production lines. Think of clear procedures – the kind of stuff that AI can help supercharge
+once we've got it nailed down.
+
+●
+
+Automate It: The right technology can streamline processes and make the GTM machine
+smoother. Integration across various tools is vital here!
+
+●
+
+Where needed, add a Human Touch. Don't underestimate the power of people to provide
+the magic for complex problem-solving, creativity, and high-quality customer interactions.
+
+The Lean Revenue Factory is all about optimizing GTM processes to create a well-oiled
+revenue-generating machine that achieves sustainable growth. For this, we need a new kind of
+leader, a topic we will discuss next.
+
+9. The Role of the CxO: Modernize GTM Processes
+The Lean Revenue Factory throws out the old-school sales playbook. Forget the glory days of the
+single-minded sales leader obsessed with lead volume and always wanting to hire more sellers to
+achieve growth.
+In this new world, we need a conductor of the revenue orchestra, a CxO who can oversee the
+entire customer journey – Acquisition, Retention, and Expansion. This shift to a data-driven
+approach is crucial. The newly assigned CxO wields metrics and analytics like a maestro's baton,
+pinpointing bottlenecks and growth opportunities across the entire revenue generation process.
+Unlike the traditional VP of Sales, who prioritized "acquisition at all costs," the modern CxO owns
+the whole show and orchestrates actions across marketing, sales, and customer success. It's a
+collaborative effort, ensuring every team member plays their part in harmony.
+This holistic approach is the secret sauce for sustainable growth in today's competitive SaaS
+landscape. A laser focus on acquiring new customers at the expense of keeping existing ones
+happy (retention) or growing their accounts (expansion) is a recipe for disaster, even with fancy AI
+lead gen tools. The key ingredient? Well-defined processes are the sheet music for this revenue
+orchestra. AI is a powerful instrument that augments human capabilities and helps teams
+perform at their best. The modern CxO fosters a culture of continuous improvement, ensuring the
+processes are tight and the AI integration is seamless.
+
+Winning by Design
+
+12 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+Figure 8. Drawing with the CRO overseeing marketing, sales, and customer success
+
+The CxO's mission, if you will, is not to secure revenue per se but to secure what gives rise to
+revenue. In other words, to meticulously design, implement, and refine the revenue-generating
+processes for long-term success. They have process geeks on their team (SalesOps), RevOps
+performing data analysis, and an Enablement team in charge of blending human expertise with AI
+technology. Their ultimate goal? To ensure the revenue orchestra consistently delivers revenue,
+exceeding goals quarter after quarter.
+So, CROs of the world, heed the call! This “chief of the revenue factory” role is yours for the taking.
+But if you cling to the old ways of "acquisition at all costs," then maybe the role of VP of Sales is a
+better fit.
+
+10. In conclusion: Process first, AI second.
+AI is like that hot new gadget everyone's talking about, promising to revolutionize GTM and deliver
+hypergrowth at low cost. But here's the thing: just throwing AI at GTM problems by itself won't fix
+the growth challenge. To unlock AI’s true potential, we must have a solid foundation of
+well-defined processes in place.
+Remember how process improvements revolutionized manufacturing back in the 60s? The same
+thing is about to happen to GTM strategies. Companies will achieve long-lasting success by
+transforming them into well-oiled Lean Revenue Factories. And guess who's leading the charge?
+Winning by Design
+
+13 of 14
+
+PROCESS FIRST. AI SECOND
+
+BACK TO THE FUTURE
+
+The SaaS industry! We are paving the way for a GTM evolution that will benefit all industries for
+decades to come.
+To unlock this, we must prioritize process excellence. The future of lean revenue generation is a
+beautiful collaboration between human expertise and AI—a match made in revenue heaven! Think
+data-driven decisions and flawless execution, resulting in sustainable growth. It's basically like the
+Fourth Industrial Revolution taking notes from the Third—a "Back to the Future" moment for GTM,
+optimizing strategies for the exciting road ahead.
+Sure, some folks might be clinging to short-term gains over sustainable growth and hesitant to
+embrace this shift. Maybe they're like Marty McFly's audience–not quite ready for the future yet.
+But here's the thing: the future is coming, and those who jump on board now will be the GTM
+rockstars of tomorrow. So, ditch the "throw AI at it" approach and embrace the power of
+process-driven GTM. Your future self (and your investors) will thank you.
+
+Winning by Design (WbD) is a global B2B revenue consulting and training company that enables
+recurring revenue teams to architect sustainable growth. Leveraging its experience with over
+1,000 high-growth companies, WbD applies scientific frameworks and proven models to help
+sales, marketing, and customer success teams at B2B companies and global enterprises
+maximize their impact. WbD has reinvented the traditional sales funnel with disruptive
+customer-centric frameworks and methodologies, including the Bow Tie Data Model and the
+SPICED Methodology, all of which can be accessed open source. Founded in 2012, WbD is a fully
+remote company, serving 600+ leading organizations worldwide, including Uber Eats, DocuSign,
+MURAL, and OwnBackup. To learn more about Winning by Design, visit winningbydesign.com.
+
+Winning by Design
+
+14 of 14
+
+

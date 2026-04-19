@@ -1,0 +1,627 @@
+GTM AI
+Story Library
+
+Leveraging AI to meet potential
+customers where they are
+Eva launched on
+WhatsApp with 400+
+organic signups, offering
+AI-powered, culturally ﬂuent
+ﬁnancial support.
+
+400+
+ORGANIC SIGNUPS
+
+Victor Haddad
+Eva Bank
+
+SIGN UP
+
+AI tech used: Conversational AI via WhatsApp
+
+An AI SDRs massive impact
+on lead generation
+
+80%
+COST
+
+Academia Lendária
+launched an AI SDR that
+reduced costs by 80%
+and resulted in 650+
+qualiﬁed meetings.
+
+650+
+
+QUALIFIED MEETINGS
+
+Pedro Goiozo
+Academia Lendária
+
+AI tech used: An AI SDR named "Alana."
+
+Using AI tools to automate call reviews
+and enhance insights
+Datarails employed a
+custom automation to
+automate call reviews,
+resulting in an 80%
+reduction in
+monitoring time.
+
+80%
+MONITORING
+
+PIPELINE VISIBILITY
+
+Idit Bar Netz
+Datarails
+
+AI tech used: Custom automation via OpenAI
+
+Deploying AI trainers to reduce
+ramp time and increase conversions
+
+47%
+
+27%
+
+35%
+
+RAMP TIME
+
+CONVERSIONS
+
+PERFORMANCE
+REGIONAL VARIANCE
+
+Cyera leveraged
+AI conversation
+trainers to reduce
+ramp time by 47% and
+increase early-stage
+conversions by 27%.
+Andrew Froning
+Cyera
+
+AI tech used: AI conversation trainers
+
+Using AI to generate and
+surface account insights
+
+2.8x 3.8x
+PIPELINE
+
+CLOSED /
+WON DEALS
+
+85%
+SATISFACTION
+
+LaunchDarkly used
+PocusAI to surface
+insights to grow pipeline
+2.8x, closed-won 3.6x, and
+boost user satisfaction.
+Laura Gassaway
+LaunchDarkly
+
+AI tech used: PocusAI
+
+Harnessing AI prospecting tools
+to save time and grow pipeline
+Mural integrated PocusAI
+Prospecting to combine
+internal and external signals
+for outreach, saving reps
+hours per week.
+
+SAVING REPS
+
+2-5
+HOURS / WEEK
+
+USER
+ENGAGEMENT
+
+Chris Geraci
+Mural
+
+AI tech used: PocusAI Prospecting
+
+Using AI lead scoring to help overburdened
+AEs and increase conversions
+Lendz Financial
+implemented a lead
+scoring AI agent to help
+stretched AEs focus on
+high-intent leads.
+
+LEAD CONVERSION
+& PRIORITIZATION
+
+Erick Mahle
+Lendz Financial
+
+AI tech used: AI lead scoring agent
+
+Embedding AI into SPICED
+templates to save rep time
+Canva leveraged PocusAI
+Strategy to embed AI into
+SPICED templates to save
+reps 5-7 hours per week
+on account planning.
+
+SAVING REPS
+
+5-7
+HOURS / WEEK
+
+PLAN COMPLETION &
+CALL PREP
+
+Jessica Chiew
+Canva
+
+AI tech used: PocusAI Strategy
+
+AI as a force multiplier in SEO page
+generation efforts to boost pipeline
+Common Room employed
+multiple AI tools to
+create 700 SEO-optimized
+pages to improve
+inbound lead engine.
+
+SEO
+
+700
+OPTIMIZED
+PAGES
+
+TRAFFIC & PRODUCT
+AWARENESS
+
+Kevin White
+Common Room
+
+AI tech used: Common Room, Notion, Sanity
+
+An AI sales engineer to quicken
+deal cycles and answer sales queries
+
+20%
+FASTER DEAL
+CYCLES
+
+50%
+RESOLVED
+SALES QUERIES
+
+SiftHub used its AI Sales
+Engineer to enable 20%
+faster deal cycles, resolve
+queries, and reduce RFP
+creation time.
+Manisha Raisinghani
+SiftHub
+
+SHORTER RFP TURNAROUND
+
+AI tech used: SiftHub
+
+Using AI as in-call assistant
+to improve CRM hygiene
+
+88%
+
+90%
+
+44%
+CRM FILL RATES
+
+REP ADMIN TIME
+
+Cyera implemented
+WINN.AI as an in-call
+assistant to double CRM
+ﬁll rates and reduce rep
+admin time by 90%.
+Nathaniel Sintros
+Cyera
+
+AI tech used: WINN.AI
+
+AI to ensure process and playbook
+adherence and improving CRM ﬁll rates
+
+73%
+
+31%
+
+0%
+
+1.1%
+CRM FILL RATES
+
+PLAYBOOK
+ADHERENCE
+
+ADMIN TIME
+
+Deel employed WINN.AI
+to improve playbook
+adherence by 31% and
+CRM ﬁll rates 73x, while
+cutting admin time to zero.
+Frank van der Vinden
+Deel
+
+AI tech used: WINN.AI
+
+An entire GTM campaign built
+and executed by AI, with over 50 assets
+
+50+ $100M
+ASSETS
+
+ATTRACTING ACQUIRER
+
+BL.INK implemented
+VelocityEngine to build
+and execute an entire
+GTM campaign of 50+
+assets, attracting a
+$100M acquirer.
+Leigh Choate
+BL.INK
+
+AI tech used: VelocityEngine
+
+Using AI to build personalized
+landing pages, boost sign-ups
+
+600
+
+PERSONALIZED
+LANDING PAGES
+
+Clay leveraged their
+Claygent AI to build
+600 personalized
+landing pages, boost
+sign-ups by 21%, and
+go viral on Linkedin.
+
+21%
+SIGN-UP BOOST
+
+VIRAL
+
+Pranav Mital
+Clay
+
+AI tech used: Claygent AI
+
+Unsure where to begin with
+GTM AI implementation?
+Learn more about our GTM AI Pilot offering.
+
+AI agents to improve preand post-event experience
+Domo leveraged AI to
+drive event engagement,
+driving deeper postevent conversations
+with prospects.
+REGISTER
+
+REGISTRATION
+
+NAVIGATION
+
+POST-EVENT
+FOLLOW-UP
+
+Mark Boothe
+Domo
+
+AI tech used: AI voice agents, AI helpdesk
+
+SEO bolstered by AI to improve
+visibility among prospects
+Gelato leveraged Simple
+Tiger’s AI capabilities to
+improve SEO performance,
+growing ﬁrst-page
+rank 1,200%
+
+75k 1312 3:1
+
+NEW KEYWORDS
+RANKING
+(+1200% FIRST-PAGE GROWTH)
+
+NEW BACKLINKS
+FROM AUTHORITATIVE DOMAINS
+
+ROI ON SEO
+INVESTMENT
+
+GTM Team
+Gelato
+
+WITHIN A YEAR
+
+AI tech used: Simple Tiger
+
+Hiring an AI agent to handle
+a wealth of inbound leads
+SafetyCulture used custom
+AI agents to improve lead
+management, increasing
+qualiﬁed opportunities
+
+3x
+
+2x 24/7
+
+MEETINGS
+BOOKED
+
+QUALIFIED
+OPPORTUNITIES
+
+LEAD
+ENGAGEMENT
+
+(50% LOWER COST PER MEETING)
+
+PASSED TO SALES TEAMS
+
+NO PROSPECTS LEFT
+UNATTENDED
+
+Jon Teo
+SafetyCulture
+
+AI tech used: Custom AI agents
+
+Implementing an AI agent
+drive revenue and insights
+HubSpot implemented
+1mind’s AI Agent to drive
+purchase increases and
+uncover deeper lead
+insights via conversations.
+
+33%
+PURCHASE
+INCREASE
+
+RICH ENGAGEMENT
+INSIGHTS
+
+Neda Stoll
+HubSpot
+
+AI tech used: 1mind
+
+Using AI to save rep hours
+through discovery help
+Clay used their Claygent AI
+to help unprepared reps
+with discovery, leading to
+more targeted and
+productive meetings.
+
+2.5
+
+HOURS SAVED
+DAILY PER REP
+
+TARGETED & MORE
+PRODUCTIVE MEETINGS
+
+Manny Adelstein
+Clay
+
+AI tech used: Claygent AI
+
+Leveraging AI to assist with customer
+support and documentation
+Clay leveraged multiple
+AI tools to improve
+customer support response
+times and double
+documentation output.
+
+2x
+
+DOCUMENTATION
+OUTPUT
+
+DEFLECTION
+RATES IMPROVED
+
+RESPONSE
+TIMES
+
+Bruno Radice
+Clay
+
+AI tech used: Intercom Fin AI, OpenAI, Dust
+
+AI onboarding agents to improve
+the customer experience
+Signals implemented AI
+onboarding agents to
+quicken onboarding, reduce
+churn, and free up time for
+their team of CSMs.
+
+FASTER
+ONBOARDING
+
+LOWER
+CHURN RISK
+
+FREED UP TIME
+FOR CSM TEAM
+
+Michael Davis
+Signals
+
+AI tech used: AI onboarding agents
+
+Using AI to improve access
+to customer support knowledge
+
+90%
+ACTIVE USAGE
+OF GLEAN
+
+Conﬂuent leveraged Glean
+AI to improve internal
+knowledge access,
+improving the customer
+support function.
+
+5-10
+MINUTES SAVED
+PER TICKET
+
+CSAT SCORES
+IMPROVED
+
+Manu Narayan
+Conﬂuent
+
+AI tech used: Glean AI
+
+Leveraging AI to unearth
+buried competitor insights
+Clay implemented AI
+competitor intelligence
+workﬂows to uncover
+competitor insights
+and make it usable
+cross-functionally.
+INSIGHTS SYNCED AUTOMATICALLY
+TO SALESFORCE FOR GTM, PRODUCT, AND FINANCE USAGE
+
+Osman Sheikhnureldin
+Clay
+
+AI tech used: AI competitor intelligence
+
+Agentic AI as substitute for MDR
+responsibilities, with no loss in output
+OpenTable used Agentic AI
+qualiﬁcation tools to ﬁll the
+MDR role without loss in
+lead quality or proﬁciency.
+Alyssa Eisenman
+OpenTable
+PRESERVING LEAD QUALITY
+& MEETING SCHEDULING
+
+AI tech used: Agentic AI qualiﬁcation tools
+
+AI-enhanced social media
+to drive virality and exposure
+Kustomer leveraged AI to
+spur social media (Linkedin)
+virality, increase brand
+exposure, and awareness.
+Gabe Larsen
+Kustomer
+VIRAL BRAND EXPOSURE
+AI SOLUTION AWARENESS
+
+AI tech used: AI-enhanced social campaigns
+
+Causal AI to improve forecasting
+ability of content strategies
+FCamara’s needed better
+data-driven content
+strategies for its clients
+and turned to causal
+AI modeling to
+improve forecasting.
+
+30%
+FORECASTING
+ACCURACY
+
+PLANNING CYCLES
+WEEKS TO DAYS
+
+Vinicius Galera
+FCamara
+
+AI tech used: Causal AI modeling
+
+AI to boost customer activation
+and improve onboarding experience
+Clay leveraged their
+Claygent AI and Clay
+cohorts products to boost
+user activation and improve
+onboarding process.
+
+10-20x
+USER ACTIVATION
+
+Yash Tekriwal
+Clay
+
+ACTIVATE
+
+AI tech used: Claygent AI, Clay cohorts
+
+Instant CRM updates thanks to AI,
+improving sales execution
+
+21 SEC.
+CRM UPDATES
+
+REAL-TIME COACHING IMPROVED SALES EXECUTION
+
+Kaseya implemented
+WINN.AI real-time
+enablement to improve
+sales execution and
+coaching and improve
+CRM update speed.
+Omar Chanouha
+Kaseya
+
+AI tech used: WINN.AI
+
+An AI revenue operating system
+to optimize the left side of the Bowtie
+Owner.com implemented a
+full AI revenue operating
+system to more than
+double ARR and 3-4x
+revenue per rep.
+
+2x
+
+ARR GROWTH
+($11M ➔ $28M);
+
+3–4x
+REVENUE PER REP
+VS. PEERS
+
+Kyle Norton
+Owner.com
+
+AI tech used: AI revenue operating system
+
+Unsure where to begin with
+GTM AI implementation?
+Learn more about our GTM AI Pilot offering.
+
+

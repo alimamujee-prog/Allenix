@@ -1,0 +1,543 @@
+Growth
+Forecasting
+How to perform a multi-year Forecast
+based on historical data.
+
+This paper explains how to forecast annual bookings based
+on growth rate. A forecast based on growth rate requires at
+least four years of historical data.
+
+Jacco J. van der Kooij
+Founder, Winning by Design
+April 2022
+
+Summary Points
+●
+
+Historically, organizations use capacity-based forecasting, in which the average capacity of a
+salesperson is multiplied by the number of salespeople.
+
+●
+
+In capacity-based forecasting, growth is therefore perceived as an outcome of a group’s
+capacity, and often by a single department such as sales or marketing.
+
+●
+
+It is recommended to use a growth-rate-based forecast for a multi-year forecast due to the
+inaccuracy of a capacity-based forecast.
+
+●
+
+4ю A growth-rate-based forecast reﬂects how the entire system performed over time.
+
+●
+
+Such a forecast, incorporating the system rather than the individual salespeople, is more
+accurate because it reﬂects how every part of the organization contributed in previous years.
+
+●
+
+A system-based forecast includes the hiring and onboarding process of the HR department.
+
+ACME has been growing its non-recurring booking numbers steadily since 2015. In Q3 2021, the new CRO of
+ACME submits a budget request for ten additional sales reps to be ramped and available per Jan 1.
+In this case, the assumption is being made that:
+I) In 2021, bookings were $25M across 12 ramped reps or approximately $2M per rep.
+II) Therefore, in 2022, growing the team to $40M/$2M/rep = 20 reps. Eight extra reps are needed. There
+is an anticipation of a 10% turn-over, so ten sales positions are opened.
+III) Thus, to hit $60M in 2023, we are going to need $60M/2M/rep = 30 reps
+As a Revenue Architect, it is your responsibility to validate if this is realistic.
+
+Year
+
+Booking
+
+A2015
+
+$585,655
+
+A2016
+
+$827,776
+
+A2017
+
+$1,703,379
+
+A2018
+
+$3,922,670
+
+A2019
+
+$10,301,665
+
+A2020
+
+$15,287,736
+
+A2021
+
+$24,762,591
+
+Figure 1: Historic booking performance of ACME LLC (a non-recurring services business).
+The source data worksheet for this research can be found here.
+
+Growth Forecasting
+
+2 of 10
+
+Growth Rate Based Forecasting
+The next step is a practical guide on using the growth rate. It helps us predict if $40M in 2022 and $60M in
+2023 is feasible. The principle behind the use of growth rate is that historical growth predicts future growth.
+That is unless something of signiﬁcance has taken place.
+
+Figure 2: Customizing of the vertical axis
+Next, we need to add the years, but NOT the forecasted data. See Figure 3. Setting the vertical axis max
+value to 60,000,000, the appearance remains the same.
+
+Step 1. Get the visual right.
+You will be making customizations to the chart in the editor a lot. Here are the steps required to get into
+the chart editor and how you will alter the scale to $60,000,000.
+Not doing this will make the chart editor automatically adjust to: Removing the open data and changing the
+scale of the vertical axis to slightly above the current max value of $24,762,591.
+
+Year
+
+Booking
+
+A2015
+
+$585,655
+
+A2016
+
+$827,776
+
+A2017
+
+$1,703,379
+
+A2018
+
+$3,922,670
+
+A2019
+
+$10,301,665
+
+A2020
+
+$15,287,736
+
+F2021
+
+$24,762,591
+
+F2022
+F2023
+
+Figure 3: Creating a visible gap in the chart.
+
+Growth Forecasting
+
+3 of 10
+
+Step 2. Display the values on a logarithmic scale.
+Out of the box, the chart will display on a linear scale. Due to the near doubling year over year, a Logarithmic
+Scale provides meaningful insights. Compare the plotted data on a Linear vs. Logarithmic scale in Figure 4.
+
+Linear scale
+
+Logarithmic scale
+
+Figure 4: The logarithmic scale will reveal the growth trend.
+Our eyes deceive us using a linear scale, thinking that growth is accelerating. Follow the blue line on a linear
+scale. It looks as if the business is accelerating, and $60M is achievable as early as 2022! In contrast, the blue
+line depicted on a Logarithmic scale shows growth is declining.
+
+Step 3. Add a trendline, also known as a regression line.
+Forecasting based on growth rate relies on a trendline, also known as a regression line. So let’s start by
+adding a trendline.
+
+Open the Chart editor..
+● Click in the chart on the blue bars
+You now are in the series
+● Check the Trendline box
+● Use Moving Average as a type
+It will now add a trendline on the selected
+data series.
+
+Figure 5: Let a trendline of growth rate depict the growth.
+
+Growth Forecasting
+
+4 of 10
+
+There are six options for a trendline: Linear, Exponential, Polynomial, Logarithmic, Power Series, and
+Moving Average. Which one to pick? The one that most accurately reﬂects the behavior. How do you know
+which one is the most accurate? Read on.
+
+Step 4. Pick an accurate trendline based on the R2 value.
+R2 is a statistical measure of how close the trendline matches the data. An R2 of 1 means a perfect ﬁt. The R2
+value is something that can be found in the chart.
+Toggle between the various Trendline types and see how the R2 value changes. Pick the one closest to 1.
+
+Open the Chart editor..
+● Legend > set Top in Position
+● Trendline Type > Linear
+● Check the box Show R2
+The changes in the R2 value are shown in the
+legend. Note that “Moving Average” as a type
+of trendline does not have an R2 value.
+
+Figure 6: Make sure to use the correct trendline.
+
+Regression Type
+
+R2 value
+
+Linear
+
+0.862
+
+Exponential
+
+0.979
+
+Polynomial
+
+0.996
+
+to not use a trendline with an R2 with a value <
+
+Logarithmic
+
+0.734
+
+0.950
+
+Power Series
+
+0.961
+
+Moving Average
+
+N/A
+
+In this case, a Polynomial trendline gets us the
+closest to 1 with a value of 0.996. It is advised
+
+Table 1. R2 value as a function of regression type based on this speciﬁc data set.
+
+Step 5. Determine what the trendline is telling you.
+Let’s take a step back. We have historic data from 2015 through 2021, and we need to forecast the Booking for
+2022 and 2023 with reasonable accuracy.
+
+Growth Forecasting
+
+5 of 10
+
+Well, the plotted polynomial trendline in Figure 6 presented that.
+Figure 7 compares the forecast of $40M in 2022 and $60M in 2023 with the trendline.
+
+Figure 7: Growth rate based forecast vs. Capacity Forecast.
+Remember that we are on a logarithmic scale, so the gap between the forecasted value is based on capacity
+(bar) and the forecasted value is based on growth rate (line). Although it appears small, it is signiﬁcant.
+Next, we are going to calculate what the actual value is.
+
+Step 6. Calculate the future growth based on the growth rate.
+We need the mathematical formula for the trendline to calculate the growth rate. The arguments of the
+growth formula can be found in google sheets as follows; First, make sure you have a legend; it doesn’t
+matter where it is positioned. Next, double-click the trend-line to get into the chart editor. Under
+Trendline, there is a dropdown box called Label. Pick Use Equation.
+
+Figure 8: The chart trendline provides the arguments of a quadratic growth curve.
+
+Growth Forecasting
+
+6 of 10
+
+Growth Rate:
+
+Booking [period n] = ax2+bx+c
+
+A formula now appears in the legend,
+
+a [x2]
+
+$ 893,279
+
+giving us the arguments of a quadratic
+
+b [x]
+
+- $ 1,430,000
+
+c
+
+$ 874,210
+
+equation:
+
+In this formula, [x] is the number of periods [n].
+
+Period
+
+Fiscal Year
+
+Actual
+
+0
+
+A2015
+
+$585,655
+
+1
+
+A2016
+
+$827,776
+
+2
+
+A2017
+
+$1,703,379
+
+3
+
+A2018
+
+$3,922,670
+
+4
+
+A2019
+
+$10,301,665
+
+5
+
+A2020
+
+$15,287,736
+
+6
+
+A2021
+
+$24,762,591
+
+7
+
+F2022
+
+8
+
+F2023
+
+Table 2. R2 value as a function of regression type based on this speciﬁc data set.
+
+Entering the arguments a, b, c, and period [n] in a formula gives us the ability to forecast 2022 and 2023.
+Booking [period x] = ax2+bx+c
+Booking [period x] = $893,279x2-$1,430,000x+$874,210
+Booking [period 7] = $893,27972-$1,430,0007+$874,210
+Booking [period 7] = $34,634,881
+Using the same equation, we can calculate the estimated Booking for 2023 (period 8)
+Booking [period 8] = $893,27982-$1,430,0008+$874,210
+Booking [period 8] = $46,604,066
+
+Growth Forecasting
+
+7 of 10
+
+Period
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Year
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+a [x2]
+
+$893,279
+
+$893,279
+
+$893,279
+
+$893,279
+
+$893,279
+
+$893,279
+
+$893,279
+
+$893,279
+
+b [x]
+
+-$1,430,000 -$1,430,000 -$1,430,000
+
+-$1,430,000
+
+-$1,430,000
+
+-$1,430,000
+
+-$1,430,000
+
+-$1,430,000
+
+$874,210
+
+$874,210
+
+$874,210
+
+$874,210
+
+$874,210
+
+$34,634,881 $46,604,066
+
+$60,359,809
+
+c
+Forecast
+
+$874,210
+
+$874,210
+
+$874,210
+
+$1,587,326
+
+$4,623,721 $9,446,674 $16,056,185 $24,452,254
+
+Table 3. Historic comparison and a 3-year forecast based on the Quadratic formula
+
+In this case, as a Revenue Architect, the Growth-rate based approach forecasts $34.6M in 2022, $46M in
+2023, and $60M in 2024. That means the $60M is achievable but in 2024. Not in 2023. That reﬂects the
+performance of the entire system.
+
+Key Findings
+Historically, we have based our Booking forecasts on capacity — human capacity, or the number of sales
+reps that we have. In this method, the total amount of Booking is calculated based on the total number of
+sellers performing at an average of 80% against quota.
+A capacity-based forecast is fundamentally based on a people approach.
+In a people approach, people get ﬁred if a forecast is missed, or if a company experiences expedited growth,
+they tend to hire more people immediately. In a people approach, growth depends on the people’s
+performance. The quality of hiring, onboarding, training, and enablement are all very important.
+
+Figure 9: A Systems Approach leads us to a growth rate-based forecast.
+
+Growth Forecasting
+
+8 of 10
+
+In contrast, a growth rate-based forecast sees the historical performance as a result of processes, tools that
+automate processes, and data that guide the processes. Professor James T. Reason [Ref. 4.] wrote a
+distinguished paper on human fallibility titled “Human Error, Models and Management.” In this, Reason
+states:
+“The basic premise in the system approach is that humans are fallible and errors are to be expected, even
+in the best organizations. Errors are seen as consequences rather than causes, having their origins not
+so much in the perversity of human nature as in “upstream” systemic factors. These include recurrent
+error traps in the workplace and the organizational processes that give rise to them.”
+The System as a whole (bowtie) consists of subsystems (functions). And each sub-system consists of a
+process, which is a series of actions. Each action can be automated or improved via tools. Performance of
+each part of the process is measured in data indicating effectiveness and efﬁciency. The goal is to achieve
+growth that is both scalable and sustainable. Scalable in that when you do 2x as much, you should get ~2x as
+much, and sustainable in that if you want more of it, the resources are available at the same/similar cost.
+James Clear adapted a quote from Greek poet Archilochus that says it best:
+“We do not rise to the level of our goals. We fall to the level of our systems.”
+
+Suggested Action
+We recommend creating an annual booking forecast, for three years, based on the historical
+growth rate.
+
+Growth Forecasting
+
+9 of 10
+
+Footnotes
+Footnote 1. PLG and CLG behave differently
+An exception to this growth model is Product-Led Growth (PLG) and Consumption-Led growth. In both
+cases, the growth is in response to a customer action:
+●
+
+In PLG, the customer acts as the product’s marketing and sales. This scales with the growth. The
+more users sign-up, the more sales reps you have.
+
+●
+
+In consumption-led growth, existing customers buy more as they succeed and consume more.
+Consumption can be anything like bandwidth, storage, computing power, skins, templates, etc.
+
+Footnote 2. Growth-rate naturally declines
+A business grows from $1M by $4M to $5M (5x). It uses four reps. Each rep is fully ramped. Each rep
+contributes $1M/year on average in this example. From $5M, it’s unlikely that the organization will grow at
+the same growth rate of 5x. To do this, they would have to grow to $25M. It is doubtful that the same team
+that did $4M in growth can do $20M the following year. In a linear capacity-based growth model, the
+organization needs 20 ramped sales reps doing each $1M per year. Instead, this successful company adds six
+reps and grows to $15M (3x). And in the subsequent year, the company added another ﬁve reps and grew
+from $15M to $30M (2x). This demonstrates how growth declines, from 5x to 3x to 2x in a healthy growing
+business.
+Footnote 3. Growth is the outcome of an entire system
+Growth is not the outcome of a single sub-system of your organization, e.g., the Sales department or even
+the combination of marketing and sales. In modern, rapidly growing revenue operations, growth is the
+outcome of the entire system’s performance: hiring sales reps, which rely on the systems and tools in place
+to recruit and the systems and tools in place to ramp those reps. But also to provide the leads for the sales
+reps, not just by increasing the marketing spend but by putting the systems, processes, and tools in place.
+The weakest link in the system will determine the growth rate factor.
+
+References
+Ref. 1. Blueprints for a SaaS Sales Organization by Jacco J. van der Kooij and Fernando Pizarro
+Ref. 2. Calling Bullshit: The Art of Skepticism in a Data-Driven World by Carl Bergstrom and Jevin West
+Ref. 3. Hiring Star Sales People Isn’t the Best Way To Grow via Harvard Business Review by Frank V.
+Cespedes and Jacco van der Kooij.
+Ref. 4. Human error: models and management by James Reason, University of Manchester
+Ref. 5. Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer
+Ref. 6. The Great Mental Models Volume 3: Systems and Mathematics by Rhiannon Beaubien and Rosie
+Leizrowice
+Ref. 7. The SaaS Sales Method: Sales as a Science, by Jacco J. van der Kooij and Fernando Pizarro
+
+Growth Forecasting
+
+10 of 10
+
+

@@ -1,0 +1,223 @@
+Intelligence, Delight and
+Pipeline - How our AI SDR
+is Redeﬁning GTM
+By Shari Johnston, COO of Winning by Design
+
+At the start of 2025, we made what felt like a bold
+move at Winning by Design: we hired our ﬁrst AI-Agent,
+a Sales Development Representative, named Jack.
+It was bold because the SDR is the ﬁrst line of
+engagement with prospects—responsible for empathy,
+curiosity, and building trust in those ﬁrst critical
+moments. Replacing that with an AI agent wasn’t an
+obvious choice. Would prospects engage with him?
+
+Chat with Jack at
+winningbydesign.com/ai
+
+Would he sound robotic? Could he capture the nuance of SPICED qualiﬁcation, or
+would we risk damaging our brand by cutting corners on the buying experience?
+On top of that, AI in GTM is still uncharted territory. While tools abound, few had
+proven they could own a frontline role with the same rigor as a trained human.
+The risk was real: if Jack failed, we’d not only lose pipeline, but we’d undermine
+conﬁdence in AI-led GTM strategies across our organization.
+We chose to take the leap because the upside was too great to ignore. With
+partners at 1mind powering Jack’s AI Agent and Clay automating data
+enrichment, we believed we could create an AI SDR that wasn’t just a responder
+but a reﬂection of Winning by Design’s methodology and values.
+Jack is no longer a pilot experiment. He’s a teammate. And his journey has given
+us lessons that every revenue leader should consider as they explore whether
+2025 is the year to hire their own AI SDR.
+
+"Our goal is to help you cut costs because humans are expensive.
+And humans have limitations... How can we meet your buyers at
+the end of the day with an experience that delights them so [Jack]
+really talks to them in an empathetic way."
+- Amanda Kahlow, CEO and founder of 1mind
+
+Why We Hired Jack
+I’ve seen ﬁrst-hand the challenges of managing and onboarding SDR’s, in terms
+of onboarding, consistency, responsiveness, and CRM hygiene are key issues.
+Even the best reps struggle to log every detail, follow every process, and respond
+at the speed buyers expect.
+
+“A big challenge for brand new SDRs is CRM hygiene. Even with
+the best of intentions, humans are inconsistent. Jack gave us a
+way to ensure key prospect details are captured and not lost
+from human error.”
+- Ian Buchanan, Marketing Manager at Winning by Design
+
+When the opportunity came to partner with 1mind and Clay, I saw the chance
+to solve those issues head-on. Jack would:
+● Respond instantly to inbound interest.
+● Capture SPICED qualiﬁcation ﬁelds consistently.
+● Keep our CRM clean with enriched information, and up to date.
+● Scale conversations far beyond what a human team could handle.
+But there was another dimension that made Jack so compelling. He didn’t just
+bring eﬃciency—he brought intelligence and delight. With his training
+grounded in Winning by Design’s GTM expertise, Jack could guide
+conversations with a level of strategic depth uncommon in traditional SDR
+teams. And thanks to 1mind’s conversational design, he engages prospects in
+a way that feels empathetic, thoughtful, and even emotionally uplifting.
+That balance of practical rigor and human-like connection was exactly what
+we needed to create a front-line experience that reﬂects our brand.
+
+Training Jack with SPICED
+One of the most exciting parts of working with Jack is how easy he is to train.
+No weeks of onboarding or ramp. Instead, we fed him our FAQs, layered in the
+SPICED framework—Situation, Pain, Impact, Critical Event, and Decision—and
+watched him run.
+But we wanted Jack to be more than a functional SDR. We chose to design his
+experience as a reﬂection of our founder, Jacco van der Kooij. Jack is not just
+an AI agent; he is a lifelike embodiment of our methodology, voice, and style.
+When prospects interact with him, they aren’t just talking to a bot—they’re
+experiencing the empathy, curiosity, and structured thinking that Jacco himself
+would bring into a conversation.
+From day one, Jack qualiﬁed with diagnostic rigor. Every conversation included
+SPICED notes. Every detail made it into our CRM. And unlike human SDRs, Jack
+never skipped a ﬁeld or forgot to log a call.
+
+“One of the standouts to me as someone who is in charge of
+enablement is the ease of adding new products and services to
+Jack. I thought it was amazing to just feed him FAQs... and
+automatically be able to onboard him.”
+- Shari Johnston, COO at Winning by Design
+
+In his ﬁrst 30 days, Jack held 831 conversations, uncovered over 1,200 pain points,
+and created 70 qualiﬁed leads. He worked seven days a week, without breaks, and
+delivered a 100% CRM capture rate.
+But a weakness quickly surfaced: low email capture rates. Without email addresses,
+we couldn’t reliably convert conversations into appointments. While Jack was
+engaging, too many buyers walked away without leaving a way for us to follow up.
+
+Improving Through Iteration
+This is where partnership mattered. Working with the teams at 1mind and Clay,
+we designed a workﬂow experiment to ﬂip the script.
+Instead of simply asking for contact info, Jack began offering something of value
+in return: a personalized SPICED summary of the conversation, delivered by email.
+This was a game changer. Buyers now saw the exchange as valuable—something
+they could take back to their team. And the numbers proved it:
+● Email capture rates jumped from 8% to nearly 20%.
+● MQL conversion improved by 36%.
+● Human reps received warmer, better-qualiﬁed leads with rich context built in.
+This improvement turned Jack from a fast responder into a true pipeline generator.
+
+Year-to-Date Performance
+From January to July 2025, Jack’s results speak for themselves:
+
+2,030 conversations held, totaling 193 hours of live engagement.
+336 contacts captured, with 40 MQLs (12%).
+$508,000 in pipeline inﬂuenced, across 8 qualiﬁed opportunities— including
+one $200K deal.
+8,988 SPICED answers captured, with 60% of conversations reaching
+qualiﬁcation depth.
+85 handoffs to human reps, proving Jack knows when to bring people in.
+
+Strategic Takeaways
+Here’s what I’ve learned in Jack’s ﬁrst six months:
+
+01
+
+02
+
+Speed matters.
+
+Consistency is
+everything.
+
+Jack responds faster
+than any human, and
+that responsiveness
+translates into pipeline.
+
+Every conversation is
+logged, every SPICED
+ﬁeld ﬁlled—no shortcuts.
+
+03
+
+04
+
+AI is easier to train
+than humans.
+
+Iteration drives
+improvement.
+
+Adding a new product
+or talk track is as
+simple as feeding Jack
+updated FAQs.
+
+The SPICED
+summary-for- email
+exchange turned a
+weakness into a strength
+almost overnight.
+
+05
+AI-human
+collaboration is
+the future.
+Jack doesn’t replace our
+reps—he makes them
+more effective by
+handling the front end.
+
+Looking Ahead
+We’re already shaping Jack’s next stage of growth. The ﬁrst six months proved he
+can respond instantly, qualify with rigor, and keep CRM hygiene spotless. Now
+we’re focused on expanding his intelligence and making him even more impactful.
+Some of the improvements we’re exploring include:
+●
+
+Real-time personalization – Imagine Jack asking for a LinkedIn proﬁle
+mid-conversation, enriching it instantly through Clay, and tailoring his
+dialogue to a prospect’s company size, industry, or role. This would make
+every interaction hyper-relevant.
+
+●
+
+Dynamic outbound capabilities – So far, Jack has focused on inbound
+conversations. The next frontier is blending inbound responsiveness with
+outbound prospecting, enabling Jack to warm up accounts with
+SPICED-driven outreach before a human rep even steps in.
+
+●
+
+Revenue signal detection – Jack already surfaces pain points and
+competitor mentions. We see opportunities for him to recognize patterns
+across conversations, identify emerging trends, and proactively alert our
+GTM teams about shifts in the market.
+
+●
+
+Deeper integration with humans – Jack knows when to hand off, but in the
+future, he could provide a running “conversation coach” view for reps,
+suggesting next best questions or sharing competitor intelligence in real
+time during live sales calls.
+
+●
+
+Continuous learning loops – Instead of static updates via FAQs, Jack could
+integrate with our enablement processes, pulling in new playbooks,
+customer stories, and market insights automatically—ensuring his talk
+tracks evolve as fast as our GTM strategy.
+
+For now, Jack has already proven the case: AI SDRs aren’t just possible, they’re
+practical, impactful, and ready today. But the most exciting part is that we’re still
+only scratching the surface of what’s possible.
+
+Conclusion
+I’ve seen a lot of tools come and go. But Jack is different. He’s not just software,
+he’s a teammate. He’s faster, more consistent, and easier to train than any SDR I’ve
+hired. And most importantly, he’s producing results that matter: qualiﬁed pipeline.
+The future of GTM belongs to teams that embrace hybrid models where AI and
+humans work together. Jack’s journey shows us what that future can look like.
+And in 2025, it’s not just possible. It’s already here.
+
+Want to See Jack in Action?
+Visit Winning by Design's AI page
+to try Jack for yourself.
+
+

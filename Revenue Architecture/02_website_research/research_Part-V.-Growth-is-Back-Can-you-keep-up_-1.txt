@@ -1,0 +1,530 @@
+GROWTH IS BACK–
+CAN YOU KEEP UP?
+June 1, 2025 | Jacco van der Kooij
+
+The pace of change in our industry continues to accelerate dramatically. Over
+the next 18 months, we will likely see a fundamental reshaping of what it takes to
+win as a growth-driven company. The purpose of this message is to help you
+and your leadership team make the critical decisions now that will determine
+whether, by 2026, you lead, follow, or fall behind as market transformations
+accelerate.
+Growth Is Back. But Not The Same As Before!
+●​ The demand for growth is back—companies able to achieve it command record-high
+valuations. AI-Natives gain more funding and accelerate faster, creating a compounding
+cycle where system-driven growth is expected to surpass that of SaaS-Native companies.
+●​ Meanwhile, SaaS-Native companies are falling behind, spending more to acquire growth
+and struggling to recover those costs as customer lifetimes shrink.
+●​ SaaS-Natives are using AI to execute old playbooks at lower cost, without reigniting
+growth, while AI-Native companies deploy new systems to grow faster and at lower cost.
+●​ CEOs must train their teams to rigorously modernize their GTM, not just on an application
+level, but on a system/platform level. Those who modernize for an AI-Native future will
+widen the gap in their markets, just as Canva now dominates theirs.
+
+The next era belongs to companies whose CEOs are systems thinkers.
+
+Winning by Design​
+
+Confidential​
+
+Page 1 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+What to Expect in This Brief
+This letter is organized to give you insights for leading in the new era of AI-driven growth:
+Section I. Explains why growth remains the single most important driver of value and why today’s
+premium is higher than ever before.
+Section II. Reveals how most SaaS-Native companies are falling behind, spending more for less
+growth, and why “bought” growth is becoming an existential risk.
+Section III. Describes the new GTM architecture of AI-Native companies, showing how they embed
+AI into the core of their business to achieve compounding results.
+Section IV. Forecasts the evolution of AI in GTM, including how boardroom dynamics and industry
+leadership will change as the gap widens.
+These insights are based on real-world experience: working alongside some of the world’s
+fastest-growing companies and learning firsthand what sets them apart.
+
+SECTION I.
+
+Growth Above All Else
+Growth rate remains your single most prized metric. The evidence is clear: the latest generation of
+AI-powered, premium growers, scaling at 40% or more per year, command extraordinary valuations of
+15× to 20× EV/ARR in private markets. By contrast, sub-25% growers, the norm for public
+SaaS-Natives, trade at just 5x to 7x EV/ARR.
+
+Figure 1.1. EV/ARR multiples for SaaS-Natives highlight the steep valuation premium enjoyed by those growing at
+a rate of more than 40% (Benchsights and Meritech, May 2025).
+Winning by Design​
+
+Confidential​
+
+Page 2 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+Profit Is a Tool, Growth Is the Goal
+While public markets do punish poor profitability, revenue growth is by far the dominant driver for
+innovative companies. A scatter analysis by David Spitz of BenchSights, comparing 90 public
+SaaS-Natives Figure 1.2), shows:
+●​ Growth alone explains 39% of valuation variance (R²=0.39).
+●​ Adding free-cash-flow margin (the “Rule of 40”) barely moves the needle (R²=0.40).
+●​ Doubling the weight on growth (the “Rule of X”) lifts it to R²=0.51, proving that growth is the key.
+This isn’t surprising: growth compounds over time, expanding ARR and driving future valuations.
+Profits may lift today’s bottom line, but sustained growth is what builds tomorrow’s enterprise value.
+For innovative SaaS-Natives, growth is, above all else, what sets the pace.
+
+Figure 1.2. Scatterplots of EV/ARR versus pure growth rate, the Rule of 40, and the Rule of X for 90 public
+SaaS-Natives highlight the paramount importance of growth in valuation.
+
+Winning by Design​
+
+Confidential​
+
+Page 3 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+Why Growth Matters More Than Ever
+Growth isn’t just about pleasing investors. It means more market share, more visibility, and greater
+access to capital. The fastest-growing companies attract the most funding, funding they reinvest into
+AI-driven innovation, fueling yet another wave of acceleration.
+AI now accelerates the growth flywheel: driving down costs, speeding up execution, and compounding
+gains. Fast growers accelerate further, the strong pull ahead, and the gap widens. Whether you’re at
+$10M or $1B in ARR, the lesson is the same:
+
+Growth is both the engine and the fuel.
+Companies that master AI-driven growth will define the future.
+This is why SaaS-Native companies must restore and accelerate growth.
+
+SECTION II.
+
+Cost Reveals Growth Quality
+In the dot-com era, companies bought visitors to boost their valuations. A decade later, social media
+firms bought clicks. Today, SaaS-Native companies buy growth.
+
+Growth of SaaS-Natives looks impressive, but underlying metrics
+indicate that, in most cases, growth was bought, not earned.
+Cost may not be a reliable metric for valuing a company, but it is a powerful truth-teller. It reveals
+whether growth was achieved through acquisition or organic growth. If the only way to grow is to keep
+pouring more money into TOFU acquisition, growth is likely bought. During the Golden Era (2012–2021),
+buying growth was cheap. But as the market matured and more companies relied on it, the cost of
+growth increased while growth rates declined. Over time, and herein lies the problem, SaaS-Native
+companies became dependent on this approach, forgetting how to grow organically. This dependency
+is a form of operational debt.
+Winning by Design​
+
+Confidential​
+
+Page 4 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+According to BenchSights, in the past four years, average growth
+rates for public SaaS-Natives dropped from 36% to 15%, while the
+cost to acquire a dollar of growth rose from $1.24 to $2.01.
+
+Figure 2.1. Growth rates have been cut in half while the cost to acquire new revenue has soared by 60%.
+
+The GTM Efficiency Crisis
+GTM Efficiency measures how much you must spend on Marketing and Sales to generate each new
+dollar of recurring revenue. It answers a fundamental question: Are you earning growth through a
+repeatable system, or are you buying it at an unsustainable cost?
+For example, a GTM Efficiency of $4 means you’re spending $4 just to add $1 of net new ARR—a
+warning sign that your growth is being bought, not built. The lower your GTM Efficiency, the more
+efficient and scalable your growth; the higher it gets, the more fragile and risky your business is.
+
+If additional spending no longer delivers results;
+It is a clear sign that prior growth was bought, not earned.
+
+Winning by Design​
+
+Confidential​
+
+Page 5 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+Here’s how it works:
+●​ As a SaaS-Native company grows from $50M to $500M in ARR, its GTM Efficiency—the cost to
+acquire $1 of net new ARR—should improve from about $3 to $1.
+●​ For a mature SaaS-Native with over $100M in ARR, spending $1 to acquire $1 of new ARR–with
+no expansion, NRR = 100%–you must retain that customer for 5 years to break even.
+●​ If you spend $2 to acquire $1 of ARR, even with strong expansion (NRR ≥ 110%), it can take 7
+years before your acquisition cost drops to 20% of the total customer lifetime value.
+For SaaS-Native companies, these metrics are moving in the wrong direction, and the effects are
+compounding:
+●​ GTM Efficiency now routinely exceeds $2 for every $1 of net new ARR (see Figure 2.2).
+●​ Customer lifetimes are shrinking—now closer to 5 years, down from 7—and expected to fall
+further as rapid innovation (like AI) makes buyers more willing to switch when new capabilities
+outweigh switching costs.
+●​ Independent of this, NRR has fallen to around 105% from previous highs closer to 110%.
+As a result, even as SaaS-Natives increase their investment in growth, growth is stalling.
+
+Figure 2.2. Most public SaaS-Natives spend over $2 to acquire $1 of growth.
+
+Winning by Design​
+
+Confidential​
+
+Page 6 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+The Result: Growth is Stalling
+Across our client base, we observe the same trend: growth is stalling (see Figure 2.3). This is not due
+to market shocks, but rather because GTM teams are not adjusting and continue to replay the same,
+outdated playbook, unfamiliar with what else to do.
+
+SaaS-Native companies aren’t growing fast enough,
+and won’t, without a fundamentally new GTM approach.
+
+Figure 2.3. A real-life picture of ARR growth of a public SaaS-Native that shows how growth is stalling and
+deviates from its planned growth trajectory while continuing to replay the classic TOFU-centric GTM playbook.
+
+Wonder Why Your AI Doesn’t Deliver?
+SaaS-Native companies that use AI to execute an outdated playbook should not be
+surprised when they don’t see the growth results they hoped for. Simply swapping an
+outbound SDR for an AI-driven SDR, for example, may lower your costs, but if the core GTM
+approach is broken, AI will only help you fail faster in a more cost-efficient way. True
+transformation starts with rebuilding your processes, then letting AI accelerate what
+actually works.
+
+Winning by Design​
+
+Confidential​
+
+Page 7 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+SECTION III.
+
+The New GTM Approach in the Age of AI
+The stage is set for a new era of growth. For over a decade, the SaaS-Native playbook has defined how
+companies scale growth by leveraging online sales, specialized roles, and the use of lower-cost talent,
+a leap beyond the traditional field-sales model. But the tables have turned. Today, SaaS-Natives aren’t
+setting the pace; they’re being overtaken by AI-native companies built on a new architecture. These AI
+natives are rewriting the rules with compounding growth systems that operate in real-time and
+accelerate relentlessly. The old playbooks aren’t just outdated, they’re being left behind.
+
+This distinction isn’t about who is adopting more or even
+better AI applications; it’s about who has the right GTM
+infrastructure to let AI drive the business, end-to-end.
+The Right GTM Infrastructure
+Most SaaS-Native executives overlook a critical operational distinction: deploying AI as an application
+is fundamentally different from architecting it as an operating system. Today, most SaaS-Natives
+focus on AI for task automation to lower costs, replacing SDRs, automating onboarding, or reducing
+training expenses. These “AI features” may reduce spending, but they don’t transform how growth is
+achieved. Which, as we learned in section 2, is the real challenge.
+
+Figure 3.1. SaaS-Native companies bolt AI onto the application layer, resulting in isolated features and limited
+impact. In contrast, AI-Native companies embed AI across every layer, enabling closed feedback loops and
+real-time learning that compound value and accelerate growth.
+
+Winning by Design​
+
+Confidential​
+
+Page 8 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+AI-Native companies operate differently. They don’t just add AI on top of existing processes; they
+natively build it into the foundation, often integrating GTM and product, so that every user action,
+cohort, and feedback loop is captured in real-time. AI is not seen as a point solution, like email
+automation; it’s a utility embedded across the business, powering real-time insights and automating
+core GTM functions. With every customer, data point, and interaction, the AI-Native stack gets
+smarter and more efficient, compounding learning and value at every layer. Growth becomes
+exponential, not incremental. They’re not playing the SaaS-Native game with better tools; they’re
+creating a new game with a new ceiling for what’s possible.
+
+For SaaS-Natives, retrofitting their current GTM approach to
+an AI system will take 18+ months, during which AI-Natives
+will keep compounding their advantage.
+The question isn’t if this shift will happen, but when, and who will lead it. Only those who act now have
+a real chance to close the gap.
+
+A Model for AI-Native GTM: The Canva Advantage
+Rather than just adding AI tools for users, Canva weaves AI capabilities—like Magic Design,
+instant content generation, and design suggestions—directly into the product experience.
+As users interact, Canva’s systems learn from every design, search, and action, not only
+improving AI suggestions for each individual but also optimizing onboarding, upsell flows,
+and customer education across their entire user base in real time.
+AI drives product usage, expansion, and community engagement simultaneously,
+eliminating the need for manual sales handoffs or traditional enablement. It is a
+compounding, system-wide process of learning and growth.
+
+The Inevitable Result: The Chasm Widens
+The result is a widening chasm. AI-Natives don’t just grow cheaper, they grow fundamentally faster
+and more adaptively. Their operating model is engineered to scale, to compound, and to win in a world
+where speed, feedback, and automation drive advantage. SaaS-Natives, by contrast, risk getting
+outmaneuvered and left behind, no matter how much they optimize or cut costs in the old model.
+Winning by Design​
+
+Confidential​
+
+Page 9 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+The next era will not be decided by who executes yesterday’s playbook
+more efficiently, but by those who re-architect for a new one.
+SECTION IV.
+
+Anticipated Evolution of AI in GTM
+The foundation of every recurring revenue business is compounding growth, and that means building
+feedback loops into your operating model. Until now, those loops have mainly been driven by people.
+However, as business velocity increases, every interaction and data point must operate in real-time,
+continuously making the system smarter and more effective.
+●​ 1990: Perpetual software is sold entirely by human effort (experts).
+●​ 2010: SaaS is sold by humans (generalists) but increasingly supported by systems.
+●​ 2030: Outcomes are sold by systems, with exceptions managed by experts.
+
+In other words, growth beyond $50M in ARR will shift from manual
+effort and headcount expansion to being based on engineered
+systems. As Dave McJannet, CEO of HashiCorp, put it: “Over 50
+percent of company building is building the systems.”
+
+In the AI-Native world, market leaders will engineer growth directly into the product experience,
+reducing dependence on traditional sales teams and relying instead on self-serve onboarding and
+compounding feedback. The winners will invest now in AI-powered systems that compound, because
+these systems will reshape GTM and determine who wins three years from now. What follows is an
+anticipated timeline for how this transition will unfold.
+
+Winning by Design​
+
+Confidential​
+
+Page 10 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+Why The CEO Will Be The Decisive Factor
+Over the past decade, the SaaS CEO role has undergone constant evolution. In the early days,
+SaaS-Native CEOs were technologists—product and engineering founders like Marc Benioff
+(Salesforce), Peter Gassner (Veeva), and Eric Yuan (Zoom), who focused on building software and
+closing deals themselves. As SaaS gained traction, the CEO profile shifted to financiers. Leaders such
+as David Sacks (Zenefits), Aaron Levie (Box, post-IPO), and Tomas Gorny (Nextiva) became known for
+financial engineering, raising funds, and scaling growth at all costs.
+After the 2022 crash, the stabilizer emerged: operators like Todd McKinnon (Okta), Aneel Bhusri and
+Carl Eschenbach (Workday), and Bill McDermott (ServiceNow), whose focus turned to cost control,
+operational discipline, and steadying the business. Now, as the AI era takes hold, the winning CEO
+archetype is changing again. Today’s AI-Native leaders aren’t just coders or financiers—they’re
+architects. Melanie Perkins (Canva), Ali Ghodsi (Databricks), David Singleton (Anthropic), and Jensen
+Huang (NVIDIA) are designing compounding feedback-driven systems that embed AI at every layer and
+unify GTM teams, product, and operations.
+
+This AI era won’t be won by CEOs who raise money to hire people. It
+will be won by CEOs who lead their teams to architect a GTM system,
+powered by AI, that accelerates growth in ways people never could.
+
+Figure 3.2. CEO archetypes evolve with market shifts. Now, in the AI era, leadership success hinges on the ability
+to architect system-driven GTM strategies and unify the organization around them.
+
+Winning by Design​
+
+Confidential​
+
+Page 11 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+How AI Will Reshape GTM, and Who Wins
+Every transformation unfolds in phases, and the shift to AI in business is no exception. Initially, AI
+assists your team, which raises the question among board members whether new hires are needed.
+Next, AI will identify which roles can be replaced based on the productivity of reps, and board
+members will want to know “what does the AI tell us?”. In the final phase, AI proactively identifies
+where optimization or replacement of human tasks by an agent is required. Board members will want
+a readout if the organization is structured to maximize growth potential. In every phase, the
+conversation in the boardroom shifts, from curiosity to concern to existential questions about how and
+who drives growth. Now, let’s look at these phases over time.
+
+2025–2026 CURIOSITY: THE AI REVEAL
+The first wave of AI assistants enters the GTM stack, automating routine tasks like lead scoring,
+pipeline management, and outbound emails. While these tools help lower costs, SaaS-Native
+companies quickly discover that deploying AI on top of the existing playbook does not deliver the
+desired growth. Why? Because customers get an experience that feels generic and disconnected, AI is
+executing a broken process at a higher speed.
+Meanwhile, AI-Native companies integrate AI agents across the entire customer journey, marketing,
+sales, onboarding, expansion, and retention. Every user interaction becomes a data point for real-time
+optimization, rapidly improving conversion rates and identifying new ideal customer profiles (ICPs).
+Incumbents begin to feel pressure, not because of lower prices, but because AI-Native rivals deliver a
+better, more personalized buyer experience and can act on opportunities in hours, not weeks.
+Boardroom Meeting 6 Months from Now
+The energy in the room is palpable. Growth is stalling even though the company has “AI everywhere.”
+The board’s questions cut deeper:
+●​ “If we’re spending more on AI and still falling behind, what’s fundamentally broken?”
+●​ “Are we just automating old processes? Is our architecture even capable of AI?”
+●​ “What are you doing to avoid buying growth at a premium while AI-Native competitors accelerate
+growth at fractions of our cost?”
+Operators scramble to explain pilots, integrations, and “copilots,” but the board makes it clear: “We
+need a credible plan for system-wide reinvention, not just efficiency.” The final question lingers: “Are
+we already too late, or is there still time to rebuild?”
+
+Winning by Design​
+
+Confidential​
+
+Page 12 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+2026–2027 CONCERN: THE GAP OPENS
+AI agents advance from assistants to operators, running campaigns, qualifying leads, and
+autonomously closing simple deals. Human reps shift to orchestrating strategy and managing AI
+teams. Product, marketing, and sales data are unified in real time, enabling AI to surface expansion
+opportunities, predict churn, and customize playbooks.
+The speed advantage compounds, GTM cycles collapse from quarters to weeks, and feedback loops
+accelerate product and GTM innovation. SaaS-Natives relying on brute-force, people-heavy playbooks
+see growth stall, acquisition costs climb, and their best talent leave for AI-Native challengers.
+
+Boardroom Meeting 18 Months from Now
+The mood is sobering. Quarterly results show market share losses and rising churn. The board’s tone
+shifts from strategic concern to existential alarm:
+●​ “Our top reps and engineers are being poached by AI-Native companies.”
+●​ “AI-Native competitors are doubling ARR while we struggle to hold the line. Why are we not learning
+and adapting at their speed?”
+●​ “We are retrofitting a new engine into an old car while others are building jets.”
+●​ “Leadership is unable to architect the transformation; we need new DNA at the top.”
+Pressure mounts: “The window is closing; if we can’t demonstrate a fundamentally new operating
+model, it means we’re on a path to irrelevance.”
+
+2027–2028 EXISTENTIAL: THE GREAT RESET
+AI-Native companies achieve systemic GTM: AI autonomously finds, qualifies, nurtures, closes, and
+expands accounts at scale and with minimal human oversight. Winners let AI define and run the
+system, while humans focus on supervision, ethics, and creative breakthroughs. Market laggards who
+fail to rebuild from the ground up struggle for relevance.
+The fastest adopters pull away, capturing market share, talent, and investment. Traditional
+SaaS-Natives become acquisition targets or are forced to radically pivot as new AI-Native giants set
+industry benchmarks and buyer expectations. In this new world, GTM belongs to those who let AI drive
+and reimagine how value is created, delivered, and scaled.
+
+Winning by Design​
+
+Confidential​
+
+Page 13 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+Boardroom Meeting 30 Months from Now
+This time, the board meeting opens with a dashboard of metrics generated by the board’s own AI. There’s no
+room for narrative spin; the AI lays out the hard truth:
+●​ “Probability of GTM catch-up: <5%.”
+●​ Abandon transformation. Pursue restructuring.”
+The board is no longer asking management what to do, its AI tools are suggesting, with algorithmic realism
+options that no executive dared to put on the table. Models, not instinct, dictate the future.
+●​ “Consider breaking up the company and spinning off high-performing assets.”
+●​ “Execute a full reboot: replace legacy GTM and product with greenfield AI infrastructure, accept 24
+months of zero growth for long-term viability.”
+You are no longer debating how to play the new game. You’re deciding whether to play at all.
+
+Conclusion
+The age of AI-Native companies is here, and with it, a new kind of growth machine that simply cannot
+be matched by traditional playbooks. Every month of inaction gives AI-Native competitors another
+turn of the compounding flywheel. Falling behind is not a linear risk; catching up becomes
+exponentially harder. Waiting for the market to “settle” or the hype to pass is no longer a safe strategy;
+it is an active decision to fall behind.
+
+In the AI era, the greatest risk isn’t acting too soon;
+It’s acting too late.
+
+Given the immense financial stakes, the tech industry’s record of rapid reinvention, and the board’s
+reliance on growth, the question isn’t “if” this shift will happen, but “when.” Many will assume there’s
+time, but the reality is that compounding effects accelerate faster than anyone expects. What we call
+a three-year transformation is far more likely to become a two-year revolution than a four-year
+evolution. Leadership teams that re-architect for AI-driven growth are far more likely to win the race
+and will set a pace that makes catching up virtually impossible.
+
+Winning by Design​
+
+Confidential​
+
+Page 14 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+CEO Call to Action
+In this new era, your job as CEO is to provoke your team to think in systems and to architect for
+compounding, AI-driven growth.
+Here’s how to start:
+●​ Educate your team: Align everyone on your AI strategy—make AI literacy and systems thinking
+a boardroom and executive priority.
+●​ Diagnose your situation: Assess the current state of your GTM, identify the gaps, and define a
+concrete AI-GTM systems plan.
+●​ Build it together: Lead your team to embed these changes phase by phase, learning and
+adapting as you go. Integrate AI and systems thinking into every GTM motion, with each
+function owning a part of the transformation.
+
+First, you had to grow—fast. Then you had to cut costs—immediately.
+Now, you have to innovate—urgently. SaaS-Natives who operate with
+AI-native capabilities before anyone else will be unbeatable in the
+decade ahead.
+
+Winning by Design​
+
+Confidential​
+
+Page 15 of 16
+
+Exclusively for ScaleUp CEOs ​
+
+Growth is Back. Can You Keep Up?
+
+How Winning by Design Can Help
+If you’re ready to act, Winning by Design can help you move from awareness to execution, starting
+now. We partner with leadership teams at some of the world’s fastest-growing and most innovative
+companies. If you’re ready to move beyond incremental change and re-architect for the new era of
+AI-driven growth, here are three actions we can help you with right now:
+1.​ Train Your Team: Equip your leaders and GTM teams with AI literacy and proven frameworks
+for high-velocity, compounding growth. Our training programs build a common language and
+empower every level of your organization.
+2.​ Diagnose Your GTM: Get a scientific, data-driven diagnosis of your current GTM model. We’ll
+help you pinpoint where value is leaking, where operational debt is holding you back, and
+where the greatest opportunities lie for AI-Native transformation.
+3.​ Build an AI-Ready GTM: Don’t settle for bolt-on AI features. Work with us to design and build a
+true AI-Native GTM system—feedback-driven, automated, and built to scale for the next
+decade of growth.
+Let’s make sure you’re not just adapting to the future—you’re defining it for your industry.
+
+References
+●​ 2022: Sweet Spot in the Eye of the Storm → SaaS Crash Analyzed.
+●​ 2023: Has SaaS lost its GTM Fit → Why Sustainable Growth Matters.
+●​ 2024: How GTM Efficiency Impacts IPO Readiness → Fundamentals of GTM Efficiency.
+●​ 2024: AI Won’t Just Assist People - It Will Replace Them → Fundamentals of GTM-AI.
+To learn more, go to www.winningbydesign.com/ai.
+
+Winning by Design​
+
+Confidential​
+
+Page 16 of 16
+
+
