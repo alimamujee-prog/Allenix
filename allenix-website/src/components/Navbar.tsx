@@ -12,6 +12,8 @@ const NAV_LINKS = [
   { href: '/contact', label: 'Contact' },
 ]
 
+const CTA_HREF = 'https://calendly.com/d/cx2q-z3v-zxv/meet-allenix'
+
 type CursorPos = { left: number; width: number; opacity: number }
 
 function SlidingNav({ pathname }: { pathname: string }) {
@@ -27,6 +29,8 @@ function SlidingNav({ pathname }: { pathname: string }) {
         margin: 0,
         padding: '4px',
         gap: 0,
+        border: '1px solid var(--col-border)',
+        background: 'rgba(13,17,23,0.6)',
       }}
       onMouseLeave={() => setCursor(p => ({ ...p, opacity: 0 }))}
     >
@@ -41,6 +45,12 @@ function SlidingNav({ pathname }: { pathname: string }) {
         </NavTab>
       ))}
 
+      {/* Divider before CTA */}
+      <li aria-hidden style={{ width: '1px', height: '16px', background: 'var(--col-border)', margin: '0 4px', flexShrink: 0 }} />
+
+      {/* CTA as final pill item */}
+      <CtaTab setPosition={setCursor} />
+
       {/* Sliding teal pill */}
       <motion.li
         aria-hidden
@@ -50,8 +60,8 @@ function SlidingNav({ pathname }: { pathname: string }) {
           position: 'absolute',
           top: '4px',
           bottom: '4px',
-          background: 'rgba(0,200,180,0.08)',
-          border: '1px solid rgba(0,200,180,0.18)',
+          background: 'rgba(0,200,180,0.09)',
+          border: '1px solid rgba(0,200,180,0.2)',
           zIndex: 0,
           listStyle: 'none',
           pointerEvents: 'none',
@@ -112,6 +122,45 @@ function NavTab({
   )
 }
 
+function CtaTab({ setPosition }: { setPosition: React.Dispatch<React.SetStateAction<CursorPos>> }) {
+  const ref = useRef<HTMLLIElement>(null)
+
+  return (
+    <li
+      ref={ref}
+      onMouseEnter={() => {
+        if (!ref.current) return
+        const { width } = ref.current.getBoundingClientRect()
+        setPosition({ width, opacity: 1, left: ref.current.offsetLeft })
+      }}
+      style={{ position: 'relative', zIndex: 1, listStyle: 'none' }}
+    >
+      <a
+        href={CTA_HREF}
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{
+          display: 'block',
+          fontFamily: 'var(--font-mono)',
+          fontSize: '13px',
+          fontWeight: 500,
+          letterSpacing: '2px',
+          textTransform: 'uppercase',
+          textDecoration: 'none',
+          padding: '10px 20px',
+          color: 'var(--col-accent)',
+          transition: 'color 150ms ease-out',
+          whiteSpace: 'nowrap',
+        }}
+        onMouseEnter={e => { e.currentTarget.style.color = 'var(--col-text-1)' }}
+        onMouseLeave={e => { e.currentTarget.style.color = 'var(--col-accent)' }}
+      >
+        Book a Strategy Call
+      </a>
+    </li>
+  )
+}
+
 export default function Navbar() {
   const pathname = usePathname()
   const [scrolled, setScrolled] = useState(false)
@@ -157,21 +206,10 @@ export default function Navbar() {
           />
         </Link>
 
-        {/* Desktop sliding nav — hidden on mobile */}
+        {/* Desktop sliding nav (includes CTA) — hidden on mobile */}
         <nav className="mob-hide">
           <SlidingNav pathname={pathname} />
         </nav>
-
-        {/* Desktop CTA — hidden on mobile */}
-        <a
-          href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="btn-primary mob-hide"
-          style={{ padding: '13px 28px', fontSize: '13px', display: 'inline-block' }}
-        >
-          Book a Strategy Call
-        </a>
 
         {/* Hamburger — mobile only */}
         <button
