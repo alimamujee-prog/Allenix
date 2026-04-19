@@ -39,7 +39,7 @@ export default function Hero() {
           fontWeight: 900,
           fontSize: 'clamp(41px, 6.4vw, 82px)',
           lineHeight: 1.04,
-          letterSpacing: '-2.5px',
+          letterSpacing: '-0.5px',
           color: 'var(--col-text-1)',
           maxWidth: '960px',
           marginBottom: '32px',
