@@ -51,7 +51,7 @@ export default function Hero() {
         <h1 style={{
           fontFamily: 'var(--font-display)',
           fontWeight: 900,
-          fontSize: 'clamp(36px, 6.2vw, 76px)',
+          fontSize: 'clamp(28px, 6.2vw, 76px)',
           lineHeight: 1.08,
           letterSpacing: '-0.5px',
           color: 'var(--col-text-1)',
@@ -79,7 +79,7 @@ export default function Hero() {
           textShadow: '0 2px 16px rgba(6,8,10,0.9)',
           animation: ANIM('0.28s'),
         }}>
-          Allenix maps your workflows, builds your agents, trains your team, and runs the system until it works.
+          Allenix maps your business, builds your agents, trains your team, and runs the system until it works.
         </p>
 
         {/* CTAs */}
