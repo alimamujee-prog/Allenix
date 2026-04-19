@@ -68,7 +68,6 @@ export default function CTASection() {
 
         <div style={{ display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
           <a href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer" className="btn-primary">Book a Strategy Call</a>
-          <a href="mailto:hello@allenix.com" className="btn-ghost">hello@allenix.com</a>
         </div>
       </div>
     </section>

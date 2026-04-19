@@ -68,7 +68,7 @@ export default function Hero() {
       {/* CTAs */}
       <div style={{ display: 'flex', gap: '16px', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'center' }}>
         <a href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer" className="btn-primary">
-          Free Strategy Call
+          Book a Strategy Call
         </a>
         <a href="#how-it-works" className="btn-ghost">
           See How It Works
