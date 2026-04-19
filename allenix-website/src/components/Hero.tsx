@@ -1,5 +1,7 @@
 'use client'
 
+import HeroWave from '@/components/ui/HeroWave'
+
 export default function Hero() {
 
   return (
@@ -14,17 +16,8 @@ export default function Hero() {
       position: 'relative',
       overflow: 'hidden',
     }}>
-      {/* Radial glow */}
-      <div style={{
-        position: 'absolute',
-        top: '45%',
-        left: '50%',
-        transform: 'translate(-50%, -50%)',
-        width: '800px',
-        height: '560px',
-        background: 'radial-gradient(ellipse, rgba(0,200,180,0.11) 0%, transparent 68%)',
-        pointerEvents: 'none',
-      }} />
+      {/* Animated teal wave canvas — behind everything */}
+      <HeroWave />
 
       {/* Grid overlay */}
       <div style={{
