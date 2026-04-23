@@ -140,3 +140,53 @@ Based on the screenshots provided, here is the extracted information structured 
 
 #### **Experiments**
 *   **Experiment history:** [Empty]
+
+
+# ACQ ADVISORY BOARD BUSINESS DIAGNOSTIC
+========================================
+
+First Name*
+Last Name*
+Email*
+VAM Event Date*
+MM - DD - YYYY
+Do you or your guest have any dietary restrictions?*
+What is your Business' name?*
+Industry*
+Ownership Stake*
+
+I am the sole owner
+
+I have business partners but own 50% +
+
+I am an equal partner
+
+I am an employee
+
+I am a minority partner, less than 50% owner
+Who you serve:*
+Help do what?*
+Core Offer:*
+Upsells:*
+Country*
+Years in Business:*
+Number of Employees*
+Worst Employee*
+Best Employee*
+
+Trailing 12 Month Revenue*
+Trailing 12 Month Net Profit*
+Current Revenue Run Rate*
+Current Net Profit Run Rate*
+CAC*
+LTGP*
+LTGP:CAC Ratio*
+30 Day GP:CAC Ratio*
+Number of Units Sold per Month:*
+Show Rate (if applicable)*
+Close Rate (if applicable)*
+Churn*
+Primary Acquisition Channel*
+Secondary Acquisition Channel*
+One biggest thing you want to take away/answered:*
+Biggest constraint to scaling:*

@@ -189,9 +189,9 @@ A 42-year-old nurse practitioner or physician who owns a medical spa doing $2M-$
 
 ## The Job She's Hiring Allenix To Do
 
-**Primary job**: "Stop the bleeding. Find the money I'm losing to no-shows, missed follow-ups, and poor patient communication, and fix it fast."
+**Primary job**: "My patients spend money once and disappear. I know each one should be worth 5-10x what they're currently spending, but I have no system to make that happen. Fix the money I'm leaving on the table."
 
-**Secondary job**: "Fill my schedule consistently so I'm not stressed about revenue every month."
+**Secondary job**: "Stop the bleeding — the no-shows, the unanswered calls, the follow-ups that never happen. Plug the holes."
 
 **Latent job**: "Make my practice run without me being involved in every decision, so I can either grow or get my life back."
 
@@ -213,27 +213,29 @@ She does say:
 - "I'm doing everything myself"
 - "I can't see what's going on in my own business"
 - "We're busy but my bank account doesn't show it"
+- "I know these patients should be coming back for more treatments, but they just... don't"
 
 ---
 
 ## Key Pain Points (Ranked by Effort to Solve vs Impact)
 
 ### Tier 1: Quick Wins (Low Effort, High Impact)
-1. **No-shows and cancellations** - 15-25% no-show rate, $200-$1,000+ per missed slot
-2. **Unanswered calls and slow lead response** - 30% of calls go unanswered, inquiries go cold in 10 minutes
-3. **Poor patient follow-up and rebooking** - patients treated once and never re-engaged
-4. **Manual reminders and confirmations** - front desk spending hours on phone calls
+1. **Patient retention and lifetime value** — patients treated once and never re-engaged. No system for rebooking, lifecycle communication, or treatment adherence. She's probably losing more revenue here than anywhere else.
+2. **No-shows and cancellations** — significant revenue lost per missed slot, no automated prevention
+3. **Unanswered calls and slow lead response** — calls go unanswered, inquiries go cold fast
+4. **Poor post-treatment follow-up** — no automated check-ins, review requests, or rebooking prompts
 
 ### Tier 2: Medium Effort, High Impact
-5. **Inconsistent marketing and content** - social media is an afterthought, no email nurture
-6. **No review generation system** - leaving reputation to chance
-7. **Inventory waste and stockouts** - expired products, missed treatments
-8. **Staff onboarding is a burden** - owner trains every new hire personally
+5. **No review generation system** — leaving reputation to chance
+6. **Inconsistent marketing and content** — social media is an afterthought, no email nurture
+7. **Manual reminders and confirmations** — front desk spending hours on phone calls
+8. **Staff onboarding is a burden** — owner trains every new hire personally
 
 ### Tier 3: Higher Effort, Significant Impact
-9. **No real-time visibility into practice performance** - reports are weekly at best
-10. **Payment collection and plan management** - chasing outstanding balances
-11. **Referral program doesn't exist or is manual** - leaving the highest-quality lead source untapped
+9. **No real-time visibility into practice performance** — reports are weekly at best
+10. **Payment collection and plan management** — chasing outstanding balances
+11. **Inventory waste and stockouts** — expired products, missed treatments
+12. **Referral program doesn't exist or is manual** — leaving the highest-quality lead source untapped
 
 ---
 
