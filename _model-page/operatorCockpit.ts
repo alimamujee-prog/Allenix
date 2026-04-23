@@ -1,0 +1,177 @@
+import type {
+  DashboardSeedSnapshot,
+  GoalConfig,
+  MonthlyActual,
+  ProjectionInputs,
+  ScenarioKey,
+  WeeklyActual,
+} from '../lib/operator-cockpit'
+
+const goal: GoalConfig = {
+  targetArr: 250000000,
+  targetEbitdaMargin: 35,
+  arrCheckpoints: [
+    { month: 0, value: 0 },
+    { month: 24, value: 9600000 },
+    { month: 60, value: 78000000 },
+    { month: 96, value: 168000000 },
+    { month: 120, value: 250000000 },
+  ],
+  marginCheckpoints: [
+    { month: 0, value: 0 },
+    { month: 12, value: 8 },
+    { month: 24, value: 12 },
+    { month: 60, value: 22 },
+    { month: 96, value: 30 },
+    { month: 120, value: 35 },
+  ],
+}
+
+const weekly: WeeklyActual[] = [
+  {
+    weekEnding: '2026-05-10',
+    pipeline: 220000,
+    qualifiedPipeline: 85000,
+    newOpportunities: 3,
+    winRatePct: 0,
+    newClients: 0,
+    churnedClients: 0,
+    activeClients: 0,
+    deliveryHealthPct: 88,
+    note: 'Pre-launch. Founder-led pipeline building has started, but there are no live clients yet.',
+  },
+  {
+    weekEnding: '2026-05-17',
+    pipeline: 260000,
+    qualifiedPipeline: 104000,
+    newOpportunities: 4,
+    winRatePct: 0,
+    newClients: 0,
+    churnedClients: 0,
+    activeClients: 0,
+    deliveryHealthPct: 88,
+    note: 'Qualified pipeline is forming before launch. The immediate question is whether enough meetings are turning into real opportunities.',
+  },
+  {
+    weekEnding: '2026-05-24',
+    pipeline: 300000,
+    qualifiedPipeline: 122000,
+    newOpportunities: 4,
+    winRatePct: 0,
+    newClients: 0,
+    churnedClients: 0,
+    activeClients: 0,
+    deliveryHealthPct: 87,
+    note: 'Still pre-launch. Pipeline is moving, but there is not enough evidence yet that demand quality is strong enough.',
+  },
+  {
+    weekEnding: '2026-05-31',
+    pipeline: 355000,
+    qualifiedPipeline: 150000,
+    newOpportunities: 5,
+    winRatePct: 0,
+    newClients: 0,
+    churnedClients: 0,
+    activeClients: 0,
+    deliveryHealthPct: 87,
+    note: 'The top of funnel is improving. Launch readiness now matters more than delivery load.',
+  },
+  {
+    weekEnding: '2026-06-07',
+    pipeline: 410000,
+    qualifiedPipeline: 185000,
+    newOpportunities: 6,
+    winRatePct: 10,
+    newClients: 0,
+    churnedClients: 0,
+    activeClients: 0,
+    deliveryHealthPct: 86,
+    note: 'First conversion signals are starting to appear, but the business is still effectively pre-revenue.',
+  },
+  {
+    weekEnding: '2026-06-14',
+    pipeline: 455000,
+    qualifiedPipeline: 210000,
+    newOpportunities: 6,
+    winRatePct: 12,
+    newClients: 0,
+    churnedClients: 0,
+    activeClients: 0,
+    deliveryHealthPct: 86,
+    note: 'Pre-launch reality is simple: pipeline is growing, revenue is still zero, and the projection is what matters most.',
+  },
+]
+
+const monthly: MonthlyActual[] = [
+  {
+    month: '2026-05-01',
+    planMonth: 0,
+    revenue: 0,
+    grossProfit: 0,
+    ebitda: 0,
+    cashBalance: 0,
+    activeClients: 0,
+  },
+]
+
+const baseInputs: ProjectionInputs = {
+  startingMRR: 0,
+  averageAnnualContractValue: 120000,
+  newClientsPerMonth: 0,
+  targetNewClientsPerMonth: 2,
+  monthsToReachTargetNewClients: 6,
+  annualChurnPct: 10,
+  studiosAttachRatePct: 10,
+  grossMarginPct: 45,
+  targetGrossMarginPct: 52,
+  monthlyFixedOpEx: 5000,
+  cashOnHand: 0,
+  cacPerNewClient: 4500,
+  monthlyServicingCostPerClient: 700,
+  acquisition: {
+    enabled: false,
+    dealsPerYear: 1,
+    averageTargetARR: 1800000,
+    purchaseMultiple: 3,
+    integrationDragPct: 25,
+    integrationMonths: 6,
+    capitalAvailableForDeals: 8000000,
+  },
+}
+
+const projectionDefaults: Record<ScenarioKey, ProjectionInputs> = {
+  base: baseInputs,
+  upside: {
+    ...baseInputs,
+    newClientsPerMonth: 0.25,
+    targetNewClientsPerMonth: 2.75,
+    annualChurnPct: 8,
+    studiosAttachRatePct: 12,
+    targetGrossMarginPct: 56,
+    cacPerNewClient: 4000,
+  },
+  downside: {
+    ...baseInputs,
+    newClientsPerMonth: 0,
+    targetNewClientsPerMonth: 1.35,
+    monthsToReachTargetNewClients: 9,
+    annualChurnPct: 14,
+    studiosAttachRatePct: 8,
+    grossMarginPct: 43,
+    targetGrossMarginPct: 47,
+    monthlyFixedOpEx: 45000,
+    cacPerNewClient: 5200,
+    monthlyServicingCostPerClient: 820,
+  },
+}
+
+export function getOperatorCockpitSeed(): DashboardSeedSnapshot {
+  return {
+    goal,
+    actuals: { weekly, monthly },
+    projectionDefaults,
+    defaultScenario: 'base',
+    defaultHorizon: '12m',
+    generatedAt: new Date().toISOString(),
+  }
+}
