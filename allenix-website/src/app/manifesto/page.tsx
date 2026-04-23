@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import ShareButton from '@/components/ShareButton'
+import EmailShareButton from '@/components/EmailShareButton'
 
 export const metadata = {
   title: 'The Allenix Manifesto',
@@ -9,19 +10,31 @@ export const metadata = {
 
 export default function ManifestoPage() {
   return (
-    <div style={{ minHeight: '100vh', color: 'var(--col-text-2)', background: 'var(--col-bg)' }}>
+    <div className="manifesto-page" style={{ minHeight: '100vh', color: 'var(--col-text-2)', background: 'var(--col-bg)' }}>
 
       <a href="#manifesto-content" className="sr-only focus:not-sr-only">Skip to content</a>
 
       {/* ── Editorial column ── */}
-      <main id="manifesto-content" style={{ paddingTop: '110px', paddingBottom: '120px' }}>
-        <div style={{ maxWidth: '640px', margin: '0 auto', padding: '0 32px' }}>
+      <main id="manifesto-content" className="mob-pt-80" style={{ paddingTop: '120px', paddingBottom: '120px' }}>
+        <div className="manifesto-col-pad" style={{ maxWidth: '640px', margin: '0 auto', padding: '0 32px' }}>
 
           {/* ── Title block ── */}
-          <div style={{ marginBottom: '32px' }}>
+          <div style={{ marginBottom: '16px' }}>
+            <div style={{
+              fontFamily: 'var(--font-mono)',
+              fontSize: '11px',
+              fontWeight: 500,
+              letterSpacing: '3px',
+              textTransform: 'uppercase',
+              color: 'var(--col-accent)',
+              marginBottom: '20px',
+            }}>
+              A New Vision for Houston
+            </div>
+
             <h1 className="font-display" style={{
               fontWeight: 900,
-              fontSize: 'clamp(48px, 9vw, 88px)',
+              fontSize: 'clamp(32px, 5vw, 58px)',
               lineHeight: 1.02,
               letterSpacing: '-3px',
               color: 'var(--col-text-1)',
@@ -30,19 +43,15 @@ export default function ManifestoPage() {
               The Allenix Manifesto
             </h1>
 
-            <div className="font-display" style={{
-              fontWeight: 600, fontStyle: 'italic',
-              fontSize: '22px', color: 'var(--col-text-3)', letterSpacing: '-0.3px', marginBottom: '20px',
-            }}>
-              A manifesto for Houston
-            </div>
-
             {/* Byline + share button */}
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '16px', marginBottom: '28px' }}>
+            <div className="mob-byline-row" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '16px', marginBottom: '28px' }}>
               <div className="font-mono" style={{ fontSize: '12px', fontWeight: 700, letterSpacing: '2.5px', textTransform: 'uppercase', color: 'var(--col-text-3)' }}>
                 By Ali Mamujee
               </div>
-              <ShareButton ariaLabel="Copy link to the Allenix Manifesto" />
+              <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <EmailShareButton />
+                <ShareButton ariaLabel="Copy link to the Allenix Manifesto" />
+              </div>
             </div>
 
             {/* Reader summary */}
@@ -55,10 +64,7 @@ export default function ManifestoPage() {
               paddingTop: '20px',
               borderTop: '1px solid var(--col-border)',
             }}>
-              Allenix is a Houston-built firm installing agentic operating systems inside
-              $5M–$50M B2B businesses. This document explains why it was built
-              here, what we are building toward, and the ten-year bet behind it. Written for the
-              people who might want to build it with us.
+              Allenix is built by operators and AI practitioners who chose Houston over everywhere else. The mission is specific: install the AI operating layer inside the mid-market businesses that built this city, and prove that the next chapter of American growth gets built here. This document explains what we are building, why we are building it in Houston, and the ten-year bet behind it. Written for the people who want to build it with us.
             </p>
           </div>
 
@@ -95,19 +101,8 @@ export default function ManifestoPage() {
             </BodyP>
             <BodyP>
               They had a printing press, a piece of land everyone said was worthless,
-              and one sentence so audacious it became the founding line of an American city:
+              and the conviction to put it in print.
             </BodyP>
-
-            <blockquote className="font-display" style={{
-              borderTop: '2px solid var(--col-border)',
-              paddingTop: '24px',
-              margin: '32px 0',
-              fontStyle: 'italic', fontWeight: 600,
-              fontSize: '20px', lineHeight: 1.6, color: 'var(--col-text-1)', letterSpacing: '-0.2px',
-            }}>
-              &ldquo;Nature appears to have designated this place for the future seat
-              of Government.&rdquo;
-            </blockquote>
 
             <BodyP>
               Within 15 months, Houston was the capital of the Republic of Texas.
@@ -150,7 +145,7 @@ export default function ManifestoPage() {
               that is choosing to stay. Almost no one outside Houston has noticed.
             </BodyP>
             <BodyP>
-              I named this firm Allenix for both halves of the moment.{' '}
+              I named this firm Allenix (uh-LEN-ix) for both halves of the moment.{' '}
               <strong style={{ color: 'var(--col-text-1)' }}>Allen</strong> for the two brothers
               who bet on a swamp and built a city.{' '}
               <strong style={{ color: 'var(--col-text-1)' }}>Phoenix</strong> for what is rising
@@ -181,17 +176,18 @@ export default function ManifestoPage() {
             <BodyP>
               <strong style={{ color: 'var(--col-text-1)' }}>Allenix Labs</strong> is the engine.
               We go deep inside mid-market companies, identify the highest-ROI
-              opportunities, and deploy the tools, people, and platform that execute
-              alongside them. Consulting, training, delivery, and forward-deployed
-              teams. A mid-market CEO hires Labs because they want the AI-era growth
-              team they have been reading about, without having to build it themselves.
+              opportunities, and deploy the tools, people, and the platform at the
+              center of it all: Magnolia OS. Consulting, training, delivery, and
+              forward-deployed teams. A mid-market CEO hires Labs because they want
+              the AI-era growth team they have been reading about, without having to
+              build it themselves.
             </BodyP>
             <BodyP>
-              <strong style={{ color: 'var(--col-text-1)' }}>Allenix Studios</strong> is the
+              <strong style={{ color: 'var(--col-text-1)' }}>Allenix Media</strong> is the
               audience and the megaphone. Editorial, podcast, video, longform, and
               operator dinners that make Allenix the trade publication of the
               operator-led growth category, produced from Houston for the rest of the
-              country to read. Studios builds the brand that brings every client to the
+              country to read. Media builds the brand that brings every client to the
               door. It is how we make Houston louder to a country that has not been
               paying attention.
             </BodyP>
@@ -199,9 +195,23 @@ export default function ManifestoPage() {
               <strong style={{ color: 'var(--col-text-1)' }}>Allenix Capital</strong> is the
               compounding arm. We use cash flow and capital partners to acquire small
               operator services businesses, migrate them onto the Labs platform, plug
-              them into the Studios audience, and unlock two to three times the
+              them into the Media audience, and unlock two to three times the
               enterprise value the previous owners ever could. Capital is how we turn
               one good firm into a portfolio of compounding ones.
+            </BodyP>
+
+            <BodyP>
+              The platform that runs underneath all three is{' '}
+              <strong style={{ color: 'var(--col-text-1)' }}>Magnolia OS</strong>.
+              It is the agentic operating system Allenix deploys inside every company
+              we work with. We are building it now, in the field, with our earliest
+              clients. The operators who engage Labs first are the ones who help define
+              what Magnolia becomes. That is how the right system gets built: not in a
+              research lab, but inside real businesses with real revenue at stake. We
+              are assembling a world-class team around it. Every Labs engagement adds
+              to it. Every Capital acquisition inherits it on day one. Every piece of
+              Media content trains it. Magnolia is the circulatory system of Allenix:
+              the layer that makes three business units compound like one.
             </BodyP>
 
             {/* Three-unit card — inline styles to avoid broken Tailwind class names */}
@@ -219,7 +229,7 @@ export default function ManifestoPage() {
                 Three units. One brand. Built in Houston.
               </div>
 
-              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '1px', background: 'var(--col-border)', borderRadius: '3px', overflow: 'hidden' }}>
+              <div className="mob-grid-1-col" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '1px', background: 'var(--col-border)', borderRadius: '3px', overflow: 'hidden' }}>
                 {[
                   {
                     name: 'Labs',
@@ -227,7 +237,7 @@ export default function ManifestoPage() {
                     lines: ['Agentic growth OS', 'Consulting + training', 'Forward-deployed teams', '$180k avg. annual contract'],
                   },
                   {
-                    name: 'Studios',
+                    name: 'Media',
                     role: 'The audience',
                     lines: ['Editorial + podcast + video', 'Operator dinners', 'Houston to the country', 'The brand that sells Labs'],
                   },
@@ -266,10 +276,10 @@ export default function ManifestoPage() {
 
             <BodyP>
               The three units are not a holding company. They are a single machine with
-              three arms, and each arm makes the next one stronger. Studios builds the
+              three arms, and each arm makes the next one stronger. Media builds the
               audience. Labs sells into the audience and runs inside every client.
               Capital acquires the clients Labs has already validated. Labs deploys into
-              the acquired companies on day one of the deal. Studios turns every win into
+              the acquired companies on day one of the deal. Media turns every win into
               the next chapter of the audience. The brand at the center compounds every
               quarter, in a city that grows louder every time the wheel turns.
             </BodyP>
@@ -278,6 +288,29 @@ export default function ManifestoPage() {
               fund. It is all three, structured so that each one makes the next one
               inevitable. Built in Houston because Houston is where the next era will be
               most underestimated by everyone who does not live here.
+            </BodyP>
+          </SectionBlock>
+
+          {/* ════════════════════════════════════════
+              THE SEQUENCE
+          ════════════════════════════════════════ */}
+          <SectionBlock label="The Sequence" lead="Labs is the firm today.">
+            <BodyP>
+              The engagements are running. The platform is being built through every
+              client delivered. This website is Labs. It is the first arm, and it is
+              already operational.
+            </BodyP>
+            <BodyP>
+              Media is what comes next. The editorial engine, the podcast, the operator
+              dinners, the content that makes every Labs conversation easier and every
+              Capital acquisition possible. You build the audience before you need it,
+              or you do not have one when it matters.
+            </BodyP>
+            <BodyP>
+              Capital is the third act. It begins when Labs has built enough proof and
+              Media has built enough trust that acquiring validated operators is the
+              obvious next move. The sequence is not a hedge. It is how a firm compounds
+              without outside capital.
             </BodyP>
           </SectionBlock>
 
@@ -327,7 +360,7 @@ export default function ManifestoPage() {
 
             <div className="font-display" style={{
               fontWeight: 900,
-              fontSize: '44px', color: 'var(--col-text-1)',
+              fontSize: 'clamp(32px, 7vw, 44px)', color: 'var(--col-text-1)',
               letterSpacing: '-1px', marginTop: '48px', marginBottom: '64px',
             }}>
               Let&apos;s go.
@@ -362,7 +395,7 @@ function SectionBlock({
   children: React.ReactNode
 }) {
   return (
-    <div style={{ marginTop: '88px' }}>
+    <div style={{ marginTop: '48px' }}>
       {/* 40px teal accent divider — consistent with brand section-divider style */}
       <div style={{
         width: '40px',
@@ -373,7 +406,7 @@ function SectionBlock({
 
       <h2 className="font-display" style={{
         fontWeight: 900,
-        fontSize: '40px',
+        fontSize: 'clamp(28px, 6vw, 40px)',
         lineHeight: 1.05,
         letterSpacing: '-1px',
         color: 'var(--col-text-1)',

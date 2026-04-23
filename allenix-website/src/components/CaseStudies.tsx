@@ -67,7 +67,7 @@ export default function CaseStudies() {
         </div>
 
         {/* Cards */}
-        <div style={{
+        <div className="mob-grid-1-gap-border" style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(3, 1fr)',
           gap: '1px',
@@ -84,7 +84,7 @@ export default function CaseStudies() {
 
 function CaseCard({ company, industry, stats, quote }: typeof cases[0]) {
   return (
-    <div style={{
+    <div className="mob-pad-card" style={{
       background: 'var(--col-bg)',
       padding: '48px 40px',
       display: 'flex',

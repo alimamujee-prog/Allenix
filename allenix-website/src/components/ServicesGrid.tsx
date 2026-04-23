@@ -74,7 +74,7 @@ export default function ServicesGrid() {
         </div>
 
         {/* Grid */}
-        <div className="mob-grid-1" style={{
+        <div className="mob-grid-1-col" style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(2, 1fr)',
           borderTop: '1px solid var(--col-border)',

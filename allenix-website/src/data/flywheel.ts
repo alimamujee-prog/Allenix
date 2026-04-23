@@ -1,4 +1,4 @@
-export type FlywheelUnit = 'labs' | 'studios' | 'capital'
+export type FlywheelUnit = 'labs' | 'media' | 'capital'
 
 export interface ConceptItem {
   key: string
@@ -16,7 +16,7 @@ export interface UnitData {
   name: string
   forming: boolean
   desc: string
-  type: 'labs' | 'studios' | 'capital' | 'magnolia'
+  type: 'labs' | 'media' | 'capital' | 'magnolia'
   concepts?: ConceptItem[]
   items?: ConceptItem[]
   gtm?: TrackItem[]
@@ -56,11 +56,11 @@ export const flywheelData: Record<string, UnitData> = {
       { key: 'workflow-automation', name: 'Workflow Automation', desc: 'We identify the workflows eating the most time and build agents that handle them without a human in the loop.' },
     ],
   },
-  studios: {
-    name: 'Studios',
+  media: {
+    name: 'Media',
     forming: false,
-    type: 'studios',
-    desc: 'Studios does two things at once. It builds the Allenix brand, making us the publication of record for operator-led growth in America. And it is a profit-generating unit that deploys that same machine for our clients, across every marketing channel that matters. Every piece of content we produce makes the next client conversation easier. Studios is not overhead. It is a business.',
+    type: 'media',
+    desc: 'Media does two things at once. It builds the Allenix brand, making us the publication of record for operator-led growth in America. And it is a profit-generating unit that deploys that same machine for our clients, across every marketing channel that matters. Every piece of content we produce makes the next client conversation easier. Media is not overhead. It is a business.',
     items: [
       { key: 'editorial', name: 'Editorial', desc: 'The weekly Allenix newsletter and a quarterly print magazine highlighting American founder stories. The intellectual foundation that establishes what we believe and gives operators a reason to follow us before they are ready to buy.' },
       { key: 'podcast', name: 'Podcast', desc: 'Long-form conversations with American founder-CEOs. Our guest is our warm prospect. Nothing builds trust faster than a real conversation that does not feel like a sales call.' },
@@ -74,14 +74,14 @@ export const flywheelData: Record<string, UnitData> = {
     name: 'Capital',
     forming: true,
     type: 'capital',
-    desc: 'Labs validates companies. Capital acquires them. The same platform that made them more valuable runs inside from day one of the deal. We are not a private equity firm. We are the operator buyer that understands the American mid-market better than anyone. We built it. Allenix Capital turns one great firm into a portfolio of compounding ones, each running on Magnolia, each amplified by Studios. The third act of the machine.',
+    desc: 'Labs validates companies. Capital acquires them. The same platform that made them more valuable runs inside from day one of the deal. We are not a private equity firm. We are the operator buyer that understands the American mid-market better than anyone. We built it. Allenix Capital turns one great firm into a portfolio of compounding ones, each running on Magnolia, each amplified by Media. The third act of the machine.',
     items: [],
   },
   magnolia: {
     name: 'Magnolia',
     forming: false,
     type: 'magnolia',
-    desc: 'The agentic operating system that runs underneath Labs, Studios, and Capital. Magnolia is what turns a services firm into a platform company. Every Labs engagement adds to it. Every acquisition runs on it. Every piece of Studios content trains it. It is the nervous system of Allenix: the connective tissue that makes all three units stronger together than apart.',
+    desc: 'The agentic operating system that runs underneath Labs, Media, and Capital. Magnolia is what turns a services firm into a platform company. Every Labs engagement adds to it. Every acquisition runs on it. Every piece of Media content trains it. It is the nervous system of Allenix: the connective tissue that makes all three units stronger together than apart.',
     items: [],
   },
 }

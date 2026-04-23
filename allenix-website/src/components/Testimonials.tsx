@@ -14,7 +14,7 @@ const testimonials = [
   {
     quote: "Ali's team didn't just build tools. They rebuilt how we think about growth.",
     name: 'Founder',
-    company: 'Professional Services Firm',
+    company: 'B2B Services Firm',
     context: '$9M revenue · Southeast',
   },
 ]
@@ -55,7 +55,7 @@ export default function Testimonials() {
         </div>
 
         {/* Cards */}
-        <div style={{
+        <div className="mob-grid-1" style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(3, 1fr)',
           gap: '24px',
@@ -71,7 +71,7 @@ export default function Testimonials() {
 
 function TestimonialCard({ quote, name, company, context }: typeof testimonials[0]) {
   return (
-    <div style={{
+    <div className="mob-pad-card" style={{
       background: 'var(--col-bg)',
       border: '1px solid var(--col-border)',
       padding: '40px 36px',

@@ -1,5 +1,5 @@
 const isYou = [
-  'You run a professional services firm between $5M and $50M in revenue',
+  'You run a B2B firm between $5M and $50M in revenue',
   'You built it yourself and are still the person clients trust most',
   'You have tried AI tools and seen nothing move in the business',
   'You have hired consultants who gave you a deck and disappeared',
@@ -17,7 +17,7 @@ export default function WhoItsFor() {
   return (
     <section className="section-pad" style={{ padding: '120px 5%', background: 'var(--col-bg)' }}>
       <div style={{ maxWidth: '1100px', margin: '0 auto' }}>
-        <div className="mob-grid-1" style={{
+        <div className="mob-grid-1-gap-border" style={{
           display: 'grid',
           gridTemplateColumns: '1fr 1fr',
           gap: '1px',

@@ -35,7 +35,9 @@ export default function Footer() {
         {/* Nav */}
         <nav className="mob-flex-col mob-gap-24" style={{ display: 'flex', gap: '40px', alignItems: 'flex-start' }}>
           <Link href="/" className="nav-link">Home</Link>
+          <Link href="/magnolia-os" className="nav-link">Magnolia OS</Link>
           <Link href="/manifesto" className="nav-link">Manifesto</Link>
+          <Link href="/about" className="nav-link">About</Link>
           <Link href="/contact" className="nav-link">Contact</Link>
         </nav>
 
@@ -61,15 +63,6 @@ export default function Footer() {
           color: 'var(--col-text-3)',
         }}>
           © {new Date().getFullYear()} Allenix. Houston, TX.
-        </div>
-        <div style={{
-          fontFamily: 'var(--font-mono)',
-          fontSize: '12px',
-          letterSpacing: '1.5px',
-          textTransform: 'uppercase',
-          color: 'var(--col-text-3)',
-        }}>
-          Built in the Ion District.
         </div>
       </div>
     </footer>

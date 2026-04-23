@@ -61,6 +61,17 @@ a:focus-visible {
 .nav-link:hover,
 .nav-link.active { color: var(--col-accent); }
 
+.about-secondary-link {
+  font-family: var(--font-mono), monospace;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--col-text-3);
+  text-decoration: none;
+  transition: color 150ms ease-out;
+}
+.about-secondary-link:hover { color: var(--col-accent); }
+
 /* ─── Buttons ────────────────────────────────────────────────────────────── */
 .btn-primary {
   font-family: var(--font-mono), monospace;
@@ -69,18 +80,19 @@ a:focus-visible {
   letter-spacing: 2px;
   text-transform: uppercase;
   text-decoration: none;
-  color: var(--col-bg);
-  background: var(--col-accent);
-  border: 1px solid var(--col-accent);
+  color: #06080a;
+  background: #ffffff;
+  border: 1px solid #ffffff;
   padding: 14px 32px;
   display: inline-block;
-  transition: background 150ms ease-out, border-color 150ms ease-out;
+  transition: background 150ms ease-out, border-color 150ms ease-out, box-shadow 150ms ease-out;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.35), 0 1px 4px rgba(0,0,0,0.2);
   white-space: nowrap;
   cursor: pointer;
 }
 .btn-primary:hover {
-  background: var(--col-accent-dim);
-  border-color: var(--col-accent-dim);
+  background: #e0faf7;
+  border-color: #e0faf7;
 }
 
 .btn-ghost {
@@ -95,13 +107,43 @@ a:focus-visible {
   border: 1px solid var(--col-border-2);
   padding: 14px 32px;
   display: inline-block;
-  transition: color 150ms ease-out, border-color 150ms ease-out;
+  transition: color 150ms ease-out, border-color 150ms ease-out, box-shadow 150ms ease-out;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.35), 0 1px 4px rgba(0,0,0,0.2);
   white-space: nowrap;
   cursor: pointer;
 }
 .btn-ghost:hover {
   color: var(--col-accent);
   border-color: var(--col-accent-dim);
+}
+
+/* ─── Manifesto — brighter text for readability ─────────────────────────── */
+.manifesto-page {
+  --col-text-2: #dce6f0;
+  --col-text-3: #a8bccf;
+}
+
+/* ─── Manifesto email share button ──────────────────────────────────────── */
+.email-share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--col-text-3);
+  border: 1px solid var(--col-border);
+  border-radius: 3px;
+  background: transparent;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color 150ms ease-out, border-color 150ms ease-out;
+}
+.email-share-btn:hover {
+  color: var(--col-accent);
+  border-color: var(--col-accent);
 }
 
 /* ─── Manifesto nav links ────────────────────────────────────────────────── */
@@ -245,9 +287,9 @@ a:focus-visible {
 }
 
 .shiny-cta {
-  --shiny-cta-bg:               #06080a;
-  --shiny-cta-bg-subtle:        #0d1117;
-  --shiny-cta-fg:               #f0f2f4;
+  --shiny-cta-bg:               #ffffff;
+  --shiny-cta-bg-subtle:        #e8f8f6;
+  --shiny-cta-fg:               #06080a;
   --shiny-cta-highlight:        #00c8b4;
   --shiny-cta-highlight-subtle: #007d74;
   --animation:    gradient-angle linear infinite;
@@ -261,6 +303,7 @@ a:focus-visible {
   cursor: pointer;
   outline-offset: 4px;
   padding: 14px 32px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4), 0 1px 6px rgba(0,200,180,0.15);
   font-family: var(--font-mono), monospace;
   font-size: 13px;
   line-height: 1.2;
@@ -384,4 +427,83 @@ a:focus-visible {
 @media (max-width: 768px) {
   .section-pad { padding-top: 72px !important; padding-bottom: 72px !important; }
   .section-pad-hero { padding-top: 100px !important; padding-bottom: 72px !important; }
+
+  /* Contact page — grid stacking */
+  .mob-grid-1 { grid-template-columns: 1fr !important; gap: 16px !important; }
+
+  /* Contact page — reduce top padding on main */
+  .mob-pt-80 { padding-top: 80px !important; }
+  .mob-pt-56 { padding-top: 56px !important; }
+  .mob-pt-44 { padding-top: 44px !important; }
+  .mob-pt-60 { padding-top: 60px !important; }
+
+  /* Contact page — clamp title block width to viewport */
+  .mob-w-full { max-width: 100% !important; }
+
+  /* Manifesto — reduce horizontal padding in narrow editorial column */
+  .manifesto-col-pad { padding-left: 20px !important; padding-right: 20px !important; }
+
+  /* Manifesto — stack the 3-column unit card grid to 1 column */
+  .mob-grid-1-col { grid-template-columns: 1fr !important; }
+
+  /* Manifesto — allow byline row to wrap so share button doesn't overflow */
+  .mob-byline-row { flex-wrap: wrap !important; }
+
+  /* Navbar — slim on mobile: 10px pad + 51px logo = ~71px total height */
+  .nav-header { padding: 10px 5% !important; }
+  .nav-logo { height: 51px !important; width: auto !important; }
+  /* Hamburger — tighter tap target padding on mobile */
+  .mob-show-flex.nav-hamburger { padding: 4px !important; }
+
+  /* Navbar — hide desktop nav + CTA on mobile */
+  .mob-hide { display: none !important; }
+
+  /* Navbar — show hamburger button on mobile */
+  .mob-show-flex { display: flex !important; }
+
+  /* Footer — stack nav links vertically on mobile */
+  .mob-flex-col { flex-direction: column !important; align-items: flex-start !important; }
+  .mob-gap-24 { gap: 24px !important; }
+
+  /* UnitExplorer process grid — tighter gap on mobile */
+  .mob-gap-32 { gap: 32px !important; }
+
+  /* UnitExplorer shimmer — only meaningful in 3-col layout */
+  .mob-shimmer-hide { display: none !important; }
+
+  /* Cell padding inside split-panel grids (WhoItsFor) */
+  .mob-pad-cell { padding: 40px 24px !important; }
+
+  /* Card padding — tighter on mobile */
+  .mob-pad-card { padding: 24px 20px !important; }
+
+  /* Stat items — convert left border to top border when stacked */
+  .mob-stat-border { border-left: none !important; border-top: 1px solid var(--col-border) !important; padding-top: 32px !important; margin-top: 8px; }
+
+  /* Stat grid — add vertical spacing when stacked */
+  .mob-stats-grid { gap: 0 !important; }
+
+  /* Split-panel grids using 1px gap-as-border trick — keep gap thin on mobile */
+  .mob-grid-1-gap-border { grid-template-columns: 1fr !important; gap: 1px !important; }
+
+  /* Magnolia OS demo iframe — shorter on mobile */
+  .magnolia-demo-iframe { height: 520px !important; }
+
+  /* Magnolia OS hero — consistent top padding on mobile */
+  .magnolia-hero-section { padding-top: 80px !important; padding-bottom: 40px !important; }
+
+  /* Magnolia OS hero h1 — less aggressive letter-spacing on mobile */
+  .magnolia-hero-h1 { letter-spacing: -1px !important; }
+}
+
+/* Magnolia OS demo iframe — full height on desktop */
+.magnolia-demo-iframe { height: 860px; }
+
+/* Magnolia OS — desktop shows iframe, mobile shows carousel */
+.magnolia-desktop-demo { display: block; }
+.magnolia-mobile-carousel { display: none; }
+
+@media (max-width: 768px) {
+  .magnolia-desktop-demo { display: none !important; }
+  .magnolia-mobile-carousel { display: block !important; }
 }

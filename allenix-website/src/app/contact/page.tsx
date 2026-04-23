@@ -56,73 +56,46 @@ export default function ContactPage() {
 
   return (
     <>
-      <main style={{ minHeight: '100vh', paddingTop: '120px', background: 'var(--col-bg)' }}>
+      <main className="mob-pt-80" style={{ minHeight: '100vh', paddingTop: '120px', background: 'var(--col-bg)' }}>
         <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '0 5% 120px' }}>
 
-          {/* Header */}
-          <div style={{
-            display: 'grid',
-            gridTemplateColumns: '1fr 1fr',
-            gap: '80px',
-            marginBottom: '80px',
-            alignItems: 'end',
-          }}>
-            <div>
-              <div style={{
-                fontFamily: 'var(--font-mono)',
-                fontSize: '10px',
-                letterSpacing: '3px',
-                textTransform: 'uppercase',
-                color: 'var(--col-accent)',
-                marginBottom: '24px',
-              }}>
-                Start Here
-              </div>
-              <h1 style={{
-                fontFamily: 'var(--font-display)',
-                fontWeight: 900,
-                fontSize: 'clamp(40px, 5vw, 64px)',
-                lineHeight: 1.05,
-                letterSpacing: '-2px',
-                color: 'var(--col-text-1)',
-              }}>
-                If you took three weeks off tomorrow, what breaks first?
-              </h1>
+          {/* Page title */}
+          <div className="mob-w-full" style={{ maxWidth: '680px', marginBottom: '28px' }}>
+            <div style={{
+              fontFamily: 'var(--font-mono)',
+              fontSize: '11px',
+              fontWeight: 700,
+              letterSpacing: '3px',
+              textTransform: 'uppercase',
+              color: 'var(--col-accent)',
+              marginBottom: '20px',
+            }}>
+              Start here
             </div>
-            <div>
-              <p style={{
-                fontFamily: 'var(--font-body)',
-                fontStyle: 'italic',
-                fontSize: '17px',
-                lineHeight: 1.8,
-                color: 'var(--col-text-2)',
-                marginBottom: '32px',
-              }}>
-                That question has one answer for most founders at your stage.
-                It is also where Allenix starts. Book 30 minutes.
-                No pitch. No deck. One conversation.
-              </p>
-              <div>
-                <div style={labelStyle}>Direct line</div>
-                <a href="mailto:hello@allenix.com" style={{
-                  fontFamily: 'var(--font-body)',
-                  fontSize: '16px',
-                  color: 'var(--col-accent)',
-                  textDecoration: 'none',
-                  transition: 'color 150ms ease-out',
-                }}>
-                  hello@allenix.com
-                </a>
-              </div>
-            </div>
+            <h1 style={{
+              fontFamily: 'var(--font-display)',
+              fontWeight: 900,
+              fontSize: 'clamp(32px, 5vw, 58px)',
+              letterSpacing: '-1.5px',
+              lineHeight: 1.05,
+              color: 'var(--col-text-1)',
+              marginBottom: '20px',
+            }}>
+              Tell us about yourself.
+            </h1>
+            <p style={{
+              fontFamily: 'var(--font-body)',
+              fontSize: '16px',
+              lineHeight: 1.75,
+              color: 'var(--col-text-2)',
+            }}>
+              Fill out the form below and we will follow up immediately to schedule a 30-minute call.
+            </p>
           </div>
-
-          {/* Divider */}
-          <div style={{ height: '1px', background: 'var(--col-border)', marginBottom: '80px' }} />
 
           {/* Error banner */}
           {status === 'error' && (
-            <div style={{
+            <div className="mob-w-full" style={{
               maxWidth: '680px',
               background: 'rgba(200,50,50,0.08)',
               border: '1px solid rgba(200,50,50,0.3)',
@@ -139,7 +112,7 @@ export default function ContactPage() {
 
           {/* Form / Success */}
           {status === 'sent' ? (
-            <div style={{
+            <div className="mob-w-full mob-pad-card" style={{
               maxWidth: '600px',
               background: 'var(--col-accent-bg)',
               border: '1px solid var(--col-accent-dim)',
@@ -163,7 +136,7 @@ export default function ContactPage() {
                 color: 'var(--col-text-1)',
                 marginBottom: '16px',
               }}>
-                We&apos;ll be in touch within one business day.
+                We&apos;ll be in touch shortly.
               </h2>
               <p style={{
                 fontFamily: 'var(--font-body)',
@@ -179,8 +152,8 @@ export default function ContactPage() {
               </a>
             </div>
           ) : (
-            <form onSubmit={handleSubmit} style={{ maxWidth: '680px' }}>
-              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '24px', marginBottom: '24px' }}>
+            <form onSubmit={handleSubmit} className="mob-w-full" style={{ maxWidth: '680px' }}>
+              <div className="mob-grid-1" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '24px', marginBottom: '24px' }}>
                 <div>
                   <label htmlFor="name" style={labelStyle}>Your name</label>
                   <input
@@ -205,7 +178,7 @@ export default function ContactPage() {
                 </div>
               </div>
 
-              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '24px', marginBottom: '24px' }}>
+              <div className="mob-grid-1" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '24px', marginBottom: '24px' }}>
                 <div>
                   <label htmlFor="company" style={labelStyle}>Firm name</label>
                   <input
@@ -254,7 +227,7 @@ export default function ContactPage() {
                 className="btn-primary"
                 style={{ opacity: status === 'sending' ? 0.6 : 1, cursor: status === 'sending' ? 'not-allowed' : 'pointer' }}
               >
-                {status === 'sending' ? 'Sending...' : 'Book a 30-Minute Call'}
+                {status === 'sending' ? 'Sending...' : 'Submit this form'}
               </button>
             </form>
           )}

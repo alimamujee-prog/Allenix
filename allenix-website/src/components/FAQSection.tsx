@@ -17,7 +17,7 @@ const faqs = [
   },
   {
     q: 'What size company is right for Allenix?',
-    a: 'We work with American mid-market professional services firms doing $5M to $50M in revenue. You need enough operational complexity to make the system worth building and enough margin to fund it. If you are below that threshold, the Business Brain Diagnostic alone may be the right starting point.',
+    a: 'We work with American mid-market B2B firms doing $5M to $50M in revenue. You need enough operational complexity to make the system worth building and enough margin to fund it. If you are below that threshold, the Business Brain Diagnostic alone may be the right starting point.',
   },
   {
     q: 'What happens after the initial build?',

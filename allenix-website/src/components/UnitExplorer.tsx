@@ -63,15 +63,6 @@ export default function HowItWorks() {
           }}>
             Map. Build. Train.
           </h2>
-          <p style={{
-            fontFamily: 'var(--font-body)',
-            fontStyle: 'italic',
-            fontSize: '17px',
-            color: 'var(--col-text-2)',
-            lineHeight: 1.7,
-          }}>
-            Three phases. One firm. We don&apos;t leave until it works.
-          </p>
         </div>
 
         {/* Process grid with shimmer line */}

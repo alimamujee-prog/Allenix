@@ -52,7 +52,7 @@ export default function ProblemSection() {
         </div>
 
         {/* Truth grid */}
-        <div style={{
+        <div className="mob-grid-1-gap-border" style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(2, 1fr)',
           gap: '1px',
@@ -60,7 +60,7 @@ export default function ProblemSection() {
           border: '1px solid var(--col-border)',
         }}>
           {truths.map((t) => (
-            <div key={t.number} style={{
+            <div key={t.number} className="mob-pad-card" style={{
               background: 'var(--col-bg)',
               padding: '48px 40px',
               transition: 'background 150ms ease-out',

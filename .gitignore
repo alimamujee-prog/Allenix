@@ -29,3 +29,16 @@ yarn-debug.log*
 yarn-error.log*
 .gstack/
 hubspot.config.yml
+
+# Vercel
+.vercel/
+
+# TypeScript build cache
+tsconfig.tsbuildinfo
+allenix-website/tsconfig.tsbuildinfo
+
+# Backup files
+*.bak
+
+# Sensitive legal/tax documents — keep local only
+Formation Documents/

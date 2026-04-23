@@ -29,12 +29,12 @@ export default function CredibilityBar() {
           </p>
         </div>
 
-        <div style={{
+        <div className="mob-grid-1 mob-stats-grid" style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(3, 1fr)',
         }}>
           {stats.map((s, i) => (
-            <div key={i} style={{
+            <div key={i} className={i > 0 ? 'mob-stat-border' : ''} style={{
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',

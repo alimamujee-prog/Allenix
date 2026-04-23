@@ -9,7 +9,9 @@ import { ShinyButton } from '@/components/ui/ShinyButton'
 
 const NAV_LINKS = [
   { href: '/', label: 'Home' },
+  { href: '/magnolia-os', label: 'Magnolia OS' },
   { href: '/manifesto', label: 'Manifesto' },
+  { href: '/about', label: 'About' },
   { href: '/contact', label: 'Contact' },
 ]
 
@@ -30,8 +32,8 @@ function SlidingNav({ pathname }: { pathname: string }) {
         margin: 0,
         padding: '4px',
         gap: 0,
-        border: '1px solid var(--col-border)',
-        background: 'rgba(13,17,23,0.6)',
+        border: 'none',
+        background: 'transparent',
       }}
       onMouseLeave={() => setCursor(p => ({ ...p, opacity: 0 }))}
     >
@@ -133,7 +135,7 @@ export default function Navbar() {
 
   return (
     <>
-      <header style={{
+      <header className="nav-header" style={{
         position: 'fixed',
         top: 0, left: 0, right: 0,
         zIndex: 50,
@@ -141,9 +143,9 @@ export default function Navbar() {
         alignItems: 'center',
         justifyContent: 'space-between',
         padding: '16px 5%',
-        background: scrolled || menuOpen ? 'rgba(6,8,10,0.97)' : 'rgba(6,8,10,0.82)',
+        background: scrolled || menuOpen ? 'rgba(6,8,10,0.92)' : 'transparent',
         borderBottom: scrolled ? '1px solid var(--col-border)' : '1px solid transparent',
-        backdropFilter: 'blur(12px)',
+        backdropFilter: scrolled || menuOpen ? 'blur(12px)' : 'none',
         transition: 'background 200ms ease-out, border-color 200ms ease-out',
       }}>
         {/* Logo */}
@@ -151,8 +153,9 @@ export default function Navbar() {
           <Image
             src="/logo.png"
             alt="Allenix"
-            width={130}
-            height={40}
+            width={150}
+            height={46}
+            className="nav-logo"
             style={{ objectFit: 'contain', objectPosition: 'left center', border: 'none', outline: 'none' }}
             priority
           />
@@ -170,7 +173,7 @@ export default function Navbar() {
 
         {/* Hamburger — mobile only */}
         <button
-          className="mob-show-flex"
+          className="mob-show-flex nav-hamburger"
           onClick={() => setMenuOpen(o => !o)}
           aria-label={menuOpen ? 'Close menu' : 'Open menu'}
           aria-expanded={menuOpen}
