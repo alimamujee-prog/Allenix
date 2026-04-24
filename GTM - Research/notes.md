@@ -46,13 +46,19 @@ Everything else is later. No ads. No funnels. No SEO. No EMR migrations. No hiri
 
 ## The Offer Ladder
 
-| Tier | Name | Price | Purpose |
-|---|---|---:|---|
-| 1 | Patient Revenue Recovery Audit | $4,800 | Find and quantify the leaks |
-| 2a | Retention Engine Build-Out | $8K/month, 3 months | Install the recovery system |
-| 2b | Retention Retainer | TBD | Ongoing monitoring after build |
-| 3a | Self-Running Med Spa Group Program | $12-15K/month, 6-month min | Full expansion after proof |
-| 3b | Self-Running Retainer | TBD | Ongoing management after build |
+┌──────┬────────────────────────────────────┬────────────────────────────┬────────────────────────────────┐
+│ Tier │                Name                │           Price            │            Purpose             │
+├──────┼────────────────────────────────────┼────────────────────────────┼────────────────────────────────┤
+│ 1    │ Patient Revenue Recovery Audit     │                     $4,800 │ Find and quantify the leaks    │
+├──────┼────────────────────────────────────┼────────────────────────────┼────────────────────────────────┤
+│ 2a   │ Retention Engine Build-Out         │        $8K/month, 3 months │ Install the recovery system    │
+├──────┼────────────────────────────────────┼────────────────────────────┼────────────────────────────────┤
+│ 2b   │ Retention Retainer                 │                        TBD │ Ongoing monitoring after build │
+├──────┼────────────────────────────────────┼────────────────────────────┼────────────────────────────────┤
+│ 3a   │ Self-Running Med Spa Group Program │ $12-15K/month, 6-month min │ Full expansion after proof     │
+├──────┼────────────────────────────────────┼────────────────────────────┼────────────────────────────────┤
+│ 3b   │ Self-Running Retainer              │                        TBD │ Ongoing management after build │
+└──────┴────────────────────────────────────┴────────────────────────────┴────────────────────────────────┘
 
 We never lead with Tier 3 in outbound. The natural path is 1 → 2a → 2b, with 3 as an upsell once trust is earned.
 
@@ -86,15 +92,19 @@ We never lead with Tier 3 in outbound. The natural path is 1 → 2a → 2b, with
 
 **Value stack:**
 
-| Component | Annualized Impact |
-|---|---:|
-| Treatment-specific rebooking automation | $60K-$200K/year |
-| No-show and cancellation prevention | $36K-$100K/year |
-| Missed inbound capture and response | $18K-$60K/year |
-| Dormant patient reactivation | $50K-$200K/year |
-| Weekly performance reporting | Included |
-| Done-for-you implementation and management | Included |
-| **Total estimated annual impact** | **$164K-$560K/year** |
+  ┌─────────────────────────────────────────┬───────────────────┐
+  │                Component                │ Annualized Impact │
+  ├─────────────────────────────────────────┼───────────────────┤
+  │ Treatment-specific rebooking automation │   $60K-$200K/year │
+  ├─────────────────────────────────────────┼───────────────────┤
+  │ No-show and cancellation prevention     │   $36K-$100K/year │
+  ├─────────────────────────────────────────┼───────────────────┤
+  │ Missed inbound capture and response     │    $18K-$60K/year │
+  ├─────────────────────────────────────────┼───────────────────┤
+  │ Dormant patient reactivation            │   $50K-$200K/year │
+  ├─────────────────────────────────────────┼───────────────────┤
+  │ Total estimated annual impact           │  $164K-$560K/year │
+  └─────────────────────────────────────────┴───────────────────┘
 
 Against $96K/year price. Target: 3-5x return, ideally 10x. First 90 days installs the core systems. Full year compounds value with larger initiatives built on the baseline.
 
@@ -154,13 +164,20 @@ Working backwards from 3 closed clients/month:
   ← 1,200 contacts reached
 ```
 
-| Channel | Monthly Volume | Replies | Calls Booked |
-|---|---:|---:|---:|
-| Cold Email (Apollo + scraped) | 700 | 35 | 7 |
-| LinkedIn (Sales Nav) | 200 | 12 | 3 |
-| Instagram DMs | 150 | 15 | 2 |
-| Warm / Referral / Events | 150 | 30 | 2 |
-| **Total** | **1,200** | **92** | **14** |
+  ┌───────────────────────────────┬────────────────┬─────────┬──────────────┐
+  │            Channel            │ Monthly Volume │ Replies │ Calls Booked │
+  ├───────────────────────────────┼────────────────┼─────────┼──────────────┤
+  │ Cold Email (Apollo + scraped) │            700 │      35 │            7 │
+  ├───────────────────────────────┼────────────────┼─────────┼──────────────┤
+  │ LinkedIn (Sales Nav)          │            200 │      12 │            3 │
+  ├───────────────────────────────┼────────────────┼─────────┼──────────────┤
+  │ Instagram DMs                 │            150 │      15 │            2 │
+  ├───────────────────────────────┼────────────────┼─────────┼──────────────┤
+  │ Warm / Referral / Events      │            150 │      30 │            2 │
+  ├───────────────────────────────┼────────────────┼─────────┼──────────────┤
+  │ Total                         │          1,200 │      92 │           14 │
+  └───────────────────────────────┴────────────────┴─────────┴──────────────┘
+
 
 Plan for 14 to account for no-shows. Target 12.
 
