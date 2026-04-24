@@ -21,7 +21,7 @@ Primary close:
 
 ### 0-3 minutes: Confirm the frame
 
-"I did a little homework before the call. Looks like you have [X] locations in [city/market], and you are using [Zenoti/PatientNow/Mindbody] for scheduling. Is that right?"
+"I did a little homework before the call. Looks like you have [X] locations in [city/market]. What are you using today for scheduling, patient messages, and missed-call follow-up?"
 
 "The point of this call is simple. I want to see if there is enough revenue leaking from missed visits, no-shows, and patients who never rebook to justify a proper audit. If the math is not there, I will tell you."
 
@@ -73,7 +73,7 @@ Use their answers to name likely leak points:
 
 "Here is what I would recommend. Let us run the Patient Revenue Recovery Audit."
 
-"In 14 days, we map where $150K-$750K/year is leaking across your locations and give you a 90-day plan to recover it using the tools you already pay for."
+"In 14 days, we map where $150K-$600K/year is leaking across your locations and give you a 90-day plan to recover it across the systems your team already uses."
 
 "You get three things:"
 
@@ -81,7 +81,7 @@ Use their answers to name likely leak points:
 2. "A 90-day Retention Sprint roadmap with dollar values per play."
 3. "A 1-page owner summary you can show a partner, lender, buyer, or leadership team."
 
-"It is $4,800 flat for up to 3 locations. If we do not find at least 5x that in provable recoverable annual revenue, you do not pay."
+"It is $4,800. If we do not find at least 5x that in provable recoverable annual revenue, you do not pay."
 
 ### 26-30 minutes: Close
 
@@ -103,9 +103,9 @@ If not ready:
 
 "That is exactly why this starts with your data, not a campaign. We are not selling posts or ads. We are looking at patients you already paid to acquire and finding where they are leaking out of the business. If the numbers are not there, we will tell you."
 
-### "We already use Zenoti / PatientNow for that."
+### "We already have software for that."
 
-"You probably have the features. Most practices do. The problem is that features do not run themselves. We configure the follow-up, the timing, the segments, and the reporting so the system actually produces revenue."
+"You probably have some of the features already. Most practices do. The problem is that features do not run themselves. We use AI, automation, and simple operating rules to configure the follow-up, timing, segments, and reporting so the system actually produces revenue."
 
 ### "My front desk handles follow-up."
 
@@ -121,7 +121,9 @@ If not ready:
 
 ### "What about HIPAA?"
 
-"We keep the messaging inside HIPAA-safe appointment and care-follow-up boundaries, and we use the tools your practice already trusts for patient communication. The audit also flags anything that should go through compliance review before launch."
+"All work is designed to comply with applicable privacy, healthcare, and communications regulations. The Audit also flags anything that should go through compliance review before launch."
+
+"Plain English: we are not trying to push your practice into risky patient communication. We design the system around the rules that apply."
 
 ### "I need to think about it."
 
@@ -135,17 +137,17 @@ If not ready:
 
 ## Cold Email Starters
 
-### Email 1: Zenoti / PatientNow hook
+### Email 1: Existing-systems hook
 
 **Subject:** `[Practice] retention question`
 
 Hi [First Name],
 
-Noticed [Practice] has [X] locations and appears to use [Zenoti/PatientNow].
+Noticed [Practice] has [X] locations across [market].
 
-Most multi-location med spas have the follow-up tools already. The leak is that no one has configured them around treatment cycles, no-shows, and patients who never rebook.
+Most multi-location med spas already have tools for scheduling, messages, and patient records. The leak is that no one has configured the system around treatment cycles, no-shows, missed inbound, and patients who never rebook.
 
-We run a 14-day Patient Revenue Recovery Audit for groups like yours. It maps where $150K-$750K/year is leaking across locations and gives you a 90-day recovery plan.
+We run a 14-day Patient Revenue Recovery Audit for groups like yours. It maps where $150K-$600K/year is leaking across locations and gives you a 90-day recovery plan.
 
 Worth a 30-minute Patient Revenue Checkup next week?
 
@@ -161,7 +163,7 @@ Quick question. When a patient no-shows at one location or leaves without rebook
 
 That is where a lot of med spas leak revenue. Not from bad demand. From patients they already paid to acquire who drift out after one visit.
 
-We help owners find and fix that inside Zenoti and PatientNow.
+We help owners find and fix that across the systems their team already uses.
 
 Open to a 30-minute Patient Revenue Checkup?
 
@@ -169,7 +171,7 @@ Ali
 
 ### LinkedIn opener
 
-Hi [First Name], saw you are building [Practice] across [city/market]. I work with multi-location med spas on patient retention and no-show recovery inside Zenoti and PatientNow. Thought it would be good to connect.
+Hi [First Name], saw you are building [Practice] across [city/market]. I work with multi-location med spas on patient retention, no-show recovery, and reactivation across the systems their team already uses. Thought it would be good to connect.
 
 ### LinkedIn follow-up
 
@@ -180,7 +182,7 @@ Thanks for connecting. One thing I am seeing: multi-location med spas often have
 ## Founder-Led Learning Loop
 
 For the first 10-15 calls, tag every call with:
-- Platform: Zenoti, PatientNow, Mindbody, other.
+- Current systems: scheduling, messaging, call handling, CRM / patient records.
 - Locations.
 - Revenue band.
 - Stated pain.

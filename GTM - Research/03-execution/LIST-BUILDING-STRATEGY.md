@@ -18,13 +18,13 @@ Every contact must match **all** of these:
 | Signal | Requirement | Why |
 |--------|-------------|-----|
 | Industry | Medical spa, aesthetic practice, med spa group | Vertical specificity |
-| Revenue | $5M–$15M (sweet spot $5M–$10M) | Can sustain $10–15K/month engagement |
+| Revenue | $5M–$25M (sweet spot $5M–$25M) | Can sustain $10–15K/month engagement |
 | Employees | 20–100 | Multi-location complexity, enough scale to need systems |
 | Locations | 2–5 | Multi-location complexity is the pain trigger |
 | Owner type | NP, MD, DO, RN who owns the practice, or entrepreneur-operator | Decision maker, not a committee |
 | Geography | Gulf South first (Houston, Dallas, San Antonio, Nashville, Birmingham), then secondary markets (Atlanta, Phoenix, Denver, Charlotte, Tampa) | Ali's network density, travel efficiency |
 | Online booking | Has online scheduling (signals tech-readiness) | Easier to integrate automation |
-| Platform | Zenoti or PatientNow preferred | First implementation wedge and cleaner outbound hook |
+| Current systems | Can identify scheduling, messaging, or call handling systems | Discovery signal, not a hard filter |
 | Instagram presence | Active business account | Signals marketing awareness, researchable |
 
 **Exclude:**
@@ -173,7 +173,7 @@ For each contact, capture:
 | Estimated revenue | Apollo estimate | ICP qualification |
 | Employee count | Apollo / LinkedIn | ICP qualification |
 | Number of locations | Website / Google Maps | ICP qualification |
-| Practice management software | Website / job postings | Prioritize Zenoti and PatientNow first |
+| Current systems | Website / job postings / call notes | Understand what they already use before pitching implementation |
 | Instagram handle | Manual lookup | DM channel, research |
 | Email | Apollo / verification | Cold email |
 | Phone | Apollo / scraping | Follow-up |
@@ -229,10 +229,10 @@ The first goal is not maximum volume. It is 3 proof-producing Patient Revenue Re
 
 Prioritize contacts in this order:
 
-1. Multi-location groups using Zenoti.
-2. Multi-location groups using PatientNow.
-3. Warm referrals from AmSpa, pharma reps, equipment reps, and software reps.
-4. Mindbody practices only if they are otherwise a perfect ICP fit.
+1. Multi-location groups showing retention, no-show, missed-call, or rebooking pain.
+2. Warm referrals from AmSpa, pharma reps, equipment reps, and software reps.
+3. Practices with enough scale to support a meaningful pilot: $3M+ revenue, visible demand, and operational complexity.
+4. Accounts where current systems can be identified before the Checkup call.
 
 Use one CTA across all channels:
 

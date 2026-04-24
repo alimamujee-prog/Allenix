@@ -137,13 +137,13 @@ Allenix wins by being the option that actually ships results. Not slides. Not to
 
 ## The Avatar: "Priya"
 
-A 45-year-old nurse practitioner or physician who owns a multi-location med spa group doing $5M–$15M annual revenue. She opened her first location 7–10 years ago and has since expanded to 2–5 locations. She has 20–100 employees. She started as the top injector and became the CEO by necessity. She does not have a CMO or COO. Her office managers run the day-to-day at each location, but nobody owns the systems across locations.
+A 45-year-old nurse practitioner or physician who owns a multi-location med spa group doing $5M–$25M annual revenue. She opened her first location 7–10 years ago and has since expanded to 2–5 locations. She has 20–100 employees. She started as the top injector and became the CEO by necessity. She does not have a CMO or COO. Her office managers run the day-to-day at each location, but nobody owns the systems across locations.
 
 ---
 
 ## Demographics
 
-- **Revenue range**: $3M - $20M (sweet spot: $5M - $15M)
+- **Revenue range**: $3M - $25M (sweet spot: $5M - $25M)
 - **Geography**: Gulf South (Houston, Dallas, Nashville, Birmingham, San Antonio) and secondary markets (Atlanta, Phoenix, Denver, Charlotte, Tampa)
 - **Industry**: Medical spa groups, multi-location aesthetic practices, med spa chains
 - **Practice age**: 5-12 years (established patient base, expanded beyond single location)
@@ -308,7 +308,7 @@ Every prospect is in one of three phases. The offer she needs depends on where s
 
 **Scalable** (1-3 year practices, under $2M): Focused on filling the schedule. Revenue growth = more patients. Probably not ready for Allenix — they still believe the answer is more leads.
 
-**Sustainable** (3-7 year practices, $5M-$15M): **This is Priya.** Revenue is real but margins are compressed. She knows patients are leaking but can't see where. "We're busy but my bank account doesn't show it." She needs the Audit → Implementation path. This is where Allenix makes the strongest case — the retention math is dramatic, the practice has enough revenue to afford the engagement, and the pain is financial, not existential.
+**Sustainable** (3-7 year practices, $5M-$25M): **This is Priya.** Revenue is real but margins are compressed. She knows patients are leaking but can't see where. "We're busy but my bank account doesn't show it." She needs the Audit → Implementation path. This is where Allenix makes the strongest case — the retention math is dramatic, the practice has enough revenue to afford the engagement, and the pain is financial, not existential.
 
 **Durable** (target state): Loyal patient base, strong referrals, memberships providing recurring revenue. The owner can step back. This is what the Transformation sells — the aspiration, not the starting point.
 

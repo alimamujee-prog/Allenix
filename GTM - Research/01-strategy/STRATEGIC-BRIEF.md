@@ -7,7 +7,7 @@
 
 ## What We're Doing
 
-Launching Allenix Labs into a new vertical: **medical spas and aesthetic practice groups** ($5M–$15M revenue). Adapting the existing Map-Build-Run system for this market. No clients in the vertical yet. Goal: 3 new clients/month, ramping to $10–15K MRR each.
+Launching Allenix Labs into a new vertical: **medical spas and aesthetic practice groups** ($5M–$25M revenue). Adapting the existing Map-Build-Run system for this market. No clients in the vertical yet. Goal: 3 new clients/month, ramping to $10–15K MRR each.
 
 ---
 
@@ -23,14 +23,14 @@ Every piece of automation Allenix builds is justified by this principle. If it d
 Everyone sells "more leads." Allenix sells "stop losing the patients you already paid to acquire." The math is the hook: a $5M practice at 50% retention leaves ~$1M/year on the table. Retention is the most differentiated play and the highest-leverage revenue lever for these owners.
 
 ### 2. Offer Structure: Audit → Build-Out → Self-Running Group
-All three tiers use the Hormozi Value Equation framework. Full details in `OFFER-STRUCTURE.md`.
+All three tiers use the Hormozi Value Equation framework. Full details in `OFFER-LOCK.md`.
 
-- **Patient Revenue Recovery Audit** ($4,800 one-time): Location-by-location Money Leak Map, retention math, competitive benchmark, tech stack audit, 90-day Retention Sprint roadmap with dollar amounts. Entry point. 14-day delivery. 5x or no-pay guarantee.
-- **Retention Engine Build-Out** ($8,000/month for 3 months, ramping to $10,000–$15,000): Execute the top 3-5 roadmap plays. No-show prevention, rebooking flows, review engine, HIPAA-safe post-visit follow-up, basic AI receptionist. Done-for-you. Performance guarantee in 90 days.
+- **Patient Revenue Recovery Audit** ($4,800 one-time): Location-by-location Money Leak Map, retention math, tech stack audit, and 90-day Retention Sprint roadmap. Entry point. 14-day delivery. 5x or no-pay guarantee.
+- **Retention Engine Build-Out** ($8,000/month for 3 months, ramping to $10,000–$15,000): Execute the top recovery plays. No-show prevention, rebooking flows, missed inbound capture, dormant patient reactivation, and AI-assisted monitoring. Done-for-you. Performance guarantee in 90 days.
 - **Self-Running Med Spa Group Program** ($15,000/month, 6-month minimum): Full Map-Build-Run. Acquisition optimization, operational efficiency, cross-location dashboard, membership / loyalty buildout, Studios content tied to retention campaigns. Revenue and owner-time target guarantee.
 
 ### 3. ICP: "Priya" (Updated)
-Owner-operator of a $5M–$15M med spa group. 2–5 locations. 20–100 employees. Multi-location complexity is her biggest pain — fragmented scheduling, inconsistent follow-up, no cross-location visibility. She's been burned by agencies. She trusts peers, not pitches. She thinks in monthly revenue, not LTV.
+Owner-operator of a $5M–$25M med spa group. 2–5 locations. 20–100 employees. Multi-location complexity is her biggest pain — fragmented scheduling, inconsistent follow-up, no cross-location visibility. She's been burned by agencies. She trusts peers, not pitches. She thinks in monthly revenue, not LTV.
 
 ### 4. GTM Motion: Medium Touch, Felt as High Touch
 Allenix runs a **Medium Touch** motion — structured Patient Revenue Checkup, hands-on implementation, ongoing management. But the client experiences **High Touch**. AI gives Allenix leverage that wasn't possible when WbD wrote their framework. Automated diagnostics, AI-assisted implementation, and intelligent monitoring let a small team deliver what used to require a large one. The client gets white-glove attention. Allenix operates at medium-touch cost structure.
@@ -84,7 +84,7 @@ The close rate might be lower initially (15–20%) since we're selling a bigger 
 5. **State licensing boards** — 50–100 contacts/month. Public records.
 6. **Instagram DMs** — 100–150 contacts/month. Search hashtags, identify owners from profiles.
 
-**ICP filter:** Revenue $5M–$15M, 20–100 employees, 2–5 locations, owner-operated (not PE-owned chains), Gulf South first then expanding.
+**ICP filter:** Revenue $5M–$25M, 20–100 employees, 2–5 locations, owner-operated (not PE-owned chains), Gulf South first then expanding.
 
 **Weekly cadence:** Monday source/enrich, Tue–Thu outreach (30 emails/day, 10 LinkedIn connections/day, 5 Instagram DMs/day), Friday follow-up and qualify.
 
@@ -97,18 +97,18 @@ Full details in `LIST-BUILDING-STRATEGY.md`.
 All three tiers use the Value Equation: **Value = (Dream Outcome x Perceived Likelihood) / (Time Delay x Effort)**
 
 Key design principles:
-- **Dream outcome is dollar-specific:** "$150K–$750K/year identified" (Audit), "$15K–$50K/month recovered" (Build-Out), "practice group runs without you" (Self-Running Program)
+- **Dream outcome is dollar-specific:** "$150K-$600K/year identified" (Audit), "more kept appointments, rebookings, recovered inbound, and reactivated patients" (Build-Out), "practice group runs without you" (Self-Running Program)
 - **Perceived likelihood is high:** Audit uses their own data. Build-Out uses the audit + case studies. Self-Running Program uses proven results.
 - **Time delay is short:** 14 days (Audit), 2–4 weeks to first revenue (Build-Out), 30 days (Self-Running Program)
 - **Effort is minimal:** 90-minute call (Audit), weekly 15-min review (Build-Out), monthly strategy call (Self-Running Program)
 
 **Value stacks** for each tier show 3–5x minimum return on price.
 
-**Guarantee structure:** One primary guarantee per tier. 5x or no-pay for the Audit, 90-day fee run-rate recovered for Build-Out, revenue and owner-time targets for the Self-Running Program. Allenix Promise (10x value or we fix/end) across all tiers.
+**Guarantee structure:** One primary guarantee per tier. 5x or no-pay for the Audit, measurable recovery metric improvement for Build-Out, revenue and owner-time targets for the Self-Running Program. Allenix Promise (10x value or we fix/end) across all tiers.
 
-Full details in `OFFER-STRUCTURE.md`.
+Full details in `OFFER-LOCK.md`.
 
-**Formosu / Hormozi feedback captured:** The strategy is sound, but the front-end offer needs to be a sharper category-of-one Grand Slam. See `FORMOSU-FEEDBACK-ACTION-PLAN.md`.
+**Hormozi feedback captured:** The strategy is sound, but the front-end offer needs to be a sharper category-of-one Grand Slam. The integrated decisions now live in `OFFER-LOCK.md`.
 
 ### Outreach Sequences (Still Needed)
 
@@ -139,7 +139,7 @@ All sequences should use Priya's language from the ICP. No jargon. Short sentenc
 A dedicated med spa vertical page on allenix.com. Purpose: convert outbound traffic into booked Patient Revenue Checkup calls.
 
 **Page structure:**
-1. Hero: "Multi-location med spas are leaking $150K–$750K/year in missed visits and no-shows. We find it and fix it inside Zenoti and PatientNow." + CTA to book a Patient Revenue Checkup
+1. Hero: "Stop losing $150K-$600K a year to missed visits and patients who do not come back" + CTA to book a Patient Revenue Checkup
 2. The problem: 80% of first-visit patients never return. Multi-location makes it worse. You paid to acquire them. You're paying again to replace them.
 3. The solution: Patient Revenue Recovery Audit — 14 days, dollar-quantified roadmap, 5x or no-pay guarantee
 4. The proof: Case studies with dollar amounts. ReEnvision, Radiance, BeVibrant.
@@ -176,18 +176,16 @@ Should follow the Allenix brand system (Playfair Display headlines, Libre Basker
 | Deliverable | Status | File |
 |------------|--------|------|
 | ICP (Priya + Nirov) | Complete | `ICP.md` |
-| P1 Research — Owner Psychology | Complete | `P1-owner-psychology-and-buying.md` |
-| P2 Research — Competitive Landscape | Complete | `P2-competitive-tech-landscape.md` |
-| P3 Research — Pain Points | Complete | `P3-pain-points-and-ranked-opportunities.md` |
-| 3-Tier Offer Structure (Hormozi framework) | Updated after Formosu feedback — canonical | `OFFER-STRUCTURE.md` |
-| List Building Strategy | Complete | `LIST-BUILDING-STRATEGY.md` |
-| Hormozi AI Questions | Complete — 92 questions, v2 | `HORMOZI-AI-QUESTIONS.md` |
-| Formosu Feedback Action Plan | Complete | `FORMOSU-FEEDBACK-ACTION-PLAN.md` |
-| Patient Revenue Checkup Playbook | Complete | `PATIENT-REVENUE-CHECKUP-PLAYBOOK.md` |
-| Operational Workflows Map | Complete | `Medical-Spa-Operational-Workflows-Map.md` |
-| Outreach Sequences | Partial — first email and LinkedIn starters | `PATIENT-REVENUE-CHECKUP-PLAYBOOK.md` |
+| P1 Research — Owner Psychology | Complete | `../02-research/P1-owner-psychology-and-buying.md` |
+| P2 Research — Competitive Landscape | Complete | `../02-research/P2-competitive-tech-landscape.md` |
+| P3 Research — Pain Points | Complete | `../02-research/P3-pain-points-and-ranked-opportunities.md` |
+| Offer Lock | Canonical | `OFFER-LOCK.md` |
+| List Building Strategy | Complete | `../03-execution/LIST-BUILDING-STRATEGY.md` |
+| Patient Revenue Checkup Playbook | Complete | `../03-execution/PATIENT-REVENUE-CHECKUP-PLAYBOOK.md` |
+| Operational Workflows Map | Complete | `../02-research/Medical-Spa-Operational-Workflows-Map.md` |
+| Outreach Sequences | Partial — first email and LinkedIn starters | `../03-execution/PATIENT-REVENUE-CHECKUP-PLAYBOOK.md` |
 | Landing Page | **Not started** | — |
-| Sales Call Playbook | Complete — v1 | `PATIENT-REVENUE-CHECKUP-PLAYBOOK.md` |
+| Sales Call Playbook | Complete — v1 | `../03-execution/PATIENT-REVENUE-CHECKUP-PLAYBOOK.md` |
 | Case Study One-Pagers | **Not started** | — |
 
 ---
@@ -195,9 +193,10 @@ Should follow the Allenix brand system (Playfair Display headlines, Libre Basker
 ## Key Constraints
 
 - HIPAA compliance is non-negotiable for any patient-facing automation
-- Must lead with Zenoti and PatientNow. Mindbody and Boulevard are secondary fits.
+- Must work through the client’s existing systems. Do not assume a specific practice software vendor before discovery.
+- AI should be positioned as an enablement layer that helps the client solve recovery problems, not as the front-end offer category.
 - Implementation must be dead simple — front desk adoption is the #1 risk
-- Must deliver measurable ROI within 30 days for Implementation tier
+- Must show measurable movement in agreed recovery metrics during the first 90 days
 - Owner cannot be required to do significant work during implementation
 - Allenix brand system: Playfair Display, Libre Baskerville, IBM Plex Mono. Cyan (#04CCBA) only accent. #faf9f6 background. No animation library.
 
@@ -206,11 +205,10 @@ Should follow the Allenix brand system (Playfair Display headlines, Libre Basker
 ## Next Steps (Prioritized)
 
 ### Phase 1: Offer Finalization (Complete)
-1. ~~Update ICP.md — Priya revenue range to $5M–$15M, multi-location focus~~
+1. ~~Update ICP.md — Priya revenue range to $5M–$25M, multi-location focus~~
 2. ~~Update LIST-BUILDING-STRATEGY.md — ICP filters, Apollo/LinkedIn queries~~
-3. ~~Update HORMOZI-AI-QUESTIONS.md — pricing references throughout~~
-4. ~~Run offer through the Hormozi AI using questions in `HORMOZI-AI-QUESTIONS.md`~~
-5. ~~Refine guarantee structure, value stacks, and bonus stack based on AI feedback~~
+3. ~~Run offer through the Hormozi bot~~
+4. ~~Refine guarantee structure, value stacks, and bonus stack based on AI feedback~~
 6. Build the one-page Audit proposal template
 7. Build the Audit deliverable skeleton: Money Leak Map, Retention Sprint, owner summary
 
