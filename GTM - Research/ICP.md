@@ -137,19 +137,20 @@ Allenix wins by being the option that actually ships results. Not slides. Not to
 
 ## The Avatar: "Priya"
 
-A 42-year-old nurse practitioner or physician who owns a medical spa doing $2M-$8M annual revenue. She built it from a single treatment room 5-7 years ago. She has 8-25 employees across 1-3 locations. She is the top injector and the CEO. She does not have a CMO or COO. Her front desk manager runs the scheduling that nobody optimizes.
+A 45-year-old nurse practitioner or physician who owns a multi-location med spa group doing $5M–$15M annual revenue. She opened her first location 7–10 years ago and has since expanded to 2–5 locations. She has 20–100 employees. She started as the top injector and became the CEO by necessity. She does not have a CMO or COO. Her office managers run the day-to-day at each location, but nobody owns the systems across locations.
 
 ---
 
 ## Demographics
 
-- **Revenue range**: $1M - $10M (sweet spot: $2M - $8M)
-- **Geography**: Gulf South (Houston, Dallas, Nashville, Birmingham, San Antonio) and secondary markets
-- **Industry**: Medical spas, aesthetic practices, medspa-adjacent wellness clinics
-- **Practice age**: 3-10 years (established patient base, growing competition)
-- **Employee count**: 5-50
-- **Decision maker**: Owner-operator (NP, MD, DO, or RN who owns the practice)
-- **Tech maturity**: Uses PatientNow, Zenoti, or Mindbody. Maybe an EMR. Instagram DMs as a CRM. Email marketing through Mailchimp if at all.
+- **Revenue range**: $3M - $20M (sweet spot: $5M - $15M)
+- **Geography**: Gulf South (Houston, Dallas, Nashville, Birmingham, San Antonio) and secondary markets (Atlanta, Phoenix, Denver, Charlotte, Tampa)
+- **Industry**: Medical spa groups, multi-location aesthetic practices, med spa chains
+- **Practice age**: 5-12 years (established patient base, expanded beyond single location)
+- **Employee count**: 20-100
+- **Locations**: 2-5 (the multi-location complexity is the pain trigger)
+- **Decision maker**: Owner-operator (NP, MD, DO, or RN who owns the practice group)
+- **Tech maturity**: Uses Zenoti, PatientNow, or Mindbody across locations (often inconsistently). Maybe an EMR. Instagram for each location. Email marketing through Mailchimp or Klaviyo if at all. Patient data lives in silos by location.
 
 ---
 
@@ -161,21 +162,24 @@ A 42-year-old nurse practitioner or physician who owns a medical spa doing $2M-$
 - "I've tried marketing companies before. They all promise leads and deliver nothing."
 - "I don't have time to learn another software."
 - "The big corporate med spas are going to eat us alive if I don't figure this out."
+- "Managing two (or three, or four) locations shouldn't be this hard."
+- "I can't see what's happening across all my locations in one place."
 
 ### What she fears
 - Losing patients to the new med spa that just opened down the street
 - Wasting money on marketing or technology that her staff won't use
-- Not being able to compete with practices that have bigger budgets
-- Her best injector getting poached by a competitor
-- Revenue being inconsistent month to month
-- Spending all her time running the business instead of doing what she loves
+- Not being able to compete with PE-backed groups that have bigger budgets
+- Her best injector getting poached by a competitor — and taking the patient panel
+- Revenue being inconsistent month to month across locations
+- Spending all her time managing operations instead of growing the business
+- Losing visibility into what's happening at Location 2 or 3 when she's not there
 
 ### What she wants (but won't say directly)
-- Her phone to stop ringing with things her staff should handle
-- A full schedule without having to personally beg patients to rebook
-- To stop losing money to no-shows and cancellations
-- To know exactly what's happening in her practice without digging through reports
-- To feel like she's growing, not just surviving
+- Her phone to stop ringing with things her location managers should handle
+- A full schedule at every location without having to personally beg patients to rebook
+- To stop losing money to no-shows and cancellations (multiplied by each location)
+- To see what's happening across all locations in one dashboard, not 4 separate reports
+- To feel like she's growing a business, not just surviving a workload
 - Her evenings and weekends back
 
 ### How she makes decisions
@@ -189,11 +193,11 @@ A 42-year-old nurse practitioner or physician who owns a medical spa doing $2M-$
 
 ## The Job She's Hiring Allenix To Do
 
-**Primary job**: "My patients spend money once and disappear. I know each one should be worth 5-10x what they're currently spending, but I have no system to make that happen. Fix the money I'm leaving on the table."
+**Primary job**: "My patients spend money once and disappear. Across 3 locations, I'm probably leaving $1M+ a year on the table. I know each patient should be worth 5-10x what they're spending, but I have no system to make that happen — especially across locations. Fix the money I'm leaving on the table."
 
-**Secondary job**: "Stop the bleeding — the no-shows, the unanswered calls, the follow-ups that never happen. Plug the holes."
+**Secondary job**: "Stop the bleeding — the no-shows, the unanswered calls, the follow-ups that never happen. Multiply that by each location and it's out of control. Plug the holes everywhere, not just at the location I'm standing in."
 
-**Latent job**: "Make my practice run without me being involved in every decision, so I can either grow or get my life back."
+**Latent job**: "Make this practice group run without me being involved in every decision at every location, so I can either grow to 5+ locations or get my life back."
 
 ---
 
@@ -207,35 +211,37 @@ She does not say:
 
 She does say:
 - "My front desk can't keep up"
-- "We had 12 no-shows last week"
+- "We had 12 no-shows last week across two locations"
 - "I know I should be doing more marketing but I don't have time"
 - "Patients book once and never come back"
 - "I'm doing everything myself"
-- "I can't see what's going on in my own business"
+- "I can't see what's going on at the other locations when I'm not there"
 - "We're busy but my bank account doesn't show it"
 - "I know these patients should be coming back for more treatments, but they just... don't"
+- "What works at Location 1 doesn't work at Location 2 and I don't know why"
 
 ---
 
 ## Key Pain Points (Ranked by Effort to Solve vs Impact)
 
 ### Tier 1: Quick Wins (Low Effort, High Impact)
-1. **Patient retention and lifetime value** — patients treated once and never re-engaged. No system for rebooking, lifecycle communication, or treatment adherence. She's probably losing more revenue here than anywhere else.
-2. **No-shows and cancellations** — significant revenue lost per missed slot, no automated prevention
-3. **Unanswered calls and slow lead response** — calls go unanswered, inquiries go cold fast
-4. **Poor post-treatment follow-up** — no automated check-ins, review requests, or rebooking prompts
+1. **Patient retention and lifetime value** — patients treated once and never re-engaged. No system for rebooking, lifecycle communication, or treatment adherence. Multiplied by each location. At $5M+ revenue, this is a $500K–$1M/year problem.
+2. **No-shows and cancellations** — significant revenue lost per missed slot, multiplied across locations, no automated prevention
+3. **Unanswered calls and slow lead response** — calls go unanswered during peak hours at every location, inquiries go cold fast
+4. **Poor post-treatment follow-up** — no automated check-ins, review requests, or rebooking prompts — inconsistent across locations
 
 ### Tier 2: Medium Effort, High Impact
-5. **No review generation system** — leaving reputation to chance
-6. **Inconsistent marketing and content** — social media is an afterthought, no email nurture
-7. **Manual reminders and confirmations** — front desk spending hours on phone calls
-8. **Staff onboarding is a burden** — owner trains every new hire personally
+5. **No cross-location visibility** — she can't see a unified dashboard of what's happening at each location. Reports are manual, inconsistent, and late.
+6. **No review generation system** — leaving reputation to chance, inconsistent across locations
+7. **Inconsistent marketing and content** — social media varies by location, no unified email nurture
+8. **Manual reminders and confirmations** — front desk at each location spending hours on phone calls
 
 ### Tier 3: Higher Effort, Significant Impact
-9. **No real-time visibility into practice performance** — reports are weekly at best
-10. **Payment collection and plan management** — chasing outstanding balances
-11. **Inventory waste and stockouts** — expired products, missed treatments
+9. **Staff onboarding is a burden** — owner trains every new hire personally, no standardized process
+10. **Payment collection and plan management** — chasing outstanding balances across locations
+11. **Inventory waste and stockouts** — expired products, missed treatments, no centralized tracking
 12. **Referral program doesn't exist or is manual** — leaving the highest-quality lead source untapped
+13. **Injector retention and patient panel leakage** — when a top injector leaves, patients follow. No system to retain the relationship with the practice, not just the provider.
 
 ---
 
@@ -252,22 +258,23 @@ She does say:
 ## The Conversion Path (How She Gets to the Homepage)
 
 1. A fellow practice owner at an AmSpa event or local medical spa network mentions Allenix
-2. She reads an Allenix Studios piece on LinkedIn about med spa automation
-3. She searches Google for "medical spa AI automation" or "med spa patient retention"
+2. She reads an Allenix Studios piece on LinkedIn about multi-location med spa operations
+3. She searches Google for "medical spa AI automation" or "med spa patient retention" or "multi-location med spa management"
 4. She's referred by a current client
 5. She sees Ali on a med spa industry podcast
+6. A referral partner (PM software rep, pharma rep, equipment rep) makes an intro
 
-She arrives at the homepage already somewhat warm. She doesn't need to be educated on what AI is. She needs to be convinced that Allenix understands her practice specifically and can deliver a fast, measurable result.
+She arrives at the homepage already somewhat warm. She doesn't need to be educated on what AI is. She needs to be convinced that Allenix understands multi-location practice management specifically and can deliver a fast, measurable result across all her locations.
 
 ---
 
 ## What the Homepage Needs to Communicate (in 5 seconds)
 
-1. **"This is for me."** She sees medical spa language, her revenue range, her problems.
-2. **"These people understand my practice."** They speak her language. No generic B2B jargon.
-3. **"They've done this before."** Specific results from similar practices.
-4. **"I can start small."** Not a massive engagement. A conversation. A quick win.
-5. **"This will pay for itself fast."** Clear ROI within 30 days, not 6 months.
+1. **"This is for me."** She sees multi-location med spa language, her revenue range, her problems.
+2. **"These people understand multi-location operations."** They know the pain of managing 2-5 locations. Not just a single clinic.
+3. **"They've done this before."** Specific results from similar practices with dollar amounts.
+4. **"I can start small."** A Practice Audit, not a massive commitment. A conversation first.
+5. **"This will pay for itself fast."** Clear ROI. The audit has a 5x guarantee.
 
 ---
 
@@ -284,21 +291,35 @@ She arrives at the homepage already somewhat warm. She doesn't need to be educat
 
 ## The Competition (What She'd Do Instead of Hiring Allenix)
 
-1. **Nothing.** Keep running on reputation and hope patients keep coming back. (Most likely path.)
-2. **Hire a marketing agency.** Pay $3K-$5K/month for social media posts that don't move the needle.
-3. **Buy another software tool.** Sign up for another subscription her staff won't use.
-4. **Ask her office manager to figure it out.** Add it to an already overloaded plate.
-5. **Attend another conference.** Get inspired, come home, nothing changes.
+1. **Nothing.** Keep running on reputation and hope patients keep coming back. Managing by spreadsheet and intuition. (Most likely path.)
+2. **Hire a marketing agency.** Pay $3K-$5K/month for social media posts that don't move the needle at any location.
+3. **Buy another software tool.** Sign up for another subscription her staff won't use consistently across locations.
+4. **Promote someone internally to "figure it out."** Add it to an already overloaded office manager's plate.
+5. **Attend another conference.** Get inspired, come home, nothing changes at any location.
+6. **Hire a practice management consultant.** Get a 200-slide deck about best practices. No implementation.
 
-Allenix wins by being the option that actually implements results inside her practice. Not advice. Not tools. Someone who makes it work.
+Allenix wins by being the option that actually implements results inside her practice group. Not advice. Not tools. Not slides. Someone who makes it work across every location.
+
+---
+
+## Maturity Phase (WbD Framework)
+
+Every prospect is in one of three phases. The offer she needs depends on where she is.
+
+**Scalable** (1-3 year practices, under $2M): Focused on filling the schedule. Revenue growth = more patients. Probably not ready for Allenix — they still believe the answer is more leads.
+
+**Sustainable** (3-7 year practices, $5M-$15M): **This is Priya.** Revenue is real but margins are compressed. She knows patients are leaking but can't see where. "We're busy but my bank account doesn't show it." She needs the Audit → Implementation path. This is where Allenix makes the strongest case — the retention math is dramatic, the practice has enough revenue to afford the engagement, and the pain is financial, not existential.
+
+**Durable** (target state): Loyal patient base, strong referrals, memberships providing recurring revenue. The owner can step back. This is what the Transformation sells — the aspiration, not the starting point.
 
 ---
 
 ## Key Metrics for This Vertical
 
-- Target: 3 new clients per month
-- Revenue target: ~$5K-$15K MRR per client (lower entry, upsell to full engagement)
+- Target: 3 new Implementation clients per month
+- Revenue target: ~$8K-$15K MRR per client (ramping from $5K–$8K)
 - Outreach volume: ~1,200 ICP contacts per month
-- Pipeline goal: 12 qualified conversations per month
-- Close rate target: 25% (3 of 12)
+- Pipeline goal: 12–15 qualified diagnostic calls per month
+- Close rate target: 20–25% (3 of 12–15)
+- Entry offer: Practice Audit at $3,500–$5,000 (converts to Implementation)
 - Response time expectation: <5 minutes for new leads

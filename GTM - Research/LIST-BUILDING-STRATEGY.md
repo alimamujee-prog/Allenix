@@ -17,20 +17,21 @@ Every contact must match **all** of these:
 
 | Signal | Requirement | Why |
 |--------|-------------|-----|
-| Industry | Medical spa, aesthetic practice, med spa-adjacent wellness clinic | Vertical specificity |
-| Revenue | $1M–$10M (sweet spot $2M–$8M) | Can afford Quick Start, likely to ascend |
-| Employees | 5–50 | Big enough to need automation, small enough to lack systems |
-| Locations | 1–3 | Multi-location signals growth pain |
+| Industry | Medical spa, aesthetic practice, med spa group | Vertical specificity |
+| Revenue | $5M–$15M (sweet spot $5M–$10M) | Can sustain $10–15K/month engagement |
+| Employees | 20–100 | Multi-location complexity, enough scale to need systems |
+| Locations | 2–5 | Multi-location complexity is the pain trigger |
 | Owner type | NP, MD, DO, RN who owns the practice, or entrepreneur-operator | Decision maker, not a committee |
 | Geography | Gulf South first (Houston, Dallas, San Antonio, Nashville, Birmingham), then secondary markets (Atlanta, Phoenix, Denver, Charlotte, Tampa) | Ali's network density, travel efficiency |
-| Online booking | Has online scheduling ( signals tech-readiness) | Easier to integrate automation |
+| Online booking | Has online scheduling (signals tech-readiness) | Easier to integrate automation |
+| Platform | Zenoti or PatientNow preferred | First implementation wedge and cleaner outbound hook |
 | Instagram presence | Active business account | Signals marketing awareness, researchable |
 
 **Exclude:**
-- PE-backed or chain-owned (different buyer, longer sales cycle)
-- Solo practitioners with no staff (too small for automation)
+- PE-backed chains with 10+ locations (enterprise sales motion, different buyer)
+- Solo practitioners or single-location practices under $3M (too small for the offer)
 - Dental spas, chiropractic (adjacent but different workflows)
-- Practices with >5 locations (enterprise sales motion, different play)
+- Franchise models where corporate controls tech decisions
 
 ---
 
@@ -39,7 +40,7 @@ Every contact must match **all** of these:
 ### Primary (Volume + Accuracy)
 
 **1. Apollo.io**
-- Filter: Industry = "Medical Spa" OR "Aesthetics" OR "Cosmetic Surgery", Revenue = $1M–$10M, Employee count = 5–50, Location = target geographies
+- Filter: Industry = "Medical Spa" OR "Aesthetics" OR "Cosmetic Surgery", Revenue = $5M+, Employee count = 20+, Location = target geographies
 - Title targets: Owner, Founder, CEO, Medical Director, Practice Owner
 - Expected yield: 200–400 contacts/month
 - Cost: ~$49–$99/mo for starter plan
@@ -172,7 +173,7 @@ For each contact, capture:
 | Estimated revenue | Apollo estimate | ICP qualification |
 | Employee count | Apollo / LinkedIn | ICP qualification |
 | Number of locations | Website / Google Maps | ICP qualification |
-| Practice management software | Website / job postings | Integration readiness |
+| Practice management software | Website / job postings | Prioritize Zenoti and PatientNow first |
 | Instagram handle | Manual lookup | DM channel, research |
 | Email | Apollo / verification | Cold email |
 | Phone | Apollo / scraping | Follow-up |
@@ -185,22 +186,22 @@ For each contact, capture:
 ## First Three Cities to Target
 
 **Houston** (home market)
-- ~180+ med spas in metro area
+- ~180+ med spas in metro area, ~40+ in the $5M+ range
 - Ali's personal network density
 - Ion District proximity to medical district
-- Can do in-person assessment calls
+- Can do in-person diagnostic calls
 
 **Dallas–Fort Worth**
-- ~200+ med spas in metro area
+- ~200+ med spas in metro area, ~50+ in the $5M+ range
 - 3.5 hour drive from Houston
-- Large NP-owned practice segment
-- Strong Instagram presence among practices
+- Strong multi-location practice segment
+- Less saturated with B2B outreach than coastal markets
 
 **San Antonio**
-- ~80+ med spas in metro area
+- ~80+ med spas in metro area, ~15–20 in the $5M+ range
 - 3 hour drive from Houston
 - Less competitive market (fewer agencies calling)
-- Growing aesthetic market
+- Growing multi-location aesthetic groups
 
 After these three are producing pipeline, expand to Nashville, Birmingham, then Atlanta, Phoenix, Denver.
 
@@ -219,3 +220,20 @@ After these three are producing pipeline, expand to Nashville, Birmingham, then 
 | Meeting no-show rate | <15% | Weekly |
 | Cost per meeting | <$50 | Monthly |
 | List exhaustion rate | <5%/month | Monthly |
+
+---
+
+## First 90-Day Prioritization
+
+The first goal is not maximum volume. It is 3 proof-producing Patient Revenue Recovery Audits.
+
+Prioritize contacts in this order:
+
+1. Multi-location groups using Zenoti.
+2. Multi-location groups using PatientNow.
+3. Warm referrals from AmSpa, pharma reps, equipment reps, and software reps.
+4. Mindbody practices only if they are otherwise a perfect ICP fit.
+
+Use one CTA across all channels:
+
+**Book a 30-minute Patient Revenue Checkup.**
