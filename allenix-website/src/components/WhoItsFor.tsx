@@ -3,14 +3,14 @@ const isYou = [
   'You built it yourself and are still the person clients trust most',
   'You have tried AI tools and seen nothing move in the business',
   'You have hired consultants who gave you a deck and disappeared',
-  'You want a system built inside your business, not handed to you',
+  'You want a system built inside your business, trained into your team',
 ]
 
 const notFor = [
-  'Your firm is below $5M in revenue',
-  'You want to manage the implementation yourself',
-  'You need a marketing agency or SEO service',
-  'You want a strategy document with no execution',
+  'Founders still deciding whether AI is worth it',
+  'Teams who want to build it themselves',
+  'Companies looking for a marketing agency or SEO firm',
+  'Anyone who wants a strategy deck without the implementation',
 ]
 
 export default function WhoItsFor() {
