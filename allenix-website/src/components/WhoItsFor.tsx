@@ -60,7 +60,7 @@ export default function WhoItsFor() {
                   gap: '16px',
                   alignItems: 'flex-start',
                   padding: '16px 0',
-                  borderBottom: i < isYou.length - 1 ? '1px solid rgba(0,200,180,0.15)' : 'none',
+                  borderBottom: i < isYou.length - 1 ? '1px solid var(--col-border)' : 'none',
                 }}>
                   <span style={{
                     fontFamily: 'var(--font-mono)',
