@@ -1,21 +1,21 @@
 const testimonials = [
   {
-    quote: 'The proposal agent alone paid for the engagement in six weeks.',
+    quote: 'Before Allenix, quoting took two days. Now it takes 20 minutes. They built it inside our stack and trained my ops manager in a week. She runs it herself.',
     name: 'COO',
     company: 'MEP Contractor',
-    context: '$18M revenue · Houston, TX',
+    context: '$18M · Houston',
   },
   {
-    quote: 'We finally have a pipeline we can explain. The clarity of the diagnostic was worth it.',
+    quote: 'Three consultants told me to clean my data first. Allenix came in, mapped what we had, and shipped something in the first month.',
     name: 'CEO',
     company: 'Distribution Company',
-    context: '$32M revenue · Gulf Coast',
+    context: '$32M · Texas',
   },
   {
-    quote: "Ali's team didn't just build tools. They rebuilt how we think about growth.",
+    quote: "I wasn't looking for a vendor. I needed someone accountable to the result. That's what this felt like.",
     name: 'Founder',
     company: 'B2B Services Firm',
-    context: '$9M revenue · Southeast',
+    context: '$9M · Houston',
   },
 ]
 
