@@ -94,6 +94,12 @@ Active node state: border `#04CCBA` stroke-width 1.5, fill `#edfaf9`.
 
 ---
 
+## Agentic OS
+
+Marketing projects, content creation, and business operations use Agentic OS at `Agent OS/agentic-os/`. It has skills (copywriting, research, visuals), brand context files, project structure, and session memory. Start Claude from that folder for the full workflow. When working from here, Agentic OS files are still readable at that path.
+
+---
+
 ## Voice rules
 
 - Short sentences. Active voice.

@@ -13,7 +13,7 @@ It is not a free consulting call. It is not a pitch for a retainer. It is a live
 
 Primary close:
 
-**"The next step is the Patient Revenue Recovery Audit. It is $4,800. If we do not find at least 5x that in provable recoverable annual revenue, you do not pay."**
+**"The next step is the Patient Revenue Recovery Audit. It is $4,800. If we do not find at least $50,000 in recoverable annual revenue, you do not pay."**
 
 ---
 
@@ -81,7 +81,9 @@ Use their answers to name likely leak points:
 2. "A 90-day Retention Sprint roadmap with dollar values per play."
 3. "A 1-page owner summary you can show a partner, lender, buyer, or leadership team."
 
-"It is $4,800. If we do not find at least 5x that in provable recoverable annual revenue, you do not pay."
+"You also keep three reports regardless of what you decide next: a Competitive Benchmark of the 5 closest practices, a Treatment Rebooking Calendar customized to your treatment mix, and a Revenue Leak Calculator for your practice."
+
+"It is $4,800. If we do not find at least $50,000 in recoverable annual revenue, you do not pay. You keep the reports either way."
 
 ### 26-30 minutes: Close
 

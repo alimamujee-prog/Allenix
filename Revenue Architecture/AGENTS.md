@@ -9,12 +9,15 @@
 
 ### Level 1: Just Read (no setup needed)
 
-For most WbD questions, read these two files and you're done:
+For most WbD questions, read these five files and you're done:
 
 1. **`05_rag_output/system_prompt_v2.md`** — L1 system prompt (~670 words). Defines your role, routing logic, and response guidelines. Always load this.
-2. **`05_rag_output/L2_knowledge_base.md`** — L2 knowledge base (~20.8K words). Comprehensive synthesis of all WbD models, benchmarks, playbooks, and diagnostics. This covers 95% of questions.
+2. **`05_rag_output/WBD_REASONING_TEMPLATES.md`** — reasoning templates. Use first so answers diagnose like WbD.
+3. **`05_rag_output/WBD_BENCHMARKS.md`** — structured numbers, formulas, thresholds, and confidence notes. Use before fuzzy retrieval for quantitative answers.
+4. **`05_rag_output/WBD_CONCEPT_CARDS.md`** — compact mental models, anti-patterns, and source roles.
+5. **`05_rag_output/L2_knowledge_base.md`** — L2 knowledge base (~20.8K words). Comprehensive synthesis of all WbD models, benchmarks, playbooks, and diagnostics. This covers 95% of questions.
 
-Together they're ~21.5K words — fits easily in any modern LLM context window. No RAG, no Python, no LM Studio needed.
+Together they fit easily in any modern LLM context window. No RAG, no Python, no LM Studio needed.
 
 ### Level 2: Deep Source Retrieval (no special setup)
 
@@ -67,6 +70,9 @@ Revenue Architecture/
 │   └── reconciliation_report.md       ← Cross-source discrepancies found during synthesis
 └── 05_rag_output/
     ├── system_prompt_v2.md            ← L1 system prompt (always load)
+    ├── WBD_REASONING_TEMPLATES.md     ← Thinking templates for WbD-style diagnosis
+    ├── WBD_BENCHMARKS.md              ← Structured benchmark and formula layer
+    ├── WBD_CONCEPT_CARDS.md           ← Mental models, anti-patterns, source roles
     ├── L2_knowledge_base.md           ← L2 knowledge base (always load)
     └── L3_pipeline_spec.md            ← Original pipeline design spec (historical reference)
 ```

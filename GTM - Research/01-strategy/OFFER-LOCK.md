@@ -13,7 +13,7 @@ Use this file over older drafts, prompts, or ad hoc notes.
 
 ## One-Sentence Offer
 
-We help $5M-$25M med spa groups recover lost patient revenue by improving show-up, rebooking, inbound response, and reactivation across their existing systems, starting with a 14-day Audit guaranteed to find at least 5x its fee in recoverable upside or you do not pay.
+We help $5M-$25M med spa groups recover lost patient revenue by improving show-up, rebooking, inbound response, and reactivation across their existing systems, starting with a 14-day Patient Revenue Recovery Audit guaranteed to find at least $50,000 in recoverable revenue or you do not pay.
 
 ---
 
@@ -98,8 +98,10 @@ The V1 promise: **more money from the patients you already have, via visits that
 | Tier | Name | Price | Purpose |
 |---|---|---:|---|
 | 1 | Patient Revenue Recovery Audit | $4,800 | Find and quantify recoverable patient revenue leaks |
-| 2 | Retention Engine Build-Out | $8K/month for 3 months | Install the first recovery system across pilot locations |
-| 3 | Self-Running Med Spa Group Program | $15K/month, 6-month minimum | Expand into broader growth operations after proof |
+| 2a | Retention Engine Build-Out | $8K/month for 3 months | Install the first recovery system across pilot locations |
+| 2b | Retention Retainer | TBD | Ongoing monitoring, optimization, and reporting after build |
+| 3a | Self-Running Med Spa Group Program | $12–15K/month, 6-month minimum | Expand into broader growth operations after proof |
+| 3b | Self-Running Retainer | TBD | Ongoing management of the full system after build |
 
 Do not lead with Tier 3 in outbound or on first calls.
 
@@ -115,23 +117,23 @@ In 14 days, we show exactly where $150K-$600K/year is leaking in missed visits a
 
 - Location-by-location Money Leak Map.
 - Show-up, rebooking, inbound, and reactivation analysis.
-- 90-day Retention Sprint roadmap.
+- 90-day Retention Sprint roadmap with dollar values per play.
 - 1-page owner summary.
 - Audit readout call.
 
 ### Guarantee
 
-If the Audit does not identify at least 5x the Audit fee in annualized, reasonably recoverable revenue opportunity based on historical data, the client may elect not to pay the Audit fee.
+If the Audit does not identify at least $50,000 in reasonably recoverable annual revenue based on your historical data, you do not pay.
 
-### Guarantee Conditions
+### Included Reports
 
-For the guarantee to apply:
+Every Audit includes three reports you keep regardless:
 
-- The client provides at least 12 months of historical scheduling and revenue data for all in-scope locations within 7 days of Audit start.
-- The owner or a designated decision-maker attends the Audit findings meeting within 21 days of Audit start.
-- Recoverable revenue is limited to improvements in show-up rate, rebooking rate, response to inbound inquiries, and reactivation of dormant patients on existing services and pricing.
-- Recoverable revenue does not include hypothetical new locations, new services, or price increases.
-- If the client believes the 5x threshold was not met, they notify Allenix during the findings meeting or in writing within 7 days of that meeting.
+- **Competitive Benchmark Report.** The 5 closest competing med spas — reviews, estimated patient volume, online presence, and response patterns. You see where you stand.
+- **Treatment Rebooking Calendar.** 12-month clinical rebooking schedule customized to your treatment mix. Every optimal follow-up touchpoint mapped out.
+- **Revenue Leak Calculator.** Customized spreadsheet showing retention math for your practice. Use it to track progress after the Audit.
+
+If the Audit finds the opportunity, you are left with a dollar-quantified 90-day roadmap to recover it. If it does not, you keep the reports and pay nothing.
 
 ### Compliance Line
 
@@ -154,29 +156,57 @@ In 90 days, we install the first Patient Revenue Recovery System across agreed p
 - AI-assisted message drafting, segmentation, analysis, and monitoring where useful.
 - Weekly 15-minute performance check-in.
 
-### Simple Guarantee
+### Value Stack
 
-If the pilot locations do not show measurable improvement in the agreed recovery metrics by Day 90, Allenix continues at half fee until they do, for up to 90 more days.
+| Component | Annualized Impact |
+|-----------|-------------------|
+| Treatment-specific rebooking automation | $60K–$200K/year |
+| No-show and cancellation prevention | $36K–$100K/year |
+| Missed inbound capture and response | $18K–$60K/year |
+| Dormant patient reactivation | $50K–$200K/year |
+| Weekly performance reporting | Included |
+| Done-for-you implementation and management | Included |
+| **Total estimated annual impact** | **$164K–$560K/year** |
 
-### Full Guarantee Terms
+Price: $8,000/month ($96K/year). First 90 days installs the core systems. Full year compounds value with larger initiatives built on the baseline. Target: 3–5x return, ideally 10x.
 
-Agreed recovery metrics should include:
+### After the Build-Out
 
-- Show-up rate.
-- Rebooking rate.
-- Inbound response / capture.
-- Reactivation revenue or booked reactivation visits.
+After the initial 3-month build, two paths:
 
-For the guarantee to apply:
+1. **Retention Retainer** (TBD/month). Monitoring, optimization, reporting, quarterly reviews. Keeps the systems running and improving. Lower cost to deliver, recurring revenue for Allenix.
+2. **Upgrade to Tier 3.** For practices that want to expand beyond retention into acquisition, dashboards, membership design, and broader operations.
 
-- The practice does at least $300K/month in total revenue at engagement start.
-- The practice has enough appointment volume to produce a meaningful baseline.
-- The client provides admin-level access or equivalent data exports for scheduling, messaging, and call-tracking systems for in-scope locations.
-- The client approves or reasonably modifies patient messaging and call-handling templates within 10 business days.
-- The client instructs front-desk staff at pilot locations to follow agreed rebooking and follow-up procedures.
-- The client does not materially disable agreed automations, change core software, or radically change hours/pricing without notice.
+Retainer pricing and scope to be defined after first 3–5 clients establish baseline delivery costs and value benchmarks.
 
-Use the simple guarantee in sales calls. Use the full terms in proposals.
+### Guarantee
+
+If the system does not generate at least $50,000 in annualized recovered revenue within 90 days, Allenix works for free until it does.
+
+The $50,000 threshold scales with practice size and engagement scope. Adjust upward as case studies accumulate.
+
+### Proposal Conditions
+
+What the client agrees to in the engagement:
+
+- Provide read access to scheduling, messaging, and call-tracking systems within 7 days.
+- Approve or modify message templates within 10 business days.
+- Instruct front-desk staff at pilot locations to follow agreed rebooking and follow-up procedures.
+- Maintain their own AI tool accounts (Claude Team, etc.) as specified during onboarding.
+- Not disable agreed automations or change core scheduling software without notice.
+
+### Internal Qualification Criteria (Not in any client-facing document)
+
+Before offering the Build-Out, confirm:
+
+- Practice does at least $300K/month in total revenue.
+- Enough appointment volume to produce a meaningful baseline.
+- At least 2 active locations (single-location is Audit-only unless pain is exceptional).
+- Owner or designated decision-maker is directly involved, not delegated to an office manager.
+
+Guarantee math: $50K annualized at $300–$536 average ticket = ~93–167 recovered appointments/year (~8–14/month). At $300K/month revenue, even a 2% improvement across levers clears $50K. The revenue floor protects you; no separate appointment count rule needed.
+
+Use the one-line guarantee in sales calls. Include proposal conditions in the engagement agreement. Use internal criteria to qualify or disqualify during the Checkup call.
 
 ---
 
@@ -194,6 +224,10 @@ Possible scope:
 - Broader operating rhythm and weekly executive reporting.
 
 Do not sell this before trust is earned unless the client is a warm referral with clear urgency and budget.
+
+### After the Build
+
+After the 6-month build, transitions to a **Self-Running Retainer** (TBD/month) covering ongoing management of the full system. Retainer pricing and scope to be defined after first 1–2 Tier 3 engagements.
 
 ---
 
@@ -257,6 +291,8 @@ CTA:
 
 ## Open Questions
 
-- What minimum appointment volume makes the implementation guarantee statistically fair?
 - Which compliance review partner or policy should approve SMS / voice language before launch?
-- Should the first 3 clients receive a founding Audit discount in exchange for case-study rights?
+
+## Founding Client Note
+
+The first 3 clients should receive a founding Audit discount (exact amount TBD) in exchange for permission to use results as case studies. This builds the proof library needed for the landing page, outbound sequences, and future sales calls.
