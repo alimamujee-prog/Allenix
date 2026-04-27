@@ -1,13 +1,23 @@
 export default function LetterFromAli() {
+  const paragraphs = [
+    'Every mid-market founder we talk to says the same thing: \u201cWe know AI matters. We have no idea where to start.\u201d',
+    'They\u2019re running $5M to $50M businesses. Real revenue. Real operations held together by manual workflows and overworked people who just got told to do their day job and figure out AI at the same time.',
+    'They\u2019ve outgrown off-the-shelf tools. They\u2019re too lean for Big 4 consulting. A $400K AI hire isn\u2019t in the budget. Neither is a full-time CTO.',
+    'That\u2019s the gap Allenix exists to close.',
+    'The founders we work with don\u2019t need a pitch. They need a partner who shows up in person, sits with their team, and builds something that actually runs.',
+    'We\u2019re pulling together people who believe AI belongs in the hands of the operators who actually run the economy. One mandate: systems that run inside real businesses, in real operations, every single day.',
+    'Mid-market founders built real businesses. They deserve a real partner.',
+  ]
+
   return (
-    <section className="section-pad" style={{
+    <section className="section-pad section-light" style={{
       padding: '120px 5%',
-      background: 'var(--col-surface)',
+      background: 'var(--col-bg)',
       borderTop: '1px solid var(--col-border)',
     }}>
       <div style={{ maxWidth: '760px', margin: '0 auto' }}>
 
-        <div style={{
+        <div className="reveal" style={{
           fontFamily: 'var(--font-mono)',
           fontSize: '13px',
           letterSpacing: '3px',
@@ -16,30 +26,21 @@ export default function LetterFromAli() {
           marginBottom: '40px',
           fontWeight: 500,
         }}>
-          A note from Ali
+          The Mission
         </div>
 
-        <div style={{
-          borderLeft: '2px solid var(--col-accent)',
-          paddingLeft: '40px',
+        <div className="reveal" data-delay="1" style={{
           display: 'flex',
           flexDirection: 'column' as const,
           gap: '24px',
         }}>
-          {[
-            'We started Allenix for one reason: the companies that should win the AI era are the ones getting left out of it.',
-            "Not because they don't believe in AI. Because they can't find anyone willing to build it with them.",
-            "The founders we work with have already decided. They don't need convincing. They need a partner who shows up, sits with their team, and builds something that actually runs.",
-            "Our team spent careers inside growth-stage companies where AI had to work or the business paid for it. We've seen what survives contact with a real operation and what costs $200K and gets quietly abandoned the moment the vendor leaves.",
-            'Mid-market founders built real businesses. They deserve a real partner.',
-            'We show up in person.',
-          ].map((para, i) => (
+          {paragraphs.map((para, i) => (
             <p key={i} style={{
               fontFamily: 'var(--font-body)',
               fontSize: '17px',
               lineHeight: 1.85,
-              color: i === 5 ? 'var(--col-text-1)' : 'var(--col-text-2)',
-              fontWeight: i === 5 ? 600 : 400,
+              color: 'var(--col-text-1)',
+              fontWeight: i === 6 ? 600 : 400,
             }}>
               {para}
             </p>
@@ -62,7 +63,7 @@ export default function LetterFromAli() {
               textTransform: 'uppercase' as const,
               color: 'var(--col-text-3)',
             }}>
-              Founder, Allenix. Houston.
+              Founder, Allenix.
             </p>
           </div>
         </div>

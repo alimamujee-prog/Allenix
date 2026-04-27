@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Playfair_Display, Libre_Baskerville, IBM_Plex_Mono } from 'next/font/google'
 import Navbar from '@/components/Navbar'
+import ScrollRevealProvider from '@/components/ui/ScrollRevealProvider'
 import './globals.css'
 
 const playfair = Playfair_Display({
@@ -51,7 +52,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={`${playfair.variable} ${baskerville.variable} ${mono.variable}`}>
       <body style={{ background: 'var(--col-bg)', color: 'var(--col-text-2)' }}>
         <Navbar />
+        <ScrollRevealProvider>
         {children}
+        </ScrollRevealProvider>
       </body>
     </html>
   )

@@ -1,6 +1,6 @@
 const testimonials = [
   {
-    quote: 'Before Allenix, quoting took two days. Now it takes 20 minutes. They built it inside our stack and trained my ops manager in a week. She runs it herself.',
+    quote: 'Before Allenix, quoting took two days. Now it takes 15 minutes. They built it inside our stack and trained my ops manager in a week. She runs it herself.',
     name: 'COO',
     company: 'MEP Contractor',
     context: '$18M · Houston',
@@ -21,15 +21,14 @@ const testimonials = [
 
 export default function Testimonials() {
   return (
-    <section className="section-pad" style={{
+    <section className="section-pad section-light" style={{
       padding: '120px 5%',
       background: 'var(--col-surface)',
       borderTop: '1px solid var(--col-border)',
     }}>
       <div style={{ maxWidth: '1100px', margin: '0 auto' }}>
 
-        {/* Header */}
-        <div style={{ marginBottom: '72px' }}>
+        <div className="reveal" style={{ marginBottom: '72px' }}>
           <div style={{
             fontFamily: 'var(--font-mono)',
             fontSize: '16px',
@@ -54,14 +53,15 @@ export default function Testimonials() {
           </h2>
         </div>
 
-        {/* Cards */}
         <div className="mob-grid-1" style={{
           display: 'grid',
           gridTemplateColumns: 'repeat(3, 1fr)',
           gap: '24px',
         }}>
-          {testimonials.map((t) => (
-            <TestimonialCard key={t.company} {...t} />
+          {testimonials.map((t, i) => (
+            <div key={t.company} className="reveal" data-delay={String(i + 1) as '1' | '2' | '3'}>
+              <TestimonialCard {...t} />
+            </div>
           ))}
         </div>
       </div>
@@ -72,14 +72,32 @@ export default function Testimonials() {
 function TestimonialCard({ quote, name, company, context }: typeof testimonials[0]) {
   return (
     <div className="mob-pad-card" style={{
-      background: 'var(--col-bg)',
+      background: 'var(--col-surface)',
       border: '1px solid var(--col-border)',
       padding: '40px 36px',
-      borderLeft: '2px solid var(--col-accent)',
       display: 'flex',
       flexDirection: 'column',
       gap: '32px',
+      position: 'relative',
+      overflow: 'hidden',
     }}>
+      {/* Large decorative quote mark */}
+      <span style={{
+        position: 'absolute',
+        top: '16px',
+        left: '28px',
+        fontFamily: 'var(--font-display)',
+        fontSize: '96px',
+        lineHeight: 1,
+        color: 'var(--col-accent)',
+        opacity: 0.12,
+        userSelect: 'none',
+        pointerEvents: 'none',
+        fontWeight: 900,
+      }}>
+        &ldquo;
+      </span>
+
       <p style={{
         fontFamily: 'var(--font-body)',
         fontStyle: 'italic',
@@ -87,13 +105,17 @@ function TestimonialCard({ quote, name, company, context }: typeof testimonials[
         lineHeight: 1.8,
         color: 'var(--col-text-1)',
         flex: 1,
+        position: 'relative',
+        zIndex: 1,
+        paddingTop: '16px',
       }}>
         &ldquo;{quote}&rdquo;
       </p>
+
       <div>
         <div style={{
           fontFamily: 'var(--font-mono)',
-          fontSize: '16px',
+          fontSize: '13px',
           fontWeight: 500,
           letterSpacing: '1.5px',
           textTransform: 'uppercase',
@@ -104,7 +126,7 @@ function TestimonialCard({ quote, name, company, context }: typeof testimonials[
         </div>
         <div style={{
           fontFamily: 'var(--font-mono)',
-          fontSize: '13px',
+          fontSize: '12px',
           letterSpacing: '1px',
           textTransform: 'uppercase',
           color: 'var(--col-text-2)',
@@ -114,7 +136,7 @@ function TestimonialCard({ quote, name, company, context }: typeof testimonials[
         </div>
         <div style={{
           fontFamily: 'var(--font-mono)',
-          fontSize: '12px',
+          fontSize: '11px',
           letterSpacing: '0.5px',
           color: 'var(--col-text-3)',
         }}>

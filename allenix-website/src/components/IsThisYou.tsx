@@ -116,7 +116,7 @@ export default function IsThisYou() {
               marginBottom: '20px',
               fontWeight: 500,
             }}>
-              Your Ops Lead
+              The Operator
             </div>
             <p style={{
               fontFamily: 'var(--font-body)',
@@ -126,13 +126,13 @@ export default function IsThisYou() {
               fontWeight: 600,
               marginBottom: '32px',
             }}>
-              They hold this company together. They&apos;ve been doing it for years.
+              You hold the company together. You&apos;ve been doing it for years.
             </p>
             <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '0' }}>
               {[
-                'Every gap. Every bottleneck. Every place the business leaks time. She knows exactly where it lives.',
-                'The last rollout landed in her lap with no training and a manual that didn\u2019t match reality.',
-                'She wants to learn. She\u2019s ready. She needs a team willing to show up and build alongside her.',
+                'Every gap. Every bottleneck. Every place the business leaks time. You know exactly where it lives.',
+                'The last rollout landed in your lap with no training and a manual that didn\u2019t match reality.',
+                'You want to learn. You want to level up. You need a team willing to show up and build alongside you.',
               ].map((item, i, arr) => (
                 <li key={i} style={{
                   display: 'flex',

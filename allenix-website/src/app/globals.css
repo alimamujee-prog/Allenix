@@ -10,8 +10,8 @@
   --col-border:       #1e2730;
   --col-border-2:     #2a3540;
   --col-text-1:       #f0f2f4;
-  --col-text-2:       #8a9bb0;
-  --col-text-3:       #5a6b7e;
+  --col-text-2:       #d8e4ef;
+  --col-text-3:       #8a9bb0;
   --col-accent:       #00c8b4;
   --col-accent-dim:   #007d74;
   --col-accent-bg:    #041e1c;
@@ -117,6 +117,29 @@ a:focus-visible {
   border-color: var(--col-accent-dim);
 }
 
+/* ─── Light section override ─────────────────────────────────────────────── */
+.section-light {
+  --col-bg:        #faf9f6;
+  --col-surface:   #f2f0eb;
+  --col-surface-2: #e8e6e1;
+  --col-border:    #d4d0c8;
+  --col-border-2:  #c0bcb4;
+  --col-text-1:    #0d0d0d;
+  --col-text-2:    #1a1a1a;
+  --col-text-3:    #666666;
+  --col-accent:    #007d74;
+  --col-accent-dim:#005c55;
+  --col-accent-bg: #edfaf9;
+}
+
+.section-light .shiny-cta {
+  --shiny-cta-bg:               #007d74;
+  --shiny-cta-bg-subtle:        #005c55;
+  --shiny-cta-fg:               #ffffff;
+  --shiny-cta-highlight:        #9eeee8;
+  --shiny-cta-highlight-subtle: #00c8b4;
+}
+
 /* ─── Manifesto — brighter text for readability ─────────────────────────── */
 .manifesto-page {
   --col-text-2: #dce6f0;
@@ -175,6 +198,37 @@ a:focus-visible {
 .expand-grid[data-open="false"] { grid-template-rows: 0fr; opacity: 0; }
 .expand-grid[data-open="true"]  { grid-template-rows: 1fr; opacity: 1; }
 .expand-grid > * { overflow: hidden; }
+
+/* ─── Scroll reveal ──────────────────────────────────────────────────────── */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.65s ease-out, transform 0.65s ease-out;
+}
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.reveal[data-delay="1"] { transition-delay: 0.10s; }
+.reveal[data-delay="2"] { transition-delay: 0.20s; }
+.reveal[data-delay="3"] { transition-delay: 0.30s; }
+.reveal[data-delay="4"] { transition-delay: 0.40s; }
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* ─── Who It's For cards ─────────────────────────────────────────────────── */
+.who-card {
+  transition: transform 150ms ease-out, box-shadow 150ms ease-out;
+}
+.who-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 48px rgba(0,0,0,0.10), 0 2px 8px rgba(0,0,0,0.06) !important;
+}
 
 /* ─── Section divider ────────────────────────────────────────────────────── */
 .section-divider {
@@ -452,8 +506,8 @@ a:focus-visible {
   /* Navbar — slim on mobile: 10px pad + 51px logo = ~71px total height */
   .nav-header { padding: 10px 5% !important; }
   .nav-logo { height: 51px !important; width: auto !important; }
-  /* Hamburger — tighter tap target padding on mobile */
-  .mob-show-flex.nav-hamburger { padding: 4px !important; }
+  /* Hamburger — 44px minimum touch target (24px icon + 10px each side) */
+  .mob-show-flex.nav-hamburger { padding: 10px !important; }
 
   /* Navbar — hide desktop nav + CTA on mobile */
   .mob-hide { display: none !important; }
@@ -461,9 +515,10 @@ a:focus-visible {
   /* Navbar — show hamburger button on mobile */
   .mob-show-flex { display: flex !important; }
 
-  /* Footer — stack nav links vertically on mobile */
+  /* Footer — stack nav links vertically on mobile with 44px touch targets */
   .mob-flex-col { flex-direction: column !important; align-items: flex-start !important; }
-  .mob-gap-24 { gap: 24px !important; }
+  .mob-flex-col .nav-link { min-height: 44px; display: flex; align-items: center; }
+  .mob-gap-24 { gap: 8px !important; }
 
   /* UnitExplorer process grid — tighter gap on mobile */
   .mob-gap-32 { gap: 32px !important; }

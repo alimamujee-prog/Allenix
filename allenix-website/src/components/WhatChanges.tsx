@@ -1,21 +1,28 @@
 const outcomes = [
-  'Revenue grows. Headcount stays flat.',
-  "The business runs when you step out of it.",
-  "Your ops lead's institutional knowledge is inside the system. The company stops being fragile.",
-  'You walk into every partner conversation with a number that\'s real.',
-  'Three years from now, you\'re the one your peers are calling.',
+  {
+    n: '01',
+    text: "You\u2019ve weaponized your team with new AI superpowers.",
+  },
+  {
+    n: '02',
+    text: 'Revenue grows. More customers close. Margins improve. We put a number on every result before we build and measure it after.',
+  },
+  {
+    n: '03',
+    text: "Your ops lead\u2019s institutional knowledge is inside the system. The company stops being fragile.",
+  },
 ]
 
 export default function WhatChanges() {
   return (
     <section className="section-pad" style={{
       padding: '120px 5%',
-      background: 'var(--col-surface)',
+      background: 'var(--col-bg)',
       borderTop: '1px solid var(--col-border)',
     }}>
       <div style={{ maxWidth: '1100px', margin: '0 auto' }}>
 
-        <div style={{
+        <div className="reveal" style={{
           fontFamily: 'var(--font-mono)',
           fontSize: '13px',
           letterSpacing: '3px',
@@ -27,7 +34,7 @@ export default function WhatChanges() {
           What changes
         </div>
 
-        <h2 style={{
+        <h2 className="reveal" data-delay="1" style={{
           fontFamily: 'var(--font-display)',
           fontWeight: 900,
           fontSize: 'clamp(28px, 3.5vw, 44px)',
@@ -35,38 +42,47 @@ export default function WhatChanges() {
           letterSpacing: '-1px',
           color: 'var(--col-text-1)',
           maxWidth: '640px',
-          marginBottom: '64px',
+          marginBottom: '72px',
         }}>
           What changes when you get this right.
         </h2>
 
-        <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '0', maxWidth: '760px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '0' }}>
           {outcomes.map((item, i) => (
-            <li key={i} style={{
+            <div key={i} className="reveal" data-delay={String(i + 1) as '1' | '2' | '3'} style={{
               display: 'flex',
-              gap: '24px',
+              gap: '40px',
               alignItems: 'flex-start',
-              padding: '24px 0',
+              padding: '40px 0',
               borderBottom: i < outcomes.length - 1 ? '1px solid var(--col-border)' : 'none',
             }}>
               <span style={{
-                fontFamily: 'var(--font-mono)',
-                fontSize: '14px',
+                fontFamily: 'var(--font-display)',
+                fontStyle: 'italic',
+                fontSize: 'clamp(48px, 6vw, 80px)',
+                fontWeight: 900,
+                lineHeight: 1,
                 color: 'var(--col-accent)',
-                marginTop: '3px',
+                opacity: 0.9,
                 flexShrink: 0,
-              }}>→</span>
+                minWidth: '100px',
+                userSelect: 'none',
+              }}>
+                {item.n}
+              </span>
               <span style={{
                 fontFamily: 'var(--font-body)',
-                fontSize: '18px',
-                lineHeight: 1.75,
+                fontSize: 'clamp(18px, 2vw, 24px)',
+                lineHeight: 1.6,
                 color: 'var(--col-text-1)',
+                fontWeight: 400,
+                paddingTop: '16px',
               }}>
-                {item}
+                {item.text}
               </span>
-            </li>
+            </div>
           ))}
-        </ul>
+        </div>
       </div>
     </section>
   )

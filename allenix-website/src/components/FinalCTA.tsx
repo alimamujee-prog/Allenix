@@ -19,7 +19,7 @@ export default function FinalCTA() {
         gap: '40px',
       }}>
 
-        <h2 style={{
+        <h2 className="reveal" style={{
           fontFamily: 'var(--font-display)',
           fontWeight: 900,
           fontSize: 'clamp(28px, 3.5vw, 44px)',
@@ -27,10 +27,10 @@ export default function FinalCTA() {
           letterSpacing: '-1px',
           color: 'var(--col-text-1)',
         }}>
-          If you&apos;ve already decided, let&apos;s build.
+          If you&apos;ve already decided, let&apos;s get started.
         </h2>
 
-        <p style={{
+        <p className="reveal" data-delay="1" style={{
           fontFamily: 'var(--font-display)',
           fontStyle: 'italic',
           fontSize: 'clamp(18px, 2.2vw, 26px)',
@@ -38,10 +38,10 @@ export default function FinalCTA() {
           color: 'var(--col-accent)',
           maxWidth: '600px',
         }}>
-          One question before the call. If you took three weeks off tomorrow, what breaks first? That is where we start.
+          One question before the call. If you took four weeks off tomorrow, what breaks first? That is where we start.
         </p>
 
-        <div style={{
+        <div className="reveal" data-delay="2" style={{
           display: 'flex',
           gap: '16px',
           alignItems: 'center',
@@ -51,12 +51,6 @@ export default function FinalCTA() {
           <ShinyButton href="https://calendly.com/d/cx2q-z3v-zxv/meet-allenix" target="_blank" rel="noopener noreferrer">
             Book a Strategy Call
           </ShinyButton>
-          <a
-            href="mailto:ali@allenix.com"
-            className="about-secondary-link"
-          >
-            ali@allenix.com
-          </a>
         </div>
 
       </div>

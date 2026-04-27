@@ -79,7 +79,7 @@ export default function Hero() {
           textShadow: '0 2px 16px rgba(6,8,10,0.9)',
           animation: ANIM('0.28s'),
         }}>
-          For $5M–$50M founder-led companies ready to act. We embed inside your business, build the AI system that runs it, and train your team to own it. In person. Start to finish.
+          For $5M–$50M founder-led companies ready to act. We build AI systems and train your team to own it.
         </p>
 
         {/* CTAs */}
