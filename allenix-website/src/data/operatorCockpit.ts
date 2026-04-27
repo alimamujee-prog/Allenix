@@ -5,7 +5,7 @@ import type {
   ProjectionInputs,
   ScenarioKey,
   WeeklyActual,
-} from '../lib/operator-cockpit'
+} from '@/lib/operator-cockpit'
 
 const goal: GoalConfig = {
   targetArr: 250000000,

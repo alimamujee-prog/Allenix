@@ -15,6 +15,13 @@
   --col-accent:       #00c8b4;
   --col-accent-dim:   #007d74;
   --col-accent-bg:    #041e1c;
+
+  /* Dashboard semantic colors */
+  --col-gold:         #f5c26b;
+  --col-blue:         #7c9dfb;
+  --col-tertiary:     #dbe5ee;
+  --col-warning:      #ff9ca6;
+  --col-accent-light: #7dd3c7;
 }
 
 @layer base {
@@ -561,4 +568,79 @@ a:focus-visible {
 @media (max-width: 768px) {
   .magnolia-desktop-demo { display: none !important; }
   .magnolia-mobile-carousel { display: block !important; }
+}
+
+/* ─── Model page layout ───────────────────────────────────────────────────── */
+.model-shell {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  margin-top: 80px;
+}
+
+@media (max-width: 1024px) {
+  .model-shell {
+    grid-template-columns: 1fr;
+  }
+}
+
+.model-sidebar {
+  position: static;
+}
+
+@media (max-width: 1024px) {
+  .model-sidebar {
+    position: static;
+  }
+}
+
+.model-main {
+  padding: 32px;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .model-main {
+    padding: 20px 16px;
+  }
+  .model-shell {
+    margin-top: 70px;
+    min-height: calc(100vh - 70px);
+  }
+}
+
+.model-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+}
+
+@media (max-width: 768px) {
+  .model-summary-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.model-chart-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 18px;
+}
+
+@media (max-width: 768px) {
+  .model-chart-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.model-events-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+@media (max-width: 768px) {
+  .model-events-grid {
+    grid-template-columns: 1fr;
+  }
 }

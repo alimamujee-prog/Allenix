@@ -19,7 +19,7 @@ import {
   type ProjectionMonth,
   type ScenarioKey,
   type WeeklyActual,
-} from '../../lib/operator-cockpit'
+} from '@/lib/operator-cockpit'
 
 type ChartSeries = {
   label: string
@@ -393,8 +393,8 @@ function ToggleRow({
         border: '1px solid var(--col-border)',
         padding: '12px 12px',
         cursor: 'pointer',
-      textAlign: 'left',
-    }}
+        textAlign: 'left',
+      }}
     >
       <div>
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '3px' }}>
@@ -595,17 +595,17 @@ function LineChart({
   const yPosition = (value: number) => pad.top + plotHeight - ((value - minValue) / range) * plotHeight
   const hoveredPoint = hoverIndex !== null ? points[hoverIndex] : null
   const hoveredEvents = hoveredPoint ? (markers ?? []).filter((event) => event.month === hoveredPoint.month) : []
-  const tooltipWidth = 320
+  const tooltipWidth = 380
   const tooltipHeight = hoverIndex !== null
-    ? 82 + series.filter((item) => item.values[hoverIndex] !== null).length * 30 + hoveredEvents.length * 22
+    ? 90 + series.filter((item) => item.values[hoverIndex] !== null).length * 34 + hoveredEvents.length * 26
     : 0
   const tooltipAnchorX = hoverIndex !== null ? xPosition(hoverIndex) : 0
   const tooltipOnRight = hoverIndex !== null ? hoverIndex < Math.floor(points.length / 2) : true
   const tooltipX = hoverIndex === null
     ? 0
     : tooltipOnRight
-      ? Math.min(tooltipAnchorX + 20, width - tooltipWidth - 10)
-      : Math.max(tooltipAnchorX - tooltipWidth - 20, 10)
+      ? Math.min(tooltipAnchorX + 20, width - tooltipWidth - 20)
+      : Math.max(tooltipAnchorX - tooltipWidth - 20, 20)
   const tooltipY = pad.top + 14
 
   return (
@@ -712,18 +712,18 @@ function LineChart({
 
             <g transform={`translate(${tooltipX}, ${tooltipY})`}>
               <rect width={tooltipWidth} height={tooltipHeight} rx="10" fill="rgba(6, 8, 10, 0.985)" stroke="var(--col-border-2)" />
-              <text x="18" y="28" fill="#dbe5ee" fontSize="15" fontFamily="var(--font-mono)" letterSpacing="1px">
+              <text x="18" y="32" fill="#dbe5ee" fontSize="22" fontFamily="var(--font-mono)" letterSpacing="1px">
                 {hoveredPoint.label}
               </text>
-              <text x="18" y="48" fill="#8a9bb0" fontSize="13" fontFamily="var(--font-mono)">
+              <text x="18" y="54" fill="#8a9bb0" fontSize="18" fontFamily="var(--font-mono)">
                 {hoveredPoint.sublabel}
               </text>
               {series
                 .filter((item) => item.values[hoverIndex] !== null)
                 .map((item, index) => (
-                  <g key={`tooltip-${item.label}`} transform={`translate(0, ${74 + index * 30})`}>
-                    <rect x="18" y="-9" width="18" height="5" fill={item.color} />
-                    <text x="46" y="0" fill="#dbe5ee" fontSize="15" fontFamily="var(--font-mono)">
+                  <g key={`tooltip-${item.label}`} transform={`translate(0, ${82 + index * 34})`}>
+                    <rect x="18" y="-10" width="20" height="6" fill={item.color} />
+                    <text x="46" y="0" fill="#dbe5ee" fontSize="22" fontFamily="var(--font-mono)">
                       {item.label}: {yFormatter(item.values[hoverIndex] ?? 0)}
                     </text>
                   </g>
@@ -731,9 +731,9 @@ function LineChart({
               {hoveredEvents.map((event, index) => {
                 const toneColor = event.tone === 'positive' ? 'var(--col-accent)' : event.tone === 'caution' ? '#ff9ca6' : '#dbe5ee'
                 return (
-                  <g key={`tooltip-event-${event.title}`} transform={`translate(0, ${74 + series.filter((item) => item.values[hoverIndex] !== null).length * 30 + index * 22})`}>
-                    <circle cx="24" cy="-5" r="5" fill={toneColor} />
-                    <text x="46" y="0" fill={toneColor} fontSize="13" fontFamily="var(--font-mono)">
+                  <g key={`tooltip-event-${event.title}`} transform={`translate(0, ${82 + series.filter((item) => item.values[hoverIndex] !== null).length * 34 + index * 26})`}>
+                    <circle cx="26" cy="-6" r="6" fill={toneColor} />
+                    <text x="50" y="0" fill={toneColor} fontSize="18" fontFamily="var(--font-mono)">
                       {event.title}
                     </text>
                   </g>
