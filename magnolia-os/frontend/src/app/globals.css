@@ -1,0 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── Design tokens — dark mode (Allenix theme) ─────────────────────────────────────────── */
+:root {
+  --col-bg:           #06080a;
+  --col-surface:      #0d1117;
+  --col-surface-2:    #131920;
+  --col-border:       #1e2730;
+  --col-border-2:     #2a3540;
+  --col-text-1:       #f0f2f4;
+  --col-text-2:       #8a9bb0;
+  --col-text-3:       #5a6b7e;
+  --col-accent:       #00c8b4;
+  --col-accent-dim:   #007d74;
+  --col-accent-bg:    #041e1c;
+
+  --font-display: 'Playfair Display', serif;
+  --font-body: 'Libre Baskerville', serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+}
+
+@layer base {
+  html {
+    background-color: var(--col-bg);
+    color: var(--col-text-2);
+  }
+  body {
+    font-family: var(--font-body), Georgia, serif;
+    font-size: 16px;
+    line-height: 1.75;
+    letter-spacing: 0.01em;
+    background-color: var(--col-bg);
+    color: var(--col-text-2);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  *, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* ─── Focus ring ─────────────────────────────────────────────────────────── */
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--col-accent);
+  outline-offset: 3px;
+}
+
+/* ─── Typography utilities ────────────────────────────────────────────────── */
+h1, h2, h3, h4, .font-display {
+  font-family: var(--font-display);
+  font-weight: 900;
+  color: var(--col-text-1);
+}
+
+.font-mono {
+  font-family: var(--font-mono);
+}
+
+/* ─── Surface utilities ────────────────────────────────────────────────────── */
+.bg-surface {
+  background-color: var(--col-surface);
+}
+
+.bg-surface-2 {
+  background-color: var(--col-surface-2);
+}
+
+.border-main {
+  border-color: var(--col-border);
+}
+
+.border-main-2 {
+  border-color: var(--col-border-2);
+}
+
+.text-accent {
+  color: var(--col-accent);
+}
+
+.bg-accent {
+  background-color: var(--col-accent);
+}
+
+.bg-accent-wash {
+  background-color: var(--col-accent-bg);
+}
+
+/* ─── Shiny Button (simplified from Allenix website) ─────────────────────────── */
+.btn-shiny {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  padding: 14px 32px;
+  font-family: var(--font-mono), monospace;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 1px solid transparent;
+  color: #06080a;
+  background: #ffffff;
+  transition: all 150ms ease-out;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4), 0 1px 6px rgba(0,200,180,0.15);
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.btn-shiny:hover {
+  background: #e0faf7;
+  border-color: #e0faf7;
+  transform: translateY(-1px);
+}
+
+.btn-shiny:active {
+  transform: translateY(0);
+}
+
+/* ─── Section divider ────────────────────────────────────────────────────── */
+.section-divider {
+  width: 40px;
+  height: 2px;
+  background: var(--col-accent);
+  margin-bottom: 32px;
+}
+
+/* ─── Reduced motion ─────────────────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  * { transition-duration: 0ms !important; animation-duration: 0ms !important; }
+}

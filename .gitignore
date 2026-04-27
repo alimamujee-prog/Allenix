@@ -42,3 +42,6 @@ allenix-website/tsconfig.tsbuildinfo
 
 # Sensitive legal/tax documents — keep local only
 Formation Documents/
+
+# Agent Zero project state — keep local only
+.a0proj/

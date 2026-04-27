@@ -94,6 +94,26 @@ Active node state: border `#04CCBA` stroke-width 1.5, fill `#edfaf9`.
 
 ---
 
+## Agentic OS (Magnolia)
+
+Magnolia OS is the internal engine for Allenix operations. Research, patterns, and framework references live in `/magnolia-os/agent-frameworks/`:
+
+- **Agent Zero** — Personal agent system research
+- **Paperclip** — Cost tracking and agentic economics patterns
+- **Archon** — Workflow execution engine (deployed via Docker, integrated at `/backend/src/lib/archon/`)
+
+Start Claude from `/magnolia-os/agent-frameworks/` or `Agent OS/agentic-os/` for agentic workflow sessions.
+
+**Production stack:**
+- Backend: Hono (TypeScript)
+- Frontend: Next.js 14 App Router
+- Execution: Archon (Docker)
+- Database: PostgreSQL
+
+See `/magnolia-os/agent-frameworks/AGENTS.md` for complete framework documentation.
+
+---
+
 ## Voice rules
 
 - Short sentences. Active voice.

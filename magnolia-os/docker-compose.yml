@@ -1,0 +1,13 @@
+services:
+  # The Magnolia Business API
+  backend:
+    build: ./backend
+    ports:
+      - "3001:3000"
+    volumes:
+      - ./backend:/app
+      - magnolia_db:/app/data
+    working_dir: /app
+
+volumes:
+  magnolia_db:

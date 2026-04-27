@@ -1,0 +1,108 @@
+name: "Magnolia Workflow Validator"
+description: "Validate any Magnolia workflow YAML for syntax, structure, and compliance with Allenix patterns."
+
+nodes:
+  - id: read_workflow
+    bash: |
+      FILE_PATH="${1:-$ARGUMENTS}"
+      if [ -z "$FILE_PATH" ]; then
+        echo "Error: No workflow file specified"
+        exit 1
+      fi
+      cat "$FILE_PATH"
+    timeout: 5000
+
+  - id: validate_syntax
+    depends_on: [read_workflow]
+    prompt: |
+      Validate this YAML workflow for syntax errors:
+      $read_workflow.output
+
+      Check for:
+      - Valid YAML parsing
+      - Required fields: name, description, nodes
+      - Each node has exactly one of: command, prompt, bash, script, loop, approval, cancel
+
+      Output: SYNTAX_OK or specific syntax errors.
+    model: haiku
+    allowed_tools: []
+
+  - id: validate_structure
+    depends_on: [validate_syntax]
+    prompt: |
+      Validate the workflow structure:
+      $read_workflow.output
+
+      Checks:
+      1. All node IDs are unique
+      2. All depends_on reference valid node IDs
+      3. No circular dependencies
+      4. No orphaned nodes (all paths lead to end)
+
+      Output: STRUCTURE_OK or specific structural errors.
+    model: sonnet
+    allowed_tools: []
+    when: "$validate_syntax.output == 'SYNTAX_OK'"
+
+  - id: validate_archon_compliance
+    depends_on: [validate_structure]
+    prompt: |
+      Validate Archon compliance:
+      $read_workflow.output
+
+      Checks:
+      1. Approval nodes have approval.message: (non-empty)
+      2. If approval nodes exist, workflow has interactive: true
+      3. Script nodes have runtime: bun or runtime: uv
+      4. Loop nodes have until: and max_iterations:
+      5. Cancel nodes have non-empty reason
+
+      Output: ARCHON_OK or specific compliance errors.
+    model: sonnet
+    allowed_tools: []
+    when: "$validate_structure.output == 'STRUCTURE_OK'"
+
+  - id: validate_allenix_patterns
+    depends_on: [validate_archon_compliance]
+    prompt: |
+      Validate Allenix workflow patterns:
+      $read_workflow.output
+
+      Checks:
+      1. Soul-Rich workflows load brand_context/allenix-media/media-voice.md
+      2. Analysis nodes use 'Blood on the floor' language
+      3. Agentic verification nodes exist for content workflows
+      4. Approval gates at logical checkpoints (not every node)
+      5. Node names use kebab-case
+      6. Descriptions are one-line and descriptive
+
+      Output: ALLENIX_OK or pattern recommendations.
+    model: sonnet
+    allowed_tools: []
+    when: "$validate_archon_compliance.output == 'ARCHON_OK'"
+
+  - id: generate_report
+    depends_on: [validate_syntax, validate_structure, validate_archon_compliance, validate_allenix_patterns]
+    prompt: |
+      Generate a validation report.
+
+      Results:
+      - Syntax: $validate_syntax.output
+      - Structure: $validate_structure.output
+      - Archon: $validate_archon_compliance.output
+      - Allenix: $validate_allenix_patterns.output
+
+      Format as:
+      ```
+      ✅ PASS / ❌ FAIL
+
+      ## Summary
+      [One-line status]
+
+      ## Details
+      [Any errors or recommendations]
+
+      ## Action Items
+      [What to fix, if anything]
+      ```
+    model: sonnet

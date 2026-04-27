@@ -1,0 +1,639 @@
+name: "forge-workflow"
+description: |
+  Use when: Creating new Magnolia/Allenix business workflows.
+  Triggers: "create a workflow", "make a workflow", "build a workflow for", "workflow builder", "new workflow", "forge a workflow".
+  Does: Scans codebase -> classifies intent -> routes to QUICK or STANDARD path -> generates YAML -> validates -> human review -> saves.
+  Based on: Archon workflow-builder pattern with business-user-friendly gates.
+  NOT for: Editing existing workflows (use "refine-workflow" skill).
+
+nodes:
+  # ============================================================
+  # PHASE 1: SCAN & CONTEXT GATHERING
+  # ============================================================
+
+  - id: baseline-scan
+    bash: |
+      echo "=== Existing Magnolia Workflows ==="
+      if [ -d "workflows" ]; then
+        find workflows -type f -name "*.yaml" 2>/dev/null | head -20
+      else
+        echo "(no workflows/ directory)"
+      fi
+
+      echo ""
+      echo "=== Archon Template Workflows (proven patterns) ==="
+      if [ -d "../archon/.archon/workflows/defaults" ]; then
+        ls -1 ../archon/.archon/workflows/defaults/ 2>/dev/null | head -20
+      else
+        echo "(archon templates not found)"
+      fi
+
+      echo ""
+      echo "=== Project Conventions (CLAUDE.md) ==="
+      if [ -f "CLAUDE.md" ]; then
+        head -30 CLAUDE.md
+      else
+        echo "(no CLAUDE.md)"
+      fi
+
+      echo ""
+      echo "=== Allenix Brand Context ==="
+      if [ -d "brand_context/allenix-media" ]; then
+        find brand_context/allenix-media -type f -name "*.md" 2>/dev/null | head -15
+      else
+        echo "(no brand_context/allenix-media)"
+      fi
+    timeout: 10000
+
+  - id: context-gate
+    approval:
+      message: |
+        ## Baseline scan complete.
+
+        Should I scan additional folders for context?
+
+        **Available folders:**
+        - GTM Research/ (market research, positioning)
+        - Revenue Architecture/ (offer structures, pricing)
+        - Agent OS/agentic-os/ (skills, brand context)
+        - brand_context/ (voice guidelines, ICPs)
+
+        **Reply with:**
+        - Folder names separated by commas (e.g., "GTM Research/, brand_context/")
+        - "none" to skip additional scanning
+      capture_response: true
+    depends_on: [baseline-scan]
+
+  - id: context-scan
+    bash: |
+      IFS=',' read -ra FOLDERS <<< "$context-gate.output"
+      for folder in "${FOLDERS[@]}"; do
+        # Trim whitespace
+        folder=$(echo "$folder" | xargs)
+        if [ -d "$folder" ]; then
+          echo "=== $folder ==="
+          find "$folder" -type f \( -name "*.md" -o -name "*.txt" \) 2>/dev/null | head -10
+        fi
+      done
+    timeout: 15000
+    depends_on: [context-gate]
+    when: "$context-gate.output != 'none' && $context-gate.output != 'None' && $context-gate.output != ''"
+
+  # ============================================================
+  # PHASE 2: CLASSIFY
+  # ============================================================
+
+  - id: classify
+    prompt: |
+      You are a workflow design classifier. Analyze the user's request and determine the best approach.
+
+      ## User's Request
+      $ARGUMENTS
+
+      ## Codebase Context
+      $baseline-scan.output
+      $context-scan.output
+
+      ## Classify Into:
+
+      1. **Path** (which architecture to use):
+         - `QUICK` — Simple 2-3 node workflow, no human gates, direct transform
+         - `STANDARD` — Multi-phase workflow with proven Archon template as base
+
+      2. **Soul Mode** (voice and context):
+         - `Soul-Rich` — Needs Allenix brand voice (loads media-voice.md), "blood on the floor" language
+         - `Soul-Neutral` — Data-only, analytical, no brand loading
+
+      3. **Business Pattern** (what kind of workflow this is):
+         - `content-synthesis` — Transform source material into content (posts, docs, briefs)
+         - `analysis-audit` — Analyze data and produce audit/report
+         - `simple-transform` — Direct input → output transformation
+         - `classification-routing` — Classify input, route to different handlers
+         - `research-synthesis` — Research topic + synthesize findings
+         - `outreach-sequence` — Generate outreach messages (email, SMS, LinkedIn)
+
+      4. **Complexity** (for model selection):
+         - `trivial` — Haiku sufficient
+         - `small` — Sonnet sufficient
+         - `medium` — Opus recommended
+         - `large` — Opus with fresh_context
+
+      5. **Base Template** (for STANDARD path only):
+         - Which Archon template to use as base (see TEMPLATES.md):
+         - archon-feature-development, archon-plan-to-pr, archon-interactive-prd,
+           archon-piv-loop, archon-smart-pr-review, etc.
+
+      6. **Workflow Name** (kebab-case):
+         - Short, descriptive name: e.g., "content-engine", "deal-closer", "audit-generator"
+
+      Provide structured output following the schema below.
+    model: haiku
+    allowed_tools: []
+    output_format:
+      type: object
+      properties:
+        path:
+          type: string
+          enum: ["QUICK", "STANDARD"]
+        soul_mode:
+          type: string
+          enum: ["Soul-Rich", "Soul-Neutral"]
+        business_pattern:
+          type: string
+          enum: ["content-synthesis", "analysis-audit", "simple-transform", "classification-routing", "research-synthesis", "outreach-sequence"]
+        complexity:
+          type: string
+          enum: ["trivial", "small", "medium", "large"]
+        base_template:
+          type: string
+        workflow_name:
+          type: string
+      required: [path, soul_mode, business_pattern, complexity, base_template, workflow_name]
+    depends_on: [baseline-scan, context-scan]
+
+  - id: classify-gate
+    approval:
+      message: |
+        ## Classification Review
+
+        **Path:** $classify.output.path
+        **Soul Mode:** $classify.output.soul_mode
+        **Business Pattern:** $classify.output.business_pattern
+        **Complexity:** $classify.output.complexity
+        **Base Template:** $classify.output.base_template
+        **Workflow Name:** $classify.output.workflow_name
+
+        **Options:**
+        - "approve" to continue
+        - "change [field] to [value]" to modify
+        - "start over" to reclassify
+      capture_response: true
+      on_reject:
+        max_attempts: 3
+    depends_on: [classify]
+
+  # ============================================================
+  # PHASE 3: ROUTE & GENERATE
+  # ============================================================
+
+  # --- QUICK PATH (simple 2-3 node workflows) ---
+
+  - id: quick-generate
+    prompt: |
+      You are generating a QUICK workflow — simple, direct, 2-3 nodes maximum.
+
+      ## Intent
+      - **Name**: $classify.output.workflow_name
+      - **Soul Mode**: $classify.output.soul_mode
+      - **Business Pattern**: $classify.output.business_pattern
+      - **Complexity**: $classify.output.complexity
+
+      ## User Request
+      $ARGUMENTS
+
+      ## QUICK Workflow Rules
+      - Maximum 3 nodes
+      - No approval gates (human-in-the-loop not needed)
+      - Direct: load → process → output
+      - If Soul-Rich: first node loads brand_context/allenix-media/media-voice.md
+
+      ## Archon Workflow YAML Schema
+
+      ```yaml
+      name: workflow-name
+      description: |
+        Use when: [when to use this workflow]
+        Triggers: [phrases that match]
+        Does: [what it accomplishes]
+        NOT for: [exclusions]
+
+      provider: claude
+      model: sonnet  # or haiku for trivial complexity
+
+      nodes:
+        - id: node-id-kebab-case
+          prompt: "..."  # or bash:, command:, script:
+
+        - id: next-node
+          prompt: "..."
+          depends_on: [node-id]
+      ```
+
+      ## Output
+      Write the complete workflow YAML as plain text (no markdown formatting).
+      Return ONLY the YAML content.
+    depends_on: [classify-gate]
+    when: "$classify-gate.output == 'approve' && $classify.output.path == 'QUICK'"
+    denied_tools: [Write, Bash]
+    model: sonnet
+
+  # --- STANDARD PATH (multi-phase with template base) ---
+
+  - id: read-base-template
+    bash: |
+      BASE_TEMPLATE="$classify.output.base_template"
+
+      if [ -n "$BASE_TEMPLATE" ] && [ -f "../archon/.archon/workflows/defaults/${BASE_TEMPLATE}.yaml" ]; then
+        echo "=== BASE TEMPLATE: ${BASE_TEMPLATE}.yaml ==="
+        cat "../archon/.archon/workflows/defaults/${BASE_TEMPLATE}.yaml"
+      elif [ -f "../archon/.archon/workflows/defaults/archon-feature-development.yaml" ]; then
+        echo "=== DEFAULT TEMPLATE: archon-feature-development.yaml ==="
+        cat "../archon/.archon/workflows/defaults/archon-feature-development.yaml"
+      else
+        echo "=== NO TEMPLATE FOUND ==="
+        echo "Proceeding with custom design based on intent."
+      fi
+    timeout: 10000
+    depends_on: [classify-gate]
+    when: "$classify-gate.output == 'approve' && $classify.output.path == 'STANDARD'"
+
+  - id: standard-customize
+    prompt: |
+      You are adapting an Archon proven template for a Magnolia business workflow.
+
+      ## Intent
+      - **Name**: $classify.output.workflow_name
+      - **Soul Mode**: $classify.output.soul_mode
+      - **Business Pattern**: $classify.output.business_pattern
+      - **Complexity**: $classify.output.complexity
+      - **Base Template**: $classify.output.base_template
+
+      ## User Request
+      $ARGUMENTS
+
+      ## Base Template Reference
+      $read-base-template.output
+
+      ## Business Workflow Customization Rules
+
+      1. **Soul-Rich workflows** must:
+         - Load brand context: brand_context/allenix-media/media-voice.md
+         - Use "blood on the floor" language in analysis
+         - Include agentic verification before final output
+         - Reference content pillars where relevant
+
+      2. **Soul-Neutral workflows** must:
+         - Skip brand loading
+         - Focus on data accuracy and completeness
+         - Use structured output (output_format) for transforms
+
+      3. **Business pattern adaptations**:
+         - **content-synthesis**: Load source → Extract → Synthesize → Verify → Output
+         - **analysis-audit**: Load data → Analyze → Quantify → Report
+         - **classification-routing**: Classify → Route → Handle → Synthesize
+         - **research-synthesis**: Research → Extract → Synthesize → Cite
+         - **outreach-sequence**: Load context → Draft → Verify → Output
+
+      4. **Keep template structure** but:
+         - Rename nodes to reflect business purpose
+         - Adjust prompts for business domain
+         - Add brand-loading node if Soul-Rich
+         - Simplify technical gates for business users
+
+      ## Archon Workflow YAML Schema (Reference)
+
+      ```yaml
+      name: workflow-name
+      description: |
+        Use when: ...
+        Triggers: ...
+        Does: ...
+        NOT for: ...
+
+      provider: claude
+      model: sonnet
+      interactive: true  # Required if using approval gates
+
+      nodes:
+        - id: node-id
+          prompt: "..."
+          depends_on: [other-node]
+          when: "$other-node.output == 'value'"
+          trigger_rule: all_success  # all_success | one_success | all_done
+          context: fresh  # fresh session vs shared context
+      ```
+
+      ## Output
+      Write the complete workflow YAML as plain text (no markdown formatting).
+      Return ONLY the YAML content.
+    depends_on: [read-base-template]
+    denied_tools: [Write, Bash]
+    model: sonnet
+
+  # ============================================================
+  # PHASE 4: VALIDATE
+  # ============================================================
+
+  - id: validate-yaml-syntax
+    bash: |
+      # Check we have YAML output from generation
+      if [ "$classify.output.path" == "QUICK" ]; then
+        GENERATED="$quick-generate.output"
+      else
+        GENERATED="$standard-customize.output"
+      fi
+
+      if [ -z "$GENERATED" ]; then
+        echo "ERROR: No YAML generated"
+        exit 1
+      fi
+
+      # Basic YAML structure checks
+      if ! echo "$GENERATED" | grep -q "^name:"; then
+        echo "ERROR: missing 'name:' field"
+        exit 1
+      fi
+
+      if ! echo "$GENERATED" | grep -q "^nodes:"; then
+        echo "ERROR: missing 'nodes:' field"
+        exit 1
+      fi
+
+      # Check for duplicate node IDs
+      NODE_IDS=$(echo "$GENERATED" | grep "^  - id:" | awk '{print $3}' | sort | uniq -d)
+      if [ -n "$NODE_IDS" ]; then
+        echo "ERROR: duplicate node IDs: $NODE_IDS"
+        exit 1
+      fi
+
+      # Store for next phase
+      echo "$GENERATED" > "$ARTIFACTS_DIR/generated-workflow.yaml"
+
+      echo "VALID"
+    timeout: 10000
+    depends_on: [quick-generate, standard-customize]
+    trigger_rule: one_success
+
+  - id: validate-archon-schema
+    prompt: |
+      Validate the generated workflow against Archon schema requirements.
+
+      Read: $ARTIFACTS_DIR/generated-workflow.yaml
+
+      Check:
+      1. name: field exists and is kebab-case
+      2. description: follows "Use when / Triggers / Does / NOT for" pattern
+      3. nodes: array exists
+      4. Each node has unique id in kebab-case
+      5. Each node has exactly one of: prompt, bash, command, script, loop, approval
+      6. depends_on references are valid (node exists)
+      7. when: conditions reference valid node outputs
+      8. If interactive: true, approval nodes exist
+      9. output_format on prompt nodes is valid JSON schema
+
+      Return:
+      - "PASS: [brief confirmation]" if all checks pass
+      - "FAIL: [specific issue]" if any check fails
+    model: haiku
+    allowed_tools: [Read]
+    depends_on: [validate-yaml-syntax]
+    when: "$validate-yaml-syntax.output == 'VALID'"
+
+  - id: validate-allenix-patterns
+    prompt: |
+      Validate against Allenix-specific patterns.
+
+      Read: $ARTIFACTS_DIR/generated-workflow.yaml
+
+      ## Context
+      - **Soul Mode**: $classify.output.soul_mode
+      - **Business Pattern**: $classify.output.business_pattern
+
+      Check:
+      1. If Soul-Rich: workflow loads brand_context/allenix-media/media-voice.md
+      2. Node IDs are kebab-case (not camelCase or snake_case)
+      3. Command references match .archon/commands/*.md naming
+      4. No hardcoded paths outside project structure
+      5. Output descriptions reference business outcomes, not technical details
+
+      Return:
+      - "PASS: [brief confirmation]" if all checks pass
+      - "FAIL: [specific issue]" if any check fails
+    model: haiku
+    allowed_tools: [Read]
+    depends_on: [validate-archon-schema]
+
+  - id: handle-validation-failure
+    cancel:
+      message: |
+        ## Validation Failed
+
+        **YAML Syntax:** $validate-yaml-syntax.output
+        **Archon Schema:** $validate-archon-schema.output
+        **Allenix Patterns:** $validate-allenix-patterns.output
+
+        Please fix the issues and try again.
+    depends_on: [validate-allenix-patterns]
+    when: "$validate-archon-schema.output =~ '^FAIL' || $validate-allenix-patterns.output =~ '^FAIL'"
+
+  # ============================================================
+  # PHASE 5: HUMAN GATE (Business-Friendly)
+  # ============================================================
+
+  - id: summarize-for-review
+    prompt: |
+      Create a plain-English summary of the workflow for business user review.
+
+      Read: $ARTIFACTS_DIR/generated-workflow.yaml
+
+      ## Context
+      - **Workflow Name**: $classify.output.workflow_name
+      - **Soul Mode**: $classify.output.soul_mode
+      - **Business Pattern**: $classify.output.business_pattern
+      - **Complexity**: $classify.output.complexity
+
+      Create a summary with these sections:
+
+      ### What This Workflow Does
+      [2-3 sentences in plain English. No technical terms. What problem does it solve?]
+
+      ### What You Provide
+      [What input does the user give? Examples: "call notes", "prospect name", "document to analyze"]
+
+      ### What You Get
+      [What output does the user receive? Be specific: "LinkedIn post draft", "audit report with findings", "outreach sequence"]
+
+      ### How It Works
+      [Brief step-by-step. Max 5 steps. Use business language, not technical.]
+
+      ### Checkpoints
+      [List any human review gates. If none, say "Runs autonomously — no human review needed."]
+
+      ### Estimated Time
+      [Quick estimate: "2-3 minutes", "5-10 minutes", or "Varies by input size"]
+
+      Keep it concise. A non-technical business owner should understand exactly what this workflow does.
+    model: sonnet
+    allowed_tools: [Read]
+    depends_on: [validate-allenix-patterns]
+    when: "$validate-archon-schema.output =~ '^PASS' && $validate-allenix-patterns.output =~ '^PASS'"
+
+  - id: review-gate
+    approval:
+      message: |
+        ## Workflow Ready for Review
+
+        $summarize-for-review.output
+
+        ---
+
+        **Your Options:**
+        - "approve" — Save this workflow
+        - "show me the YAML" — View the technical details
+        - "change [specific thing]" — Request a modification
+        - "start over" — Scrap this and begin again
+
+        What would you like to do?
+      capture_response: true
+      on_reject:
+        max_attempts: 3
+    depends_on: [summarize-for-review]
+
+  - id: show-yaml
+    prompt: |
+      Read and display the full workflow YAML.
+
+      Read: $ARTIFACTS_DIR/generated-workflow.yaml
+
+      Display the complete YAML file with syntax highlighting.
+    allowed_tools: [Read]
+    depends_on: [review-gate]
+    when: "$review-gate.output == 'show me the YAML' || $review-gate.output == 'show yaml' || $review-gate.output == 'yaml'"
+
+  # ============================================================
+  # PHASE 6: SAVE
+  # ============================================================
+
+  - id: save-workflow
+    bash: |
+      # Create workflows directory if needed
+      mkdir -p workflows/
+
+      # Write the validated workflow
+      cat > "workflows/$WORKFLOW_NAME.yaml" << 'YAML_EOF'
+      $GENERATED_YAML
+      YAML_EOF
+
+      echo "SAVED"
+    timeout: 5000
+    depends_on: [review-gate]
+    when: "$review-gate.output == 'approve' || $review-gate.output == 'approved'"
+    env:
+      WORKFLOW_NAME: $classify.output.workflow_name
+      GENERATED_YAML: |
+        $quick-generate.output
+        $standard-customize.output
+
+  - id: check-commands
+    prompt: |
+      Check the generated workflow YAML for any `command:` nodes that reference .archon/commands/ files.
+
+      Read: workflows/$classify.output.workflow_name.yaml
+
+      List each `command:` reference and check if the corresponding file exists at .archon/commands/<name>.md
+
+      Return JSON:
+      ```json
+      {
+        "commands": [
+          {"name": "command-name", "exists": true},
+          {"name": "another-command", "exists": false}
+        ]
+      }
+      ```
+
+      If no command nodes exist, return: `{"commands": []}`
+    model: haiku
+    output_format:
+      type: object
+      properties:
+        commands:
+          type: array
+          items:
+            type: object
+            properties:
+              name: {type: string}
+              exists: {type: boolean}
+    allowed_tools: [Read]
+    depends_on: [save-workflow]
+    when: "$save-workflow.output == 'SAVED'"
+
+  - id: create-commands
+    prompt: |
+      For each command that doesn't exist, create a template .archon/commands/<name>.md file.
+
+      From the check:
+      $check-commands.output
+
+      For each command where exists == false:
+
+      1. Use Bash to ensure .archon/commands/ directory exists: `mkdir -p .archon/commands/`
+
+      2. Create the file using Write tool with this template:
+
+      ```markdown
+      ---
+      description: One-line description of what this command does
+      argument-hint: What the user should provide as input
+      ---
+
+      # <Command Name> Command
+
+      You are a specialized agent for: [purpose of this command]
+
+      ## Input
+      `$ARGUMENTS` contains the user's input.
+
+      ## Output
+      [Describe what this command produces]
+
+      ## Variables Available
+      - `$ARGUMENTS` — user input
+      - `$<nodeId>.output` — outputs from previous nodes in the workflow
+      - `$ARTIFACTS_DIR` — working directory for artifacts
+      ```
+
+      Report: List of command files created, or "All command files already exist."
+    depends_on: [check-commands]
+    when: "$check-commands.output.commands ANY exists == false || $check-commands.output.commands != []"
+    denied_tools: [Edit]
+
+  - id: completion-summary
+    prompt: |
+      Create a completion summary for the user. Plain English, celebratory tone.
+
+      ## Workflow Details
+      - **Name**: $classify.output.workflow_name
+      - **Soul Mode**: $classify.output.soul_mode
+      - **Business Pattern**: $classify.output.business_pattern
+      - **Path**: $classify.output.path
+
+      ## File Location
+      workflows/$classify.output.workflow_name.yaml
+
+      ## How to Run
+      ```bash
+      archon workflow run $classify.output.workflow_name --branch <branch-name> "<your-input>"
+      ```
+
+      ## What It Does
+      [2-3 sentence summary based on the workflow's description field]
+
+      ## What You Provide
+      [Based on trigger phrases and first node]
+
+      ## What You Get
+      [Based on final output nodes]
+
+      ## Next Steps
+      1. Test with: `archon validate workflows $classify.output.workflow_name`
+      2. Run a trial with sample input
+      3. Add to trigger router if needed for auto-detection
+
+      ## Commands Created
+      [From $create-commands.output or "None"]
+
+      Keep it concise and exciting. The user just created something powerful.
+    model: sonnet
+    depends_on: [save-workflow, create-commands]
+    when: "$save-workflow.output == 'SAVED'"
