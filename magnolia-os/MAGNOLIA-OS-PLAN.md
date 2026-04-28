@@ -56,9 +56,21 @@ Magnolia OS is the **internal engine and client-facing platform** for Allenix. P
 - The human only reviews output that has passed the automated QC layer.
 
 ### 4. The Workflow Architect (Meta-System)
-- A consultative meta-workflow (`magnolia-workflow-architect.yaml`) that builds other workflows.
-- **Discovery First**: AI asks requirements questions (Inputs/Outputs/Mission/Context/Checkpoints/Tools/Efficiency) before generating code.
-- **3-Layer Check System**: 
+- **Forge Workflow** (`system/forge-workflow.yaml`): Creates new business workflows with human-in-the-loop gates.
+  - Adaptive scanning (ask which folders to scan)
+  - Classification into QUICK vs STANDARD paths
+  - Business pattern matching (content-synthesis, analysis-audit, etc.)
+  - Soul mode selection (Soul-Rich for brand voice, Soul-Neutral for data)
+  - Template-based generation with Archon proven patterns
+  - Multi-stage validation (syntax → schema → patterns)
+  - Business-friendly review gate (plain English, not YAML)
+- **Refine Workflow** (`/refine-workflow` skill): Improves existing workflows with targeted iterations.
+  - Load and analyze existing workflow
+  - Propose changes with diff view
+  - Apply with approval
+  - Validate after changes
+- **Discovery First**: AI asks requirements questions before generating.
+- **3-Layer Check System**:
     1. Structural Check (Human approves node sequence).
     2. Quality/Brand Check (Agentic Verifier runs automatically).
     3. Assembly Check (Technical syntax validation).
@@ -88,6 +100,8 @@ Magnolia OS is the **internal engine and client-facing platform** for Allenix. P
 - [x] **Approval UX**: Polished UI in Next.js for human-in-the-loop review.
 - [x] **Streaming Status**: Real-time progress logs in the dashboard.
 - [ ] **Thin Archon Wrapper UI**: Simple landing page with tenant selector, branding, and link to Archon's native UI.
+- [x] **Forge Workflow**: Meta-workflow for creating new business workflows.
+- [x] **Refine Workflow**: Skill for improving existing workflows.
 
 ### Sprint 3: Full Custom Dashboard
 **Goal**: Build complete Magnolia OS workflow command center.
@@ -135,9 +149,18 @@ Magnolia OS is the **internal engine and client-facing platform** for Allenix. P
 │           ├── /context-guard.ts     # Brand intelligence injection
 │           └── /db                  # PostgreSQL client
 ├── /workflows             # YAML definitions (Internal + Client-specific)
+│   ├── /system            # Meta workflows
+│   │   ├── forge-workflow.yaml    # Create new workflows
+│   │   └── validator.yaml         # Validate workflows
+│   ├── README.md          # Workflow documentation
+│   ├── TEMPLATES.md       # 20 proven Archon patterns
+│   └── BACKLOG.md         # Workflows to rebuild
+├── /.claude
+│   └── /skills
+│       └── refine-workflow        # Improve existing workflows
 ├── /brand_context         # .md Intelligence files (The Allenix "Soul")
 └── /supabase              # DB Migrations
 ```
 
 ---
-**Last Updated**: 2025-04-26 (Sync with Proto-build v1)
+**Last Updated**: 2026-04-27 (Added forge-workflow and refine-workflow skill)

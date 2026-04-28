@@ -11,6 +11,11 @@ archon workflow run system/forge-workflow --branch create-<name> "<description>"
 
 **Improve an existing workflow:**
 ```bash
+/refine-workflow workflows/<name>.yaml "<feedback>"
+```
+
+Or if using Archon CLI:
+```bash
 archon skill run refine-workflow "workflows/<name>.yaml" "<feedback>"
 ```
 
@@ -30,13 +35,17 @@ archon workflow run <workflow-name> --branch <branch> "<input>"
 ## What's Here
 
 ```
-workflows/
-├── README.md          # This file
-├── BACKLOG.md         # Workflows to rebuild (early attempts)
-├── TEMPLATES.md       # 20 proven Archon workflow patterns
-└── system/            # Meta workflows
-    ├── forge-workflow.yaml    # Create new workflows
-    └── validator.yaml         # Validate workflows
+magnolia-os/
+├── .claude/
+│   └── skills/
+│       └── refine-workflow/    # Improve existing workflows
+├── workflows/
+│   ├── README.md               # This file
+│   ├── BACKLOG.md              # Workflows to rebuild (early attempts)
+│   ├── TEMPLATES.md            # 20 proven Archon workflow patterns
+│   └── system/                 # Meta workflows
+│       ├── forge-workflow.yaml # Create new workflows
+│       └── validator.yaml      # Validate workflows
 ```
 
 ## System Workflows
@@ -75,6 +84,37 @@ Validates workflow YAML for syntax, structure, and compliance.
 ```bash
 archon workflow run system/validator --branch validate-my-workflow "workflows/my-workflow.yaml"
 ```
+
+## Skills
+
+### Refine Workflow (refine-workflow)
+Improves existing workflows with targeted iterations.
+
+**When to use:**
+- Workflow broke on edge case
+- Need to add new node or feature
+- Output format needs changing
+- Speed or reliability issues
+- Integration with new tool/API
+
+**Common refinements:**
+- Add edge case handling with classification
+- Add verification node to catch hallucinations
+- Load brand context for voice consistency
+- Optimize model selection (Haiku for simple tasks)
+- Add human gates at critical checkpoints
+
+**Usage:**
+```bash
+/refine-workflow workflows/content-engine.yaml "
+The workflow hallucinates statistics. Add a verification node
+that checks all claims against the source transcript.
+"
+```
+
+**Difference from Forge:**
+- **Forge** creates new workflows from scratch
+- **Refine** iterates on existing workflows
 
 ## Decision Tree
 
